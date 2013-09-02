@@ -5,7 +5,7 @@
   .icon-list
     .icon-list--item
       =image_tag('marker1.png')
-      Wahllokal
+      = "Wahllokal (#{@without_wheelchair_stations.count})"
     .icon-list--item
       =image_tag('marker2.png')
-      Rollstuhlgerechtes Wahllokal
+      = "Rollstuhlgerechtes Wahllokal (#{@with_wheelchair_stations.count})"

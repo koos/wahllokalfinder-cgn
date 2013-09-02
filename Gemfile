@@ -26,6 +26,7 @@ gem 'pry-debugger'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 gem 'compass-rails', github: 'milgner/compass-rails', branch: 'rails4'
+gem 'rails_12factor', group: :production
 
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
