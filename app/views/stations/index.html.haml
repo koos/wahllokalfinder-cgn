@@ -3,9 +3,11 @@
 .legend
   %h1 Wahllokalfinder
   .icon-list
-    .icon-list--item
-      =image_tag('marker1.png')
-      = "Wahllokal (#{@without_wheelchair_stations.count})"
-    .icon-list--item
-      =image_tag('marker2.png')
-      = "Rollstuhlgerechtes Wahllokal (#{@with_wheelchair_stations.count})"
+    - if @without_wheelchair_stations.any?
+      .icon-list--item
+        = image_tag('marker1.png')
+        = "Wahllokal (#{@without_wheelchair_stations.count})"
+    - if @with_wheelchair_stations.any?
+      .icon-list--item
+        = image_tag('marker2.png')
+        = "Rollstuhlgerechtes Wahllokal (#{@with_wheelchair_stations.count})"
