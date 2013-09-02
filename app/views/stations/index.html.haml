@@ -1,4 +1,4 @@
-#map{data: { wheelchair_stations: @with_wheelchair_stations.map{|s| {name: s.name, geo: [s.longitude, s.latitude]}}.to_json, without_wheelchair_stations: @without_wheelchair_stations.map{|s| {name: s.name, geo: [s.longitude, s.latitude]}}.to_json}}
+#map{data: { wheelchair_stations: @with_wheelchair_stations.map{|s| {number: s.vote_district_id, street: s.address, name: s.name, geo: [s.longitude, s.latitude]}}.to_json, without_wheelchair_stations: @without_wheelchair_stations.map{|s| {number: s.vote_district_id, street: s.address, name: s.name, geo: [s.longitude, s.latitude]}}.to_json}}
 
 .legend
   %h1 Wahllokalfinder
