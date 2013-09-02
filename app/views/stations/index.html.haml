@@ -1,0 +1,11 @@
+#map{data: { wheelchair_stations: @with_wheelchair_stations.map{|s| {name: s.name, geo: [s.longitude, s.latitude]}}.to_json, without_wheelchair_stations: @without_wheelchair_stations.map{|s| {name: s.name, geo: [s.longitude, s.latitude]}}.to_json}}
+
+.legend
+  %h1 Wahllokalfinder
+  .icon-list
+    .icon-list--item
+      =image_tag('marker1.png')
+      Wahllokal
+    .icon-list--item
+      =image_tag('marker2.png')
+      Rollstuhlgerechtes Wahllokal

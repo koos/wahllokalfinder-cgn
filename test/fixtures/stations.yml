@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  vote_district_id: 1
+  name: MyString
+  address: MyString
+  barrier_free: false
+  district: MyString
+  zip: MyString
+  koor_x: 1.5
+  koor_y: 1.5
+  vote_district: MyString
+  local_election_district_id: 1
+  landtag_election_district_id: 1
+  bundestag_election_district_id: 1
+
+two:
+  vote_district_id: 1
+  name: MyString
+  address: MyString
+  barrier_free: false
+  district: MyString
+  zip: MyString
+  koor_x: 1.5
+  koor_y: 1.5
+  vote_district: MyString
+  local_election_district_id: 1
+  landtag_election_district_id: 1
+  bundestag_election_district_id: 1

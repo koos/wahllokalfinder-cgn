@@ -1,0 +1,9 @@
+.search
+  .skyline
+    = image_tag('skyline.png')
+  .search-header
+    %h2 Wahlbezirksnummer
+    = form_tag stations_path, method: :get do
+      = text_field_tag :number, params[:number], placeholder: '123456'
+      %button{type: 'submit'}
+        =image_tag('pfeil.png')
