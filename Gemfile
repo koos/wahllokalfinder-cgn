@@ -22,11 +22,16 @@ gem 'coffee-rails', '~> 4.0.0'
 # admin
 gem 'rails_admin'
 gem 'leaflet-rails'
-gem 'pry-debugger'
+# gem 'pry-debugger'
+# use byebug with ruby 2.*
+gem 'byebug'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
-gem 'compass-rails', github: 'milgner/compass-rails', branch: 'rails4'
+gem 'compass-rails'
 gem 'rails_12factor', group: :production
+
+gem 'geocoder'
+gem 'smarter_csv'
 
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'

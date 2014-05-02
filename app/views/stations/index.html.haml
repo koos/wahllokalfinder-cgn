@@ -1,13 +1,25 @@
-#map{data: { wheelchair_stations: @with_wheelchair_stations.map{|s| {number: s.vote_district_id, street: s.address, name: s.name, geo: [s.longitude, s.latitude]}}.to_json, without_wheelchair_stations: @without_wheelchair_stations.map{|s| {number: s.vote_district_id, street: s.address, name: s.name, geo: [s.longitude, s.latitude]}}.to_json}}
+.headline
+  %h2
+    WAHLLOKALFINDER #KÖLN
 
-.legend
-  %h1 Wahllokalfinder
-  .icon-list
-    - if @without_wheelchair_stations.any?
-      .icon-list--item
-        = image_tag('marker1.png')
-        = "Wahllokal (#{@without_wheelchair_stations.count})"
-    - if @with_wheelchair_stations.any?
-      .icon-list--item
-        = image_tag('marker2.png')
-        = "Rollstuhlgerechtes Wahllokal (#{@with_wheelchair_stations.count})"
+#search-wrapper
+  #search.box
+    %h2 WAHLBEZIRKSNUMMER
+    = form_tag stations_path, method: :get do
+      = text_field_tag :number, params[:number], placeholder: '123456'
+      %button{type: 'submit'}
+        %i.fa.fa-chevron-circle-right
+
+  #slogan.box
+    %h2 Finde DEIN WAHLLOKAL in Köln mit unserem Wahllokalfinder!
+
+  #logo.box
+    = image_tag asset_path('logo.png')
+
+#footer
+  = link_to "http://www.koeln.de/", target: '_blank' do
+    = image_tag asset_path('ksta.png')
+  = link_to "http://www.railslove.com/", target: '_blank' do
+    = image_tag asset_path('railslove.png')
+
+#map{data: { wheelchair_stations: @with_wheelchair_stations.map{|s| {number: s.vote_district_id, street: s.address, name: s.name, geo: [s.latitude, s.longitude]}}.to_json, without_wheelchair_stations: @without_wheelchair_stations.map{|s| {number: s.vote_district_id, street: s.address, name: s.name, geo: [s.latitude, s.longitude]}}.to_json}}
