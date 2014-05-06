@@ -16,6 +16,7 @@ h2
   font-size: 40px
   color: #fff
   margin: 0
+  +transition(font-size 0.5s)
 
 #map
   width: 100%
@@ -30,6 +31,7 @@ h2
   width: 100%
   text-align: center
   background-color: rgba(49, 238, 191, 0.75)
+  +transition(top 0.5s)
   h2
     +text-shadow(0 0 5px rgba(0,0,0,0.3))
 
@@ -46,6 +48,7 @@ h2
     width: 390px
     background-color: $transparent-bg
     text-align: center
+    +transition(width 0.5s)
 
   #search
     padding-bottom: 20px
@@ -62,6 +65,7 @@ h2
       display: inline-block
       width: 300px
       font-family: "Lekton"
+      +transition(width 0.5s)
     button
       background: transparent
       border: 0px
@@ -74,13 +78,14 @@ h2
         line-height: 18px
   #slogan
     margin-top: 25px
-    height: 100px
     h2
       font-size: 25px
       padding: 10px 15px 15px 15px
+    .not-found
+      display: none
 
   #slogan:after
-    margin-top: 1px
+    // margin-top: 1px
     left: 50%
     border: solid transparent
     content: " "
@@ -104,7 +109,7 @@ h2
   right: 20px
   background-color: $transparent-bg
   img
-    padding: 10px 10px
+    padding: 10px
     display: block
     margin: 0 auto
 
@@ -113,3 +118,45 @@ h2
   color: #aaa !important
   &.leaflet-disabled
     color: #000 !important
+
+@media screen and (max-width: 450px)
+  .headline
+    top: 0%
+    h2
+      font-size: 18px
+  #search-wrapper
+    top: 15%
+    #search.box
+      h2
+        font-size: 15px
+    #slogan
+      margin-top: 10px
+      h2
+        font-size: 11px
+    .box
+      width: 210px
+    #search
+      input
+        width: 110px
+        font-size: 15px
+        line-height: 15px
+        padding: 4px 12px
+      button
+        font-size: 15px
+        margin-left: -40px
+        i
+          line-height: 8px
+    #logo
+      margin-top: 35px
+      img
+        width: 65px
+  #footer
+    right: 10px
+    img
+      max-width: 50px
+      padding: 5px 5px 0px 5px
+    img.smaller
+      max-width: 25px
+  .leaflet-control-container
+    .leaflet-top.leaflet-left
+      display: none !important

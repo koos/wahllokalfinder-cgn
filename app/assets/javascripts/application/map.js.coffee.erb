@@ -23,17 +23,67 @@ $ ->
     }).addTo(map)
 
     points = []
+    markers = []
 
     for result in wheelchair_stations
-      marker = L.marker(result.geo, { icon: wheel_chair }).addTo(map)
+      marker = L.marker(result.geo, { icon: wheel_chair, station_id: result.number })
       marker.bindPopup("<img src='<%= image_path('rollstuhl.png')%>' style='margin-right:10px;float:left'><h3>#{result.number}</h3>#{result.name}<br>#{result.street}")
       points.push result.geo
+      markers.push marker
 
     for result in non_wheel_chair_stations
-      marker = L.marker(result.geo, { icon: normal }).addTo(map)
+      marker = L.marker(result.geo, { icon: normal, station_id: result.number })
       marker.bindPopup("<h3>#{result.number}</h3>#{result.name}<br>#{result.street}")
       points.push result.geo
+      markers.push marker
 
-    map.fitBounds(points)
-    # map.setView([51.505, -0.09], 13)
+    markersGroup = L.layerGroup markers
+    markersGroup.addTo(map)
+
+    if points.length > 0
+      map.fitBounds(points)
+    else
+      map.setView([50.938056, 6.956944], 13)
     # map.fitWorld()
+
+    validMarkers = []
+    validMarkersGroup = L.layerGroup []
+    $('form').on 'submit', map, (event) ->
+      event.preventDefault()
+      number = parseInt $('form input#number').val()
+      if isNaN(number)
+        resetAllLayers()
+      else
+        validMarkers = []
+        for marker in markers
+          if marker.options.station_id == number
+            validMarkers.push marker
+        if validMarkers.length > 0
+          newPos = $('.headline').position().top + $('headline').height() + 90
+          $('#search-wrapper').animate({ top: newPos })
+          $('#slogan').fadeOut()
+          $('#logo').fadeOut()
+          markersGroup.clearLayers()
+          validMarkersGroup = L.layerGroup validMarkers
+          validMarkersGroup.addTo(map)
+          map.setView validMarkers[0]._latlng, 20
+          console.log validMarkers
+          for marker in validMarkers
+            marker.openPopup()
+        else
+          notFound()
+
+  resetAllLayers = ->
+    validMarkersGroup.clearLayers()
+    markersGroup.clearLayers()
+    validMarkers = []
+    markersGroup = L.layerGroup markers
+    markersGroup.addTo map
+    map.fitBounds points
+
+  notFound = ->
+    $('#slogan .slogan').hide()
+    $('#slogan .not-found').show()
+    $('#logo').fadeIn()
+    $('#slogan').fadeIn()
+    resetAllLayers()

@@ -5,21 +5,24 @@
 #search-wrapper
   #search.box
     %h2 WAHLBEZIRKSNUMMER
-    = form_tag stations_path, method: :get do
+    = form_tag '#' do
       = text_field_tag :number, params[:number], placeholder: '123456'
       %button{type: 'submit'}
         %i.fa.fa-chevron-circle-right
 
   #slogan.box
-    %h2 Finde DEIN WAHLLOKAL in Köln mit unserem Wahllokalfinder!
+    %h2.slogan Finde DEIN WAHLLOKAL in Köln mit unserem Wahllokalfinder!
+    %h2.not-found Kein passendes Wahllokal gefunden.
 
   #logo.box
     = image_tag asset_path('logo.png')
 
 #footer
   = link_to "http://www.koeln.de/", target: '_blank' do
+    = image_tag asset_path('koeln.png')
+  = link_to "http://www.ksta.de/", target: '_blank' do
     = image_tag asset_path('ksta.png')
   = link_to "http://www.railslove.com/", target: '_blank' do
-    = image_tag asset_path('railslove.png')
+    = image_tag asset_path('railslove.png'), class: 'smaller'
 
 #map{data: { wheelchair_stations: @with_wheelchair_stations.map{|s| {number: s.vote_district_id, street: s.address, name: s.name, geo: [s.latitude, s.longitude]}}.to_json, without_wheelchair_stations: @without_wheelchair_stations.map{|s| {number: s.vote_district_id, street: s.address, name: s.name, geo: [s.latitude, s.longitude]}}.to_json}}
