@@ -61,6 +61,7 @@ $ ->
         if validMarkers.length > 0
           newPos = $('.headline').position().top + $('headline').height() + 90
           $('#search-wrapper').animate({ top: newPos })
+          $('.box').animate({ 'margin-left': 30 })
           $('#slogan').fadeOut()
           $('#logo').fadeOut()
           markersGroup.clearLayers()
