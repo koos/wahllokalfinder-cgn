@@ -22,6 +22,11 @@ gem 'coffee-rails', '~> 4.0.0'
 # admin
 gem 'rails_admin'
 gem 'leaflet-rails'
+
+# caching
+gem 'memcachier'
+gem 'dalli'
+
 # gem 'pry-debugger'
 # use byebug with ruby 2.*
 gem 'byebug'
