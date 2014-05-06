@@ -60,15 +60,14 @@ $ ->
             validMarkers.push marker
         if validMarkers.length > 0
           newPos = $('.headline').position().top + $('headline').height() + 90
-          $('#search-wrapper').animate({ top: newPos })
-          $('.box').animate({ 'margin-left': 30 })
           $('#slogan').fadeOut()
           $('#logo').fadeOut()
+          $('#search-wrapper').animate({ top: newPos })
+          $('.box').animate({ 'margin-left': 30 })
           markersGroup.clearLayers()
           validMarkersGroup = L.layerGroup validMarkers
           validMarkersGroup.addTo(map)
           map.setView validMarkers[0]._latlng, 20
-          console.log validMarkers
           for marker in validMarkers
             marker.openPopup()
         else
