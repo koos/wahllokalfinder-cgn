@@ -61,11 +61,11 @@ $ ->
           if marker.options.station_id == number
             validMarkers.push marker
         if validMarkers.length > 0
-          newPos = $('.headline').position().top + $('headline').height() + 90
+          newPos = $('.headline').position().top + $('headline').height()
           $('#slogan').fadeOut()
           $('#logo').fadeOut()
           $('#search-wrapper').animate({ top: newPos })
-          $('.box').animate({ 'margin-left': 30 })
+          $('.box').animate({ 'margin-left': 30, 'margin-top': 30 })
           markersGroup.clearLayers()
           validMarkersGroup = L.layerGroup validMarkers
           validMarkersGroup.addTo(map)
