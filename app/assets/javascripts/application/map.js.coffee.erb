@@ -19,7 +19,9 @@ $ ->
 
     L.tileLayer('http://{s}.tiles.mapbox.com/v3/yoyostile.i4lma974/{z}/{x}/{y}.png', {
         # attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a></a>',
-        maxZoom: 16
+        attribution: "<a href='https://www.mapbox.com/about/maps/' target='_blank'>Maps &copy; Mapbox &copy; OpenStreetMap</a>",
+        maxZoom: 16,
+        detectRetina: true
     }).addTo(map)
 
     points = []
