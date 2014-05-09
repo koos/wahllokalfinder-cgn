@@ -88,6 +88,10 @@ GEM
     nokogiri (1.6.0)
       mini_portile (~> 0.5.0)
     pg (0.16.0)
+    pg_search (0.7.3)
+      activerecord (>= 3.1)
+      activesupport (>= 3.1)
+      arel
     polyglot (0.3.3)
     rack (1.5.2)
     rack-pjax (0.7.0)
@@ -179,6 +183,7 @@ DEPENDENCIES
   leaflet-rails
   memcachier
   pg
+  pg_search
   rails (= 4.0.0)
   rails_12factor
   rails_admin

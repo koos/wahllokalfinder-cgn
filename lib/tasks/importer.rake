@@ -53,4 +53,9 @@ namespace :import do
       pp s.name
     end
   end
+
+  task addresses: :environment do
+    addresses = SmarterCSV.process("doc/adressen.csv")
+    addresses.each { |a| ad = Address.create a; pp ad.id; }
+  end
 end

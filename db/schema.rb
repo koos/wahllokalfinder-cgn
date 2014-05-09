@@ -11,10 +11,27 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140502095221) do
+ActiveRecord::Schema.define(version: 20140509130822) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "addresses", force: true do |t|
+    t.text     "street"
+    t.integer  "number_odd_from"
+    t.integer  "number_odd_to"
+    t.integer  "number_even_from"
+    t.integer  "number_even_to"
+    t.integer  "district_nr"
+    t.string   "district_name"
+    t.integer  "zip"
+    t.integer  "vote_district_id"
+    t.integer  "local_election_district_id"
+    t.integer  "landtag_election_district_id"
+    t.integer  "bundestag_election_district_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "stations", force: true do |t|
     t.integer  "vote_district_id"

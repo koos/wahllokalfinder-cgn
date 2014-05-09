@@ -8,4 +8,9 @@ class StationsController < ApplicationController
        Station.where('latitude IS NOT NULL').where(barrier_free: true)
     }
   end
+
+  def search
+    render json: Address.search(params[:q]).first
+  end
+
 end
