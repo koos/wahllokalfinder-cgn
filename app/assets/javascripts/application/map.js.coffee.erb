@@ -71,7 +71,7 @@ $ ->
           if data && data.vote_district_id != undefined
             showStation data.vote_district_id
           else
-            notFound()
+            notFound("Bitte geben sie Straße, Hausnummer sowie Postleitzahl an.")
       else
         showStation number
 
@@ -109,8 +109,10 @@ $ ->
     markersGroup.addTo map
     map.fitBounds points
 
-  notFound = ->
+  notFound = (text) ->
+    text = if text != '' then text else 'Kein passendes Wahllokal gefunden.'
     $('#slogan .slogan').hide()
+    $('#slogan .not-found').html(text)
     $('#slogan .not-found').show()
     # $('#logo').fadeIn()
     $('#slogan').fadeIn()
