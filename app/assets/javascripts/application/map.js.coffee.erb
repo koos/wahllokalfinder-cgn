@@ -75,17 +75,18 @@ $ ->
       else
         showStation number
 
+  $('.leaflet-marker-icon').on 'click', (e) ->
+    moveBoxes();
+
   showStation = (number) ->
     validMarkers = []
     for marker in markers
       if marker.options.station_id == number
         validMarkers.push marker
     if validMarkers.length > 0
-      newPos = $('.headline').position().top + $('headline').height()
       $('#slogan').hide()
       # $('#logo').fadeOut()
-      $('#search-wrapper').animate({ top: newPos })
-      $('#search-wrapper .box').animate({ 'margin-left': 30, 'margin-top': 30 })
+      moveBoxes()
       markersGroup.clearLayers()
       validMarkersGroup = L.layerGroup validMarkers
       validMarkersGroup.addTo(map)
@@ -94,6 +95,11 @@ $ ->
         marker.openPopup()
     else
       notFound()
+
+  moveBoxes = ->
+    newPos = $('.headline').position().top + $('headline').height()
+    $('#search-wrapper').animate({ top: newPos })
+    $('#search-wrapper .box').animate({ 'margin-left': 30, 'margin-top': 30 })
 
   resetAllLayers = ->
     validMarkersGroup.clearLayers()
