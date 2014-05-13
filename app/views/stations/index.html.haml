@@ -4,9 +4,10 @@
 
 #search-wrapper
   #search.box
-    %h2 WAHLBEZIRKSNUMMER
+    %h2
+      WAHLBEZIRKSNUMMER / ADRESSE
     = form_tag '#' do
-      = text_field_tag :number, params[:number], placeholder: '123456'
+      = text_field_tag :number, params[:number], placeholder: 'Eifelstr. 10, 50677'
       %button{type: 'submit'}
         %i.fa.fa-chevron-circle-right
 
@@ -15,7 +16,8 @@
     %h2.not-found Kein passendes Wahllokal gefunden.
 
   #logo.box
-    = image_tag asset_path('logo.png')
+    = link_to root_path do
+      = image_tag asset_path('logo.png')
 
 #footer
   = link_to "http://www.koeln.de/", target: '_blank' do

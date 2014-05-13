@@ -29,13 +29,26 @@ $ ->
 
     for result in wheelchair_stations
       marker = L.marker(result.geo, { icon: wheel_chair, station_id: result.number })
-      marker.bindPopup("<img src='<%= image_path('rollstuhl.png')%>' style='margin-right:10px;float:left'><h3>#{result.number}</h3>#{result.name}<br>#{result.street}")
+      pop = L.popup({ 'className': 'box' }).setContent(
+        "<img src='<%= image_path('rollstuhl.png')%>' style='margin-left:10px;float:right'>
+        <h3>Wahllokalnummer: #{result.number}</h3>
+        Gebäude: #{result.name}
+        <br>
+        Adresse: #{result.street}"
+      )
+      marker.bindPopup(pop)
       points.push result.geo
       markers.push marker
 
     for result in non_wheel_chair_stations
       marker = L.marker(result.geo, { icon: normal, station_id: result.number })
-      marker.bindPopup("<h3>#{result.number}</h3>#{result.name}<br>#{result.street}")
+      pop = L.popup({ 'className': 'box' }).setContent(
+        "<h3>Wahllokalnummer: #{result.number}</h3>
+        Gebäude: #{result.name}
+        <br>
+        Adresse: #{result.street}"
+      )
+      marker.bindPopup(pop)
       points.push result.geo
       markers.push marker
 
@@ -54,26 +67,33 @@ $ ->
       event.preventDefault()
       number = parseInt $('form input#number').val()
       if isNaN(number)
-        resetAllLayers()
+        $.get 'search?q=' + $('form input#number').val(), (data) ->
+          if data && data.vote_district_id != undefined
+            showStation data.vote_district_id
+          else
+            notFound()
       else
-        validMarkers = []
-        for marker in markers
-          if marker.options.station_id == number
-            validMarkers.push marker
-        if validMarkers.length > 0
-          newPos = $('.headline').position().top + $('headline').height()
-          $('#slogan').fadeOut()
-          $('#logo').fadeOut()
-          $('#search-wrapper').animate({ top: newPos })
-          $('.box').animate({ 'margin-left': 30, 'margin-top': 30 })
-          markersGroup.clearLayers()
-          validMarkersGroup = L.layerGroup validMarkers
-          validMarkersGroup.addTo(map)
-          map.setView validMarkers[0]._latlng, 20
-          for marker in validMarkers
-            marker.openPopup()
-        else
-          notFound()
+        showStation number
+
+  showStation = (number) ->
+    validMarkers = []
+    for marker in markers
+      if marker.options.station_id == number
+        validMarkers.push marker
+    if validMarkers.length > 0
+      newPos = $('.headline').position().top + $('headline').height()
+      $('#slogan').hide()
+      # $('#logo').fadeOut()
+      $('#search-wrapper').animate({ top: newPos })
+      $('#search-wrapper .box').animate({ 'margin-left': 30, 'margin-top': 30 })
+      markersGroup.clearLayers()
+      validMarkersGroup = L.layerGroup validMarkers
+      validMarkersGroup.addTo(map)
+      map.setView validMarkers[0]._latlng, 20
+      for marker in validMarkers
+        marker.openPopup()
+    else
+      notFound()
 
   resetAllLayers = ->
     validMarkersGroup.clearLayers()
@@ -86,6 +106,6 @@ $ ->
   notFound = ->
     $('#slogan .slogan').hide()
     $('#slogan .not-found').show()
-    $('#logo').fadeIn()
+    # $('#logo').fadeIn()
     $('#slogan').fadeIn()
     resetAllLayers()
