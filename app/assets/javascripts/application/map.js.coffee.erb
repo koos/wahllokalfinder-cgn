@@ -114,6 +114,12 @@ $ ->
     $('#slogan .slogan').hide()
     $('#slogan .not-found').html(text)
     $('#slogan .not-found').show()
+    $('#slogan .not-found').animate({
+      color: "#ff0000"
+    }, 300 ).animate({
+      color: "#fff"
+    }, 600 );
     # $('#logo').fadeIn()
     $('#slogan').fadeIn()
-    resetAllLayers()
+    if validMarkers.length > 0
+      resetAllLayers()
