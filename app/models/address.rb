@@ -11,6 +11,9 @@ class Address < ActiveRecord::Base
   def self.search(search_string)
     zip = search_string.match(/\d{5}/).to_a.try(:first)
     nr = search_string.match(/(\d+\w?)/).to_a.try(:first).to_i
+    unless search_string[(search_string.index(nr.to_s) - 1)] == " "
+      search_string.insert((search_string.index(nr.to_s)), " ")
+    end
     return [] unless zip && nr
     scope = Address.where(zip: zip).search_by_street(search_string)
     if nr % 2 == 0
