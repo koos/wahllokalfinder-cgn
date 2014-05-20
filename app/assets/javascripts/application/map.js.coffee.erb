@@ -123,3 +123,7 @@ $ ->
     $('#slogan').fadeIn()
     if validMarkers.length > 0
       resetAllLayers()
+
+  $('#logo a').on 'click', ->
+    $('#search-wrapper form').submit()
+
