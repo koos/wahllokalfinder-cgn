@@ -9,6 +9,7 @@ class Address < ActiveRecord::Base
                   }
 
   def self.search(search_string)
+    search_string = search_string.gsub('straße', 'str')
     zip = search_string.match(/\d{5}/).to_a.try(:first)
     nr = search_string.match(/(\d+\w?)/).to_a.try(:first).to_i
     if nr != 0 && search_string[(search_string.index(nr.to_s).to_i - 1)] != " "
@@ -16,6 +17,7 @@ class Address < ActiveRecord::Base
     end
     return [] unless zip && nr
     scope = Address.where(zip: zip).search_by_street(search_string)
+    raise 'bla'
     if nr % 2 == 0
       scope.where("number_even_from <= ? AND number_even_to >= ?", nr, nr)
     else
