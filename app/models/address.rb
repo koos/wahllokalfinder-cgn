@@ -11,7 +11,7 @@ class Address < ActiveRecord::Base
   def self.search(search_string)
     zip = search_string.match(/\d{5}/).to_a.try(:first)
     nr = search_string.match(/(\d+\w?)/).to_a.try(:first).to_i
-    unless search_string[(search_string.index(nr.to_s) - 1)] == " "
+    if nr != 0 && search_string[(search_string.index(nr.to_s).to_i - 1)] != " "
       search_string.insert((search_string.index(nr.to_s)), " ")
     end
     return [] unless zip && nr
