@@ -71,6 +71,7 @@ $ ->
           if data && data.vote_district_id != undefined
             showStation data.vote_district_id
           else
+            ga('send', 'event', 'search', 'error', $('form input#number').val())
             notFound("Bitte geben sie Straße, Hausnummer sowie Postleitzahl an.")
       else
         showStation number
@@ -91,9 +92,11 @@ $ ->
       validMarkersGroup = L.layerGroup validMarkers
       validMarkersGroup.addTo(map)
       map.setView validMarkers[0]._latlng, 20
+      ga('send', 'event', 'search', 'success')
       for marker in validMarkers
         marker.openPopup()
     else
+      ga('send', 'event', 'search', 'error', number)
       notFound()
 
   moveBoxes = ->
