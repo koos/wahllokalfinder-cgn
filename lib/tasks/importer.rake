@@ -53,13 +53,13 @@ namespace :import do
         station[:barrier_free] = station[:barrier_free] == "J" ? true : false
         station[:address] = "#{station[:address_street]} #{station[:address_nr]} #{station[:address_nr_note]}, #{station[:zip]} #{station[:full_address]}"
         s = Station.create station.except(:address_nr, :address_nr_note, :address_street)
-        pp "Splitted Vote District: #{s.name}, #{s.vote_district_id}"
+        p "Splitted Vote District: #{s.name}, #{s.vote_district_id}"
       end
     end
   end
 
   task addresses: :environment do
     addresses = SmarterCSV.process("doc/adressen.csv")
-    addresses.each { |a| ad = Address.create a; pp ad.id; }
+    addresses.each { |a| ad = Address.create a; p ad.id; }
   end
 end
