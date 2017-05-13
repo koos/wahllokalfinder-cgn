@@ -28,4 +28,4 @@
     Ermöglicht mit Daten von
     = image_tag asset_path('koeln.png')
 
-#map{data: { wheelchair_stations: @with_wheelchair_stations.map{|s| {number: s.vote_district_id, street: s.address, name: s.name, geo: [s.latitude, s.longitude]}}.to_json, without_wheelchair_stations: @without_wheelchair_stations.map{|s| {number: s.vote_district_id, street: s.address, name: s.name, geo: [s.latitude, s.longitude]}}.to_json}}
+#map{data: { wheelchair_stations: @with_wheelchair_stations.map{|s| {number: s.vote_district_id, street: s.address, name: s.name, phone: s.phone, geo: [s.latitude, s.longitude]}}.to_json, without_wheelchair_stations: @without_wheelchair_stations.map{|s| {number: s.vote_district_id, street: s.address, name: s.name, phone: s.phone, geo: [s.latitude, s.longitude]}}.to_json}}
