@@ -40,6 +40,7 @@ gem 'rails_12factor', group: :production
 
 gem 'geocoder'
 gem 'smarter_csv'
+gem 'rack-tracker'
 
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 # gem 'turbolinks'

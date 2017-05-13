@@ -94,6 +94,10 @@ GEM
       rack (>= 1.1)
     rack-test (0.6.3)
       rack (>= 1.0)
+    rack-tracker (1.1.0)
+      activesupport (>= 3.0)
+      rack (>= 1.4)
+      tilt (>= 1.4)
     rails (4.0.0)
       actionmailer (= 4.0.0)
       actionpack (= 4.0.0)
@@ -173,6 +177,7 @@ DEPENDENCIES
   memcachier
   pg
   pg_search
+  rack-tracker
   rails (= 4.0.0)
   rails_12factor
   rails_admin
