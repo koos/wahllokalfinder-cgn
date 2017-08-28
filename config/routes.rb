@@ -1,10 +1,9 @@
 Wahllokalfinder::Application.routes.draw do
-  resources :stations
 
-  mount RailsAdmin::Engine => '/admin', :as => 'rails_admin'
+  mount RailsAdmin::Engine => '/admin', as: 'rails_admin'
 
   root 'stations#index'
-
+  get '/:city_name' => 'stations#city', as: 'city'
   get 'search' => 'stations#search'
 
 end
