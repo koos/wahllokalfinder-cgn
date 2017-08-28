@@ -1,0 +1,476 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+50226;Aachener Straße;549;721;532;744;Frechen;23;;;91
+50226;Aachener Straße;507;509;570A;570A;Frechen;4;;;91
+50226;Adam-Schall-Straße;1;59;16;106;Frechen;5;;;91
+50226;Adam-Schall-Straße;61;117;;;Frechen;6;;;91
+50226;Adam-Stegerwald-Straße;1;17;2;14;Frechen;18;;;91
+50226;Adolf-Vogt-Straße;1;7;2;24;Frechen;21;;;91
+50226;Adolph-Kolping-Straße;1;21;4;20;Frechen;10;;;91
+50226;Aegidiusstraße;15;79;2;74;Frechen;6;;;91
+50226;Ahornweg;23;23;30;56;Frechen;7;;;91
+50226;Ahornweg;1;15;6;24;Frechen;9;;;91
+50226;Ahrendgäßchen;3;19;4;18;Frechen;12;;;91
+50226;Akazienweg;3;9;2;8;Frechen;9;;;91
+50226;Albert-Einstein-Straße;;;2;12;Frechen;8;;;91
+50226;Albert-Schweitzer-Straße;1;35;6;38;Frechen;10;;;91
+50226;Alfred-Nobel-Straße;1;51;28;52;Frechen;17;;;91
+50226;Allee zum Sportpark;21;33;2;54;Frechen;10;;;91
+50226;Alte Aachener Straße;1;5;2;6;Frechen;23;;;91
+50226;Alte Bachstraße;1;27;4;30;Frechen;18;;;91
+50226;Alte Landstraße;1;35;2;24;Frechen;12;;;91
+50226;Alte Straße;225;251;224;248;Frechen;10;;;91
+50226;Alte Straße;1;221;34;212;Frechen;11;;;91
+50226;Am Apostelhof;1;73;8;68;Frechen;5;;;91
+50226;Am Bitzenkamp;1;67;2;34;Frechen;19;;;91
+50226;Am Buschacker;3;15;4;16;Frechen;23;;;91
+50226;Am Dachsbau;1;29;2;22;Frechen;20;;;91
+50226;Am Hang;3;45;2;34;Frechen;12;;;91
+50226;Am Haus Broich;1;9;;;Frechen;19;;;91
+50226;Am Judenbroich;1;19;2;20;Frechen;15;;;91
+50226;Am Kaninsberg;1;21;2;56;Frechen;3;;;91
+50226;Am Kapellchen;3;17;6;14;Frechen;1;;;91
+50226;Am Lindchen;1;53;2;32;Frechen;8;;;91
+50226;Am Rinnenfeld;;;2;56;Frechen;12;;;91
+50226;Am Rittersberg;;;2;72;Frechen;12;;;91
+50226;Am Römerbrunnen;1;9;2;32;Frechen;3;;;91
+50226;Am Sartoriushof;9;39;2;26;Frechen;5;;;91
+50226;Am Sportplatz;;;4;4;Frechen;2;;;91
+50226;Am Stollenweg;1;27;2;28;Frechen;15;;;91
+50226;Am Wasserturm;1;59;10;30;Frechen;13;;;91
+50226;Am Weiher;1;29;2;92;Frechen;3;;;91
+50226;Am Weingartsberg;1;25;2;10;Frechen;5;;;91
+50226;Am Weyerhof;5;17;2;28;Frechen;17;;;91
+50226;Am Windmühlenfeld;1;25;2;20;Frechen;4;;;91
+50226;Am Zehnthof;5;27;14;36;Frechen;5;;;91
+50226;Am Ziegelfeld;1;17;4;20;Frechen;23;;;91
+50226;Ammerstraße;1;31;2;2;Frechen;21;;;91
+50226;Amphorenhof;1;3;6;16;Frechen;3;;;91
+50226;Amselstraße;1;5;2;10;Frechen;21;;;91
+50226;An St. Severin;1;25;;;Frechen;12;;;91
+50226;An St.Maria Königin;13;27;2;24;Frechen;7;;;91
+50226;An der Fischmaar;13;51;12;38;Frechen;8;;;91
+50226;An der Fließ;21;21;8;8;Frechen;18;;;91
+50226;An der Fließ;1;9;;;Frechen;19;;;91
+50226;An der Holzhecke;1;19;2;22;Frechen;19;;;91
+50226;An der Kemp;;;16;24;Frechen;6;;;91
+50226;An der Mergelskaul;1;79;2;38;Frechen;8;;;91
+50226;An der Ronne;1;31;2;18;Frechen;3;;;91
+50226;An der Synagoge;3;3;;;Frechen;14;;;91
+50226;An der Vogtei;3;35;2;62;Frechen;5;;;91
+50226;An der Waidmaar;1;49;2;82;Frechen;8;;;91
+50226;An der Ziegelei;1;3;2;12;Frechen;17;;;91
+50226;Angerweg;1;37;2;18;Frechen;4;;;91
+50226;Antoniterstraße;;;2;18;Frechen;14;;;91
+50226;Antoniusstraße;3;53;2;28;Frechen;22;;;91
+50226;Arnikastraße;3;21;2;12;Frechen;7;;;91
+50226;Arno-Klose-Straße;1;7;4;14;Frechen;18;;;91
+50226;Auenweg;1;1;2;16;Frechen;7;;;91
+50226;Auf dem Kreuzacker;1;21;2;12;Frechen;17;;;91
+50226;Auf dem Rotental;1;51;2;64;Frechen;4;;;91
+50226;Auf der Breide;1;9;2;16;Frechen;10;;;91
+50226;Augustinusstraße;11;33;10;54;Frechen;23;;;91
+50226;B.-A.-Zimmermann-Straße;1;37;2;44;Frechen;4;;;91
+50226;Bachemer Straße;;;4;10;Frechen;18;;;91
+50226;Badstraße;3;15;2;14;Frechen;22;;;91
+50226;Bahnstraße;9;21;6;22;Frechen;14;;;91
+50226;Barbarastraße;1;63;2;60;Frechen;15;;;91
+50226;Bartmannstraße;61;99;42;94;Frechen;9;;;91
+50226;Bartmannstraße;23;43;6;38;Frechen;11;;;91
+50226;Baumannstraße;1;19;6;14;Frechen;6;;;91
+50226;Baumschulenstraße;7;35;8;54;Frechen;3;;;91
+50226;Beethovenstraße;1;23;2;12;Frechen;21;;;91
+50226;Benzelrather Straße;1;35;2;12;Frechen;21;;;91
+50226;Bergstraße;5;73;2;16;Frechen;4;;;91
+50226;Bernhard-Letterhaus-Str;1;27;2;50;Frechen;20;;;91
+50226;Bertha-von-Suttner-Straße;1;19;2;6;Frechen;10;;;91
+50226;Beyerhahnstraße;1;19;2;20;Frechen;23;;;91
+50226;Birkenweg;1;17;2;12;Frechen;8;;;91
+50226;Blindgasse;47;53;6;46;Frechen;10;;;91
+50226;Blumenstraße;1;25;2;20;Frechen;21;;;91
+50226;Bongenbergstraße;1;11;2;12;Frechen;21;;;91
+50226;Bonnstraße;3;9;;;Frechen;17;;;91
+50226;Brahmsstraße;1;17;2;8;Frechen;21;;;91
+50226;Brauweilerstraße;1;31;;;Frechen;3;;;91
+50226;Breite Straße;1;81;2;104;Frechen;17;;;91
+50226;Breslauer Straße;1;11;2;8;Frechen;22;;;91
+50226;Broichgasse;1;37;2;32;Frechen;12;;;91
+50226;Brucknerstraße;1;15;2;16;Frechen;21;;;91
+50226;Brunnenallee;1;145;2;106;Frechen;3;;;91
+50226;Brückenstraße;1;29;;;Frechen;5;;;91
+50226;Buchenweg;1;15;2;58;Frechen;9;;;91
+50226;Bungertweg;1;11;2;12;Frechen;8;;;91
+50226;Burggraben;17;25;4;16;Frechen;19;;;91
+50226;Burghofstraße;9;61;0;80;Frechen;5;;;91
+50226;Burgstraße;1;33;2;26;Frechen;14;;;91
+50226;Burgstraße;39;65;30;64;Frechen;15;;;91
+50226;Bükersberg;1;9;2;18;Frechen;22;;;91
+50226;Camphausenstraße;1;27;;;Frechen;4;;;91
+50226;Carl-Benz-Straße;1;7;;;Frechen;8;;;91
+50226;Carl-Goerdeler-Straße;17;43;20;90;Frechen;20;;;91
+50226;Carl-Goerdeler-Straße;1;11;4;16;Frechen;18;;;91
+50226;Carl-Sutor-Straße;;;12;82;Frechen;13;;;91
+50226;Carl-v.-Linne-Straße;1;79;2;98;Frechen;3;;;91
+50226;Christian-Beu-Straße;3;17;2;12;Frechen;5;;;91
+50226;Christian-Mörs-Straße;1;1;2;6;Frechen;11;;;91
+50226;Christine-Plück-Str.;3;7;2;16;Frechen;17;;;91
+50226;Clarenbergweg;3;81;2;32;Frechen;18;;;91
+50226;Danziger Straße;1;53;2;16;Frechen;13;;;91
+50226;Dechant-Hansen-Allee;5;39;6;16;Frechen;2;;;91
+50226;Dohlenweg;1;9;2;8;Frechen;2;;;91
+50226;Dolomitstraße;1;41;2;62;Frechen;4;;;91
+50226;Dornhaustraße;1;3;2;16;Frechen;21;;;91
+50226;Dr.-Gottfr.-Cremer-Allee;31;31;;;Frechen;17;;;91
+50226;Dr.-Schultz-Straße;1;33;2;32;Frechen;15;;;91
+50226;Dr.-Schultz-Straße;37;53;;;Frechen;16;;;91
+50226;Dr.-Toll-Straße;1;53;12;36;Frechen;16;;;91
+50226;Dr.-Tusch-Straße;1;3;2;10;Frechen;14;;;91
+50226;Dr.-Tusch-Straße;5;33;28;38;Frechen;11;;;91
+50226;Dr.-Vetter-Straße;1;13;2;28;Frechen;21;;;91
+50226;Drosselstraße;1;11;2;12;Frechen;21;;;91
+50226;Dürener Straße;7;101;6;52;Frechen;12;;;91
+50226;Dürerstraße;1;81;6;78;Frechen;3;;;91
+50226;Dürling;5;17;2;20;Frechen;5;;;91
+50226;Efeuweg;1;3;2;24;Frechen;4;;;91
+50226;Eichelhäherweg;1;17;4;4;Frechen;2;;;91
+50226;Eisenhutweg;3;19;;;Frechen;7;;;91
+50226;Elchweg;1;1;2;18;Frechen;1;;;91
+50226;Elisabethstraße;55;163;32;80;Frechen;8;;;91
+50226;Elisabethstraße;9;49;4;30;Frechen;17;;;91
+50226;Elisenhof;1;23;2;16;Frechen;22;;;91
+50226;Ellernbende;;;2;46;Frechen;19;;;91
+50226;Elsa-Brändström-Straße;3;29;4;38;Frechen;10;;;91
+50226;Elsternstraße;1;43;14;38;Frechen;1;;;91
+50226;Enzianweg;1;15;2;8;Frechen;7;;;91
+50226;Ermlandstraße;1;11;2;16;Frechen;13;;;91
+50226;Ernst-Heinr.-Geist-Straße;;;12;28;Frechen;17;;;91
+50226;Europaallee;1;115;38;54;Frechen;17;;;91
+50226;F.-v.-Bodelschwingh-Weg;1;15;4;28;Frechen;10;;;91
+50226;Farnweg;1;7;4;8;Frechen;4;;;91
+50226;Fasanenweg;1;17;2;8;Frechen;2;;;91
+50226;Feldhof;1;5;4;6;Frechen;19;;;91
+50226;Feltenstraße;1;1;;;Frechen;18;;;91
+50226;Fingerhutweg;1;19;6;36;Frechen;7;;;91
+50226;Finkenstraße;1;7;2;8;Frechen;21;;;91
+50226;Fliederweg;1;7;2;16;Frechen;7;;;91
+50226;Forststraße;3;7;4;10;Frechen;23;;;91
+50226;Franz-Hennes-Straße;1;59;2;34;Frechen;14;;;91
+50226;Franz-Lenders-Straße;1;61;2;88;Frechen;1;;;91
+50226;Franzstraße;1;89;2;98;Frechen;14;;;91
+50226;Frechener Straße;13;115;6;8;Frechen;21;;;91
+50226;Freiheitsring;;;116;142;Frechen;10;;;91
+50226;Freiheitsring;1;85;6;110;Frechen;9;;;91
+50226;Freiligrathstraße;1;21;2;30;Frechen;2;;;91
+50226;Freimersdorfer Weg;1;11;0;4;Frechen;1;;;91
+50226;Fridtjof-Nansen-Straße;3;41;4;68;Frechen;10;;;91
+50226;Friedenstraße;9;87;8;88;Frechen;9;;;91
+50226;Friedrich-Ebert-Straße;1;31;10;54;Frechen;2;;;91
+50226;Friedrichstraße;1;23;2;16;Frechen;9;;;91
+50226;Fritz-Zumpe-Straße;1;11;2;18;Frechen;4;;;91
+50226;Funkenstraße;3;49;2;68;Frechen;14;;;91
+50226;Försterstraße;3;3;8;10;Frechen;19;;;91
+50226;Fürstenbergstraße;47;119;4;124;Frechen;19;;;91
+50226;Gartenweg;1;21;;;Frechen;9;;;91
+50226;Gedingstraße;5;23;6;24;Frechen;5;;;91
+50226;Geibelstraße;1;13;2;14;Frechen;22;;;91
+50226;Geldernstraße;3;17;2;44;Frechen;18;;;91
+50226;Gemsenweg;1;9;2;6;Frechen;1;;;91
+50226;Georg-Felber-Gasse;3;3;;;Frechen;22;;;91
+50226;Georgstraße;1;19;2;40;Frechen;21;;;91
+50226;Gerhart-Hauptmann-Straße;5;7;2;10;Frechen;13;;;91
+50226;Gertrud-Schmitz-Straße;1;23;4;10;Frechen;12;;;91
+50226;Geschw.-Schieffer-Straße;1;11;6;10;Frechen;23;;;91
+50226;Ginsterbergstraße;3;21;2;14;Frechen;22;;;91
+50226;Gisbertstraße;5;25;;;Frechen;12;;;91
+50226;Gleueler Straße;11;21;8;72;Frechen;20;;;91
+50226;Goethestraße;1;17;2;20;Frechen;21;;;91
+50226;Gottlieb-Daimler-Straße;3;3;10;10;Frechen;8;;;91
+50226;Grachtenhofstraße;1;75;4;74;Frechen;18;;;91
+50226;Grefrather Weg;1;51;22;62;Frechen;13;;;91
+50226;Gregor-Mendel-Straße;1;49;2;74;Frechen;3;;;91
+50226;Greinstraße;1;15;2;24;Frechen;1;;;91
+50226;Grüner Weg;;;2;38;Frechen;17;;;91
+50226;Grüner Weg;1;43;;;Frechen;15;;;91
+50226;Gustav-Heinemann-Straße;1;83;2;68;Frechen;3;;;91
+50226;Gut Clarenhof;1;3;2;10;Frechen;5;;;91
+50226;Gut Neuenhof;;;0;0;Frechen;8;;;91
+50226;Habbelrather Straße;5;13;2;10;Frechen;21;;;91
+50226;Habbelrather Weg;1;1;;;Frechen;22;;;91
+50226;Habichtweg;1;13;2;12;Frechen;20;;;91
+50226;Hahnstraße;1;27;2;28;Frechen;21;;;91
+50226;Hahnstraße;31;35;32;36;Frechen;22;;;91
+50226;Halfmannstraße;21;21;2;44;Frechen;6;;;91
+50226;Hambloch-Mühlen-Straße;1;31;4;36;Frechen;23;;;91
+50226;Hans-Böckler-Straße;1;13;4;14;Frechen;7;;;91
+50226;Hans-Schaeven-Weg;3;5;;;Frechen;10;;;91
+50226;Hasenweide;5;131;4;144;Frechen;11;;;91
+50226;Hauptstraße;;;12;44;Frechen;14;;;91
+50226;Hauptstraße;;;60;78;Frechen;14;;;91
+50226;Hauptstraße;;;84;218;Frechen;14;;;91
+50226;Hauptstraße;1;209;;;Frechen;11;;;91
+50226;Hauptstraße;;;48;48;Frechen;11;;;91
+50226;Hauptstraße;;;80;80;Frechen;11;;;91
+50226;Haus Radmacher;;;0;0;Frechen;21;;;91
+50226;Haus Vorst;;;0;0;Frechen;17;;;91
+50226;Haydnstraße;1;11;2;16;Frechen;22;;;91
+50226;Hebbelstraße;1;13;2;12;Frechen;22;;;91
+50226;Hegerpfad;1;1;6;6;Frechen;1;;;91
+50226;Heideweg;1;59;2;30;Frechen;4;;;91
+50226;Heidgesweg;95;121;96;122;Frechen;12;;;91
+50226;Heinrich-Hertz-Weg;1;7;2;4;Frechen;8;;;91
+50226;Heinrich-Höschler-Straße;1;87;2;60;Frechen;6;;;91
+50226;Heinrich-Imig-Straße;1;53;2;30;Frechen;18;;;91
+50226;Heinrich-Wolf-Straße;3;19;2;30;Frechen;7;;;91
+50226;Heinrichstraße;7;61;2;58;Frechen;9;;;91
+50226;Hembergstraße;1;3;4;12;Frechen;19;;;91
+50226;Hemmericher Straße;1;13;6;40;Frechen;18;;;91
+50226;Henri-Dunant-Weg;3;25;2;24;Frechen;10;;;91
+50226;Herbertskaul;1;23;2;42;Frechen;16;;;91
+50226;Hermann-Balkhausen-Straße;1;7;2;12;Frechen;15;;;91
+50226;Hermann-Gmeiner-Straße;3;3;2;6;Frechen;10;;;91
+50226;Hermann-Seger-Straße;33;33;;;Frechen;17;;;91
+50226;Hermannstraße;1;19;2;12;Frechen;21;;;91
+50226;Hildeboldstraße;1;25;2;22;Frechen;2;;;91
+50226;Hirschweg;1;19;2;18;Frechen;1;;;91
+50226;Hochstedenstraße;1;73;50;50;Frechen;17;;;91
+50226;Hohenschutzstraße;1;23;2;34;Frechen;13;;;91
+50226;Hohlweg;1;51;2;52;Frechen;2;;;91
+50226;Holbeinstraße;1;61;2;56;Frechen;2;;;91
+50226;Holunderweg;5;15;2;18;Frechen;7;;;91
+50226;Holzhausenstraße;1;87;2;40;Frechen;22;;;91
+50226;Hopfengarten;;;2;2;Frechen;6;;;91
+50226;Hubert-Prott-Straße;135;163;134;198;Frechen;19;;;91
+50226;Hubert-Prott-Straße;3;25;2;26;Frechen;17;;;91
+50226;Hubert-Prott-Straße;33;115;32;114;Frechen;15;;;91
+50226;Hubert-Thelen-Straße;1;29;2;66;Frechen;5;;;91
+50226;Händelstraße;1;15;2;6;Frechen;22;;;91
+50226;Hüchelner Straße;5;71;2;72;Frechen;17;;;91
+50226;Hüchelner Straße;73;147;80;156;Frechen;9;;;91
+50226;Hüttenweg;1;23;2;4;Frechen;23;;;91
+50226;Ichendorfer Weg;1;11;2;36;Frechen;13;;;91
+50226;Im Bachgarten;9;19;2;16;Frechen;14;;;91
+50226;Im Flachsgarten;1;23;2;18;Frechen;6;;;91
+50226;Im Kirschgarten;1;25;2;28;Frechen;6;;;91
+50226;Im Klarenpesch;1;51;2;10;Frechen;15;;;91
+50226;Im Klosterhof;1;17;2;16;Frechen;1;;;91
+50226;Im Putzgarten;1;33;4;8;Frechen;5;;;91
+50226;Im Rosengarten;1;45;4;24;Frechen;6;;;91
+50226;Im Wingert;1;33;;;Frechen;6;;;91
+50226;Im Winkel;3;15;6;10;Frechen;7;;;91
+50226;Im Würzgarten;3;25;2;28;Frechen;6;;;91
+50226;Imbuschstraße;1;3;4;14;Frechen;18;;;91
+50226;Immanuel-Kant-Straße;1;25;2;26;Frechen;13;;;91
+50226;Immanuel-v.-Ketteler-Weg;1;19;2;22;Frechen;10;;;91
+50226;Immergrünweg;1;3;;;Frechen;7;;;91
+50226;In der Fuchshöhle;1;79;2;26;Frechen;20;;;91
+50226;J.-Heinr.-Pestalozzi-Weg;3;7;4;10;Frechen;10;;;91
+50226;Jagdfeld;3;43;4;24;Frechen;20;;;91
+50226;Jakob-Cremer-Straße;1;7;2;12;Frechen;11;;;91
+50226;Jakobstraße;1;15;2;16;Frechen;21;;;91
+50226;Joh.-Hinr.-Wichern-Straße;1;21;2;54;Frechen;10;;;91
+50226;Johann-Schmitz-Platz;9;15;2;34;Frechen;14;;;91
+50226;Johann-Simon-Straße;3;37;2;78;Frechen;16;;;91
+50226;Johannesstraße;;;2;8;Frechen;21;;;91
+50226;Johannisstraße;;;4;34;Frechen;17;;;91
+50226;Jos.-v.-Eichendorff-Weg;3;7;2;10;Frechen;13;;;91
+50226;Josefstraße;33;39;36;38;Frechen;11;;;91
+50226;Junesrothweg;1;19;2;14;Frechen;1;;;91
+50226;Jägerstraße;1;41;2;40;Frechen;12;;;91
+50226;Kamillenweg;1;31;;;Frechen;7;;;91
+50226;Kapellenstraße;1;65;42;48;Frechen;6;;;91
+50226;Kapfenberger Straße;1;119;2;48;Frechen;16;;;91
+50226;Karl-Göbels-Straße;7;9;2;20;Frechen;14;;;91
+50226;Karl-Loewe-Straße;1;25;2;14;Frechen;23;;;91
+50226;Kaskadenweg;97;97;2;30;Frechen;6;;;91
+50226;Kastanienweg;1;5;8;12;Frechen;7;;;91
+50226;Katharina-Schmitz-Straße;1;33;10;50;Frechen;10;;;91
+50226;Keimesstraße;1;65;4;52;Frechen;11;;;91
+50226;Kirchenkamp;3;39;2;78;Frechen;6;;;91
+50226;Kirchweg;5;9;;;Frechen;7;;;91
+50226;Kirschhecke;27;35;2;34;Frechen;17;;;91
+50226;Klarengrundstraße;1;29;2;28;Frechen;11;;;91
+50226;Klarengrundstraße;35;67;30;46;Frechen;9;;;91
+50226;Kleiberweg;1;19;2;10;Frechen;1;;;91
+50226;Klettenweg;3;9;6;20;Frechen;4;;;91
+50226;Klosterstraße;3;21;2;36;Frechen;21;;;91
+50226;Klosterstraße;23;91;40;80;Frechen;22;;;91
+50226;Kopernikusstraße;3;15;2;14;Frechen;13;;;91
+50226;Kranichweg;1;13;6;8;Frechen;2;;;91
+50226;Krankenhausstraße;1;3;2;10;Frechen;6;;;91
+50226;Kreuzbergstraße;3;41;2;38;Frechen;17;;;91
+50226;Kreuzstraße;3;35;2;70;Frechen;19;;;91
+50226;Kurhaustraße;1;23;2;16;Frechen;21;;;91
+50226;Kölner Straße;3;209;4;194;Frechen;17;;;91
+50226;Königsberger Straße;1;11;2;16;Frechen;22;;;91
+50226;Lahnstraße;1;37;2;54;Frechen;19;;;91
+50226;Lavendelweg;1;13;2;12;Frechen;22;;;91
+50226;Lerchenweg;1;29;2;36;Frechen;2;;;91
+50226;Lessingstraße;1;7;;;Frechen;22;;;91
+50226;Lilienstraße;1;7;2;28;Frechen;22;;;91
+50226;Lilienthalstraße;1;21;2;16;Frechen;22;;;91
+50226;Lindenbuschweg;1;103;42;104;Frechen;20;;;91
+50226;Lindenstraße;133;141;146;146;Frechen;6;;;91
+50226;Lindenstraße;7;81;4;100;Frechen;10;;;91
+50226;Linkholzweg;1;17;2;18;Frechen;21;;;91
+50226;Lochnerstraße;1;97;6;104;Frechen;2;;;91
+50226;Ludwig-Jahn-Straße;5;23;4;26;Frechen;2;;;91
+50226;Lutherstraße;3;13;2;12;Frechen;22;;;91
+50226;Lönsstraße;1;3;2;4;Frechen;22;;;91
+50226;Löwenzahnweg;;;2;36;Frechen;7;;;91
+50226;Maarhufenweg;3;9;2;20;Frechen;8;;;91
+50226;Maarweg;1;21;2;78;Frechen;8;;;91
+50226;Magdalenenhof;;;0;0;Frechen;22;;;91
+50226;Malvenweg;1;13;2;12;Frechen;7;;;91
+50226;Malzweg;1;5;2;8;Frechen;6;;;91
+50226;Margaretenstraße;1;29;2;20;Frechen;15;;;91
+50226;Marie-Curie-Straße;1;19;6;40;Frechen;10;;;91
+50226;Marie-Juchacz-Straße;1;7;;;Frechen;10;;;91
+50226;Marienburger Weg;1;9;2;8;Frechen;13;;;91
+50226;Marienhofer Weg;1;27;2;38;Frechen;23;;;91
+50226;Marienweg;1;75;2;52;Frechen;21;;;91
+50226;Marketenderstraße;1;7;2;16;Frechen;22;;;91
+50226;Masurenstraße;1;43;;;Frechen;13;;;91
+50226;Matthias-Werner-Straße;1;79;2;92;Frechen;21;;;91
+50226;Matthiasstraße;3;21;2;18;Frechen;14;;;91
+50226;Matthiasstraße;;;34;66;Frechen;15;;;91
+50226;Mauritiusstraße;1;95;4;94;Frechen;18;;;91
+50226;Mauritiusstraße;101;205;126;202;Frechen;19;;;91
+50226;Mauritiusstraße;;;54;54;Frechen;19;;;91
+50226;Maybachstraße;1;43;2;82;Frechen;8;;;91
+50226;Meisenweg;1;15;2;32;Frechen;1;;;91
+50226;Michaelstraße;1;25;2;16;Frechen;17;;;91
+50226;Minzestraße;1;59;2;76;Frechen;7;;;91
+50226;Mistelweg;1;31;2;40;Frechen;4;;;91
+50226;Moosweg;1;21;2;10;Frechen;4;;;91
+50226;Mozartstraße;1;19;2;24;Frechen;21;;;91
+50226;Mühlenbach;1;1;2;14;Frechen;14;;;91
+50226;Mühlengasse;3;27;10;34;Frechen;14;;;91
+50226;Mühlenweg;41;41;40;42;Frechen;5;;;91
+50226;Münzhof;1;11;2;10;Frechen;3;;;91
+50226;Narzissenweg;1;9;2;16;Frechen;21;;;91
+50226;Nelkenstraße;1;11;4;12;Frechen;22;;;91
+50226;Neubuschbell/AB-Rastst.;;;0;0;Frechen;5;;;91
+50226;Neuer Weg;1;1;100;106;Frechen;16;;;91
+50226;Nikolaus-Ehlen-Weg;3;21;2;18;Frechen;23;;;91
+50226;Norkstraße;5;73;2;74;Frechen;13;;;91
+50226;Oleanderweg;1;17;;;Frechen;7;;;91
+50226;Othmarstraße;5;33;36;46;Frechen;17;;;91
+50226;Otto-Hue-Straße;1;9;2;50;Frechen;18;;;91
+50226;Overbeckstraße;1;27;2;44;Frechen;4;;;91
+50226;Palantstraße;7;13;2;18;Frechen;19;;;91
+50226;Pater-Delp-Straße;1;51;2;28;Frechen;20;;;91
+50226;Paul R. Kraemer-Allee;27;107;40;110;Frechen;5;;;91
+50226;Paul-Silverberg-Straße;1;25;2;40;Frechen;18;;;91
+50226;Paulistraße;1;49;2;60;Frechen;2;;;91
+50226;Peltzerweg;1;7;2;10;Frechen;19;;;91
+50226;Peter-Pesch-Weg;1;13;2;14;Frechen;13;;;91
+50226;Pfeilstraße;3;33;16;16;Frechen;2;;;91
+50226;Philipp-Faßbender-Straße;1;17;;;Frechen;13;;;91
+50226;Philippstraße;1;17;6;36;Frechen;21;;;91
+50226;Pirolweg;1;5;2;6;Frechen;2;;;91
+50226;Platz d Deutschen Einheit;11;11;;;Frechen;14;;;91
+50226;Plettenbergstraße;3;11;2;14;Frechen;18;;;91
+50226;Quarzstraße;3;11;2;12;Frechen;4;;;91
+50226;Rebenhang;1;11;2;24;Frechen;5;;;91
+50226;Rehbergweg;1;29;;;Frechen;13;;;91
+50226;Rethelstraße;5;15;;;Frechen;4;;;91
+50226;Richard-Kuhlmann-Straße;1;41;2;28;Frechen;18;;;91
+50226;Ringelblumenweg;1;69;2;56;Frechen;7;;;91
+50226;Rinkenpfuhl;11;11;2;12;Frechen;12;;;91
+50226;Robert-Koch-Straße;1;23;2;10;Frechen;10;;;91
+50226;Rosenhof;1;31;6;30;Frechen;4;;;91
+50226;Rosenhügel;1;7;2;6;Frechen;12;;;91
+50226;Rosenstraße;1;13;4;12;Frechen;22;;;91
+50226;Rosmarhof;;;0;0;Frechen;22;;;91
+50226;Rosmarstraße;7;157;2;190;Frechen;13;;;91
+50226;Rosmarweg;1;241;;;Frechen;13;;;91
+50226;Rotdornweg;1;41;2;20;Frechen;7;;;91
+50226;Rothkampstraße;1;7;2;2;Frechen;11;;;91
+50226;Rubensstraße;1;9;2;2;Frechen;22;;;91
+50226;Rudolf-Niemann-Straße;1;13;;;Frechen;5;;;91
+50226;Rudolf-Virchow-Straße;1;1;;;Frechen;10;;;91
+50226;Rudolfstraße;3;171;2;180;Frechen;20;;;91
+50226;Römerhofallee;1;125;6;68;Frechen;3;;;91
+50226;Römerstraße;7;17;2;36;Frechen;5;;;91
+50226;Salbeiweg;1;7;;;Frechen;7;;;91
+50226;Sanddornweg;1;39;2;28;Frechen;7;;;91
+50226;Sandstraße;1;13;4;170;Frechen;12;;;91
+50226;Schachtelberghof;;;0;0;Frechen;22;;;91
+50226;Schachtelbergstraße;1;11;2;18;Frechen;22;;;91
+50226;Schallmauer;1;15;16;88;Frechen;20;;;91
+50226;Scheibenbuschstraße;1;7;2;14;Frechen;22;;;91
+50226;Schervierstraße;1;37;2;36;Frechen;1;;;91
+50226;Schildchesgraben;1;29;2;42;Frechen;22;;;91
+50226;Schillerstraße;1;15;2;14;Frechen;22;;;91
+50226;Schlehdornstraße;;;2;64;Frechen;7;;;91
+50226;Schloßstraße;21;33;4;6;Frechen;19;;;91
+50226;Schubertstraße;1;9;2;12;Frechen;22;;;91
+50226;Schulstraße;1;41;;;Frechen;6;;;91
+50226;Schumannstraße;1;15;2;10;Frechen;22;;;91
+50226;Schwalbenweg;1;61;2;22;Frechen;2;;;91
+50226;Schützenstraße;1;5;2;14;Frechen;14;;;91
+50226;Sebastian-Kneipp-Straße;1;37;6;36;Frechen;10;;;91
+50226;Sebastianusstraße;1;31;2;12;Frechen;1;;;91
+50226;Sonnenhof;;;0;0;Frechen;21;;;91
+50226;Spechtweg;1;1;4;14;Frechen;2;;;91
+50226;Sperlingsweg;1;59;2;12;Frechen;2;;;91
+50226;St.-Hubertusstraße;1;1;10;22;Frechen;1;;;91
+50226;St.-Magdalenen-Straße;1;71;2;106;Frechen;1;;;91
+50226;Starenweg;1;33;2;70;Frechen;2;;;91
+50226;Steinbergstraße;1;19;2;64;Frechen;21;;;91
+50226;Steinzeugstraße;1;17;4;52;Frechen;4;;;91
+50226;Sternengasse;1;31;32;40;Frechen;14;;;91
+50226;Stettiner Straße;1;1;2;8;Frechen;13;;;91
+50226;Stiftsanger;1;27;4;38;Frechen;6;;;91
+50226;Straße des 17. Juni;;;2;26;Frechen;15;;;91
+50226;Stresemannstraße;1;17;2;32;Frechen;9;;;91
+50226;Sybillenhof;;;0;0;Frechen;22;;;91
+50226;Talstraße;1;21;4;18;Frechen;23;;;91
+50226;Taubenstraße;1;5;4;4;Frechen;21;;;91
+50226;Theodor-Lövenich-Straße;1;17;2;12;Frechen;6;;;91
+50226;Thymianweg;1;11;2;10;Frechen;7;;;91
+50226;Tiefenbruchstraße;1;11;2;12;Frechen;22;;;91
+50226;Tiergartenstraße;1;25;4;20;Frechen;22;;;91
+50226;Toni-Ooms-Straße;5;17;6;8;Frechen;17;;;91
+50226;Tonstraße;1;31;2;70;Frechen;4;;;91
+50226;Triftweg;1;43;6;64;Frechen;1;;;91
+50226;Tulpenweg;7;15;2;12;Frechen;5;;;91
+50226;Töpfergasse;3;9;;;Frechen;12;;;91
+50226;Uesdorfer Straße;1;61;4;42;Frechen;8;;;91
+50226;Uhlandstraße;1;5;6;8;Frechen;22;;;91
+50226;Ulrichstraße;55;169;54;210;Frechen;5;;;91
+50226;Ulrichstraße;1;13;;;Frechen;6;;;91
+50226;Vellbrückstraße;1;23;2;22;Frechen;15;;;91
+50226;Villestraße;1;47;2;26;Frechen;21;;;91
+50226;Vogtsbell;1;31;2;38;Frechen;6;;;91
+50226;Vollrathstraße;11;59;4;40;Frechen;1;;;91
+50226;Von-Hasewinkel-Weg;1;91;2;42;Frechen;4;;;91
+50226;Von-Klespe-Straße;;;10;10;Frechen;13;;;91
+50226;Von-Klespe-Straße;5;19;2;8;Frechen;12;;;91
+50226;Von-Klespe-Straße;;;12;32;Frechen;12;;;91
+50226;Vorgebirgsweg;1;51;2;44;Frechen;23;;;91
+50226;W.-Conrad-Röntgen-Straße;;;2;8;Frechen;10;;;91
+50226;Wachtberghöhle;1;37;2;18;Frechen;14;;;91
+50226;Wachtelweg;1;5;2;6;Frechen;2;;;91
+50226;Wagnerstraße;1;27;2;44;Frechen;22;;;91
+50226;Waidmannsweg;;;2;22;Frechen;23;;;91
+50226;Waldmeisterweg;3;17;2;32;Frechen;7;;;91
+50226;Waldsiedlung;1;19;2;20;Frechen;23;;;91
+50226;Waldstraße;1;69;2;68;Frechen;1;;;91
+50226;Weidenpesch;11;17;0;16;Frechen;2;;;91
+50226;Welserstraße;;;4;12;Frechen;8;;;91
+50226;Werner-Erkens-Straße;1;45;2;52;Frechen;10;;;91
+50226;Widderstraße;3;53;2;34;Frechen;1;;;91
+50226;Wiesenweg;1;15;6;16;Frechen;8;;;91
+50226;Wildstraße;1;29;4;14;Frechen;1;;;91
+50226;Wilhelm-Hoffstadt-Straße;1;55;2;26;Frechen;12;;;91
+50226;Wilhelm-Leuschner-Straße;1;47;2;20;Frechen;20;;;91
+50226;Wilhelmsgrund;1;11;2;22;Frechen;22;;;91
+50226;Wimarusstraße;1;25;2;26;Frechen;19;;;91
+50226;Winand-Kaiser-Straße;1;41;2;68;Frechen;19;;;91
+50226;Winandswiese;1;25;2;60;Frechen;6;;;91
+50226;Zedernweg;5;39;2;48;Frechen;8;;;91
+50226;Zeisigweg;1;7;2;6;Frechen;2;;;91
+50226;Zum Bellerhammer;9;27;2;56;Frechen;13;;;91
+50226;Zum Kuckental;5;5;2;4;Frechen;10;;;91
+50226;Zur Mühle;1;15;2;24;Frechen;4;;;91
+50226;Zur Villa Rustica;1;9;4;22;Frechen;3;;;91
