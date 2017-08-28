@@ -1,0 +1,133 @@
+vote_district_id	name	address_street	address_nr	address_nr_note	note	zip	full_address	district	barrier_free
+1101	 Leibniz-Institut  für  Agrartechnik,  Gästehaus  des  ATB 	Max-Eyth-Allee	53			14469	Potsdam		barrierefrei
+1102	 Grundschule  In  Bornim  (11) 	 Potsdamer  Str. 	90			14469	Potsdam		 nicht  barrierefrei 
+1301	 Kita  Firlefanz 	 Nedlitzer  Holz 	12a			14469	Potsdam		barrierefrei
+1302	 Karl-Foerster-Schule  (25/26) 	Kirschallee	172			14469	Potsdam		barrierefrei
+1303	 Schulplatz  1,  Hort 	Schulplatz	1			14469	Potsdam		barrierefrei
+1304	 Karl-Foerster-Schule  (25/26) 	Kirschallee	172			14469	Potsdam		barrierefrei
+1305	 Grundschule  Im  Bornstedter  Feld  (3) 	Jakob-von-Gundling-Str.	25			14469	Potsdam		barrierefrei
+1306	 Leonardo-da-Vinci-Gesamtschule  (32) 	Esplanade	3			14469	Potsdam		barrierefrei
+1307	 Fachhochschule  Potsdam 	Kiepenheuerallee	5			14469	Potsdam		barrierefrei
+1308	 Grundschule  Im  Bornstedter  Feld  (3) 	Jakob-von-Gundling-Str.	25			14469	Potsdam		barrierefrei
+1309	 Leonardo-da-Vinci-Gesamtschule  (32) 	Esplanade	3			14469	Potsdam		barrierefrei
+1401	 Schloß  Sacrow 	 Krampnitzer  Str. 	33			14469	Potsdam		 nicht  barrierefrei 
+1501	 Kita  Wilde  Früchtchen 	Wildbirnenweg	10			14469	Potsdam		barrierefrei
+1502	 Grundschule  Ludwig  Renn  (2) 	Kaiser-Friedrich-Str.	15a			14469	Potsdam		barrierefrei
+1503	 Kita  Turmspatzen 	Kaiser-Friedrich-Str.	32			14469	Potsdam		barrierefrei
+1504	 Grundschule  Ludwig  Renn  (2) 	Kaiser-Friedrich-Str.	15a			14469	Potsdam		barrierefrei
+1601	 BAUERei  in  Grube 	Wublitzstr.	11			14469	Potsdam		 nicht  barrierefrei 
+1701	 Universität  Potsdam,  Komplex  Golm 	 Karl-Liebknecht-Str.  Golm 	24-25			14476	Potsdam		barrierefrei
+1702	 ehemaliges  Gemeindebüro  Golm 	Reiherbergstr.	31			14476	Potsdam		 nicht  barrierefrei 
+1703	 Universität  Potsdam,  Komplex  Golm 	 Karl-Liebknecht-Str.  Golm 	24-25			14476	Potsdam		barrierefrei
+2101	 Evangelische  Grundschule  Potsdam 	 Große  Weinmeisterstr. 	49			14467	Potsdam		barrierefrei
+2102	 Treffpunkt  Freizeit 	 Am  Neuen  Garten 	64			14469	Potsdam		barrierefrei
+2103	 Kita  "Vielfalt" 	Puschkinallee	14			14469	Potsdam		 nicht  barrierefrei 
+2104	 Leonardo-da-Vinci-Gesamtschule  (32) 	Esplanade	3			14469	Potsdam		barrierefrei
+2201	 Oberstufenzentrum  I  Technik 	Jägerallee	23	a		14469	Potsdam		barrierefrei
+2202	 Oberstufenzentrum  I  Technik 	Jägerallee	23	a		14469	Potsdam		barrierefrei
+2301	 Johanna-Just-Oberstufenzentrum  (III) 	 Berliner  Str. 	114			14467	Potsdam		barrierefrei
+2302	 Johanna-Just-Oberstufenzentrum  (III) 	 Berliner  Str. 	114			14467	Potsdam		barrierefrei
+3101	 Voltaire-Gesamtschule  (9) 	Lindenstr.	32			14467	Potsdam		 nicht  barrierefrei 
+3102	 Käthe-Kollwitz-Oberschule  (13) 	Clara-Zetkin-Str.	11			14471	Potsdam		 nicht  barrierefrei 
+3103	 Käthe-Kollwitz-Oberschule  (13) 	Clara-Zetkin-Str.	11			14471	Potsdam		 nicht  barrierefrei 
+3104	 Begegnungsstätte  VS  "Auf  dem  Kiewitt" 	Zeppelinstr.	163	a		14471	Potsdam		barrierefrei
+3105	 Kindertagesstätte  "Baumschule" 	Geschw.-Scholl-Str.	33	b		14471	Potsdam		barrierefrei
+3106	 Gerhart-Hauptmann-Grundschule  (12) 	Carl-v.-Ossietzky-Str.	37			14471	Potsdam		 nicht  barrierefrei 
+3107	 AWO  Schillertreff 	Schillerplatz	20			14471	Potsdam		barrierefrei
+3108	 Gerhart-Hauptmann-Grundschule  (12) 	Carl-v.-Ossietzky-Str.	37			14471	Potsdam		 nicht  barrierefrei 
+3201	 Zeppelin-Grundschule  (23) 	Haeckelstr.	74			14471	Potsdam		barrierefrei
+3202	 Zeppelin-Grundschule  (23) 	Haeckelstr.	74			14471	Potsdam		barrierefrei
+3203	 Hannah-Arendt-Gymnasium  (5) 	Haeckelstr.	72			14471	Potsdam		barrierefrei
+3204	 Hannah-Arendt-Gymnasium  (5) 	Haeckelstr.	72			14471	Potsdam		barrierefrei
+3205	 Montessori-Oberschule  (22) 	Schlüterstr.	2-4			14471	Potsdam		barrierefrei
+4101	 Einstein-Gymnasium  (54) 	Hegelallee	30			14467	Potsdam		barrierefrei
+4102	 Hermann-von-Helmholtz-Gymnasium  (4) 	Kurfürstenstr.	53			14467	Potsdam		barrierefrei
+4103	 Hermann-von-Helmholtz-Gymnasium  (4) 	Kurfürstenstr.	53			14467	Potsdam		barrierefrei
+4104	 Voltaire-Gesamtschule  (9) 	Lindenstr.	32			14467	Potsdam		 nicht  barrierefrei 
+4105	 Grundschule  "Max  Dortu"  (8) 	Dortustr.	28/29			14467	Potsdam		 nicht  barrierefrei 
+4106	 Grundschule  "Max  Dortu"  (8) 	Dortustr.	28/29			14467	Potsdam		 nicht  barrierefrei 
+4107	 Rosa-Luxemburg-Schule  (19) 	Burgstr.	23	a		14467	Potsdam		barrierefrei
+4108	 Schule  des  Zweiten  Bildungsweges  "Heinrich  von  Kleist" 	Friedrich-Ebert-Str.	17			14467	Potsdam		barrierefrei
+4109	 Schule  des  Zweiten  Bildungsweges  "Heinrich  von  Kleist" 	Friedrich-Ebert-Str.	17			14467	Potsdam		barrierefrei
+4201	 Grundschule  am  Humboldtring  (37) 	Humboldtring	15			14473	Potsdam		barrierefrei
+4202	 Grundschule  am  Humboldtring  (37) 	Humboldtring	15			14473	Potsdam		barrierefrei
+4203	 Gesamtschule  Peter  Joseph  Lenné  (38) 	Humboldtring	15-17			14473	Potsdam		barrierefrei
+4204	 Gesamtschule  Peter  Joseph  Lenné  (38) 	Humboldtring	15-17			14473	Potsdam		barrierefrei
+4205	 Haus  der  Wirtschaft 	Schlaatzweg	1			14473	Potsdam		barrierefrei
+4206	 Comenius-Schule  (53) 	Brauhausberg	10			14473	Potsdam		barrierefrei
+4207	 Comenius-Schule  (53) 	Brauhausberg	10			14473	Potsdam		barrierefrei
+5201	 Ministerium  für  Bildung,  Jugend  und  Sport  Studienseminar  Potsdam 	Karl-Marx-Str.	33-34			14482	Potsdam		barrierefrei
+5202	 Schule  am  Griebnitzsee  (33) 	Domstr.	14	b		14482	Potsdam		barrierefrei
+5203	 Schule  am  Griebnitzsee  (33) 	Domstr.	14	b		14482	Potsdam		barrierefrei
+5204	 Evangelische  Kita  "Comeniuskindergarten" 	Wichgrafstr.	27			14482	Potsdam		barrierefrei
+5205	 Grundschule  "Bruno  H.  Bürgel"  (16) 	Karl-Liebknecht-Str.	29			14482	Potsdam		 nicht  barrierefrei 
+5206	 Grundschule  "Bruno  H.  Bürgel"  (16) 	Karl-Liebknecht-Str.	29			14482	Potsdam		 nicht  barrierefrei 
+5207	 Oberlinhaus  -  Mutterhaus 	Rud.-Breitscheid-Str.	24			14482	Potsdam		barrierefrei
+5208	 Katholische  Kirche  St.  Antonius,  Pfarrsaal 	Plantagenstr.	23/24			14482	Potsdam		barrierefrei
+5301	 Berlin  Brandenburgische  Auslandsgesellschaft 	Schulstr.	8	b		14482	Potsdam		 nicht  barrierefrei 
+5302	 Goethe-Schule  (31) 	Kopernikusstr.	30			14482	Potsdam		barrierefrei
+5303	 Goethe-Schule  (31) 	Kopernikusstr.	30			14482	Potsdam		barrierefrei
+5304	 Sportplatz  Sandscholle 	Franz-Mehring-Str.	54			14482	Potsdam		barrierefrei
+5305	 Kindertagesstätte  "Sandscholle" 	Franz-Mehring-Str.	54			14482	Potsdam		barrierefrei
+5306	 Universität  Potsdam,  Komplex  III 	August-Bebel-Str.	89			14482	Potsdam		 nicht  barrierefrei 
+5307	 Institut  für  Weiterbildung 	Fritz-Zubeil-Str.	14			14482	Potsdam		barrierefrei
+5308	 Jugendherberge  Potsdam  -  Haus  der  Jugend 	Schulstr.	9			14482	Potsdam		barrierefrei
+5309	 Institut  für  Weiterbildung 	Fritz-Zubeil-Str.	14			14482	Potsdam		barrierefrei
+6101	 Cafe  "Zum  04-er" 	 Templiner  Str. 	24			14473	Potsdam		barrierefrei
+6201	 Märkische  Verlags-  u.  Druckgesellschaft  GmbH 	Friedrich-Engels-Str.	24			14473	Potsdam		barrierefrei
+6202	 Humboldt-Gymnasium  (1) 	Heinrich-Mann-Allee	103			14473	Potsdam		barrierefrei
+6203	 Internationale  Grundschule 	Ravensbergweg	30			14478	Potsdam		 nicht  barrierefrei 
+6301	 Gesamtschule  Am  Schilfhof  (49) 	Schilfhof	23-25			14478	Potsdam		barrierefrei
+6302	 Gesamtschule  Am  Schilfhof  (49) 	Schilfhof	23-25			14478	Potsdam		barrierefrei
+6303	 Gesamtschule  Am  Schilfhof  (49) 	Schilfhof	23-25			14478	Potsdam		barrierefrei
+6304	 Schule  am  Nuthetal  (10/30) 	 An  der  Alten  Zauche 	2	c		14478	Potsdam		 nicht  barrierefrei 
+6305	 Bürgerhaus  am  Schlaatz 	Schilfhof	28			14478	Potsdam		barrierefrei
+6306	 Schulen  u.  Wohnheim  mit  sonderpäd.  Förderschwerpunkt 	Bisamkiez	107-111			14478	Potsdam		barrierefrei
+6307	 Kindertagesstätte  "Kinderland" 	Bisamkiez	101			14478	Potsdam		barrierefrei
+6401	 Schulen  u.  Wohnheim  mit  sonderpäd.  Förderschwerpunkt 	Bisamkiez	107-111			14478	Potsdam		barrierefrei
+6402	 Waldorfschule  Potsdam  e.  V. 	Erich-Weinert-Str.	5			14478	Potsdam		barrierefrei
+6403	 Waldstadt-Grundschule  (27) 	Friedrich-Wolf-Str.	12			14478	Potsdam		 nicht  barrierefrei 
+6404	 Waldstadt-Grundschule  (27) 	Friedrich-Wolf-Str.	12			14478	Potsdam		 nicht  barrierefrei 
+6501	 Oberstufenzentrum  II  Wirtschaft  und  Verwaltung 	 Zum  Jagenstein 	26			14478	Potsdam		barrierefrei
+6502	 Oberstufenzentrum  II  Wirtschaft  und  Verwaltung 	 Zum  Jagenstein 	26			14478	Potsdam		barrierefrei
+6503	 Oberstufenzentrum  II  Wirtschaft  und  Verwaltung 	 Zum  Jagenstein 	26			14478	Potsdam		barrierefrei
+6504	 Oberstufenzentrum  II  Wirtschaft  und  Verwaltung 	 Zum  Jagenstein 	26			14478	Potsdam		barrierefrei
+6505	 Oberschule  Theodor  Fontane  (51) 	 Zum  Teufelssee 	2-4			14478	Potsdam		 nicht  barrierefrei 
+6506	 Oberschule  Theodor  Fontane  (51) 	 Zum  Teufelssee 	2-4			14478	Potsdam		 nicht  barrierefrei 
+6507	 Haus  der  Begegnung  Potsdam 	 Zum  Teufelssee 	30			14478	Potsdam		barrierefrei
+7101	 Pierre  de  Coubertin-Oberschule  (39) 	Gagarinstr.	5-7			14480	Potsdam		 nicht  barrierefrei 
+7102	 Pierre  de  Coubertin-Oberschule  (39) 	Gagarinstr.	5-7			14480	Potsdam		 nicht  barrierefrei 
+7103	 Club  18 	Pietschkerstr.	50			14480	Potsdam		barrierefrei
+7104	 Neue  Grundschule  Potsdam 	Flotowstr.	10			14480	Potsdam		 nicht  barrierefrei 
+7105	 Deutsches  Rotes  Kreuz  -  Behindertenwerkstätten  Potsdam 	 Kohlhasenbrücker  Str. 	106			14480	Potsdam		barrierefrei
+7106	 Grundschule  Am  Pappelhain  (36/45) 	Galileistr.	6			14480	Potsdam		barrierefrei
+7107	 Grundschule  Am  Pappelhain  (36/45) 	Galileistr.	6			14480	Potsdam		barrierefrei
+7108	 Grundschule  Am  Pappelhain  (36/45) 	Galileistr.	6			14480	Potsdam		barrierefrei
+7109	 Leibniz-Gymnasium  (41) 	Galileistr.	2			14480	Potsdam		barrierefrei
+7110	 Leibniz-Gymnasium  (41) 	Galileistr.	2			14480	Potsdam		barrierefrei
+7111	 Kindergarten  "Sternchen" 	Ziolkowskistr.	47-49			14480	Potsdam		 nicht  barrierefrei 
+7112	 Leibniz-Gymnasium  (41) 	Galileistr.	2			14480	Potsdam		barrierefrei
+7113	 Deutsches  Rotes  Kreuz  -  Behindertenwerkstätten  Potsdam 	 Kohlhasenbrücker  Str. 	106			14480	Potsdam		barrierefrei
+7201	 Schiller  Grundschule  im  Sternfeld 	Sternstr.	68			14480	Potsdam		 nicht  barrierefrei 
+7202	 KATHARINENHOF  WOHNPARK  AM  STERN 	Hans-Albers-Str.	3			14480	Potsdam		barrierefrei
+7203	 Schiller  Gymnasium 	Fritz-Lang-Str.	15			14480	Potsdam		 nicht  barrierefrei 
+7204	 Schiller  Gymnasium 	Fritz-Lang-Str.	15			14480	Potsdam		 nicht  barrierefrei 
+7205	 Stadtteilschule  Drewitz 	Oskar-Meßter-Str.	4			14480	Potsdam		barrierefrei
+7206	 Stadtteilschule  Drewitz 	Oskar-Meßter-Str.	4			14480	Potsdam		barrierefrei
+7301	 Friedrich-W.-von-Steuben-Gesamtschule  (46) 	Ricarda-Huch-Str.	23-27			14480	Potsdam		barrierefrei
+7302	 Friedrich-W.-von-Steuben-Gesamtschule  (46) 	Ricarda-Huch-Str.	23-27			14480	Potsdam		barrierefrei
+7303	 Grundschule  Im  Kirchsteigfeld  (56) 	Lise-Meitner-Str.	6			14480	Potsdam		barrierefrei
+7304	 Grundschule  Im  Kirchsteigfeld  (56) 	Lise-Meitner-Str.	6			14480	Potsdam		barrierefrei
+8101	 ehemaliges  Gemeindeamt  Uetz-Paaren 	 Uetzer  Dorfstr. 	15			14476	Potsdam		 nicht  barrierefrei 
+8201	 Kulturscheune  Marquardt 	 Fahrländer  Str. 	1	c		14476	Potsdam		barrierefrei
+8301	 ehemaliges  Gemeindeamt  Satzkorn 	 Dorfstr.  Satzkorn 	2			14476	Potsdam		 nicht  barrierefrei 
+8401	 Feuerwehr-Gerätehaus  Fahrland 	Priesterstr.	13			14476	Potsdam		barrierefrei
+8402	 Regenbogenschule  (7) 	 Ketziner  Str. 	31	c		14476	Potsdam		 nicht  barrierefrei 
+8403	 Kulturladen  Fahrland 	 Ketziner  Str. 	50	a		14476	Potsdam		 nicht  barrierefrei 
+8404	 Regenbogenschule  (7) 	 Ketziner  Str. 	31	c		14476	Potsdam		 nicht  barrierefrei 
+8501	 Bürgerhaus  Neu  Fahrland 	 Am  Kirchberg 	51			14476	Potsdam		barrierefrei
+8601	 Groß  Glienicker  Begegnungshaus 	 Glienicker  Dorfstr. 	2			14476	Potsdam		barrierefrei
+8602	 Grundschule  Hanna  von  Pestalozza  (6) 	Hechtsprung	14-16			14476	Potsdam		barrierefrei
+8603	 Grundschule  Hanna  von  Pestalozza  (6) 	Hechtsprung	14-16			14476	Potsdam		barrierefrei
+8604	 Grundschule  Hanna  von  Pestalozza  (6) 	Hechtsprung	14-16			14476	Potsdam		barrierefrei
+
