@@ -14,3 +14,4 @@
 //= require jquery_ujs
 //= require leaflet
 //= require jquery.color
+//= require_tree ./application
