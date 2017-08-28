@@ -2,21 +2,15 @@
   %h2
     WAHLLOKALFINDER #KÖLN
 
-#boxes-wrapper
-  #search-wrapper.featured-box.search-box
-    #search
-      %h2.1
-        WAHLBEZIRKSNUMMER / ADRESSE
-      = form_tag '#' do
-        = text_field_tag :number, params[:number], placeholder: 'Eifelstr. 10, 50677'
-        %button{type: 'submit'}
-          %i.fa.fa-chevron-circle-right
-  .featured-box.cities-box
-    %h2 Städte
-    - if @cities.any?
-      .cities
-        - @cities.each do |city|
-          = link_to city.name, city_path(city.name), class: 'city-name'
+#search-wrapper
+  #search.box
+    %h2
+      WAHLBEZIRKSNUMMER / ADRESSE
+    = form_tag '#' do
+      = text_field_tag :number, params[:number], placeholder: 'Eifelstr. 10, 50677'
+      %button{type: 'submit'}
+        %i.fa.fa-chevron-circle-right
+
   #slogan.box
     %h2.slogan Finde DEIN WAHLLOKAL in Köln mit unserem Wahllokalfinder!
     %h2.not-found Kein passendes Wahllokal gefunden.
@@ -34,4 +28,4 @@
     Ermöglicht mit Daten von
     = image_tag asset_path('koeln.png')
 
-#map{}
+#map{data: { wheelchair_stations: @with_wheelchair_stations.map{|s| {number: s.vote_district_id, street: s.address, name: s.name, phone: s.phone, geo: [s.latitude, s.longitude]}}.to_json, without_wheelchair_stations: @without_wheelchair_stations.map{|s| {number: s.vote_district_id, street: s.address, name: s.name, phone: s.phone, geo: [s.latitude, s.longitude]}}.to_json}}
