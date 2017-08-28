@@ -1,0 +1,28 @@
+.cities
+  display: block
+  width: 100%
+#boxes-wrapper
+  color: #fff
+  position: fixed
+  top: 20%
+  width: 100%
+  z-index: 1000
+  pointer-events: none
+  .featured-box
+    pointer-events: auto
+    margin: 0 20px
+    width: 390px
+    background-color: $transparent-bg
+    text-align: center
+    +transition(width 0.5s)
+  .search-box
+    float: left
+  .cities-box
+    padding: 20px 0
+    float: right
+    h2
+      text-transform: uppercase
+      letter-spacing: 10px
+    a
+      color: #FFF
+      font-size: 40px
