@@ -18,4 +18,10 @@ namespace :import do
     addresses = SmarterCSV.process("doc/koeln/landtagswahl-2017/2017-05-12-adressen.csv", col_sep: ";")
     addresses.each { |a| ad = Address.create a; p "Imported: #{ad.id}: #{ad.street}" }
   end
+  task :city do
+    input = ''
+    STDOUT.puts "What is the you want to add?"
+    input = STDIN.gets.chomp
+    puts input
+  end
 end
