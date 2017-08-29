@@ -71,7 +71,7 @@ $ ->
       event.preventDefault()
       number = parseInt $('form input#number').val()
       if isNaN(number)
-        $.get 'search?q=' + $('form input#number').val(), (data) ->
+        $.get '/search/' + '?c=' + $('form input#city').val() + '&q=' + $('form input#number').val(), (data) ->
           if data && data.vote_district_id != undefined
             showStation data.vote_district_id
           else
@@ -132,4 +132,4 @@ $ ->
       resetAllLayers()
 
   $('#logo a').on 'click', ->
-    $('#search-wrapper form').submit()
+    $('#search-form form').submit()
