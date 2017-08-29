@@ -27,3 +27,21 @@
       color: #FFF
       font-size: 40px
       display: block
+#map
+  .marker
+    width: 100px
+    cursor: pointer
+    text-align: center
+    overflow: visible
+    word-wrap: break-word
+    align-items: center
+    pointer-events: auto
+    a
+      font-size: 22px
+      text-decoration: none
+      color: #FFF
+      padding: 2px 4px
+      +transition(background 0.5s)
+      &:hover
+        background-color: $transparent-bg
+        +transition(background 0.5s)
