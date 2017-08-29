@@ -3,7 +3,6 @@
 <head>
   <title>Wahllokalfinder</title>
   <%= stylesheet_link_tag    "application", media: "all" %>
-  <%= javascript_include_tag "application" %>
   <%= csrf_meta_tags %>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Oswald|Lekton" media="screen">
@@ -16,27 +15,6 @@
 
 <%= render 'layouts/footer' %>
 <script src='https://api.mapbox.com/mapbox-gl-js/v0.39.1/mapbox-gl.js'></script>
-<script>
-mapboxgl.accessToken = 'pk.eyJ1IjoieW95b3N0aWxlIiwiYSI6IktMYkRtYWMifQ.GR9h5n3DdQBUIUXVeh2-5A';
-var map = new mapboxgl.Map({
-    container: 'map',
-    style: 'mapbox://styles/yoyostile/cj6wd97gs09az2ro6ziz9d67y'
-});
-
-geojson.features.forEach(function(marker) {
-  // create lin
-  var aHerf = document.createElement('a')
-  aHerf.appendChild(document.createTextNode(marker.properties.title))
-  aHerf.href='/' + marker.properties.slug
-  var el = document.createElement('div');
-  el.appendChild(aHerf)
-  el.className = 'marker';
-
-  // make a marker for each feature and add to the map
-  new mapboxgl.Marker(el, { offset: [0, - 10] })
-  .setLngLat(marker.geometry.coordinates)
-  .addTo(map);
-});
-</script>
+<%= javascript_include_tag "application" %>
 </body>
 </html>

@@ -3,12 +3,8 @@
     WAHLLOKALFINDER
 
 #boxes-wrapper
-  .featured-box.cities-box
-    %h2 Städte
-    - if @cities.any?
-      .cities
-        - @cities.each do |city|
-          = link_to city.name, city_path(city.slug), class: 'city-name'
+  .featured-box
+    
 
 #footer
   = link_to "http://www.ksta.de/", target: '_blank' do
