@@ -1,7 +1,7 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoieW95b3N0aWxlIiwiYSI6IktMYkRtYWMifQ.GR9h5n3DdQBUIUXVeh2-5A';
 var map = new mapboxgl.Map({
     container: 'map',
-    style: 'mapbox://styles/yoyostile/cj6wd97gs09az2ro6ziz9d67y'
+    style: 'mapbox://styles/yoyostile/cj6xpembf1iab2ulh22v9h5vm'
 });
 
 geojson.features.forEach(function(marker) {
