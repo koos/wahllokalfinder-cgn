@@ -29,5 +29,4 @@ class StationsController < ApplicationController
   def cities
     @cities = City.all
   end
-
 end

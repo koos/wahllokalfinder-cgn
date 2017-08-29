@@ -20,3 +20,10 @@
     = image_tag asset_path('koeln.png')
 
 #map{data: { wheelchair_stations:{} ,without_wheelchair_stations:{}  } }
+%script
+  var geojson = {
+  type: 'FeatureCollection',
+  features: [
+  - @cities.each do |city|
+    = "{ type: 'Feature', geometry: {type: 'Point', coordinates: [#{city.coordinates}]},properties: {title: '#{city.name}', slug: '#{city.slug}', description: '#{city.name} - #{city.state}'}},".html_safe
+  ]};

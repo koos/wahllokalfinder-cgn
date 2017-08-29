@@ -3,12 +3,20 @@
 <head>
   <title>Wahllokalfinder</title>
   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
-  <%= javascript_include_tag "application" %>
   <%= csrf_meta_tags %>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Oswald|Lekton" media="screen">
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
   <link href='https://api.mapbox.com/mapbox.js/v3.1.1/mapbox.css' rel='stylesheet' />
+  <style>
+  .marker {
+
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+</style>
 </head>
 <body>
 
@@ -23,6 +31,20 @@ var map = new mapboxgl.Map({
     style: 'mapbox://styles/yoyostile/cj6wd97gs09az2ro6ziz9d67y'
 });
 
+geojson.features.forEach(function(marker) {
+  // create lin
+  var aHerf = document.createElement('a')
+  aHerf.appendChild(document.createTextNode(marker.properties.title))
+  aHerf.href='/' + marker.properties.slug
+  var el = document.createElement('div');
+  el.appendChild(aHerf)
+  el.className = 'marker';
+
+  // make a marker for each feature and add to the map
+  new mapboxgl.Marker(el, { offset: [0, - 10] })
+  .setLngLat(marker.geometry.coordinates)
+  .addTo(map);
+});
 </script>
 </body>
 </html>
