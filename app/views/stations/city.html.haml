@@ -1,18 +1,22 @@
 .headline
+  = link_to 'Home', root_path
   %h2
-    WAHLLOKALFINDER #KÖLN
+    = "Wahllokalfinder #{@city.name}"
 
 #search-wrapper
   #search.box
     %h2
       WAHLBEZIRKSNUMMER / ADRESSE
-    = form_tag '#' do
-      = text_field_tag :number, params[:number], placeholder: 'Eifelstr. 10, 50677'
-      %button{type: 'submit'}
-        %i.fa.fa-chevron-circle-right
+    #search-form
+      = form_tag '#' do
+        = text_field_tag :number, params[:number], placeholder: 'Eifelstr 10'
+        = hidden_field_tag :city, params[:city_slug]
+        %button{type: 'submit'}
+          %i.fa.fa-chevron-circle-right
 
   #slogan.box
-    %h2.slogan Finde DEIN WAHLLOKAL in Köln mit unserem Wahllokalfinder!
+    %h2.slogan
+      = "Finde DEIN WAHLLOKAL in #{@city.name} mit unserem Wahllokalfinder!"
     %h2.not-found Kein passendes Wahllokal gefunden.
 
   #logo.box

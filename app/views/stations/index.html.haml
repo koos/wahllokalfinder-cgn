@@ -1,29 +1,14 @@
 .headline
   %h2
-    WAHLLOKALFINDER #KÖLN
+    WAHLLOKALFINDER
 
 #boxes-wrapper
-  #search-wrapper.featured-box.search-box
-    #search
-      %h2.1
-        WAHLBEZIRKSNUMMER / ADRESSE
-      = form_tag '#' do
-        = text_field_tag :number, params[:number], placeholder: 'Eifelstr. 10, 50677'
-        %button{type: 'submit'}
-          %i.fa.fa-chevron-circle-right
   .featured-box.cities-box
     %h2 Städte
     - if @cities.any?
       .cities
         - @cities.each do |city|
-          = link_to city.name, city_path(city.name), class: 'city-name'
-  #slogan.box
-    %h2.slogan Finde DEIN WAHLLOKAL in Köln mit unserem Wahllokalfinder!
-    %h2.not-found Kein passendes Wahllokal gefunden.
-
-  #logo.box
-    = link_to '#' do
-      = image_tag asset_path('logo.png')
+          = link_to city.name, city_path(city.slug), class: 'city-name'
 
 #footer
   = link_to "http://www.ksta.de/", target: '_blank' do
@@ -34,4 +19,4 @@
     Ermöglicht mit Daten von
     = image_tag asset_path('koeln.png')
 
-#map{}
+#map{data: { wheelchair_stations:{} ,without_wheelchair_stations:{}  } }
