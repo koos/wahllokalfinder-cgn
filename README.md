@@ -11,7 +11,8 @@ After cloning the repository, run:
 - ` $ rails import:addresses `
 
   **NOTE:** Last 2 tasks may take a while until importing all records to Database.  
-  **NOTE:** Check `/lib/tasks/importer` for loaded CSV files.
+  **NOTE:** Check `/lib/tasks/importer` for loaded CSV files.  
+- Setting `ENV[admin_username]` and `ENV[admin_password]` for RailsAdmin.
 
 ## Adding Cities:
 **An Example:** Go to RailsAdmin => cities => new
