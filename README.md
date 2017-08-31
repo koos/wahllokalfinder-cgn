@@ -47,3 +47,5 @@ Go to RailsAdmin => cities => new
 ```   
 - State: `Nordrhein-Westfalen`  
 - Coordinates: `6.9500000, 50.9333300`
+
+**NOTE:** `Zip` and `Coordinates` for existed cities which are available in `docs/` are written inside `Wiki`
