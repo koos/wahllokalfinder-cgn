@@ -15,6 +15,9 @@ After cloning the repository, run:
 - Setting `ENV[ADMIN_USERNAME]` and `ENV[ADMIN_PASSWORD]` for RailsAdmin.
 
 ## Adding Cities:
+Adding a cities to WAHLLOKALFINDER is divided into two steps:
+- Files: which are two files, one of them is `Stations` and the other is `Addresses`
+- Record: It is the database record which represents city location, and informations (including housing format)
 ### FILES
 In order to add a new city to WAHLLOKALFINDER, there must be `Stations` and `Addresses` semicolon-separated CSV files, and thosee files must be structured as following:  
 
