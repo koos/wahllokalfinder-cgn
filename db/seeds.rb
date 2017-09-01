@@ -19,7 +19,7 @@ potsdam = {
   zip: [ 14197, 14199, 14467, 14469, 14471, 14473, 14476, 14478, 14480 ],
   state: "Brandenburg",
   coordinates: "13.0645, 52.3906",
-  city_housing_type: "normal" }
+  city_housing_type: "mixed_odd_even" }
 
 frechen = {
   name: "Frechen",

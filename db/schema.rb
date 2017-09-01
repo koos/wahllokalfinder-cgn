@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170901110435) do
+ActiveRecord::Schema.define(version: 20170901125244) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -32,6 +32,7 @@ ActiveRecord::Schema.define(version: 20170901110435) do
     t.datetime "updated_at"
     t.integer "number_from"
     t.integer "number_to"
+    t.string "number_variety"
     t.index ["street", "zip"], name: "index_addresses_on_street_and_zip"
   end
 
