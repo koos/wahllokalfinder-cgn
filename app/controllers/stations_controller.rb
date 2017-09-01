@@ -18,8 +18,7 @@ class StationsController < ApplicationController
 
   def search
     unless params["c"]==''
-      city = City.find_by_slug(params[:c])
-      render json: Address.search_city(params[:q], city.zip).first
+      render json: Address.search_city(params[:q], City.find_by_slug(params[:c])).first
     else
       render json: Address.search(params[:q]).first
     end
