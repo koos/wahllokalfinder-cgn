@@ -52,6 +52,8 @@ namespace :import do
   task addresses: :environment do
     addresses_csv = select_csv_file('Addresses')
     addresses = SmarterCSV.process(addresses_csv, col_sep: ";")
-    addresses.each { |a| ad = Address.create a; p "Imported: #{ad.id}: #{ad.street}" }
+    addresses.each do |a|
+      ad = Address.create a; p "Imported: #{ad.id}: #{ad.street}"
+    end
   end
 end
