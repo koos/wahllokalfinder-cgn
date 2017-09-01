@@ -32,6 +32,7 @@ class Address < ActiveRecord::Base
     end
     return [] unless city_zip && nr
     scope = Address.where(zip: city_zip).search_by_street(search_string)
+    
     if nr % 2 == 0
       scope.where("number_even_from <= ? AND number_even_to >= ?", nr, nr)
     else
