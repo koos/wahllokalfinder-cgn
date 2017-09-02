@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170901125244) do
+ActiveRecord::Schema.define(version: 20170902074537) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -28,8 +28,8 @@ ActiveRecord::Schema.define(version: 20170901125244) do
     t.integer "local_election_district_id"
     t.integer "landtag_election_district_id"
     t.integer "bundestag_election_district_id"
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
     t.integer "number_from"
     t.integer "number_to"
     t.string "number_variety"
@@ -42,9 +42,9 @@ ActiveRecord::Schema.define(version: 20170901125244) do
     t.text "zip"
     t.string "state"
     t.string "coordinates"
-    t.integer "city_housing_type"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "city_housing_type"
   end
 
   create_table "stations", force: :cascade do |t|
@@ -60,8 +60,8 @@ ActiveRecord::Schema.define(version: 20170901125244) do
     t.integer "local_election_district_id"
     t.integer "landtag_election_district_id"
     t.integer "bundestag_election_district_id"
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
     t.string "full_address"
     t.float "latitude"
     t.float "longitude"

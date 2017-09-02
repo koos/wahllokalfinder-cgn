@@ -6,7 +6,7 @@ class CreateCities < ActiveRecord::Migration[5.1]
       t.text :zip
       t.string :state
       t.string :coordinates
-      t.integer :city_housing_type
+      
       t.timestamps
     end
   end
