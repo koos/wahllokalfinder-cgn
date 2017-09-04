@@ -1,7 +1,6 @@
 .headline
-  = link_to 'Home', root_path
-  %h2
-    = "Wahllokalfinder #{@city.name}"
+  %h2#city
+    = link_to "Wahllokalfinder #{@city.name}", root_path
 
 #search-wrapper
   #search.box
@@ -11,6 +10,9 @@
       = form_tag '#' do
         = text_field_tag :number, params[:number], placeholder: 'Eifelstr 10'
         = hidden_field_tag :city, params[:city_slug]
+        = hidden_field_tag :image_marker1, image_path('marker1.png')
+        = hidden_field_tag :image_marker2, image_path('marker2.png')
+        = hidden_field_tag :image_rollstuhl, image_path('rollstuhl.png')
         %button{type: 'submit'}
           %i.fa.fa-chevron-circle-right
 
@@ -22,14 +24,8 @@
   #logo.box
     = link_to '#' do
       = image_tag asset_path('logo.png')
-
+      
 #footer
-  = link_to "http://www.ksta.de/", target: '_blank' do
-    = image_tag asset_path('logo_ksta_neu.gif')
-  = link_to "http://www.railslove.com/", target: '_blank' do
-    = image_tag asset_path('railslove.png'), class: 'smaller'
-  = link_to "http://www.stadt-koeln.de/", target: '_blank' do
-    Ermöglicht mit Daten von
-    = image_tag asset_path('koeln.png')
+  = render '/layouts/footer'
 
 #map{data: { wheelchair_stations: @with_wheelchair_stations.map{|s| {number: s.vote_district_id, street: s.address, name: s.name, phone: s.phone, geo: [s.latitude, s.longitude]}}.to_json, without_wheelchair_stations: @without_wheelchair_stations.map{|s| {number: s.vote_district_id, street: s.address, name: s.name, phone: s.phone, geo: [s.latitude, s.longitude]}}.to_json}}

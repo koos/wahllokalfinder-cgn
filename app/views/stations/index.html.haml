@@ -1,20 +1,12 @@
 .headline
-  %h2
+  %h2#cities
     WAHLLOKALFINDER
 
 #boxes-wrapper
   .featured-box
-    
 
 #footer
-  = link_to "http://www.ksta.de/", target: '_blank' do
-    = image_tag asset_path('logo_ksta_neu.gif')
-  = link_to "http://www.railslove.com/", target: '_blank' do
-    = image_tag asset_path('railslove.png'), class: 'smaller'
-  = link_to "http://www.stadt-koeln.de/", target: '_blank' do
-    Ermöglicht mit Daten von
-    = image_tag asset_path('koeln.png')
-
+  = render '/layouts/footer'
 #map{data: { wheelchair_stations:{} ,without_wheelchair_stations:{}  } }
 %script
   var geojson = {
