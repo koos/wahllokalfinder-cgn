@@ -1,4 +1,4 @@
-Postleitzahl;;Straßenname;ungerade Hsnr. von;ungerade Hsnr. bis; gerade Hsnr. von; gerade Hsnr. bis;Stadtteilname;Stimmbezirk;Landtagswahlkreis;;
+zip;;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id;;
 50674;;Aachener Glacis;1;1a;;;Neustadt/Nord;10405;18;;
 50674;;Aachener Str.;1;71;2;130;"Neustadt/Süd	";10235;13;;
 50931;;Aachener Str.;75;327;188;250;Lindenthal;30326;14;;
