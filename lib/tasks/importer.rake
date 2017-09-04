@@ -12,7 +12,7 @@ namespace :import do
 
   def select_csv_file(csv_type)
     directory_to_load = ''
-    STDOUT.puts "Please provide addresses folder:"
+    STDOUT.puts "\nWhich directory is targeted? Please provide the number:\n\n "
     files_list.each_with_index do |file, i|
       STDOUT.puts " #{i + 1} => #{file}"
     end
@@ -22,7 +22,7 @@ namespace :import do
     directory_to_load = files_list[selected_index.to_i - 1]
 
     year_to_load = ''
-    STDOUT.puts "What is the year to be loaded?"
+    STDOUT.puts "Which year to load? (For example: 2017)"
     year_to_load = STDIN.gets.chomp
 
     selected_csv_file = "#{directory_to_load}/bundestagswahl-#{year_to_load}/#{csv_type}.csv"
