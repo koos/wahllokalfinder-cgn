@@ -3,7 +3,7 @@ class Address < ActiveRecord::Base
   pg_search_scope :search_by_street, against: :street
 
   def self.search_city(search_string, city)
-    search_string = search_string.gsub('straße', 'str').gsub(/[[:digit:]]{1,6}[[:alpha:]]/,'')
+    search_string = search_string.gsub('straße', 'str').gsub(/[[:digit:]]{5}/, '')
     nr = search_string.match(/(\d+\w?)/).to_a.try(:first).to_i
 
     if nr != 0 && search_string[(search_string.index(nr.to_s).to_i - 1)] != " "
@@ -11,7 +11,10 @@ class Address < ActiveRecord::Base
     end
 
     return [] unless city && nr
-    street_string = search_string.gsub(/[[:digit:]]/,'').gsub(/[[:digit:]]{5}/, '')
+    street_string = search_string
+      .gsub(/[[:digit:]]/,'')
+      .gsub(city.name,'').gsub(city.slug,'')
+      .gsub(/[[:digit:]]{1,6}[[:alpha:]]/,'')
     scope = Address.where(zip: city.zip).search_by_street(street_string)
     return [] if scope.count == 0
 
