@@ -28,5 +28,13 @@ frechen = {
   state: "Nordrhein-Westfalen",
   coordinates: "6.8160, 50.9122",
   city_housing_type: "odd_even" }
+aldenhoven = {
+  name: "Aldenhoven",
+  slug: "aldenhoven",
+  zip: [52457],
+  state: "Nordrhein-Westfalen",
+  coordinates: "6.283056, 50.895833",
+  city_housing_type: "odd_even"
+}
 
-City.create([ cologne, potsdam, frechen])
+City.create([ cologne, potsdam, frechen, aldenhoven])
