@@ -12,7 +12,6 @@ cologne = {
   state: "Nordrhein-Westfalen",
   coordinates: "6.95, 50.93333",
   city_housing_type: "odd_even" }
-
 potsdam = {
   name: "Potsdam",
   slug: "potsdam",
@@ -20,7 +19,6 @@ potsdam = {
   state: "Brandenburg",
   coordinates: "13.0645, 52.3906",
   city_housing_type: "mixed_odd_even" }
-
 frechen = {
   name: "Frechen",
   slug: "frechen",
@@ -37,16 +35,20 @@ aldenhoven = {
   city_housing_type: "odd_even"
 }
 bad_muenstereifel = {
-  id: 5,
   name: "Bad Münstereifel",
   slug: "bad_muenstereifel",
   zip: [53902],
   state: "Nordrhein-Westfalen",
-  coordinates: "6.766111,
-  50.553056",
-  created_at: "2017-09-06 15:10:15",
-  updated_at: "2017-09-06 15:10:15",
+  coordinates: "6.766111, 50.553056",
+  city_housing_type: "odd_even"
+}
+bedburg = {
+  name: "Bedburg",
+  slug: "bedburg",
+  zip: [50181],
+  state: "Nordrhein-Westfalen",
+  coordinates: "6.5625, 52.7",
   city_housing_type: "odd_even"
 }
 
-City.create([ cologne, potsdam, frechen, aldenhoven, bad_muenstereifel ])
+City.create([ cologne, potsdam, frechen, aldenhoven, bad_muenstereifel, bedburg ])

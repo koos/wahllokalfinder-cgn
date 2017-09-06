@@ -1,0 +1,362 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+50181;Adenauerstraße;1;15;2;22;Bedburg;100;;;91
+50181;Adolf-Silverberg-Straße;1;45;2;50;Bedburg;081;;;91
+50181;Adolf-Silverberg-Straße;53;59;;;Bedburg;040;;;91
+50181;Agathastraße;1;39;2;40;Bedburg;072;;;91
+50181;Ahornweg;1;7;2;6;Bedburg;130;;;91
+50181;Akazienweg;1;11;2;12;Bedburg;040;;;91
+50181;Albert-Einstein-Straße;1;17;2;18;Bedburg;081;;;91
+50181;Albert-Schlangen-Straße;1;27;2;42;Bedburg;110;;;91
+50181;Albert-Schweitzer-Straße;5;29;2;42;Bedburg;100;;;91
+50181;Allhovener Straße;1;5;;;Bedburg;140;;;91
+50181;Am Anger;1;31;14;40;Bedburg;180;;;91
+50181;Am Bach;1;51;2;48;Bedburg;020;;;91
+50181;Am Bahndamm;;;2;12;Bedburg;160;;;91
+50181;Am Bergacker;1;19;2;22;Bedburg;180;;;91
+50181;Am Berghof;1;27;;;Bedburg;050;;;91
+50181;Am Bildstock;1;33;2;34;Bedburg;180;;;91
+50181;Am Finkelbach;1;9;2;10;Bedburg;040;;;91
+50181;Am Fließ;1;23;2;24;Bedburg;160;;;91
+50181;Am Gehölz;1;7;2;2;Bedburg;180;;;91
+50181;Am Glockenpütz;1;23;2;8;Bedburg;120;;;91
+50181;Am Glockensprung;3;11;2;22;Bedburg;020;;;91
+50181;Am Gringel;5;5;2;6;Bedburg;170;;;91
+50181;Am Harffer Kreuz;1;5;2;2;Bedburg;170;;;91
+50181;Am Kleefeldchen;3;23;2;44;Bedburg;020;;;91
+50181;Am Kriegersweg;1;3;2;4;Bedburg;020;;;91
+50181;Am Kölner Pfädchen;1;21;;;Bedburg;160;;;91
+50181;Am Majershof;1;9;2;8;Bedburg;050;;;91
+50181;Am Mühlenkreuz;1;75;2;64;Bedburg;140;;;91
+50181;Am Pfarrgarten;;;4;4;Bedburg;170;;;91
+50181;Am Pielshof;1;9;2;8;Bedburg;110;;;91
+50181;Am Priorshof;3;7;4;12;Bedburg;050;;;91
+50181;Am Pützbach;1;19;2;18;Bedburg;090;;;91
+50181;Am Rathaus;3;7;2;30;Bedburg;100;;;91
+50181;Am Ringofen;1;27;2;38;Bedburg;090;;;91
+50181;Am Rosenstock;1;19;2;72;Bedburg;160;;;91
+50181;Am Sandberg;3;23;6;22;Bedburg;071;;;91
+50181;Am Scheideweg;;;2;2;Bedburg;170;;;91
+50181;Am Schirkerhof;1;21;2;18;Bedburg;072;;;91
+50181;Am Schwarzen Kreuz;1;11;;;Bedburg;050;;;91
+50181;Am Sportplatz;1;13;2;10;Bedburg;160;;;91
+50181;Am Sprung;5;5;2;8;Bedburg;100;;;91
+50181;Am Tiergarten;1;5;2;32;Bedburg;100;;;91
+50181;Am Tripskreuz;1;5;2;2;Bedburg;060;;;91
+50181;Am Ulmenhof;1;43;2;34;Bedburg;160;;;91
+50181;Am Vogsberg;1;13;2;14;Bedburg;180;;;91
+50181;Am Wiedenhof;;;2;8;Bedburg;110;;;91
+50181;Am Zelenberg;1;61;2;50;Bedburg;110;;;91
+50181;Amelner Weg;1;25;2;26;Bedburg;020;;;91
+50181;Amselweg;1;7;2;6;Bedburg;071;;;91
+50181;An den Benden;1;13;2;14;Bedburg;071;;;91
+50181;An den Gärten;1;15;2;20;Bedburg;160;;;91
+50181;An den Linden;5;17;2;32;Bedburg;180;;;91
+50181;An der Biverschnell;1;15;2;50;Bedburg;072;;;91
+50181;An der Mühle;;;0;0;Bedburg;180;;;91
+50181;An der Schießbahn;1;7;2;14;Bedburg;130;;;91
+50181;An der Spring;1;5;2;42;Bedburg;180;;;91
+50181;An der Wildhecke;1;19;2;22;Bedburg;180;;;91
+50181;Annastraße;1;27;2;14;Bedburg;072;;;91
+50181;Anton-Heinen-Straße;1;67;2;86;Bedburg;020;;;91
+50181;Antoniusstraße;1;7;2;4;Bedburg;072;;;91
+50181;Arnold-Freund-Straße;1;51;18;58;Bedburg;060;;;91
+50181;Auf dem Mertesberg;3;15;2;4;Bedburg;152;;;91
+50181;Auf dem Wall;1;15;4;4;Bedburg;100;;;91
+50181;August-Macke-Straße;3;47;2;90;Bedburg;130;;;91
+50181;Augustinerallee;;;2;22;Bedburg;071;;;91
+50181;Augustinerallee;7;29;24;64;Bedburg;072;;;91
+50181;Bahnstraße;1;31;2;32;Bedburg;081;;;91
+50181;Barbarastraße;1;13;;;Bedburg;120;;;91
+50181;Beatrixstraße;1;9;4;24;Bedburg;100;;;91
+50181;Bedburger Schweiz;1;19;;;Bedburg;050;;;91
+50181;Beethovenstraße;1;17;2;20;Bedburg;030;;;91
+50181;Belmener Höfe;1;3;2;2;Bedburg;180;;;91
+50181;Bergheimer Straße;1;29;2;38;Bedburg;060;;;91
+50181;Birkenweg;9;9;;;Bedburg;010;;;91
+50181;Birkenweg;9;9;;;Bedburg;010;;;91
+50181;Brahmsstraße;1;9;2;12;Bedburg;030;;;91
+50181;Brandenburger Straße;1;11;2;10;Bedburg;100;;;91
+50181;Brauereistraße;1;21;2;36;Bedburg;170;;;91
+50181;Breite Straße;1;43;2;26;Bedburg;170;;;91
+50181;Breslauer Straße;3;5;2;8;Bedburg;130;;;91
+50181;Bruchstraße;3;7;2;8;Bedburg;040;;;91
+50181;Brucknerstraße;1;13;2;12;Bedburg;030;;;91
+50181;Brunnenstraße;1;95;2;70;Bedburg;140;;;91
+50181;Brunostraße;1;15;2;4;Bedburg;180;;;91
+50181;Buchholzer Straße;1;21;2;24;Bedburg;050;;;91
+50181;Burgring;1;9;2;10;Bedburg;010;;;91
+50181;Burgstraße;1;57;;;Bedburg;090;;;91
+50181;Burgundische Straße;11;19;2;40;Bedburg;100;;;91
+50181;Buschacker;1;17;2;30;Bedburg;072;;;91
+50181;Butterstraße;1;45;4;48;Bedburg;160;;;91
+50181;Carl-Leyhausen-Allee;1;19;2;20;Bedburg;130;;;91
+50181;Darshovener Straße;1;23;2;14;Bedburg;100;;;91
+50181;De-Werth-Straße;1;15;2;14;Bedburg;120;;;91
+50181;Desdorfer Weg;1;25;2;30;Bedburg;020;;;91
+50181;Dominikanergasse;5;9;2;12;Bedburg;170;;;91
+50181;Dr.-Hubert-Lesaar-Straße;1;27;2;18;Bedburg;170;;;91
+50181;Drechslerstraße;1;15;4;18;Bedburg;170;;;91
+50181;Drosselweg;1;7;2;6;Bedburg;071;;;91
+50181;Echternacher Weg;1;3;2;4;Bedburg;040;;;91
+50181;Eduard-Beerbaum-Straße;1;11;2;10;Bedburg;090;;;91
+50181;Eichendorffstraße;7;21;2;40;Bedburg;050;;;91
+50181;Eichenweg;3;7;2;8;Bedburg;130;;;91
+50181;Eifelstraße;1;17;2;10;Bedburg;090;;;91
+50181;Elsdorfer Straße;1;33;12;28;Bedburg;180;;;91
+50181;Epprather Straße;1;9;2;22;Bedburg;100;;;91
+50181;Erftstraße;3;17;2;16;Bedburg;060;;;91
+50181;Erkelenzer Straße;1;157;4;160;Bedburg;090;;;91
+50181;Erlenweg;1;7;2;8;Bedburg;130;;;91
+50181;Etgendorf;;;0;0;Bedburg;090;;;91
+50181;Etgendorfer Straße;1;17;4;8;Bedburg;090;;;91
+50181;Farnweg;1;11;2;8;Bedburg;010;;;91
+50181;Fasanenweg;;;2;4;Bedburg;071;;;91
+50181;Feldburg;;;0;0;Bedburg;152;;;91
+50181;Feldstraße;1;21;2;28;Bedburg;040;;;91
+50181;Feldstraße;23;57;30;30;Bedburg;030;;;91
+50181;Finkenweg;9;9;;;Bedburg;071;;;91
+50181;Flemingstraße;1;71;2;32;Bedburg;082;;;91
+50181;Fliederweg;3;7;;;Bedburg;010;;;91
+50181;Frankenstraße;1;5;2;32;Bedburg;130;;;91
+50181;Franz-Vosen-Straße;1;21;;;Bedburg;100;;;91
+50181;Frauweilerhof;;;0;0;Bedburg;010;;;91
+50181;Frauweilerring;1;43;2;40;Bedburg;010;;;91
+50181;Friedensstraße;1;39;2;52;Bedburg;010;;;91
+50181;Friedhofstraße;1;19;2;20;Bedburg;071;;;91
+50181;Friedlandstraße;1;63;2;78;Bedburg;130;;;91
+50181;Friedrich-Ebert-Straße;1;41;2;66;Bedburg;120;;;91
+50181;Friedrich-Neukirchen-Str.;1;9;2;12;Bedburg;090;;;91
+50181;Friedrich-Wilhelm-Straße;3;41;4;46;Bedburg;060;;;91
+50181;Garsdorfer Straße;1;9;;;Bedburg;010;;;91
+50181;Gartenstraße;1;25;2;26;Bedburg;060;;;91
+50181;Geddenberger Straße;;;2;2;Bedburg;050;;;91
+50181;Gerhard-vom-Brugh-Straße;1;29;2;30;Bedburg;072;;;91
+50181;Gerhardstraße;1;39;2;40;Bedburg;120;;;91
+50181;Germaniastraße;1;11;2;14;Bedburg;090;;;91
+50181;Ginnerstraße;1;53;2;14;Bedburg;140;;;91
+50181;Ginsterweg;1;9;2;10;Bedburg;010;;;91
+50181;Glescher Weg;1;27;2;10;Bedburg;040;;;91
+50181;Godefriedstraße;1;9;2;8;Bedburg;180;;;91
+50181;Goethestraße;7;35;2;16;Bedburg;050;;;91
+50181;Gommershoven;;;0;0;Bedburg;010;;;91
+50181;Gommershovener Weg;3;17;14;32;Bedburg;010;;;91
+50181;Gorch-Fock-Straße;1;13;2;14;Bedburg;050;;;91
+50181;Gottesacker;1;43;4;46;Bedburg;170;;;91
+50181;Gottlieb-Daimler-Straße;5;7;;;Bedburg;100;;;91
+50181;Graf-Salm-Straße;11;45;8;46;Bedburg;060;;;91
+50181;Graf-Wilhelm-Straße;13;13;2;42;Bedburg;120;;;91
+50181;Grevenbroicher Straße;29;51;16;38;Bedburg;010;;;91
+50181;Grottenhertener Mühle;;;0;0;Bedburg;160;;;91
+50181;Grüner Weg;1;9;4;20;Bedburg;040;;;91
+50181;Gustav-Heinemann-Straße;;;2;26;Bedburg;100;;;91
+50181;Gustav-Heinemann-Straße;3;7;;;Bedburg;140;;;91
+50181;Gut Marienaue;;;0;0;Bedburg;010;;;91
+50181;Gut Stolzenberg;;;0;0;Bedburg;010;;;91
+50181;Hahnerhof;1;1;2;2;Bedburg;170;;;91
+50181;Hans-Böckler-Straße;1;17;2;12;Bedburg;100;;;91
+50181;Harffer Schloßallee;3;19;2;20;Bedburg;110;;;91
+50181;Harffer Schloßallee;23;87;22;104;Bedburg;130;;;91
+50181;Hasselberg;1;13;2;10;Bedburg;151;;;91
+50181;Hauptstraße;1;91;2;92;Bedburg;100;;;91
+50181;Haus Pesch;;;0;0;Bedburg;180;;;91
+50181;Heidberg;3;9;;;Bedburg;090;;;91
+50181;Heidklift;3;13;2;12;Bedburg;151;;;91
+50181;Heinrich-Campendonk-Str.;1;23;2;46;Bedburg;130;;;91
+50181;Heinrich-Lübke-Straße;3;5;2;8;Bedburg;130;;;91
+50181;Heinrichstraße;1;13;2;16;Bedburg;120;;;91
+50181;Heinsberger Straße;1;23;2;24;Bedburg;180;;;91
+50181;Herderstraße;1;75;2;46;Bedburg;050;;;91
+50181;Hermann-Löns-Straße;1;29;2;22;Bedburg;050;;;91
+50181;Hirtenend;1;61;2;48;Bedburg;040;;;91
+50181;Hochstraße;1;3;2;2;Bedburg;152;;;91
+50181;Hohenholz;;;0;0;Bedburg;151;;;91
+50181;Hohenholzer Straße;1;31;2;2;Bedburg;151;;;91
+50181;Holtroper Straße;3;35;2;18;Bedburg;010;;;91
+50181;Hubert-Hachenberg-Straße;1;7;2;6;Bedburg;040;;;91
+50181;Hubertusstraße;;;6;24;Bedburg;090;;;91
+50181;Hundsgasse;7;7;;;Bedburg;060;;;91
+50181;Höhenweg;1;21;2;12;Bedburg;090;;;91
+50181;Im Embegrund;1;9;4;10;Bedburg;020;;;91
+50181;Im Erftbusch;1;5;2;2;Bedburg;060;;;91
+50181;Im Grund;1;29;2;24;Bedburg;010;;;91
+50181;Im Hamm;1;15;2;12;Bedburg;151;;;91
+50181;Im Kamp;1;23;6;22;Bedburg;180;;;91
+50181;Im Kellergarten;1;33;2;4;Bedburg;180;;;91
+50181;Im Kirchblick;1;11;2;14;Bedburg;040;;;91
+50181;Im Vogelsang;21;21;2;18;Bedburg;180;;;91
+50181;In der Aue;1;7;2;6;Bedburg;072;;;91
+50181;Jahnstraße;3;19;2;14;Bedburg;151;;;91
+50181;James-Watt-Straße;3;13;2;8;Bedburg;081;;;91
+50181;Johanneslust;1;23;4;28;Bedburg;060;;;91
+50181;Johannesstraße;5;17;2;16;Bedburg;060;;;91
+50181;Josef-Schnitzler-Straße;1;21;2;50;Bedburg;151;;;91
+50181;Josef-Weckopp-Straße;1;7;2;8;Bedburg;110;;;91
+50181;Josefstraße;1;9;2;10;Bedburg;010;;;91
+50181;Justus-von-Liebig-Straße;1;9;2;8;Bedburg;081;;;91
+50181;Jülicher Straße;1;5;2;18;Bedburg;110;;;91
+50181;Kaiskorb;;;0;0;Bedburg;170;;;91
+50181;Kalrather Straße;3;39;4;30;Bedburg;160;;;91
+50181;Kapellenweg;1;5;2;4;Bedburg;160;;;91
+50181;Kardinal-Frings-Straße;1;17;2;24;Bedburg;130;;;91
+50181;Karl-Arnold-Straße;9;31;2;26;Bedburg;130;;;91
+50181;Karl-Ferdinand-Braun-Str.;1;11;2;10;Bedburg;081;;;91
+50181;Karl-Gatzen-Straße;1;15;2;28;Bedburg;170;;;91
+50181;Karlstraße;;;8;50;Bedburg;082;;;91
+50181;Karlstraße;1;91;;;Bedburg;081;;;91
+50181;Kasterer Straße;3;37;2;50;Bedburg;152;;;91
+50181;Kettelerstraße;1;13;;;Bedburg;110;;;91
+50181;Kiefernweg;1;7;2;8;Bedburg;130;;;91
+50181;Kirchfeldstraße;1;1;2;2;Bedburg;020;;;91
+50181;Kirchplatz;1;15;2;14;Bedburg;151;;;91
+50181;Kirchstraße;29;45;28;40;Bedburg;100;;;91
+50181;Kirdorfer Allee;3;53;2;62;Bedburg;040;;;91
+50181;Kleinfeld;1;9;2;12;Bedburg;160;;;91
+50181;Klosterstraße;1;23;2;22;Bedburg;060;;;91
+50181;Kolpingstraße;1;61;4;62;Bedburg;040;;;91
+50181;Kreuzgasse;1;3;2;10;Bedburg;160;;;91
+50181;Kurt-Schumacher-Straße;1;13;;;Bedburg;120;;;91
+50181;Kurt-Stöbe-Straße;13;47;14;40;Bedburg;040;;;91
+50181;Käthe-Kollwitz-Straße;1;21;2;56;Bedburg;130;;;91
+50181;Kölner Straße;1;41;2;40;Bedburg;060;;;91
+50181;Königsberger Straße;1;33;2;12;Bedburg;120;;;91
+50181;Küppersgasse;;;2;4;Bedburg;170;;;91
+50181;Ladestraße;1;3;2;2;Bedburg;081;;;91
+50181;Lambertsweg;1;17;4;22;Bedburg;170;;;91
+50181;Lambertusstraße;1;9;4;4;Bedburg;072;;;91
+50181;Lamersend;1;19;2;18;Bedburg;170;;;91
+50181;Langemarckstraße;1;29;4;32;Bedburg;060;;;91
+50181;Laubenstraße;1;27;2;24;Bedburg;152;;;91
+50181;Leitweg;47;77;22;86;Bedburg;030;;;91
+50181;Leitweg;3;45;;;Bedburg;040;;;91
+50181;Lerchenweg;1;3;2;2;Bedburg;071;;;91
+50181;Lessingstraße;15;41;2;98;Bedburg;050;;;91
+50181;Leuwenend;1;9;2;8;Bedburg;110;;;91
+50181;Lichweg;1;15;2;6;Bedburg;090;;;91
+50181;Lindenstraße;1;49;2;48;Bedburg;060;;;91
+50181;Lipper Berg;1;53;2;30;Bedburg;082;;;91
+50181;Lipper Markt;1;7;2;4;Bedburg;090;;;91
+50181;Ludwig-Uhland-Straße;1;23;2;56;Bedburg;050;;;91
+50181;Maarweg;1;11;;;Bedburg;010;;;91
+50181;Margaretenhöhe;1;7;2;10;Bedburg;090;;;91
+50181;Margarethenstraße;3;59;12;52;Bedburg;160;;;91
+50181;Margeritenweg;1;7;2;8;Bedburg;010;;;91
+50181;Marie-Curie-Straße;1;9;2;10;Bedburg;081;;;91
+50181;Marie-Nauen-Straße;1;31;2;24;Bedburg;130;;;91
+50181;Marienstraße;1;15;2;28;Bedburg;170;;;91
+50181;Marktplatz;1;9;2;12;Bedburg;060;;;91
+50181;Martin-Flücken-Straße;1;11;2;12;Bedburg;170;;;91
+50181;Matthias-Lammet-Straße;1;1;2;2;Bedburg;060;;;91
+50181;Max-Beckmann-Straße;3;25;2;26;Bedburg;130;;;91
+50181;Max-Ernst-Straße;1;21;2;38;Bedburg;130;;;91
+50181;Max-Planck-Straße;1;3;2;4;Bedburg;081;;;91
+50181;Maximilianstraße;1;33;6;18;Bedburg;120;;;91
+50181;Meftlergasse;1;11;2;4;Bedburg;160;;;91
+50181;Meisenweg;1;5;2;4;Bedburg;071;;;91
+50181;Meßweg;;;2;32;Bedburg;110;;;91
+50181;Millendorfer Straße;1;15;2;12;Bedburg;090;;;91
+50181;Mittelstraße;3;27;2;26;Bedburg;072;;;91
+50181;Mohnweg;1;1;2;10;Bedburg;010;;;91
+50181;Mollsend;3;9;2;2;Bedburg;170;;;91
+50181;Morkener Straße;1;73;2;100;Bedburg;110;;;91
+50181;Mozartstraße;1;11;2;12;Bedburg;030;;;91
+50181;Muchhauser Straße;1;19;;;Bedburg;050;;;91
+50181;Mühlenstraße;1;21;4;20;Bedburg;170;;;91
+50181;Nachtigallenweg;1;15;2;16;Bedburg;071;;;91
+50181;Nepomukstraße;;;2;18;Bedburg;152;;;91
+50181;Neue Bergstraße;1;51;8;24;Bedburg;151;;;91
+50181;Neusser Straße;1;53;4;22;Bedburg;081;;;91
+50181;Neustraße;1;15;2;14;Bedburg;071;;;91
+50181;Niederembter Weg;1;17;2;24;Bedburg;020;;;91
+50181;Oberembter Straße;1;31;14;26;Bedburg;180;;;91
+50181;Oberschlager Straße;;;4;10;Bedburg;050;;;91
+50181;Oberweg;;;2;10;Bedburg;180;;;91
+50181;Oeppenstraße;1;23;2;22;Bedburg;060;;;91
+50181;Offenbachstraße;1;33;2;22;Bedburg;030;;;91
+50181;Ohndorfer Weg;1;1;2;6;Bedburg;020;;;91
+50181;Omagener Straße;1;5;2;12;Bedburg;100;;;91
+50181;Oppendorfer Straße;1;11;;;Bedburg;090;;;91
+50181;Oranienstraße;1;17;2;30;Bedburg;100;;;91
+50181;Ostenhof;;;0;0;Bedburg;170;;;91
+50181;Otto-Hahn-Straße;1;5;10;18;Bedburg;060;;;91
+50181;Pannengasse;;;2;30;Bedburg;151;;;91
+50181;Pappelallee;1;25;2;24;Bedburg;072;;;91
+50181;Pastor-Busch-Straße;1;5;2;8;Bedburg;072;;;91
+50181;Pastor-Wertz-Platz;;;2;2;Bedburg;151;;;91
+50181;Paul-Klee-Straße;1;23;2;50;Bedburg;130;;;91
+50181;Pestalozzistraße;1;11;2;28;Bedburg;020;;;91
+50181;Pfarrer-Bodden-Straße;1;39;2;50;Bedburg;040;;;91
+50181;Pfarrer-Dressing-Straße;1;15;2;12;Bedburg;160;;;91
+50181;Pfarrer-Müllejans-Straße;1;21;2;12;Bedburg;020;;;91
+50181;Pfarrer-Neunzig-Straße;7;7;2;2;Bedburg;060;;;91
+50181;Pfarrer-Stein-Straße;1;71;2;78;Bedburg;180;;;91
+50181;Pfarrgasse;1;5;2;12;Bedburg;180;;;91
+50181;Prümer Straße;1;17;;;Bedburg;170;;;91
+50181;Pulverturm;1;37;2;38;Bedburg;170;;;91
+50181;Pützer Straße;1;9;6;22;Bedburg;170;;;91
+50181;Rather Mühle;;;0;0;Bedburg;010;;;91
+50181;Rather Weg;1;21;2;30;Bedburg;010;;;91
+50181;Reinhardstraße;1;15;2;14;Bedburg;120;;;91
+50181;Ricardastraße;1;37;2;20;Bedburg;100;;;91
+50181;Richard-Wagner-Straße;1;19;2;22;Bedburg;030;;;91
+50181;Ringelgasse;1;9;4;8;Bedburg;170;;;91
+50181;Robert-Bosch-Straße;3;3;18;24;Bedburg;100;;;91
+50181;Robert-Koch-Straße;1;7;2;10;Bedburg;090;;;91
+50181;Rosenweg;1;1;2;14;Bedburg;010;;;91
+50181;Rotdornweg;1;9;2;14;Bedburg;130;;;91
+50181;Rupperburg;1;47;2;46;Bedburg;072;;;91
+50181;Rödinger Straße;3;7;2;26;Bedburg;180;;;91
+50181;Römerstraße;1;17;2;16;Bedburg;130;;;91
+50181;Röntgenstraße;1;51;2;10;Bedburg;082;;;91
+50181;Sauerbruchstraße;1;25;2;18;Bedburg;082;;;91
+50181;Schillerstraße;1;13;2;20;Bedburg;050;;;91
+50181;Schloßallee;1;25;2;26;Bedburg;060;;;91
+50181;Schmiedestraße;1;31;2;14;Bedburg;152;;;91
+50181;Schubertstraße;1;27;2;14;Bedburg;110;;;91
+50181;Schulgasse;1;11;4;42;Bedburg;170;;;91
+50181;Schulpfad;1;37;2;38;Bedburg;090;;;91
+50181;Schumannstraße;1;49;4;22;Bedburg;030;;;91
+50181;Schunkenhof;;;0;0;Bedburg;090;;;91
+50181;Schwarzer Weg;1;17;6;16;Bedburg;180;;;91
+50181;Schützendelle;1;83;2;90;Bedburg;110;;;91
+50181;Schützenstraße;1;3;2;2;Bedburg;060;;;91
+50181;St.-Florian-Straße;5;5;8;8;Bedburg;081;;;91
+50181;St.-Lucia-Straße;1;17;2;12;Bedburg;010;;;91
+50181;St.-Martinus-Straße;1;7;4;12;Bedburg;170;;;91
+50181;St.-Matthias-Straße;1;7;2;26;Bedburg;180;;;91
+50181;St.-Rochus-Straße;1;33;4;28;Bedburg;120;;;91
+50181;St.-Sebastianus-Straße;1;27;2;22;Bedburg;140;;;91
+50181;St.-Ursula-Weg;3;41;4;26;Bedburg;090;;;91
+50181;Starenweg;;;2;10;Bedburg;071;;;91
+50181;Steifensandstraße;;;2;84;Bedburg;130;;;91
+50181;Stettiner Straße;1;7;2;8;Bedburg;130;;;91
+50181;Stresemannstraße;1;3;;;Bedburg;100;;;91
+50181;Talstraße;1;41;4;70;Bedburg;140;;;91
+50181;Talstraße;43;91;72;90;Bedburg;151;;;91
+50181;Theodor-Heuss-Straße;1;49;6;62;Bedburg;020;;;91
+50181;Thomas-Edison-Straße;1;9;2;10;Bedburg;081;;;91
+50181;Ulmenweg;1;5;2;10;Bedburg;090;;;91
+50181;Verschönerung;1;5;2;2;Bedburg;060;;;91
+50181;Vetschauer Straße;1;21;2;24;Bedburg;071;;;91
+50181;Vikariestraße;11;17;12;16;Bedburg;100;;;91
+50181;Virchowstraße;3;11;2;14;Bedburg;082;;;91
+50181;Vom-Stein-Straße;1;23;2;24;Bedburg;151;;;91
+50181;Von-Hochstaden-Straße;1;9;4;6;Bedburg;110;;;91
+50181;Von-Neuenahr-Straße;1;11;2;24;Bedburg;130;;;91
+50181;Von-Sparr-Straße;1;13;2;14;Bedburg;120;;;91
+50181;Wallstraße;53;75;54;74;Bedburg;100;;;91
+50181;Weidgasse;1;3;2;16;Bedburg;170;;;91
+50181;Weiherstraße;1;25;2;26;Bedburg;072;;;91
+50181;Weiler Hohenholz;1;23;2;18;Bedburg;151;;;91
+50181;Wiesenstraße;1;19;12;20;Bedburg;060;;;91
+50181;Wilhelm-Warsch-Straße;1;15;2;20;Bedburg;120;;;91
+50181;Willibrordusstraße;1;21;2;26;Bedburg;020;;;91
+50181;Willy-Brandt-Straße;1;7;2;8;Bedburg;082;;;91
+50181;Winkelheimer Straße;1;41;2;20;Bedburg;050;;;91
+50181;Wynrichstraße;1;27;2;10;Bedburg;180;;;91
+50181;Zaunstraße;3;101;4;80;Bedburg;160;;;91
+50181;Ziegeleistraße;1;79;8;86;Bedburg;090;;;91
+50181;Zollhausstraße;1;15;2;8;Bedburg;100;;;91
+50181;Zollweg;1;7;2;6;Bedburg;100;;;91
+50181;Zur Alten Mühle;3;19;4;4;Bedburg;020;;;91
+50181;Zur Gaulshütte;1;41;;;Bedburg;090;;;91
+50181;von-Droste-Hülshoff-Str.;3;15;4;22;Bedburg;050;;;91
