@@ -1,0 +1,24 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+01.1;Grundschule Arloff I;Arloff, Erlenhecke;45;;;53902;Bad Münstereifel;;N
+01.2;Kindergarten Kalkar;Kalkar, Varusstraße;4;;;53902;Bad Münstereifel;;N
+02.1;Grundschule Arloff II;Arloff, Erlenhecke;45;;;53902;Bad Münstereifel;;N
+03.1;Kindergarten Iversheim I;Iversheim, An der Ley;38;;;53902;Bad Münstereifel;;N
+04.1;Kindergarten Iversheim II;Iversheim, An der Ley;38;;;53902;Bad Münstereifel;;N
+04.2;Pfarrheim Eschweiler - Loggia;Eschweiler, Turmgasse;6;;;53902;Bad Münstereifel;;J
+05.1;Kindergarten Nöthen;Nöthen, Gilsdorfer Weg;7;;;53902;Bad Münstereifel;;N
+06.1;Dorfgemeinschaftshaus Rodert;Rodert, Waldstraße;20;;;53902;Bad Münstereifel;;N
+07.1;Grundschule Bad Münstereifel 2 Bad Münstereifel;Marktstraße;17;;;53902;Bad Münstereifel;;J
+08.1;Grundschule Bad Münstereifel 3 Bad Münstereifel;Marktstraße;17;;;53902;Bad Münstereifel;;J
+09.1;Grundschule Bad Münstereifel 4 Bad Münstereifel;Marktstraße;17;;;53902;Bad Münstereifel;;J
+11.1;Kindergarten Schönau;Schönau, Wiesentalstraße;22;;;53902;Bad Münstereifel;;N
+12.1;Dorfgemeinschaftshaus Mahlberg;Mahlberg, Breitestraße;44;;;53902;Bad Münstereifel;;N
+13.2;Eifeler Maschinenbau GmbH;Esch, Escher Heide 4;;;;53902;Bad Münstereifel;;J
+14.1;Dorfgemeinschaftshaus Rup.;Rupperath, Schulweg;3;;;53902;Bad Münstereifel;;J
+15.1;Pfarrheim Effelsberg;Lethert, Stephanusstraße;2A;;;53902;Bad Münstereifel;;J
+15.2;Fam. Hilger;Wald, Thomasstraße;1;;;53902;Bad Münstereifel;;N
+16.1;Grundschule Houverath;Houverath, Eichener Straße;2;;;53902;Bad Münstereifel;;J
+14.2;Firma Datanet GmbH Haupteingang Neubau;Hardtbrücke;11;;;53902;Bad Münstereifel;;N
+05.2;Kindergarten Hohn;Hohn, Gäßchen;6;;;53902;Bad Münstereifel;;J
+10.1;Feuerwehrhaus Eicherscheid;Eicherscheid, Ahrweilerstraße;7;;;53902;Bad Münstereifel;;N
+13.1;Grundschule Mutscheid;Mutscheid, Arandstraße;33;;;53902;Bad Münstereifel;;J
+06.2;Grundschule Bad Münstereifel 1 Bad Münstereifel;Marktstraße;17;;;53902;Bad Münstereifel;;J

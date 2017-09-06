@@ -1,0 +1,566 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+53902;Aalstraße;1;13;4;14;Hohn;05.2;;;92
+53902;Achenweg;1;1;;;Eicherscheid;10.1;;;92
+53902;Ahrstraße;7;13;2;26;Schönau;11.1;;;92
+53902;Ahrweilerstraße;3;41;2;54;Eicherscheid;10.1;;;92
+53902;Alte Gasse;5;23;2;44;Bad Münstereifel;07.1;;;92
+53902;Alte Landstraße;1;29;2;48;Iversheim;03.1;;;92
+53902;Alte Schulgasse;7;11;2;8;Hohn;05.2;;;92
+53902;Am Bloch;1;39;2;16;Iversheim;03.1;;;92
+53902;Am Breiten Weg;;;4;4;Wald;15.2;;;92
+53902;Am Breithardt;9;9;8;8;Hummerzheim;14.2;;;92
+53902;Am Burggraben;1;5;2;8;Lethert;15.1;;;92
+53902;Am Drinkpütz;1;1;2;28;Rupperath;14.1;;;92
+53902;Am Drompütz;;;2;10;Effelsberg;15.1;;;92
+53902;Am Fichtenhain;;;4;6;Bad Münstereifel;08.1;;;92
+53902;Am Füssig;;;2;4;Wald;15.2;;;92
+53902;Am Geißbusch;3;11;2;12;Holzem;15.1;;;92
+53902;Am Gieren;3;3;6;6;Houverath;16.1;;;92
+53902;Am Graben;1;9;2;12;Houverath;16.1;;;92
+53902;Am Hang;1;25;4;12;Lethert;15.1;;;92
+53902;Am Heidberg;;;32;38;Lanzerath;16.1;;;92
+53902;Am Heiden Weyher;;;2;12;Lethert;15.1;;;92
+53902;Am Heiligenhäuschen;;;14;14;Nöthen;05.1;;;92
+53902;Am Herrenbusch;1;7;2;14;Bad Münstereifel;08.1;;;92
+53902;Am Hofpesch;;;8;8;Schönau;11.1;;;92
+53902;Am Kehrenkreuz;1;19;4;14;Rupperath;14.1;;;92
+53902;Am Konzberg;1;5;4;4;Nöthen;05.1;;;92
+53902;Am Lammerstal;1;7;2;4;Mutscheid;13.1;;;92
+53902;Am Lindchen;7;9;;;Mahlberg;12.1;;;92
+53902;Am Mariengarten;1;11;2;18;Rupperath;14.1;;;92
+53902;Am Quecken;5;5;;;Bad Münstereifel;06.2;;;92
+53902;Am Rothsiefen;1;11;2;14;Nöthen;05.1;;;92
+53902;Am Schlothberg;1;29;6;22;Schönau;11.1;;;92
+53902;Am Schoppesch;5;9;2;10;Wald;15.2;;;92
+53902;Am Siefen;3;7;2;6;Nöthen;05.1;;;92
+53902;Am Stockert;9;9;16;16;Nöthen;05.1;;;92
+53902;Am Weyersberg;1;13;2;10;Eichen;16.1;;;92
+53902;Amselweg;;;6;20;Iversheim;03.1;;;92
+53902;An der Haag;1;5;;;Reckerscheid;12.1;;;92
+53902;An der Hasenhecke;1;13;4;18;Mahlberg;12.1;;;92
+53902;An der Hüh;1;9;2;10;Mahlberg;12.1;;;92
+53902;An der Kruchenbach;;;4;8;Eicherscheid;10.1;;;92
+53902;An der Ley;;;2;42;Iversheim;03.1;;;92
+53902;An der Schoßpforte;1;21;2;2;Bad Münstereifel;06.2;;;92
+53902;Antoniusstraße;3;47;6;52;Wald;15.2;;;92
+53902;Antweiler Weg;1;9;2;8;Kalkar;01.2;;;92
+53902;Apolloniaweg;1;7;8;8;Reckerscheid;12.1;;;92
+53902;Arandstraße;15;43;4;38;Mutscheid;13.1;;;92
+53902;Arloffer Weg;11;55;2;46;Iversheim;03.1;;;92
+53902;Ashfordstraße;1;73;2;66;Bad Münstereifel;08.1;;;92
+53902;Aspelweg;3;63;10;64;Eicherscheid;10.1;;;92
+53902;Astropeiler Stockert;3;3;4;4;Eschweiler;04.2;;;92
+53902;Auf Bungof;3;13;12;18;Holzem;15.1;;;92
+53902;Auf Ebertssiefen;1;19;2;10;Schönau;11.1;;;92
+53902;Auf Gitzem;1;7;4;10;Mahlberg;12.1;;;92
+53902;Auf Hilmerich;5;13;4;10;Effelsberg;15.1;;;92
+53902;Auf Hirkscheid;5;13;6;10;Effelsberg;15.1;;;92
+53902;Auf dem Bruch;3;9;2;4;Mahlberg;12.1;;;92
+53902;Auf dem Bungart;5;15;4;4;Eicherscheid;10.1;;;92
+53902;Auf dem Dreesch;11;11;12;14;Scheuerheck;15.1;;;92
+53902;Auf dem Eifel;1;5;;;Hohn;05.2;;;92
+53902;Auf dem Garten;1;9;2;14;Limbach;16.1;;;92
+53902;Auf dem Hembüchel;;;2;12;Iversheim;03.1;;;92
+53902;Auf dem Junker;1;19;2;26;Kalkar;01.2;;;92
+53902;Auf dem Katzenberg;1;1;6;10;Iversheim;03.1;;;92
+53902;Auf dem Platz;3;9;2;12;Nöthen;05.1;;;92
+53902;Auf dem Sand;1;41;6;30;Kalkar;01.2;;;92
+53902;Auf dem Schelles;11;33;2;20;Nöthen;05.1;;;92
+53902;Auf dem Schülen;3;3;2;6;Hilterscheid;13.1;;;92
+53902;Auf dem Sturtz;5;13;6;20;Maulbach;16.1;;;92
+53902;Auf dem Teich;1;9;10;12;Bad Münstereifel;06.2;;;92
+53902;Auf dem Tietschenberg;7;17;2;26;Arloff;02.1;;;92
+53902;Auf dem Waasem;1;45;2;52;Iversheim;03.1;;;92
+53902;Auf dem Wahnsberg;;;10;10;Iversheim;04.1;;;92
+53902;Auf dem Wieler;3;13;2;14;Iversheim;03.1;;;92
+53902;Auf den Schmitten;1;19;4;28;Arloff;01.1;;;92
+53902;Auf den Schmitten;1;19;;28;Arloff;01.1;;;92
+53902;Auf der Komm;1;5;;;Bad Münstereifel;08.1;;;92
+53902;Auf der Kumm;3;19;2;28;Iversheim;03.1;;;92
+53902;Auf der Lach;1;13;4;18;Houverath;16.1;;;92
+53902;Auf der Maar;9;9;16;16;Rodert;06.1;;;92
+53902;Auf der Nück;;;2;14;Hohn;05.2;;;92
+53902;Auf der Oberst;1;25;2;22;Odesheim;14.1;;;92
+53902;Auf der Tränke;1;3;2;2;Lethert;15.1;;;92
+53902;Auf'm Pesch;1;13;2;8;Eichen;16.1;;;92
+53902;August-Guddorf-Straße;;;2;16;Bad Münstereifel;07.1;;;92
+53902;Bachstraße;1;41;2;66;Kirspenich;02.1;;;92
+53902;Bachstraße;43;125;38;38;Arloff;01.1;;;92
+53902;Bahnhofstraße;3;49;2;54;Arloff;01.1;;;92
+53902;Bahnweg;7;7;;;Iversheim;04.1;;;92
+53902;Bartholomäusstraße;11;11;8;8;Kirspenich;02.1;;;92
+53902;Bendenweg;15;27;28;30;Bad Münstereifel;09.1;;;92
+53902;Bendenweg;59;87;46;88;Iversheim;04.1;;;92
+53902;Bergstraße;1;41;8;28;Bad Münstereifel;07.1;;;92
+53902;Bernhardstraße;1;11;2;10;Bergrath;10.1;;;92
+53902;Bielengasse;1;13;2;18;Mahlberg;12.1;;;92
+53902;Birkenstraße;13;57;8;70;Nitterscheid;13.1;;;92
+53902;Bitburger Straße;1;23;8;20;Eicherscheid;10.1;;;92
+53902;Bitzenweg;1;9;2;8;Scheuren;16.1;;;92
+53902;Blankenheimer Weg;41;43;;;Eicherscheid;10.1;;;92
+53902;Bliesthal;1;1;;;Mahlberg;12.1;;;92
+53902;Blomendalstraße;5;11;6;12;Bad Münstereifel;09.1;;;92
+53902;Blumenweg;3;15;2;10;Arloff;02.1;;;92
+53902;Bodenbachtal;1;1;;;Eicherscheid;10.1;;;92
+53902;Bollenrathstraße;1;13;2;12;Bad Münstereifel;09.1;;;92
+53902;Bongarten;1;5;2;2;Schönau;11.1;;;92
+53902;Bonner Straße;1;19;2;22;Kirspenich;02.1;;;92
+53902;Brahmsstraße;9;37;18;22;Honerath;13.1;;;92
+53902;Braugasse;1;3;8;8;Bad Münstereifel;06.2;;;92
+53902;Breitenfeldweg;1;1;4;6;Hummerzheim;14.2;;;92
+53902;Breitestraße;5;41;2;48;Mahlberg;12.1;;;92
+53902;Bremerberg;;;2;18;Hohn;05.2;;;92
+53902;Brigidastraße;1;17;2;28;Eicherscheid;10.1;;;92
+53902;Brobachweg;5;5;2;50;Hummerzheim;14.2;;;92
+53902;Bruchgartenweg;5;11;2;2;Hummerzheim;14.2;;;92
+53902;Brunnenstraße;5;67;8;74;Nöthen;05.1;;;92
+53902;Brückenstraße;1;7;2;8;Kirspenich;02.1;;;92
+53902;Brühler Straße;1;21;4;34;Eicherscheid;10.1;;;92
+53902;Buchenkreuzweg;5;21;6;16;Neichen;15.1;;;92
+53902;Buchenweg;;;6;20;Esch;13.2;;;92
+53902;Buchholzbacher Mühle;;;0;0;Rupperath;14.1;;;92
+53902;Buchholzbacher Weg;1;1;;;Ellesheim;13.1;;;92
+53902;Buchweizenweg;;;2;2;Rodert;06.1;;;92
+53902;Burg;1;1;4;4;Bad Münstereifel;06.2;;;92
+53902;Burgtalstraße;1;1;4;8;Kirspenich;02.1;;;92
+53902;Burgweg;1;3;4;4;Effelsberg;15.1;;;92
+53902;Buschhöhlenweg;3;7;4;6;Iversheim;03.1;;;92
+53902;Bühlenstraße;3;35;14;36;Hummerzheim;14.2;;;92
+53902;Bühlerlochmühle;1;1;;;Effelsberg;15.1;;;92
+53902;Cicerostraße;1;31;2;38;Kalkar;01.2;;;92
+53902;Cäsarstraße;;;2;12;Kalkar;01.2;;;92
+53902;Dahlienweg;5;11;2;4;Mutscheid;13.1;;;92
+53902;Delle;3;35;6;20;Bad Münstereifel;06.2;;;92
+53902;Delphinweg;1;5;;;Hohn;05.2;;;92
+53902;Dohlenweg;1;17;2;10;Iversheim;03.1;;;92
+53902;Donatusweg;1;7;;;Rodert;06.1;;;92
+53902;Donaustraße;;;4;14;Eschweiler;04.2;;;92
+53902;Donstraße;5;5;2;6;Eschweiler;04.2;;;92
+53902;Dorfstraße;3;67;4;84;Schönau;11.1;;;92
+53902;Dr.-Verbeek-Straße;3;7;2;18;Kirspenich;02.1;;;92
+53902;Dr.Fr.Haass-Straße;1;17;2;14;Bad Münstereifel;08.1;;;92
+53902;Dreherstraße;3;3;;;Hilterscheid;13.1;;;92
+53902;Dreisbachstraße;5;15;2;18;Schönau;11.1;;;92
+53902;Drosselweg;1;21;4;18;Houverath;16.1;;;92
+53902;Ebrostraße;;;4;14;Eschweiler;04.2;;;92
+53902;Effelsberger Weg;1;21;10;22;Rodert;06.1;;;92
+53902;Ehrlichweg;1;19;10;10;Kirspenich;02.1;;;92
+53902;Eichelweg;;;4;6;Hummerzheim;14.2;;;92
+53902;Eichener Straße;1;9;10;38;Houverath;16.1;;;92
+53902;Eichenweg;9;9;;;Esch;13.2;;;92
+53902;Eicherscheider Straße;7;39;6;44;Schönau;11.1;;;92
+53902;Eifeldomstraße;1;45;2;40;Houverath;16.1;;;92
+53902;Engelsbergweg;1;3;2;4;Mahlberg;12.1;;;92
+53902;Engertsweg;1;45;8;44;Langscheid;11.1;;;92
+53902;Entenmarkt;;;4;22;Bad Münstereifel;06.2;;;92
+53902;Erftstraße;17;59;4;52;Schönau;11.1;;;92
+53902;Erlenhecke;1;41;;;Arloff;01.1;;;92
+53902;Erlenweg;9;13;;;Esch;13.2;;;92
+53902;Eschenstraße;1;75;8;60;Esch;13.2;;;92
+53902;Escher Heide;1;35;14;80;Esch;13.2;;;92
+53902;Eschweilerweg;1;17;4;22;Iversheim;04.1;;;92
+53902;Eselsbergweg;1;11;4;14;Rodert;06.1;;;92
+53902;Essigstraße;1;1;;;Scheuren;16.1;;;92
+53902;Euskirchener Straße;15;135;20;120;Iversheim;04.1;;;92
+53902;Fabrikstraße;1;15;2;6;Kirspenich;02.1;;;92
+53902;Falderstraße;1;11;2;20;Eschweiler;04.2;;;92
+53902;Falkenstraße;3;13;6;6;Ohlerath;13.1;;;92
+53902;Fasanenweg;1;1;4;6;Sasserath;13.2;;;92
+53902;Feldmohnstraße;;;8;10;Willerscheid;14.2;;;92
+53902;Fibergasse;3;5;2;8;Bad Münstereifel;07.1;;;92
+53902;Fichtenweg;5;29;8;20;Nitterscheid;13.1;;;92
+53902;Finkenweg;1;19;;;Bad Münstereifel;09.1;;;92
+53902;Flaches Feld;3;17;;;Bad Münstereifel;09.1;;;92
+53902;Flettenbergweg;3;45;2;40;Kirspenich;02.1;;;92
+53902;Fliederstraße;1;23;2;30;Willerscheid;14.2;;;92
+53902;Flurweg;7;21;2;16;Langscheid;11.1;;;92
+53902;Forsthaus Hülloch;1;1;;;Scheuren;16.1;;;92
+53902;Fougeresstraße;3;21;2;22;Bad Münstereifel;07.1;;;92
+53902;Fr.-Ebert-Straße;3;35;2;16;Iversheim;04.1;;;92
+53902;Frankenstraße;45;71;16;74;Reckerscheid;12.1;;;92
+53902;Frauenhoferweg;3;7;6;34;Scheuerheck;15.1;;;92
+53902;Friedhofsweg;;;4;4;Mahlberg;12.1;;;92
+53902;Friesenbenden;3;11;4;10;Schönau;11.1;;;92
+53902;Fringsgasse;1;13;2;14;Mahlberg;12.1;;;92
+53902;Frohnertweg;1;9;4;14;Soller;12.1;;;92
+53902;Frommert;9;11;2;20;Nöthen;05.1;;;92
+53902;Fuchsweg;7;7;8;8;Hummerzheim;14.2;;;92
+53902;Fuhrweg;1;33;6;44;Schönau;11.1;;;92
+53902;Funkenstraße;3;13;4;12;Ohlerath;13.1;;;92
+53902;Gartenstraße;1;9;2;12;Arloff;01.1;;;92
+53902;Gartzweilerstraße;;;2;4;Bad Münstereifel;09.1;;;92
+53902;Geisbüchel;3;3;;;Nöthen;05.1;;;92
+53902;Geranienstraße;1;1;4;4;Mutscheid;13.1;;;92
+53902;Gerhardstraße;1;1;;;Witscheiderhof;10.1;;;92
+53902;Giersberg;1;7;2;2;Bad Münstereifel;06.2;;;92
+53902;Gierscheider Weg;1;15;4;14;Nöthen;05.1;;;92
+53902;Gilsdorfer Weg;1;25;2;2;Nöthen;05.1;;;92
+53902;Ginsterweg;29;33;2;32;Bad Münstereifel;09.1;;;92
+53902;Glückstal;1;3;;;Willerscheid;14.2;;;92
+53902;Goarstraße;3;19;2;22;Schönau;11.1;;;92
+53902;Graf-Gottfried-Straße;1;27;10;32;Bad Münstereifel;07.1;;;92
+53902;Gromischweg;5;19;2;32;Wald;15.2;;;92
+53902;Große Bleiche;1;1;;;Bad Münstereifel;07.1;;;92
+53902;Grüner Weg;3;39;2;6;Iversheim;03.1;;;92
+53902;Guidostraße;1;5;;;Witscheiderhof;10.1;;;92
+53902;Gut Hospelt;1;1;;;Odesheim;14.1;;;92
+53902;Gut Unterdickt;1;1;;;Scheuren;16.1;;;92
+53902;Gut Vogelsang;37;37;;;Bad Münstereifel;07.1;;;92
+53902;Gutenbergweg;3;11;2;12;Kirspenich;02.1;;;92
+53902;Gynettistraße;1;17;8;22;Bad Münstereifel;09.1;;;92
+53902;Gäßchen;5;11;4;10;Hohn;05.2;;;92
+53902;Haagstraße;1;19;2;10;Eschweiler;04.2;;;92
+53902;Hagebuche;3;9;4;4;Langscheid;11.1;;;92
+53902;Hagelkreuzweg;9;9;;;Eicherscheid;10.1;;;92
+53902;Hainweg;1;7;4;8;Langscheid;11.1;;;92
+53902;Halfenberg;1;1;;;Nitterscheid;13.1;;;92
+53902;Hammersbergweg;7;37;8;30;Schönau;11.1;;;92
+53902;Hardtbrücke;17;17;4;4;Berresheim;14.2;;;92
+53902;Hardtburgstraße;1;25;2;24;Kirspenich;02.1;;;92
+53902;Harscheider Weg;3;31;14;26;Rupperath;14.1;;;92
+53902;Hartges Gasse;;;2;6;Effelsberg;15.1;;;92
+53902;Hartweg;;;2;6;Maulbach;16.1;;;92
+53902;Hasenbergstraße;7;11;;;Lanzerath;16.1;;;92
+53902;Hasselweg;1;11;;;Holzem;15.1;;;92
+53902;Hauptstraße;15;51;16;38;Hilterscheid;13.1;;;92
+53902;Haus Hardt;11;11;12;38;Holzem;15.1;;;92
+53902;Haydnstraße;1;11;4;12;Arloff;01.1;;;92
+53902;Heckenbergstraße;27;65;20;52;Rodert;06.1;;;92
+53902;Hegebachweg;15;29;2;22;Rodert;06.1;;;92
+53902;Heideweg;9;65;2;36;Scheuerheck;15.1;;;92
+53902;Heimstraße;;;8;10;Nöthen;05.1;;;92
+53902;Heinenstraße;3;3;;;Bad Münstereifel;09.1;;;92
+53902;Heinestraße;;;16;16;Sasserath;13.2;;;92
+53902;Heinrichstraße;1;9;2;8;Bergrath;10.1;;;92
+53902;Heinz-Mauel-Straße;9;19;4;16;Houverath;16.1;;;92
+53902;Heisterbacher Straße;3;9;2;38;Bad Münstereifel;07.1;;;92
+53902;Heltenstraße;1;21;6;14;Eschweiler;04.2;;;92
+53902;Hennesweg;5;39;6;58;Bad Münstereifel;07.1;;;92
+53902;Hermann-Joseph-Straße;;;2;6;Mahlberg;12.1;;;92
+53902;Hermann-Löher-Straße;1;5;;;Bad Münstereifel;09.1;;;92
+53902;Hermann-Pünder-Straße;1;29;;;Bad Münstereifel;09.1;;;92
+53902;Herrenweide;1;9;2;12;Kirspenich;02.1;;;92
+53902;Hervertsweg;5;5;2;2;Langscheid;11.1;;;92
+53902;Hilterscheider Straße;3;25;24;26;Ohlerath;13.1;;;92
+53902;Hirnbergweg;1;13;;;Nöthen;05.1;;;92
+53902;Hirschweg;1;1;;;Soller;12.1;;;92
+53902;Hochstraße;3;45;2;60;Sasserath;13.2;;;92
+53902;Hochtürmer Straße;5;21;2;26;Lanzerath;16.1;;;92
+53902;Hoffmannstraße;1;3;2;2;Ohlerath;13.1;;;92
+53902;Hohler Weg;7;7;2;12;Berresheim;14.2;;;92
+53902;Hohner Weg;5;53;14;56;Nöthen;05.1;;;92
+53902;Hohweg;1;1;8;12;Wald;15.2;;;92
+53902;Holzemer Straße;21;77;30;56;Holzem;15.1;;;92
+53902;Holzgasse;1;37;2;70;Arloff;01.1;;;92
+53902;Holzheimer Straße;1;3;2;14;Eschweiler;04.2;;;92
+53902;Holzmülheimer Straße;1;25;6;6;Schönau;11.1;;;92
+53902;Hoschgasse;1;5;;;Mahlberg;12.1;;;92
+53902;Houverather Straße;3;13;2;18;Limbach;16.1;;;92
+53902;Hubertuskapelle;5;21;2;26;Arloff;01.1;;;92
+53902;Hubertusweg;1;33;4;30;Bad Münstereifel;08.1;;;92
+53902;Höhenweg;3;11;2;12;Soller;12.1;;;92
+53902;Hüllenweg;3;19;2;14;Houverath;16.1;;;92
+53902;Hünkhovener Kreuz;1;11;2;2;Rupperath;14.1;;;92
+53902;Hürtgenweg;3;19;4;10;Schönau;11.1;;;92
+53902;Igelweg;1;9;6;6;Nitterscheid;13.1;;;92
+53902;Im Baist;;;4;42;Kirspenich;02.1;;;92
+53902;Im Bendchen;1;7;2;8;Limbach;16.1;;;92
+53902;Im Bendgesgarten;1;17;2;32;Hilterscheid;13.1;;;92
+53902;Im Elsengarten;5;21;4;30;Eicherscheid;10.1;;;92
+53902;Im Floting;3;33;2;26;Kirspenich;02.1;;;92
+53902;Im Frauengarten;3;9;2;6;Hilterscheid;13.1;;;92
+53902;Im Gerstental;;;6;6;Eschweiler;04.2;;;92
+53902;Im Großengarten;1;11;2;12;Lanzerath;16.1;;;92
+53902;Im Harten Feldchen;7;21;6;14;Rodert;06.1;;;92
+53902;Im Harthgarten;1;7;4;16;Nöthen;05.1;;;92
+53902;Im Kessel;15;17;2;8;Nöthen;05.1;;;92
+53902;Im Kronenberg;3;11;4;14;Houverath;16.1;;;92
+53902;Im Meisenberg;15;15;10;10;Eichen;16.1;;;92
+53902;Im Pöttling;1;13;2;16;Rupperath;14.1;;;92
+53902;Im Quersiefen;;;4;10;Houverath;16.1;;;92
+53902;Im Schwanel;1;11;2;14;Houverath;16.1;;;92
+53902;Im Spies;1;5;2;4;Holzem;15.1;;;92
+53902;Im Wiesengrund;;;12;30;Maulbach;16.1;;;92
+53902;In den Benden;3;19;4;22;Arloff;01.1;;;92
+53902;In den Höffeln;5;7;;;Esch;13.2;;;92
+53902;In den Wiesen;5;5;;;Langscheid;11.1;;;92
+53902;In der Aspel;3;3;6;16;Maulbach;16.1;;;92
+53902;In der Buch;1;25;24;26;Nöthen;05.1;;;92
+53902;In der Dreimühle;;;4;4;Bad Münstereifel;06.2;;;92
+53902;In der Fließ;1;37;8;10;Arloff;01.1;;;92
+53902;In der Grube;1;9;2;20;Effelsberg;15.1;;;92
+53902;In der Heilenbach;;;20;20;Lanzerath;16.1;;;92
+53902;In der Höll;3;13;2;14;Gilsdorf;05.1;;;92
+53902;In der Hütte;1;5;4;8;Iversheim;03.1;;;92
+53902;In der Kauen;7;7;4;16;Eicherscheid;10.1;;;92
+53902;In der Kleinen Otterbach;3;33;2;38;Bad Münstereifel;09.1;;;92
+53902;In der Senke;9;33;10;28;Rodert;06.1;;;92
+53902;Irmgardweg;;;8;10;Langscheid;11.1;;;92
+53902;Irscheider Weg;1;19;4;22;Eicherscheid;10.1;;;92
+53902;Isarstraße;3;3;2;10;Eschweiler;04.2;;;92
+53902;Iversheimer Straße;1;71;2;62;Eschweiler;04.2;;;92
+53902;Jahnstraße;3;11;;;Kirspenich;02.1;;;92
+53902;Jakob-Katzfey-Straße;13;37;2;14;Bad Münstereifel;07.1;;;92
+53902;Jakobsweg;3;15;2;20;Wald;15.2;;;92
+53902;Jasminstraße;;;2;4;Willerscheid;14.2;;;92
+53902;Johann-Fohr-Straße;;;2;8;Arloff;02.1;;;92
+53902;Johannes-Kepler-Straße;3;19;2;18;Effelsberg;15.1;;;92
+53902;Johannisstraße;3;15;6;18;Bad Münstereifel;06.2;;;92
+53902;John-Wiles-Straße;1;1;2;4;Bad Münstereifel;08.1;;;92
+53902;Kalkarer Weg;1;1;;;Iversheim;04.1;;;92
+53902;Kanarienweg;3;11;4;4;Houverath;16.1;;;92
+53902;Kanderweg;;;6;6;Eschweiler;04.2;;;92
+53902;Kapellenweg;1;17;;;Eichen;16.1;;;92
+53902;Kapuzinergasse;3;17;;;Bad Münstereifel;07.1;;;92
+53902;Karlstraße;1;1;2;6;Kolvenbach;05.2;;;92
+53902;Karpfenstraße;3;55;2;56;Kolvenbach;05.2;;;92
+53902;Karpfenstraße;3;55;4;56;Hohn;05.2;;;92
+53902;Keltenstraße;1;9;2;8;Kirspenich;02.1;;;92
+53902;Kempensiefen;1;23;;;Wald;15.2;;;92
+53902;Kentstraße;3;13;2;10;Bad Münstereifel;08.1;;;92
+53902;Kettengasse;1;17;2;12;Bad Münstereifel;06.2;;;92
+53902;Kirchert;1;1;2;2;Scheuren;16.1;;;92
+53902;Kirchplatz;;;2;20;Bad Münstereifel;07.1;;;92
+53902;Kirschenweg;3;9;4;6;Berresheim;14.2;;;92
+53902;Klappershardt;1;7;;;Soller;12.1;;;92
+53902;Kleinbendchen;3;5;2;12;Nöthen;05.1;;;92
+53902;Klosterplatz;;;2;20;Bad Münstereifel;07.1;;;92
+53902;Klosterweg;1;23;8;22;Rupperath;14.1;;;92
+53902;Kohlstraße;1;39;4;24;Eicherscheid;10.1;;;92
+53902;Konrad-Adenauer-Höhe;3;3;;;Wald;15.2;;;92
+53902;Konradgasse;1;1;10;10;Kolvenbach;05.2;;;92
+53902;Kop Nück;1;3;2;8;Mahlberg;12.1;;;92
+53902;Kopernikusstraße;;;14;14;Effelsberg;15.1;;;92
+53902;Kreuzgäßchen;1;5;10;10;Bad Münstereifel;06.2;;;92
+53902;Kreuznücke;1;13;;;Houverath;16.1;;;92
+53902;Kreuzstraße;3;15;2;10;Mahlberg;12.1;;;92
+53902;Kreuzweingartener Weg;3;5;2;8;Kalkar;01.2;;;92
+53902;Kurzweg;;;2;8;Hummerzheim;14.2;;;92
+53902;Kölner Straße;1;33;16;84;Bad Münstereifel;08.1;;;92
+53902;Kölner Straße;37;65;88;178;Bad Münstereifel;09.1;;;92
+53902;Köndgenstraße;5;5;;;Sasserath;13.2;;;92
+53902;Lagrangestraße;;;8;10;Arloff;01.1;;;92
+53902;Lambertsgarten;9;9;8;12;Odesheim;14.1;;;92
+53902;Langenhecke;3;43;10;30;Bad Münstereifel;08.1;;;92
+53902;Lanzerather Straße;21;21;20;20;Eichen;16.1;;;92
+53902;Lehmkaul;1;21;8;12;Hohn;05.2;;;92
+53902;Lenzstraße;1;23;2;36;Sasserath;13.2;;;92
+53902;Lerchenhang;;;2;10;Hünkhoven;14.1;;;92
+53902;Letherter Landstraße;1;35;4;36;Lethert;15.1;;;92
+53902;Liersbachweg;3;15;6;16;Reckerscheid;12.1;;;92
+53902;Lierser Mühle;1;1;2;2;Effelsberg;15.1;;;92
+53902;Lilienstraße;1;17;2;12;Willerscheid;14.2;;;92
+53902;Limbacher Straße;1;23;2;30;Houverath;16.1;;;92
+53902;Lindenweg;1;23;4;22;Esch;13.2;;;92
+53902;Lingscheider Weg;5;47;2;44;Eicherscheid;10.1;;;92
+53902;Lingscheiderhof;3;11;10;10;Lingscheiderhof;11.1;;;92
+53902;Linnerijstraße;1;25;6;30;Bad Münstereifel;09.1;;;92
+53902;Loireweg;1;11;2;20;Eschweiler;04.2;;;92
+53902;Lorinckstraße;1;7;6;8;Arloff;01.1;;;92
+53902;Lückenbachstraße;1;5;;;Schönau;11.1;;;92
+53902;Lüftildisstraße;1;23;6;22;Odesheim;14.1;;;92
+53902;Mahlberger Straße;3;37;2;36;Schönau;11.1;;;92
+53902;Mandelweg;;;10;10;Reckerscheid;12.1;;;92
+53902;Margeritenstraße;7;31;12;12;Willerscheid;14.2;;;92
+53902;Maria-Rast-Straße;1;1;2;10;Kalkar;01.2;;;92
+53902;Marienbäumchen;9;9;2;10;Nöthen;05.1;;;92
+53902;Marienstraße;5;5;4;4;Langscheid;11.1;;;92
+53902;Markt;1;15;4;8;Bad Münstereifel;06.2;;;92
+53902;Marktstraße;1;7;4;16;Bad Münstereifel;07.1;;;92
+53902;Marquardstraße;1;5;2;8;Bad Münstereifel;08.1;;;92
+53902;Martinsweg;1;15;4;18;Berresheim;14.2;;;92
+53902;Matthias-Bell-Straße;1;21;;;Kalkar;01.2;;;92
+53902;Maulbacher Weg;3;21;2;16;Houverath;16.1;;;92
+53902;Max-Planck-Straße;1;1;2;28;Effelsberg;15.1;;;92
+53902;Meisenweg;3;3;2;2;Hünkhoven;14.1;;;92
+53902;Michelsbergstraße;1;39;8;46;Mahlberg;12.1;;;92
+53902;Miersenfeldgen;1;5;10;10;Rodert;06.1;;;92
+53902;Mittelstraße;3;11;2;24;Berresheim;14.2;;;92
+53902;Moldaustraße;;;2;4;Eschweiler;04.2;;;92
+53902;Moselweg;;;2;6;Eschweiler;04.2;;;92
+53902;Mozartweg;1;13;;;Arloff;01.1;;;92
+53902;Mutscheider Weg;;;2;4;Ohlerath;13.1;;;92
+53902;Möwenweg;1;1;2;16;Nitterscheid;13.1;;;92
+53902;Mühlenberg;3;45;2;18;Houverath;16.1;;;92
+53902;Mühlengasse;5;7;2;6;Iversheim;03.1;;;92
+53902;Mühlenweg;9;21;4;16;Rupperath;14.1;;;92
+53902;Müllendorffstraße;11;13;2;14;Bad Münstereifel;08.1;;;92
+53902;Münstereifeler Straße;;;2;66;Arloff;01.1;;;92
+53902;Münstergasse;1;23;2;28;Schönau;11.1;;;92
+53902;Nachtigallenweg;7;25;6;22;Bad Münstereifel;09.1;;;92
+53902;Napoleonstraße;1;7;8;8;Rodert;06.1;;;92
+53902;Narzissenweg;;;2;8;Mutscheid;13.1;;;92
+53902;Neichener Weg;7;11;;;Holzem;15.1;;;92
+53902;Nelkenstraße;1;5;6;32;Scheuren;16.1;;;92
+53902;Neuer Weg;1;1;10;10;Berresheim;14.2;;;92
+53902;Neustraße;3;39;2;42;Schönau;11.1;;;92
+53902;Nierenfelder Straße;1;13;4;10;Ohlerath;13.1;;;92
+53902;Nordstraße;3;11;2;14;Kalkar;01.2;;;92
+53902;Nußbaumstraße;13;67;4;54;Sasserath;13.2;;;92
+53902;Nußheckenweg;1;1;4;10;Esch;13.2;;;92
+53902;Nöthener Mühle;1;1;;;Nöthen;05.1;;;92
+53902;Nöthener Straße;1;63;2;78;Bad Münstereifel;07.1;;;92
+53902;Obergasse;1;11;2;8;Iversheim;03.1;;;92
+53902;Oberste Kumm;1;19;;;Iversheim;04.1;;;92
+53902;Ochhermen;1;29;4;22;Bad Münstereifel;07.1;;;92
+53902;Ochsenbendchen;3;3;2;8;Houverath;16.1;;;92
+53902;Odesheimer Weg;11;17;8;12;Hünkhoven;14.1;;;92
+53902;Odinstraße;5;41;6;26;Odesheim;14.1;;;92
+53902;Ohndorfer Weg;1;13;4;10;Arloff;02.1;;;92
+53902;Olefstraße;1;7;2;12;Eschweiler;04.2;;;92
+53902;Orchheimer Straße;5;39;6;50;Bad Münstereifel;06.2;;;92
+53902;Oststraße;1;33;4;16;Mahlberg;12.1;;;92
+53902;Otterbach;1;77;2;54;Bad Münstereifel;09.1;;;92
+53902;Pascalweg;1;5;2;6;Kirspenich;02.1;;;92
+53902;Pastoratsacker;1;1;;;Houverath;16.1;;;92
+53902;Pastorenpfad;;;4;10;Rupperath;14.1;;;92
+53902;Pater-Hilger-Straße;;;2;18;Wald;15.2;;;92
+53902;Pater-Rupperath-Straße;;;2;4;Lethert;15.1;;;92
+53902;Paulstraße;1;31;4;20;Bergrath;10.1;;;92
+53902;Pescher Straße;7;31;8;34;Gilsdorf;05.1;;;92
+53902;Peter-Greven-Straße;;;8;20;Iversheim;04.1;;;92
+53902;Peter-Joseph-Fey-Straße;1;11;2;12;Bad Münstereifel;07.1;;;92
+53902;Pfaffenbuschweg;1;5;8;14;Hohn;05.2;;;92
+53902;Pfarrer-Alertz-Straße;5;9;;;Houverath;16.1;;;92
+53902;Pfarrer-Becker-Straße;1;33;2;26;Kirspenich;02.1;;;92
+53902;Pistorei;1;7;;;Bad Münstereifel;07.1;;;92
+53902;Postweg;1;7;2;8;Schönau;11.1;;;92
+53902;Provinzialstraße;13;29;16;22;Esch;13.2;;;92
+53902;Pützberg;1;11;2;8;Arloff;02.1;;;92
+53902;Pützgasse;1;9;2;4;Eschweiler;04.2;;;92
+53902;Rabensiefenweg;5;9;4;4;Hummerzheim;14.2;;;92
+53902;Radberg;1;1;10;10;Rodert;06.1;;;92
+53902;Rainerstraße;3;7;2;6;Witscheiderhof;10.1;;;92
+53902;Rainstraße;5;5;4;8;Soller;12.1;;;92
+53902;Reckerscheider Straße;1;7;2;2;Mahlberg;12.1;;;92
+53902;Rehnstraße;11;55;2;44;Ellesheim;13.1;;;92
+53902;Reuterweg;1;19;4;26;Houverath;16.1;;;92
+53902;Rheinbacher Straße;27;27;2;4;Lanzerath;16.1;;;92
+53902;Rhoneweg;3;5;2;10;Eschweiler;04.2;;;92
+53902;Riehler Weg;3;5;2;4;Lanzerath;16.1;;;92
+53902;Ringstraße;3;43;8;30;Maulbach;16.1;;;92
+53902;Rittersweg;1;49;4;30;Schönau;11.1;;;92
+53902;Roderter Kirchweg;15;61;14;14;Bad Münstereifel;06.2;;;92
+53902;Romulusstraße;5;17;2;20;Kalkar;01.2;;;92
+53902;Rosenhecke;1;1;;;Eichen;16.1;;;92
+53902;Rosenweg;3;5;4;4;Reckerscheid;12.1;;;92
+53902;Rothecke;15;15;4;10;Eicherscheid;10.1;;;92
+53902;Runneweg;5;7;8;8;Schönau;11.1;;;92
+53902;Rupperather Ring;5;33;2;64;Rupperath;14.1;;;92
+53902;Röddergasse;3;5;2;6;Kolvenbach;05.2;;;92
+53902;Römerstraße;9;27;4;36;Mahlberg;12.1;;;92
+53902;Rönnstraße;3;43;8;52;Nöthen;05.1;;;92
+53902;Röntgenweg;1;7;2;8;Kirspenich;02.1;;;92
+53902;Röttgenweg;3;15;;;Rodert;06.1;;;92
+53902;Salzachstraße;;;2;8;Eschweiler;04.2;;;92
+53902;Schafelsberg;3;13;2;8;Eicherscheid;10.1;;;92
+53902;Scheuerhecker Straße;3;63;2;36;Scheuerheck;15.1;;;92
+53902;Scheurenbenden;1;3;6;6;Mahlberg;12.1;;;92
+53902;Schießbachstraße;9;9;4;26;Rodert;06.1;;;92
+53902;Schleidtalstraße;23;23;2;10;Bad Münstereifel;06.2;;;92
+53902;Schmittstraße;3;41;2;20;Soller;12.1;;;92
+53902;Schmuckstraße;3;15;6;12;Soller;12.1;;;92
+53902;Schonscheider Weg;1;7;2;40;Nitterscheid;13.1;;;92
+53902;Schubertweg;5;5;;;Honerath;13.1;;;92
+53902;Schulweg;5;5;2;2;Rupperath;14.1;;;92
+53902;Schwalbenweg;1;5;4;4;Iversheim;03.1;;;92
+53902;Schwarzer Weg;;;4;4;Nöthen;05.1;;;92
+53902;Schönauer Bergweg;3;31;2;2;Eicherscheid;10.1;;;92
+53902;Schönauer Straße;;;6;14;Langscheid;11.1;;;92
+53902;Schößbaumweg;3;7;;;Eicherscheid;10.1;;;92
+53902;Seb.Kneipp-Promenade;1;35;2;36;Bad Münstereifel;08.1;;;92
+53902;Selbachstraße;1;13;12;12;Hilterscheid;13.1;;;92
+53902;Seniorenzentrum;5;21;12;22;Bad Münstereifel;08.1;;;92
+53902;Siedl.Bädorf u.Kurth;1;1;2;2;Gilsdorf;05.1;;;92
+53902;Siedlung Fahl;1;1;;;Gilsdorf;05.1;;;92
+53902;Siedlung Gödderz;;;8;8;Reckerscheid;12.1;;;92
+53902;Siemensstraße;1;31;2;26;Kirspenich;02.1;;;92
+53902;Sittardweg;19;25;18;28;Bad Münstereifel;07.1;;;92
+53902;Speerhaus;1;1;;;Nöthen;05.1;;;92
+53902;Sperlingsweg;1;1;2;8;Bad Münstereifel;09.1;;;92
+53902;Stall Hochweg;;;0;0;Holzem;15.1;;;92
+53902;Starenweg;3;19;2;4;Wald;15.2;;;92
+53902;Stattlerstraße;1;15;;;Bad Münstereifel;08.1;;;92
+53902;Steinbüchel;3;29;2;36;Eschweiler;04.2;;;92
+53902;Steinfelder Straße;5;15;6;6;Bergrath;10.1;;;92
+53902;Steinweg;1;1;;;Berresheim;14.2;;;92
+53902;Stephanusstraße;1;17;2;8;Lethert;15.1;;;92
+53902;Stephinskystraße;1;55;2;72;Bad Münstereifel;09.1;;;92
+53902;Stumpfgasse;1;37;4;24;Bad Münstereifel;07.1;;;92
+53902;Suhrstraße;3;37;4;36;Ohlerath;13.1;;;92
+53902;Südstraße;1;15;2;16;Mahlberg;12.1;;;92
+53902;Talstraße;1;37;2;;Arloff;02.1;;;92
+53902;Talstraße;35;37;;;Kirspenich;02.1;;;92
+53902;Tannenweg;1;15;8;8;Maulbach;16.1;;;92
+53902;Teichstraße;15;29;8;28;Bad Münstereifel;06.2;;;92
+53902;Tellenweg;1;1;;;Maulbach;16.1;;;92
+53902;Teufelsloch;3;3;;;Nöthen;05.1;;;92
+53902;Themsestraße;1;13;2;20;Eschweiler;04.2;;;92
+53902;Thomasstraße;1;37;2;38;Wald;15.2;;;92
+53902;Trierer Straße;23;29;2;14;Bad Münstereifel;06.2;;;92
+53902;Triftweg;3;23;8;30;Eicherscheid;10.1;;;92
+53902;Tulpenweg;7;9;6;12;Willerscheid;14.2;;;92
+53902;Turmgasse;3;15;4;18;Eschweiler;04.2;;;92
+53902;Turmstraße;1;1;10;22;Bad Münstereifel;07.1;;;92
+53902;Uhlenbergweg;1;39;2;50;Bad Münstereifel;09.1;;;92
+53902;Unnaustraße;7;17;2;12;Bad Münstereifel;07.1;;;92
+53902;Unter den Linden;1;41;6;44;Arloff;01.1;;;92
+53902;Unterste Gasse;1;23;4;26;Iversheim;03.1;;;92
+53902;Varusstraße;1;13;2;12;Kalkar;01.2;;;92
+53902;Verdistraße;3;5;8;8;Honerath;13.1;;;92
+53902;Vogelsangstraße;1;13;2;18;Wald;15.2;;;92
+53902;Vollmert;5;49;16;48;Vollmert;11.1;;;92
+53902;Von Ayx-Straße;1;25;6;18;Bad Münstereifel;08.1;;;92
+53902;Von Goltstein-Straße;1;1;;;Mahlberg;12.1;;;92
+53902;Wachendorfer Weg;1;1;2;18;Iversheim;04.1;;;92
+53902;Wahlengasse;1;39;20;50;Kirspenich;02.1;;;92
+53902;Waldstraße;5;63;2;80;Rodert;06.1;;;92
+53902;Walessiefen;;;6;8;Odesheim;14.1;;;92
+53902;Wallgasse;3;5;;;Bad Münstereifel;08.1;;;92
+53902;Wasserscheide;1;9;;;Esch;13.2;;;92
+53902;Webersbenden;5;7;14;14;Wald;15.2;;;92
+53902;Weberstraße;1;3;6;14;Wald;15.2;;;92
+53902;Weidenweg;9;23;2;6;Wald;15.2;;;92
+53902;Weiherstraße;1;33;2;16;Arloff;01.1;;;92
+53902;Weißenstein;3;5;6;6;Weißenstein;10.1;;;92
+53902;Wendelinusstraße;1;41;2;36;Scheuren;16.1;;;92
+53902;Wendelstraße;;;4;10;Reckerscheid;12.1;;;92
+53902;Wenkelsweg;1;5;2;10;Houverath;16.1;;;92
+53902;Wenzburger Weg;3;11;2;18;Rupperath;14.1;;;92
+53902;Werkbrücke;1;1;2;2;Bad Münstereifel;07.1;;;92
+53902;Wernerstraße;3;3;2;4;Witscheiderhof;10.1;;;92
+53902;Wertherstraße;1;83;4;40;Bad Münstereifel;06.2;;;92
+53902;Wichertsweg;9;17;2;12;Schönau;11.1;;;92
+53902;Wielersbenden;3;13;2;18;Bad Münstereifel;07.1;;;92
+53902;Wieselweg;3;15;;;Hummerzheim;14.2;;;92
+53902;Wiesenstraße;3;11;2;8;Rupperath;14.1;;;92
+53902;Wiesentalstraße;1;25;4;18;Schönau;11.1;;;92
+53902;Wilder Weg;;;6;6;Schönau;11.1;;;92
+53902;Wildkatzenweg;3;3;8;8;Hummerzheim;14.2;;;92
+53902;Wilhelmstraße;1;33;4;42;Witscheiderhof;10.1;;;92
+53902;Willibrordusstraße;1;5;;;Nöthen;05.1;;;92
+53902;Willy-Brandt-Straße;9;19;2;14;Bad Münstereifel;07.1;;;92
+53902;Windenweg;1;5;2;14;Kirspenich;02.1;;;92
+53902;Windheckenweg;1;79;2;54;Bad Münstereifel;08.1;;;92
+53902;Winkelsgasse;1;9;8;8;Mahlberg;12.1;;;92
+53902;Wolfgangstraße;7;7;2;2;Witscheiderhof;10.1;;;92
+53902;Wollweg;3;19;2;10;Gilsdorf;05.1;;;92
+53902;Zeisigweg;;;4;12;Iversheim;03.1;;;92
+53902;Zillerweg;1;9;2;8;Eschweiler;04.2;;;92
+53902;Zum Alten Gericht;;;2;40;Bad Münstereifel;09.1;;;92
+53902;Zum Grünen Tal;1;1;;;Hilterscheid;13.1;;;92
+53902;Zum Rosental;7;7;6;16;Ellesheim;13.1;;;92
+53902;Zum Schützenplatz;5;7;4;6;Wald;15.2;;;92
+53902;Zum Sommerberg;3;11;8;16;Wald;15.2;;;92
+53902;Zum Steinberg;1;23;8;28;Odesheim;14.1;;;92
+53902;Zum Stuckental;3;17;10;24;Wald;15.2;;;92
+53902;Zum Weitblick;;;18;18;Soller;12.1;;;92
+53902;Zum Zwergberg;1;21;10;18;Kirspenich;02.1;;;92
+53902;Zur Alten Kirche;;;2;12;Houverath;16.1;;;92
+53902;Zur Hardt;1;9;4;10;Wald;15.2;;;92
+53902;Zur Jagdhütte;1;1;2;10;Soller;12.1;;;92
+53902;Zur Linde;1;1;2;2;Limbach;16.1;;;92
+53902;Zur Tränke;1;3;4;8;Odesheim;14.1;;;92
+53902;Zwentiboldstraße;5;15;2;2;Bad Münstereifel;07.1;;;92
+53902;Zwergstraße;;;2;10;Ohlerath;13.1;;;92
+53902;Ännchengasse;3;19;2;10;Kirspenich;02.1;;;92

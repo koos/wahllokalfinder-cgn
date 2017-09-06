@@ -36,5 +36,17 @@ aldenhoven = {
   coordinates: "6.283056, 50.895833",
   city_housing_type: "odd_even"
 }
+bad_muenstereifel = {
+  id: 5,
+  name: "Bad Münstereifel",
+  slug: "bad_muenstereifel",
+  zip: [53902],
+  state: "Nordrhein-Westfalen",
+  coordinates: "6.766111,
+  50.553056",
+  created_at: "2017-09-06 15:10:15",
+  updated_at: "2017-09-06 15:10:15",
+  city_housing_type: "odd_even"
+}
 
-City.create([ cologne, potsdam, frechen, aldenhoven])
+City.create([ cologne, potsdam, frechen, aldenhoven, bad_muenstereifel ])
