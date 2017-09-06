@@ -3,7 +3,12 @@ class Address < ActiveRecord::Base
   pg_search_scope :search_by_street, against: :street
 
   def self.search_city(search_string, city)
-    search_string = search_string.gsub('straße', 'str').gsub('Straße', 'Str').gsub(/[[:digit:]]{5}/, '')
+    search_string = search_string
+      .gsub('straße', 'str')
+      .gsub('Straße', 'str')
+      .gsub('strasse', 'str')
+      .gsub('Strasse', 'str') 
+      .gsub(/[[:digit:]]{5}/, '') # removing PLZ
     nr = search_string.match(/(\d+\w?)/).to_a.try(:first).to_i
 
     if nr != 0 && search_string[(search_string.index(nr.to_s).to_i - 1)] != " "
