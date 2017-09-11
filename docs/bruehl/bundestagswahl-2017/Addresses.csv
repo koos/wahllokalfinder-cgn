@@ -1,0 +1,412 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+50321;Adolf-Damaschke-Straße;1;7;2;8;Brühl;14.0;;;92
+50321;Agathastraße;3;7;2;16;Brühl;15.0;;;92
+50321;Ahornweg;1;15;2;16;Brühl;04.1;;;92
+50321;Akazienweg;7;19;2;16;Brühl;04.1;;;92
+50321;Alte Bohle;3;71;4;88;Brühl;07.0;;;92
+50321;Alte Bonnstraße;15;223;2;148;Brühl;22.0;;;92
+50321;Alte Bonnstraße;1;13;;;Brühl;21.0;;;92
+50321;Am Birkhof;1;1;;;Brühl;04.1;;;92
+50321;Am Daberger Hof;;;4;10;Brühl;09.0;;;92
+50321;Am Eichenbusch;1;23;2;32;Brühl;08.0;;;92
+50321;Am Falter;11;23;6;22;Brühl;03.0;;;92
+50321;Am Hennebach;1;39;2;28;Brühl;04.0;;;92
+50321;Am Hohlweg;1;13;2;14;Brühl;03.0;;;92
+50321;Am Hülderberg;1;17;2;20;Brühl;06.0;;;92
+50321;Am Inselweiher;3;33;2;24;Brühl;02.0;;;92
+50321;Am Kirchberg;1;17;4;6;Brühl;12.0;;;92
+50321;Am Krausen Baum;1;43;2;42;Brühl;08.0;;;92
+50321;Am Kreuz;7;29;4;40;Brühl;14.0;;;92
+50321;Am Kuttenbusch;1;49;2;52;Brühl;05.0;;;92
+50321;Am Michelshof;1;27;4;106;Brühl;22.0;;;92
+50321;Am Mühlenhof;1;11;10;10;Brühl;11.0;;;92
+50321;Am Pappelbusch;1;19;2;24;Brühl;09.1;;;92
+50321;Am Pastorsgarten;29;29;6;32;Brühl;05.1;;;92
+50321;Am Petershof;13;25;12;46;Brühl;22.0;;;92
+50321;Am Rankewerk;3;9;;;Brühl;02.0;;;92
+50321;Am Rheindorfer Bach;1;25;4;18;Brühl;03.0;;;92
+50321;Am Ringofen;1;49;2;62;Brühl;07.0;;;92
+50321;Am Rolfsacker;1;5;2;16;Brühl;08.0;;;92
+50321;Am Rott;5;23;6;14;Brühl;05.0;;;92
+50321;Am Römerkanal;1;1;2;26;Brühl;07.0;;;92
+50321;Am Siegesbach;1;35;2;52;Brühl;10.0;;;92
+50321;Am Strauchshof;;;4;4;Brühl;03.0;;;92
+50321;Am Volkspark;3;19;;;Brühl;17.0;;;92
+50321;An Haus Vendel;1;25;2;20;Brühl;07.0;;;92
+50321;An Hornsgarten;;;2;16;Brühl;22.0;;;92
+50321;An Maria Glück;3;13;4;30;Brühl;07.0;;;92
+50321;An Schloss Falkenlust;;;0;0;Brühl;02.0;;;92
+50321;An der Alten Zuckerfabrik;1;1;2;24;Brühl;02.0;;;92
+50321;An der Bleiche;;;2;4;Brühl;19.0;;;92
+50321;An der Brücke;7;11;2;8;Brühl;11.0;;;92
+50321;An der Hohlen Gasse;5;9;4;4;Brühl;03.0;;;92
+50321;An der Kapelle;;;2;2;Brühl;05.1;;;92
+50321;An der Linde;1;21;2;16;Brühl;15.0;;;92
+50321;An der Schallenburg;1;51;4;18;Brühl;03.0;;;92
+50321;An der Synagoge;;;4;8;Brühl;19.0;;;92
+50321;An der Ziegelei;1;5;2;10;Brühl;07.0;;;92
+50321;Andreaskirchplatz;;;4;16;Brühl;15.0;;;92
+50321;Anna-Schmitz-Straße;1;29;2;34;Brühl;02.0;;;92
+50321;Anton-Ockenfels-Straße;1;53;2;48;Brühl;05.0;;;92
+50321;Arminiusweg;1;7;2;12;Brühl;07.0;;;92
+50321;Arndtstraße;1;11;2;8;Brühl;16.0;;;92
+50321;Auf dem Gallberg;1;35;30;76;Brühl;04.1;;;92
+50321;Auf dem Kamm;1;69;6;100;Brühl;05.0;;;92
+50321;Auf den Steinen;11;45;8;52;Brühl;05.1;;;92
+50321;Auf der Höhe;29;49;28;50;Brühl;07.0;;;92
+50321;Auf der Kehre;3;23;2;28;Brühl;05.0;;;92
+50321;Auf der Pehle;1;25;2;20;Brühl;21.0;;;92
+50321;Auf der Pehle;35;69;36;72;Brühl;22.0;;;92
+50321;Auguste-Viktoria-Str.;21;75;2;56;Brühl;16.0;;;92
+50321;Badorfer Straße;39;119;38;124;Brühl;05.0;;;92
+50321;Badorfer Straße;17;35;4;34;Brühl;06.0;;;92
+50321;Bahnhofstraße;1;19;4;20;Brühl;19.0;;;92
+50321;Balthasar-Neumann-Platz;1;1;24;28;Brühl;18.0;;;92
+50321;Barbarastraße;1;73;2;52;Brühl;10.0;;;92
+50321;Bavinganstr.;3;35;2;50;Brühl;05.1;;;92
+50321;Bendgespfad;1;19;2;18;Brühl;05.0;;;92
+50321;Bergerstraße;3;57;2;38;Brühl;02.0;;;92
+50321;Bergerstraße;;;78;164;Brühl;01.0;;;92
+50321;Bergerstraße;;;78;164;Brühl;01.0;;;92
+50321;Berggasse;1;1;4;4;Brühl;05.0;;;92
+50321;Berggeiststraße;3;115;100;102;Brühl;04.1;;;92
+50321;Bergstraße;35;57;2;66;Brühl;10.0;;;92
+50321;Berliner Ring;1;87;2;44;Brühl;22.0;;;92
+50321;Berrenrather Straße;1;51;2;38;Brühl;11.0;;;92
+50321;Bertolt-Brecht-Straße;1;11;;;Brühl;22.0;;;92
+50321;Bitterfelder Straße;1;1;2;32;Brühl;13.0;;;92
+50321;Bonnstraße;297;461;340;500;Brühl;03.0;;;92
+50321;Bonnstraße;1;159;4;200;Brühl;20.0;;;92
+50321;Brauweilerweg;;;2;36;Brühl;14.0;;;92
+50321;Bremer Straße;11;11;;;Brühl;15.0;;;92
+50321;Breslauer Straße;1;25;2;96;Brühl;12.0;;;92
+50321;Brückenstraße;1;1;2;8;Brühl;15.0;;;92
+50321;Buba-Waerterh.Falkenlu;;;0;0;Brühl;03.0;;;92
+50321;Buchenweg;1;15;2;16;Brühl;04.1;;;92
+50321;Burgpfad;1;29;10;52;Brühl;06.0;;;92
+50321;Burgstraße;1;27;2;24;Brühl;19.0;;;92
+50321;Buschgasse;1;79;2;78;Brühl;06.0;;;92
+50321;Böningergasse;3;19;4;24;Brühl;20.0;;;92
+50321;Carl-Schurz-Straße;1;33;2;42;Brühl;19.0;;;92
+50321;Chlodwigstraße;1;39;2;12;Brühl;08.0;;;92
+50321;Clemens-August-Straße;9;29;4;22;Brühl;20.0;;;92
+50321;Clemens-August-Straße;35;55;40;54;Brühl;18.0;;;92
+50321;Comesstraße;;;2;34;Brühl;19.0;;;92
+50321;Comesstraße;23;53;;;Brühl;17.0;;;92
+50321;Cottbuser Weg;1;3;2;18;Brühl;12.0;;;92
+50321;Cäcilienstraße;1;37;2;22;Brühl;01.0;;;92
+50321;Daberger Höhe;1;57;2;20;Brühl;12.0;;;92
+50321;Daberger Weg;3;65;2;48;Brühl;12.0;;;92
+50321;Danziger Straße;1;49;2;70;Brühl;13.0;;;92
+50321;Donatusstraße;1;9;2;10;Brühl;07.0;;;92
+50321;Drachenfelsstraße;;;2;28;Brühl;07.0;;;92
+50321;Dreichtenweg;99;99;;;Brühl;03.0;;;92
+50321;Dresdener Straße;1;15;;;Brühl;14.0;;;92
+50321;Eckdorfer Mühlenweg;1;49;2;50;Brühl;04.0;;;92
+50321;Eckdorfer Straße;41;117;46;132;Brühl;04.0;;;92
+50321;Eckdorfer Straße;1;35;6;26;Brühl;05.1;;;92
+50321;Edelgasse;1;3;2;14;Brühl;05.0;;;92
+50321;Eibenweg;1;41;2;26;Brühl;09.1;;;92
+50321;Eichendorffstraße;1;9;;;Brühl;21.0;;;92
+50321;Eichweg;3;29;2;22;Brühl;22.0;;;92
+50321;Eifelstraße;1;5;10;12;Brühl;05.0;;;92
+50321;Elisabethstraße;1;55;6;68;Brühl;02.0;;;92
+50321;Elsterpfad;;;2;2;Brühl;11.0;;;92
+50321;Engeldorfer Straße;17;21;;;Brühl;01.0;;;92
+50321;Erich-Kästner-Straße;1;9;2;6;Brühl;22.0;;;92
+50321;Erlengrund;1;7;2;32;Brühl;09.1;;;92
+50321;Euskirchener Straße;11;225;6;276;Brühl;06.0;;;92
+50321;Fischenicher Straße;3;17;;;Brühl;15.0;;;92
+50321;Fischmarkt;3;15;8;14;Brühl;20.0;;;92
+50321;Flechtenweg;7;41;2;50;Brühl;03.0;;;92
+50321;Frankenstraße;;;4;40;Brühl;08.0;;;92
+50321;Franz-von-Kesseler-Straße;1;39;2;40;Brühl;11.0;;;92
+50321;Franziskanerhof;3;11;16;16;Brühl;19.0;;;92
+50321;Franzstraße;1;37;2;32;Brühl;01.0;;;92
+50321;Frechener Straße;1;61;52;124;Brühl;14.0;;;92
+50321;Fredenbruch;1;41;4;20;Brühl;11.0;;;92
+50321;Freiheitstraße;9;23;2;12;Brühl;10.0;;;92
+50321;Freiherr-vom-Stein-Straße;1;19;2;24;Brühl;16.0;;;92
+50321;Friederikeweg;1;13;2;6;Brühl;10.0;;;92
+50321;Friedrich-Ebert-Straße;1;9;2;40;Brühl;11.0;;;92
+50321;Friedrichstraße;9;39;10;38;Brühl;17.0;;;92
+50321;Fritz-Wündisch-Str.;1;27;4;58;Brühl;22.0;;;92
+50321;Fronhofweg;1;43;2;58;Brühl;15.0;;;92
+50321;Fuchsstraße;;;4;6;Brühl;03.0;;;92
+50321;Gabriele-Münter-Weg;1;11;2;12;Brühl;02.0;;;92
+50321;Gartenstraße;1;25;8;28;Brühl;19.0;;;92
+50321;Gebrüder-Grimm-Straße;5;9;2;10;Brühl;22.0;;;92
+50321;Geildorfer Bach;;;2;32;Brühl;05.1;;;92
+50321;Geildorfer Straße;1;35;4;40;Brühl;22.0;;;92
+50321;Georg-Grosser-Straße;;;2;20;Brühl;16.0;;;92
+50321;Georg-Grosser-Straße;1;3;;;Brühl;18.0;;;92
+50321;Georg-Sandmann-Straße;1;31;4;32;Brühl;18.0;;;92
+50321;Gertrudenstraße;1;43;2;34;Brühl;01.0;;;92
+50321;Ginsterhang;1;47;2;46;Brühl;09.1;;;92
+50321;Gleueler Weg;1;1;;;Brühl;15.0;;;92
+50321;Glizmudisstraße;1;35;2;26;Brühl;05.1;;;92
+50321;Goethestraße;1;37;2;40;Brühl;21.0;;;92
+50321;Gottfried-Keller-Straße;1;9;2;14;Brühl;22.0;;;92
+50321;Grubenstraße;1;67;18;98;Brühl;10.0;;;92
+50321;Gruhlstraße;1;17;2;20;Brühl;10.0;;;92
+50321;Grünebergstraße;1;1;2;10;Brühl;07.0;;;92
+50321;Grüner Weg;57;81;46;82;Brühl;04.0;;;92
+50321;Gustav-Wegge-Straße;;;2;18;Brühl;10.0;;;92
+50321;Hainbuchenweg;1;11;2;36;Brühl;09.1;;;92
+50321;Hamburger Straße;13;13;;;Brühl;15.0;;;92
+50321;Hannah-Arendt-Straße;;;2;64;Brühl;02.0;;;92
+50321;Hauptstraße;1;41;2;40;Brühl;15.0;;;92
+50321;Hauptstraße;45;131;48;118;Brühl;14.0;;;92
+50321;Heider Bergsee;1;67;0;162;Brühl;10.0;;;92
+50321;Heinestraße;5;31;6;10;Brühl;21.0;;;92
+50321;Heinrich-Esser-Straße;;;16;30;Brühl;17.0;;;92
+50321;Heinrich-Esser-Straße;19;35;;;Brühl;19.0;;;92
+50321;Heinrich-Kreutzberg-Str.;1;13;2;14;Brühl;12.0;;;92
+50321;Heinrich-Lierz-Straße;1;29;2;30;Brühl;05.1;;;92
+50321;Helma-Meyers-Straße;1;23;;;Brühl;02.0;;;92
+50321;Hennersweg;1;7;2;4;Brühl;10.0;;;92
+50321;Hermann-Faßbender-Straße;1;29;2;26;Brühl;03.0;;;92
+50321;Hermann-Gruhl-Straße;1;7;;;Brühl;10.0;;;92
+50321;Hermann-Löns-Straße;1;9;2;10;Brühl;17.0;;;92
+50321;Hermannstraße;1;37;4;36;Brühl;19.0;;;92
+50321;Hermülheimer Straße;5;5;6;6;Brühl;15.0;;;92
+50321;Herseler Straße;1;19;2;34;Brühl;21.0;;;92
+50321;Himmelreich;3;43;8;32;Brühl;10.0;;;92
+50321;Hochstraße;3;29;6;26;Brühl;10.0;;;92
+50321;Hommelsheimstraße;1;9;2;12;Brühl;03.0;;;92
+50321;Hospitalstraße;1;35;14;26;Brühl;19.0;;;92
+50321;Hubert-Geuer-Straße;1;71;2;4;Brühl;20.0;;;92
+50321;Hubertusstraße;1;15;;;Brühl;17.0;;;92
+50321;Härriskuhl;1;7;2;12;Brühl;10.0;;;92
+50321;Höhenweg;17;19;;;Brühl;10.0;;;92
+50321;Hüllenweg;27;83;6;150;Brühl;06.0;;;92
+50321;Hürther Straße;;;2;32;Brühl;14.0;;;92
+50321;Ida-Ehre-Weg;1;11;2;12;Brühl;02.0;;;92
+50321;Im Bungarten;1;5;2;12;Brühl;07.0;;;92
+50321;Im Klostergarten;1;15;2;10;Brühl;10.0;;;92
+50321;Im Mühlengrund;5;21;2;12;Brühl;12.0;;;92
+50321;Im Paradies;1;15;2;20;Brühl;05.1;;;92
+50321;Im Sonntagsgarten;3;9;2;8;Brühl;14.0;;;92
+50321;Im Vogelsang;1;33;2;98;Brühl;05.0;;;92
+50321;In der Maar;1;9;;;Brühl;20.0;;;92
+50321;Irmgard-Keun-Weg;1;3;2;18;Brühl;02.0;;;92
+50321;Janshof;3;19;2;2;Brühl;19.0;;;92
+50321;Jordanstraße;1;13;2;16;Brühl;01.0;;;92
+50321;Josef-Flohr-Weg;;;6;8;Brühl;21.0;;;92
+50321;Josefstraße;1;13;;;Brühl;19.0;;;92
+50321;Joseph-Hürten-Str.;1;77;2;100;Brühl;22.0;;;92
+50321;Joseph-von-Görres-Straße;3;23;2;12;Brühl;16.0;;;92
+50321;Junkersdorfer Weg;1;9;2;18;Brühl;14.0;;;92
+50321;Jülichsgasse;1;7;;;Brühl;05.1;;;92
+50321;Kaiserstraße;7;27;2;34;Brühl;17.0;;;92
+50321;Kaiserstraße;35;55;40;64;Brühl;16.0;;;92
+50321;Kaiserstraße;59;127;80;156;Brühl;12.0;;;92
+50321;Kapellenweg;3;13;8;16;Brühl;11.0;;;92
+50321;Kastanienweg;1;9;4;36;Brühl;04.1;;;92
+50321;Kempishofstraße;5;35;4;38;Brühl;19.0;;;92
+50321;Kentenichstraße;1;37;2;26;Brühl;19.0;;;92
+50321;Kierberger Straße;113;155;118;162;Brühl;11.0;;;92
+50321;Kierberger Straße;37;111;36;112;Brühl;14.0;;;92
+50321;Kierberger Straße;1;31;4;28;Brühl;15.0;;;92
+50321;Kirchgasse;3;5;;;Brühl;06.0;;;92
+50321;Kirchstraße;9;9;8;10;Brühl;19.0;;;92
+50321;Kirchweg;;;2;4;Brühl;05.0;;;92
+50321;Kleiststraße;1;31;2;30;Brühl;21.0;;;92
+50321;Kloster Benden;1;11;2;6;Brühl;10.0;;;92
+50321;Klosterstraße;3;13;2;30;Brühl;10.0;;;92
+50321;Kolpingplatz;1;5;2;6;Brühl;18.0;;;92
+50321;Kreuzhof;1;9;;;Brühl;07.0;;;92
+50321;Kuhgasse;5;17;10;100;Brühl;04.0;;;92
+50321;Kurfürstenstraße;1;45;2;58;Brühl;17.0;;;92
+50321;Kämperpfad;1;11;2;14;Brühl;05.0;;;92
+50321;Kölnstraße;165;221;152;202;Brühl;01.0;;;92
+50321;Kölnstraße;1;61;4;52;Brühl;19.0;;;92
+50321;Kölnstraße;;;74;74;Brühl;17.1;;;92
+50321;Kölnstraße;69;127;;;Brühl;17.0;;;92
+50321;Königsberger Straße;1;45;4;8;Brühl;13.0;;;92
+50321;Königsdorfer Weg;1;13;2;12;Brühl;14.0;;;92
+50321;Königstraße;3;45;8;42;Brühl;17.0;;;92
+50321;Langenackerstraße;1;97;2;102;Brühl;01.0;;;92
+50321;Laurentiusweg;1;3;2;10;Brühl;03.0;;;92
+50321;Leipziger Straße;1;1;2;8;Brühl;13.0;;;92
+50321;Leipziger Straße;3;7;;;Brühl;12.0;;;92
+50321;Lennéstr.;3;15;2;2;Brühl;20.0;;;92
+50321;Lenterbachsweg;1;85;60;78;Brühl;04.1;;;92
+50321;Lessingstraße;7;27;10;40;Brühl;21.0;;;92
+50321;Letterhausstraße;5;23;2;28;Brühl;12.0;;;92
+50321;Liblarer Straße;109;181;118;156;Brühl;07.0;;;92
+50321;Liblarer Straße;9;49;18;44;Brühl;21.0;;;92
+50321;Liblarer Straße;53;107;64;116;Brühl;08.0;;;92
+50321;Liblarer Straße;1;3;;;Brühl;20.0;;;92
+50321;Lida-Gustava-Heymann-Str.;1;37;2;4;Brühl;02.0;;;92
+50321;Lindenhof;1;13;4;14;Brühl;01.0;;;92
+50321;Lindenstraße;1;17;2;16;Brühl;03.0;;;92
+50321;Lohmühle;7;79;2;50;Brühl;12.0;;;92
+50321;Lohrbergstraße;1;9;2;4;Brühl;07.0;;;92
+50321;Ludwig-Jahn-Straße;1;5;2;42;Brühl;16.0;;;92
+50321;Ludwig-Uhland-Straße;3;19;;;Brühl;17.0;;;92
+50321;Luisenstraße;3;9;4;4;Brühl;16.0;;;92
+50321;Lupinenweg;1;41;2;14;Brühl;09.1;;;92
+50321;Lövenicher Straße;1;17;2;24;Brühl;14.0;;;92
+50321;Löwenburgstraße;;;2;28;Brühl;07.0;;;92
+50321;Maiglerstraße;13;109;2;64;Brühl;06.0;;;92
+50321;Maja-Lex-Weg;;;2;4;Brühl;02.0;;;92
+50321;Margaretenstraße;1;35;2;32;Brühl;11.0;;;92
+50321;Margarethe-von-Hersel-Str;1;27;;;Brühl;10.0;;;92
+50321;Marie-Schlei-Straße;1;21;;;Brühl;02.0;;;92
+50321;Marienstraße;3;3;2;6;Brühl;10.0;;;92
+50321;Markt;3;25;8;28;Brühl;19.0;;;92
+50321;Matthäusstraße;7;33;2;22;Brühl;15.0;;;92
+50321;Max-Ernst-Allee;;;2;8;Brühl;19.0;;;92
+50321;Maximilian-Franz-Straße;1;33;;;Brühl;09.0;;;92
+50321;Mayersweg;1;7;;;Brühl;19.0;;;92
+50321;Merricher Straße;3;71;6;78;Brühl;09.0;;;92
+50321;Merseburger Straße;;;2;10;Brühl;13.0;;;92
+50321;Mertener Straße;1;11;2;14;Brühl;20.0;;;92
+50321;Metzenmacherweg;23;131;2;22;Brühl;04.1;;;92
+50321;Mittelstraße;5;9;2;14;Brühl;03.0;;;92
+50321;Mönengasse;5;53;2;34;Brühl;05.0;;;92
+50321;Mühlenbach;3;75;2;102;Brühl;12.0;;;92
+50321;Mühlenberg;1;31;2;26;Brühl;11.0;;;92
+50321;Mühlenstraße;1;33;2;26;Brühl;20.0;;;92
+50321;Mühlenstraße;37;87;62;94;Brühl;19.0;;;92
+50321;Neue Bohle;5;63;2;66;Brühl;07.0;;;92
+50321;Neue Königstraße;47;65;46;70;Brühl;16.0;;;92
+50321;Nikolaus-Ehlen-Straße;;;4;14;Brühl;14.0;;;92
+50321;Nußbaumweg;1;21;2;36;Brühl;04.1;;;92
+50321;Obermühle;1;65;2;80;Brühl;06.0;;;92
+50321;Oberstraße;3;43;6;54;Brühl;03.0;;;92
+50321;Oelbergstraße;5;19;2;22;Brühl;07.0;;;92
+50321;Otto-Paes-Straße;1;19;2;30;Brühl;02.0;;;92
+50321;Palmersdorfer Hof;1;25;0;16;Brühl;02.0;;;92
+50321;Pantaleonstraße;1;27;;;Brühl;06.0;;;92
+50321;Parkstraße;1;17;2;34;Brühl;02.0;;;92
+50321;Pastoratstraße;5;21;2;18;Brühl;19.0;;;92
+50321;Paul-Dahm-Straße;1;7;2;8;Brühl;14.0;;;92
+50321;Pehler Hülle;1;53;10;42;Brühl;05.0;;;92
+50321;Peter-Schmitter-Straße;1;11;2;14;Brühl;18.0;;;92
+50321;Petersbergstraße;;;2;28;Brühl;07.0;;;92
+50321;Peterstraße;1;31;2;36;Brühl;02.0;;;92
+50321;Pingsdorfer Straße;7;31;2;32;Brühl;20.0;;;92
+50321;Pingsdorfer Straße;45;145;40;134;Brühl;21.0;;;92
+50321;Platanenweg;1;15;2;14;Brühl;04.1;;;92
+50321;Poststraße;15;15;2;30;Brühl;17.0;;;92
+50321;Pulheimer Straße;1;29;4;10;Brühl;14.0;;;92
+50321;Pützgasse;1;31;6;48;Brühl;05.0;;;92
+50321;Renault-Nissan-Straße;;;30;30;Brühl;15.0;;;92
+50321;Rheinstraße;9;209;2;200;Brühl;02.0;;;92
+50321;Ricarda-Huch-Weg;1;37;2;60;Brühl;02.0;;;92
+50321;Richard-Bertram-Straße;1;69;2;58;Brühl;18.0;;;92
+50321;Richard-Bertram-Straße;75;87;60;78;Brühl;16.0;;;92
+50321;Robertsstraße;;;2;10;Brühl;04.1;;;92
+50321;Rodderweg;91;269;168;274;Brühl;09.1;;;92
+50321;Rodderweg;;;4;86;Brühl;09.0;;;92
+50321;Rodderweg;1;85;;;Brühl;08.0;;;92
+50321;Roisdorfer Straße;1;7;2;14;Brühl;20.0;;;92
+50321;Rondorfer Straße;15;15;12;36;Brühl;01.0;;;92
+50321;Rosenhof;1;23;2;26;Brühl;02.0;;;92
+50321;Römerhof;1;57;2;48;Brühl;08.0;;;92
+50321;Römerstraße;;;152;332;Brühl;18.0;;;92
+50321;Römerstraße;;;336;456;Brühl;16.0;;;92
+50321;Römerstraße;;;490;490;Brühl;15.0;;;92
+50321;Römerstraße;;;8;150;Brühl;21.0;;;92
+50321;Römerstraße;121;195;;;Brühl;08.0;;;92
+50321;Römerstraße;19;19;;;Brühl;07.0;;;92
+50321;Römerstraße;201;253;;;Brühl;09.0;;;92
+50321;Römerstraße;295;367;;;Brühl;12.0;;;92
+50321;Römerstraße;367;467;;;Brühl;13.0;;;92
+50321;Rösberger Straße;1;29;2;24;Brühl;21.0;;;92
+50321;Schiffergasse;11;17;2;2;Brühl;06.0;;;92
+50321;Schildgesstraße;11;15;16;30;Brühl;17.0;;;92
+50321;Schildgesstraße;45;45;38;106;Brühl;01.0;;;92
+50321;Schillerstraße;1;1;2;4;Brühl;18.0;;;92
+50321;Schlaunstraße;;;2;8;Brühl;18.0;;;92
+50321;Schloß Falkenlust;;;0;0;Brühl;02.0;;;92
+50321;Schloßstraße;1;23;10;12;Brühl;19.0;;;92
+50321;Schnorrenberg;3;55;20;20;Brühl;06.0;;;92
+50321;Schulstraße;1;31;2;28;Brühl;11.0;;;92
+50321;Schultheißstraße;1;75;2;60;Brühl;14.0;;;92
+50321;Schwestern-Brünell-Weg;1;41;4;16;Brühl;02.0;;;92
+50321;Schöffenstraße;1;17;2;18;Brühl;13.0;;;92
+50321;Schützenstraße;9;51;2;30;Brühl;19.0;;;92
+50321;Sechtemer Straße;9;27;2;24;Brühl;03.0;;;92
+50321;Senecaweg;1;23;4;16;Brühl;07.0;;;92
+50321;Senftenberger Straße;1;15;2;16;Brühl;12.0;;;92
+50321;Servatiusstraße;1;3;2;10;Brühl;11.0;;;92
+50321;Severinstraße;1;13;2;10;Brühl;03.0;;;92
+50321;Sophie-Scholl-Straße;;;2;2;Brühl;02.0;;;92
+50321;Sophienstraße;1;15;2;22;Brühl;01.0;;;92
+50321;Spielmannsgasse;3;35;2;26;Brühl;04.0;;;92
+50321;Spremberger Weg;;;2;10;Brühl;12.0;;;92
+50321;Spürckstraße;1;17;6;26;Brühl;03.0;;;92
+50321;St.-Albert-Straße;1;21;;;Brühl;15.0;;;92
+50321;Steingasse;1;115;22;110;Brühl;05.1;;;92
+50321;Steinkleehang;1;7;2;16;Brühl;09.1;;;92
+50321;Steinweg;13;13;6;22;Brühl;19.0;;;92
+50321;Stephanstraße;3;89;20;76;Brühl;02.0;;;92
+50321;Stettiner Straße;1;31;2;54;Brühl;12.0;;;92
+50321;Stiftstraße;1;15;2;20;Brühl;13.0;;;92
+50321;Stommelner Weg;1;5;2;26;Brühl;14.0;;;92
+50321;Stotzheimer Weg;;;6;8;Brühl;15.0;;;92
+50321;Sürther Straße;169;203;160;172;Brühl;01.0;;;92
+50321;Tacitusweg;1;7;2;20;Brühl;07.0;;;92
+50321;Tafelhofstraße;1;21;2;22;Brühl;05.1;;;92
+50321;Talstraße;1;83;14;80;Brühl;11.0;;;92
+50321;Taunusstraße;;;2;4;Brühl;05.0;;;92
+50321;Theismühle;1;13;2;24;Brühl;11.0;;;92
+50321;Theodor-Körner-Straße;1;35;2;42;Brühl;16.0;;;92
+50321;Theodor-Storm-Straße;1;7;2;10;Brühl;22.0;;;92
+50321;Thüringer Platz;5;13;2;26;Brühl;13.0;;;92
+50321;Tiergartenstraße;9;19;14;26;Brühl;20.0;;;92
+50321;Töpfergasse;1;31;4;24;Brühl;06.0;;;92
+50321;Ubierstraße;1;27;6;58;Brühl;08.0;;;92
+50321;Uhlstraße;3;69;4;72;Brühl;19.0;;;92
+50321;Uhlstraße;71;135;78;82;Brühl;20.0;;;92
+50321;Ulmenweg;1;29;2;48;Brühl;04.1;;;92
+50321;Unter Birken;1;23;2;24;Brühl;04.1;;;92
+50321;Unter Eschen;1;23;2;22;Brühl;04.1;;;92
+50321;Unter dem Dorf;1;3;2;34;Brühl;03.0;;;92
+50321;Untermühle;1;23;6;22;Brühl;06.0;;;92
+50321;Urfelder Straße;1;49;2;48;Brühl;21.0;;;92
+50321;Ursulastraße;1;1;2;18;Brühl;15.0;;;92
+50321;V.-Droste-Hülshoff-Straße;;;2;14;Brühl;22.0;;;92
+50321;Villestraße;3;61;2;64;Brühl;10.0;;;92
+50321;Vochemer Straße;3;71;6;76;Brühl;11.0;;;92
+50321;Volkwinsweg;1;29;2;34;Brühl;12.0;;;92
+50321;Von-Heinsberg-Straße;;;2;24;Brühl;09.0;;;92
+50321;Von-Hessen-Straße;3;9;2;30;Brühl;09.0;;;92
+50321;Von-Holte-Straße;1;27;2;14;Brühl;09.0;;;92
+50321;Von-Roll-Straße;1;23;2;20;Brühl;12.0;;;92
+50321;Von-Westerburg-Straße;1;17;2;26;Brühl;09.0;;;92
+50321;Von-Wied-Straße;1;1;;;Brühl;09.0;;;92
+50321;Vorgebirgsstraße;1;35;10;42;Brühl;06.0;;;92
+50321;Walberberger Straße;1;9;2;56;Brühl;20.0;;;92
+50321;Waldorfer Straße;1;13;2;14;Brühl;20.0;;;92
+50321;Waldweg;1;11;;;Brühl;11.0;;;92
+50321;Wallstraße;1;45;2;44;Brühl;20.0;;;92
+50321;Wallstraße;89;113;56;110;Brühl;19.0;;;92
+50321;Wehrbachsweg;5;129;4;134;Brühl;06.0;;;92
+50321;Weiherhofstraße;1;43;2;110;Brühl;03.0;;;92
+50321;Weilerstraße;19;53;10;130;Brühl;15.0;;;92
+50321;Weilerstraße;1;17;2;8;Brühl;14.0;;;92
+50321;Weisser Straße;7;7;6;6;Brühl;02.0;;;92
+50321;Wesselinger Straße;3;17;2;2;Brühl;02.0;;;92
+50321;Weyhestr.;1;9;2;16;Brühl;20.0;;;92
+50321;Wilhelm-Kamm-Straße;5;77;2;14;Brühl;18.0;;;92
+50321;Wilhelmstraße;3;25;4;46;Brühl;17.0;;;92
+50321;Wilhelmstraße;17;19;;;Brühl;17.1;;;92
+50321;Will-Küpper-Straße;7;7;14;14;Brühl;17.0;;;92
+50321;Will-Küpper-Straße;;;2;2;Brühl;17.1;;;92
+50321;Willy-Brandt-Straße;1;1;4;10;Brühl;10.0;;;92
+50321;Wingertsberg;3;25;2;30;Brühl;05.0;;;92
+50321;Winterburg;11;33;20;38;Brühl;11.0;;;92
+50321;Winterburg;71;81;;;Brühl;10.0;;;92
+50321;Wittelsbacherstrasse;1;59;2;140;Brühl;09.0;;;92
+50321;Wolfsgasse;1;21;2;2;Brühl;05.0;;;92
+50321;Wolkenburgstraße;;;2;36;Brühl;07.0;;;92
+50321;Ziegelweg;1;25;;;Brühl;07.0;;;92
+50321;Zum Donnerbach;1;59;2;74;Brühl;08.0;;;92
+50321;Zum Herrengarten;1;37;2;50;Brühl;15.0;;;92
+50321;Zum Rodderbruch;1;33;2;36;Brühl;08.0;;;92
+50321;Zum Sommersberg;1;31;28;42;Brühl;15.0;;;92
+50321;Zur Gabjei;3;121;2;108;Brühl;08.0;;;92
