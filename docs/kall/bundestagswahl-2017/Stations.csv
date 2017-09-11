@@ -1,0 +1,20 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+01.0;Ehem. Schule Kall (1);Aachener Straße;;;;53925;Kall;;J
+03.0;Grundschule Kall;Auelstraße;;;;53925;Kall;;J
+04.0;Kindergarten Kall;Hüttenstraße;;;;53925;Kall;;J
+10.0;Kindergarten Sistig;Schleidener Straße;;;;53925;Kall-Sistig;;N
+09.2;Musikproberaum Urft;Urfttalstraße;;;;53925;Kall-Urft;;J
+09.3;Pfarrhaus Steinfeld;Hermann Josef Straße;;;;53925;Kall-Steinfeld;;N
+11.1;Kindergarten Krekel;Barbarastraße;;;;53925;Kall-Krekel;;J
+12.1;Feuerwehrgerätehaus Wahlen;Pescher Weg;;;;53925;Kall-Wahlen;;J
+13.0;Kindergarten Keldenich;Klein Köln;;;;53925;Kall-Keldenich;;J
+14.3;Bürgerhaus Dottel;Lindenstraße;;;;53925;Kall-Dottel;;N
+14.1;Kindergarten Scheven;Zum Beestental;;;;53925;Kall-Scheven;;N
+14.2;Dorfgem.halle Wallenthal;Nußbenden;;;;53925;Kall-Wallenthal;;J
+02.0;Ehem. Schule Kall (2);Aachener Straße;;;;53925;Kall;;J
+05.0;Kindergarten Kall;Hüttenstraße;;;;53925;Kall;;J
+06.0;Kindergarten Kall;Hüttenstraße;;;;53925;Kall;;J
+11.2;Kindergarten Sistig;Schleidener Straße;;;;53925;Kall-Sistig;;N
+08.0;Alte Schule Sötenich;Schulstraße;9;;;53925;Kall-Sötenich;;J
+09.1;Bürgerhaus Rinnen;Sötenicher Straße;;;;53925;Kall-Rinnen;;J
+07.0;Kindergarten Golbach;Oberstraße;;;;53925;Kall-Golbach;;J
