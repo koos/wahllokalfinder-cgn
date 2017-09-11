@@ -1,0 +1,19 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+02.0;Alten-u.Pflegeheim St.Martinus;Hochstraße;1;;;50189;Elsdorf;;J
+01.0;Bürgerhaus Oberembt;Bachstraße;2;;;50189;Elsdorf;;J
+03.0;Grundschule Esch;Laurentiusstraße;29;;;50189;Elsdorf;;J
+04.0;Grundschule Esch;Laurentiusstraße;29;;;50189;Elsdorf;;J
+05.0;Kindergarten Angelsdorf;Alemannenstraße;4;;;50189;Elsdorf;;J
+06.0;Stadtbibliothek;Pestalozzistraße;2;;;50189;Elsdorf;;J
+07.0;Martin-Luther-Schule;Desdorfer Straße;2;;;50189;Elsdorf;;J
+08.0;Martin-Luther-Schule;Desdorfer Straße;2;;;50189;Elsdorf;;J
+09.0;Elisabethschule;Jahnstraße;2;;;50189;Elsdorf;;J
+10.0;Elisabethschule;Jahnstraße;2;;;50189;Elsdorf;;J
+12.0;"Beratungszentrum ""Alte Schule""";Etzweilerstraße;67;;;50189;Elsdorf;;J
+13.0;Grundschule Berrendorf;Heinrich-Doll-Straße;2;;;50189;Elsdorf;;J
+14.0;Grundschule Berrendorf;Heinrich-Doll-Straße;2;;;50189;Elsdorf;;J
+15.0;Grundschule Berrendorf;Heinrich-Doll-Straße;2;;;50189;Elsdorf;;J
+16.0;Schützen- u.Bürgerhaus Grouven;Römerstraße;55;;;50189;Elsdorf;;J
+17.0;Bürgerhaus Heppendorf;Alefstraße;11;;;50189;Elsdorf;;J
+18.0;Pfarrheim Heppendorf;Alefstraße;13;;;50189;Elsdorf;;J
+11.0;Senioren-Residenz Elsdorf;Zum Ostbahnhof;1;;;50189;Elsdorf;;J
