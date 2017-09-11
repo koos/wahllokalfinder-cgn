@@ -1,0 +1,7 @@
+name;slug;zip;state;coordinates;city_housing_type
+Köln;koeln;50667, 50668, 50670, 50672, 50674, 50676, 50677, 50678, 50679, 50733, 50735, 50737, 50739, 50765, 50767, 50769, 50823, 50825, 50827, 50829, 50858, 50859, 50931, 50933, 50935, 50937, 50939, 50968, 50969, 50996, 50997, 50999, 51061, 51063, 51065, 51067, 51069, 51103, 51105, 51107, 51109, 51143, 51145, 51147, 51149, 51467;Nordrhein-Westfalen;6.95, 50.93333;odd_even
+Potsdam;potsdam; 14461, 14467, 14469, 14471, 14473, 14478, 14480, 14482 ;Brandenburg;13.0645, 52.3906;mixed_odd_even
+Frechen;frechen;50226;Nordrhein-Westfalen;6.8160, 50.9122;odd_even
+Aldenhoven;aldenhoven;52457;Nordrhein-Westfalen;6.283056, 50.895833;odd_even
+Bad Münstereifel;bad_muenstereifel;53902;Nordrhein-Westfalen;6.766111, 50.553056;odd_even
+Bedburg;bedburg;50181;Nordrhein-Westfalen;6.5625, 52.7;odd_even

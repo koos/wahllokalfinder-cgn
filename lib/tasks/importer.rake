@@ -1,41 +1,10 @@
+load 'lib/modules/rake_helper.rake'
+
 namespace :import do
   desc 'import wahllokale from csv'
 
-  def files_list
-    FileList.new("docs/*")
-  end
-
-  def terminate
-    puts 'Sorry, try again!'
-    exit(1)
-  end
-
-  def select_csv_file(csv_type)
-    directory_to_load = ''
-    STDOUT.puts "\nWhich directory is targeted? Please provide the number:\n\n "
-    files_list.each_with_index do |file, i|
-      STDOUT.puts " #{i + 1} => #{file}"
-    end
-
-    selected_index = STDIN.gets.chomp
-    terminate unless selected_index.to_i.between?(1, files_list.length)
-    directory_to_load = files_list[selected_index.to_i - 1]
-
-    year_to_load = ''
-    STDOUT.puts "Which year to load? (For example: 2017)"
-    year_to_load = STDIN.gets.chomp
-
-    selected_csv_file = "#{directory_to_load}/bundestagswahl-#{year_to_load}/#{csv_type}.csv"
-    puts selected_csv_file
-    unless File.exist?(selected_csv_file)
-      terminate
-    else
-      selected_csv_file
-    end
-  end
-
   task stations: :environment do
-    stations_csv = select_csv_file('Stations')
+    stations_csv = RakeHelper::select_csv_file('Stations')
     stations = SmarterCSV.process(stations_csv, col_sep: ";")
     stations.each do |station|
       vote_districts = station[:vote_district_id].to_s.split(',').map(&:strip)
@@ -50,7 +19,7 @@ namespace :import do
   end
 
   task addresses: :environment do
-    addresses_csv = select_csv_file('Addresses')
+    addresses_csv = RakeHelper::select_csv_file('Addresses')
     addresses = SmarterCSV.process(addresses_csv, col_sep: ";")
     addresses.each do |address|
       address[:street] = address[:street].gsub('straße', 'str')
@@ -58,5 +27,16 @@ namespace :import do
       ad = Address.create address
       puts "Imported: #{ad.id}: #{ad.street}"
     end
+  end
+
+  task cities: :environment do
+    cities = RakeHelper::select_cities
+    puts ' '
+    cities.each do |city|
+      city[:zip] = (city[:zip].is_a? Numeric) ? [city[:zip]] : city[:zip].split(/,/).map{|zip| zip.to_i}
+      created_city = City.create city
+      puts " + #{created_city.name} is created"
+    end
+    puts "\nDone!\n\n"
   end
 end
