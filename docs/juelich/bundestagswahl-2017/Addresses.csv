@@ -1,0 +1,521 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+52428;Aachener Landstr.;1;27;6;6;Bourheim;1;;;90
+52428;Aachener Str.;3;15;2;10;Jülich;8;;;90
+52428;Abteistr.;1;11;2;16;Güsten;17.2;;;90
+52428;Adelgundisstr.;1;5;2;8;Koslar;14;;;90
+52428;Adenauerstr.;1;45;2;44;Bourheim;13.2;;;90
+52428;Adolf-Fischer-Str.;1;;2;52;Jülich;3;;;90
+52428;Adolf-Fischer-Str.;;;50;52;Jülich;3;;;90
+52428;Agathenstr.;11;19;4;30;Mersch;16.2;;;90
+52428;Ahornweg;1;17;2;12;Koslar;14;;;90
+52428;Akazienstr.;1;19;16;16;Bourheim;13.2;;;90
+52428;Aldenhovener Str.;1;15;2;14;Jülich;2;;;90
+52428;Altdorfer Str.;1;23;2;44;Jülich;1;;;90
+52428;Alte Dorfstr.;1;109;4;160;Broich;16.1;;;90
+52428;Alte Dürener Str.;9;89;2;14;Jülich;4;;;90
+52428;Alte Müntzer Str.;1;17;4;4;Mersch;16.2;;;90
+52428;Alte Reichsstr.;3;71;2;96;Mersch;16.2;;;90
+52428;Altenburger Str.;1;61;2;62;Selgersdorf;11.1;;;90
+52428;Am Aachener Tor;1;17;2;14;Jülich;3;;;90
+52428;Am Amtmannshof;1;13;;;Güsten;17.2;;;90
+52428;Am Brückenkopf;1;19;2;22;Jülich;1;;;90
+52428;Am Driesch;1;13;2;2;Mersch;16.2;;;90
+52428;Am Ehrenmal;1;25;;;Bourheim;13.2;;;90
+52428;Am Erbbusch;1;27;2;8;Güsten;17.2;;;90
+52428;Am Feldrain;1;31;2;80;Broich;16.1;;;90
+52428;Am Forst;1;15;2;22;Stetternich;19;;;90
+52428;Am Goldacker;1;11;2;12;Koslar;14;;;90
+52428;Am Hahnsberg;1;1;;;Altenburg;11.2;;;90
+52428;Am Heiligenhäuschen;1;3;2;4;Daubenrath;11.3;;;90
+52428;Am Hierespfädchen;1;23;4;26;Stetternich;19;;;90
+52428;Am Katzepohl;3;3;2;6;Koslar;14;;;90
+52428;Am Lampeschhof;11;13;8;18;Selgersdorf;11.1;;;90
+52428;Am Mühlenteich;;;12;12;Jülich;4;;;90
+52428;Am Nösserkamp;;;2;2;Mersch;16.2;;;90
+52428;Am Peusch;;;2;20;Koslar;14;;;90
+52428;Am Ringofen;1;19;;;Jülich;10;;;90
+52428;Am Rurdamm;1;3;2;8;Koslar;14;;;90
+52428;Am Schloß;1;21;;;Bourheim;13.2;;;90
+52428;Am Schrickenhof;3;37;4;16;Kirchberg;12;;;90
+52428;Am Schulzentrum;9;9;2;12;Jülich;8;;;90
+52428;Am Schützenhof;3;3;2;4;Jülich;7;;;90
+52428;Am Steinacker;1;3;2;2;Stetternich;19;;;90
+52428;Am Tierpark;;;0;0;Jülich;8;;;90
+52428;Am Waldeck;1;7;2;32;Koslar;14;;;90
+52428;Am Wallgraben;1;31;;;Jülich;6;;;90
+52428;Am Wasserwerk;;;2;18;Jülich;10;;;90
+52428;Am Wehr;5;9;2;10;Jülich;1;;;90
+52428;Am Weihberg;1;5;2;6;Bourheim;13.2;;;90
+52428;Am Weiher;;;2;2;Kirchberg;12;;;90
+52428;Am Wiesenhang;1;27;2;40;Kirchberg;12;;;90
+52428;Am blauen Stein;;;4;4;Jülich;5.1;;;90
+52428;Amselweg;1;5;2;20;Jülich;10;;;90
+52428;An der Alten Schule;3;3;;;Koslar;13.1;;;90
+52428;An der Bahn;1;1;2;12;Barmen;15.1;;;90
+52428;An der Burgweide;1;7;4;14;Güsten;17.2;;;90
+52428;An der Chaussee;;;2;28;Stetternich;19;;;90
+52428;An der Elle;1;9;2;10;Jülich;4;;;90
+52428;An der Landwehr;1;9;6;12;Welldorf;18;;;90
+52428;An der Leimkaul;5;5;;;Jülich;10;;;90
+52428;An der Lünette;3;11;2;18;Jülich;1;;;90
+52428;An der Maar;1;7;2;10;Bourheim;13.2;;;90
+52428;An der Promenade;1;11;;;Jülich;3;;;90
+52428;An der Rur;1;1;2;2;Kirchberg;12;;;90
+52428;An der Synagoge;1;3;2;10;Jülich;9;;;90
+52428;An der Via Belgica;3;13;6;14;Bourheim;1;;;90
+52428;An der Vogelstange;3;101;2;202;Jülich;1;;;90
+52428;Andreas-Poick-Straße;1;11;2;12;Jülich;5.1;;;90
+52428;Andreasstr.;5;31;4;26;Lich-Steinstraß;5.1;;;90
+52428;Anneberg;1;11;2;8;Bourheim;13.2;;;90
+52428;Anton-Kohlhaas-Weg;1;23;2;10;Barmen;15.1;;;90
+52428;Antoniusstr.;5;21;2;18;Jülich;1;;;90
+52428;Apfelblütenweg;1;3;;;Broich;16.1;;;90
+52428;Artilleriestr.;1;61;6;80;Jülich;6;;;90
+52428;Auenweg;1;17;2;12;Barmen;15.1;;;90
+52428;Auf dem Berg;1;3;2;8;Barmen;15.1;;;90
+52428;Auf dem Büchel;5;13;4;16;Welldorf;18;;;90
+52428;Auf der Heide;1;15;2;30;Welldorf;18;;;90
+52428;Auf der Klause;1;37;10;28;Stetternich;19;;;90
+52428;Bachfeldstr.;7;21;2;6;Stetternich;19;;;90
+52428;Bahngasse;3;15;4;12;Welldorf;18;;;90
+52428;Bahnhofstr.;5;17;2;14;Jülich;3;;;90
+52428;Baierstr.;1;15;2;12;Jülich;9;;;90
+52428;Barbarastr.;;;2;12;Jülich;2;;;90
+52428;Bastionstr.;1;33;2;28;Jülich;8;;;90
+52428;Bauhofstr.;7;17;8;28;Jülich;3;;;90
+52428;Baumweg;3;7;2;8;Lich-Steinstraß;5.1;;;90
+52428;Bergische Str.;1;15;4;26;Jülich;1;;;90
+52428;Bergstr.;1;7;2;4;Kirchberg;12;;;90
+52428;Berliner Str.;7;111;2;40;Jülich;6;;;90
+52428;Bertastr.;1;23;4;8;Jülich;10;;;90
+52428;Birkenweg;1;11;2;12;Kirchberg;12;;;90
+52428;Bocksgasse;1;9;2;6;Jülich;9;;;90
+52428;Bodengasse;1;17;2;10;Koslar;13.1;;;90
+52428;Bongardstr.;1;13;2;16;Jülich;3;;;90
+52428;Bornstr.;1;23;2;34;Koslar;14;;;90
+52428;Borsigstr.;3;9;;;Jülich;4;;;90
+52428;Bothenhof;1;25;2;44;Mersch;16.2;;;90
+52428;Bourheimer Burg;;;2;4;Bourheim;13.2;;;90
+52428;Breslauer Str.;1;5;2;12;Jülich;6;;;90
+52428;Bretzelbäckerstraße;1;25;6;24;Pattern;17.1;;;90
+52428;Brockmüllerstr.;1;15;2;16;Jülich;2;;;90
+52428;Broichstr.;1;17;2;22;Broich;16.1;;;90
+52428;Brunnenstr.;1;7;2;6;Jülich;10;;;90
+52428;Brühlsweg;1;19;2;8;Merzenhausen;15.2;;;90
+52428;Buchenweg;1;33;4;38;Jülich;4;;;90
+52428;Burgstr.;1;15;2;6;Stetternich;19;;;90
+52428;Buschend;1;1;2;2;Pattern;17.1;;;90
+52428;Buschfeld;1;17;;;Güsten;17.2;;;90
+52428;Christinastr.;1;21;2;22;Jülich;2;;;90
+52428;Christine-De-Jong-Straße;1;15;;;Jülich;4;;;90
+52428;Christine-Reuter-Weg;1;7;6;24;Daubenrath;11.3;;;90
+52428;Cremannsgasse;1;11;4;16;Welldorf;18;;;90
+52428;Crombachstr.;35;35;2;36;Koslar;14;;;90
+52428;Cäcilienstr.;3;9;2;10;Koslar;13.1;;;90
+52428;Daubenrather Kirchweg;1;11;2;12;Selgersdorf;11.1;;;90
+52428;Depelsweg;1;3;;;Pattern;17.1;;;90
+52428;Ditgesend;1;17;2;10;Pattern;17.1;;;90
+52428;Ditgesgasse;1;19;2;14;Mersch;16.2;;;90
+52428;Dohrer Weg;1;21;2;2;Altenburg;11.2;;;90
+52428;Donatusweg;1;13;2;28;Kirchberg;12;;;90
+52428;Dr.-Halbsguth-Straße;1;35;2;16;Jülich;5.1;;;90
+52428;Dr.-Weyer-Str.;9;21;2;18;Jülich;3;;;90
+52428;Drieschstr.;5;39;2;16;Koslar;14;;;90
+52428;Drosselweg;1;7;2;10;Jülich;10;;;90
+52428;Dürener Str.;1;43;4;32;Jülich;4;;;90
+52428;Düsseldorfer Str.;1;37;8;38;Jülich;9;;;90
+52428;Eichenweg;1;7;;;Jülich;4;;;90
+52428;Einsteinstr.;1;7;2;36;Jülich;7;;;90
+52428;Eleonorenstr.;3;7;;;Jülich;2;;;90
+52428;Elisabethstr.;9;11;2;16;Jülich;2;;;90
+52428;Ellbachstr.;1;1;2;34;Jülich;8;;;90
+52428;Elsenkamp;1;39;2;42;Selgersdorf;11.1;;;90
+52428;Erdmannshof;1;5;2;6;Koslar;13.1;;;90
+52428;Erlenweg;1;7;2;34;Barmen;15.1;;;90
+52428;Eschenweg;1;25;10;10;Jülich;4;;;90
+52428;Euskirchener Str;3;15;2;12;Jülich;2;;;90
+52428;Fasanenweg;1;3;2;10;Koslar;14;;;90
+52428;Fichtenweg;1;1;4;4;Koslar;14;;;90
+52428;Finkelbachweg;;;2;2;Welldorf;18;;;90
+52428;Finkenweg;3;13;2;14;Jülich;10;;;90
+52428;Flachsweg;1;9;2;16;Jülich;4;;;90
+52428;Fliederweg;1;19;2;8;Jülich;10;;;90
+52428;Forststr.;1;5;2;8;Lich-Steinstraß;5.1;;;90
+52428;Frankenstr.;1;15;6;8;Jülich;3;;;90
+52428;Franz-von-Sales-Str.;1;1;;;Barmen;15.1;;;90
+52428;Franziskusstr.;1;25;2;24;Jülich;7;;;90
+52428;Franzissenhäuschen;1;1;2;4;Jülich;6;;;90
+52428;Frederick-Stock-Straße;3;15;;;Jülich;3;;;90
+52428;Freiherr-vom-Stein-Platz;1;15;4;16;Jülich;1;;;90
+52428;Freiwalder Weg;1;1;2;2;Jülich;5.1;;;90
+52428;Friedensstr.;1;5;2;8;Koslar;14;;;90
+52428;Friedhofstr.;1;21;2;30;Koslar;13.1;;;90
+52428;Friedrich-Ebert-Str.;9;41;6;42;Jülich;3;;;90
+52428;Friedrich-Lau-Straße;;;2;22;Jülich;8;;;90
+52428;Fritz-Deutzmann-Straße;1;31;2;8;Koslar;14;;;90
+52428;Fronhofstr.;3;61;2;90;Kirchberg;12;;;90
+52428;Fuchsend;5;41;2;34;Welldorf;18;;;90
+52428;Fuchshecker Hof;;;0;0;Barmen;15.1;;;90
+52428;Fuchsweg;1;9;2;6;Koslar;14;;;90
+52428;Fuhrstr.;5;5;4;6;Pattern;17.1;;;90
+52428;Gabriel-Wackers-Weg;1;9;;;Bourheim;1;;;90
+52428;Gansweid;1;1;8;8;Barmen;15.1;;;90
+52428;Gartenstr.;1;15;2;16;Jülich;1;;;90
+52428;Gartenweg;5;39;2;50;Kirchberg;12;;;90
+52428;Gaudenz-Breuer-Str.;1;19;2;10;Lich-Steinstraß;5.1;;;90
+52428;Gelderner Str.;3;27;2;44;Jülich;8;;;90
+52428;Gerberstr.;;;2;6;Jülich;9;;;90
+52428;Gereonstr.;1;15;;;Jülich;1;;;90
+52428;Gertrud-Zillbach-Straße;1;15;4;6;Stetternich;19;;;90
+52428;Geschw.-Scholl-Str.;3;47;2;20;Stetternich;19;;;90
+52428;Gewährhau;1;19;2;16;Lich-Steinstraß;5.1;;;90
+52428;Gildenweg;;;2;38;Merzenhausen;15.2;;;90
+52428;Ginsterweg;31;37;2;44;Jülich;10;;;90
+52428;Goethestr.;1;9;2;12;Koslar;13.1;;;90
+52428;Goswin-De-Nickel-Str.;1;7;2;12;Koslar;13.1;;;90
+52428;Große Rurstr.;1;73;4;96;Jülich;3;;;90
+52428;Grüner Weg;1;7;2;22;Stetternich;19;;;90
+52428;Grünes Pfädchen;3;5;2;4;Mersch;16.2;;;90
+52428;Grünstr.;1;29;2;22;Jülich;9;;;90
+52428;Gut Frauenrath;;;0;0;Merzenhausen;15.2;;;90
+52428;Gut Freiwald;;;0;0;Jülich;5.1;;;90
+52428;Gut Hasenfeld;;;0;0;Koslar;14;;;90
+52428;Gut Kartaus;;;0;0;Jülich;4;;;90
+52428;Gut Linzenich;;;0;0;Bourheim;13.2;;;90
+52428;Gut Lorsbeck;;;0;0;Jülich;4;;;90
+52428;Gut Maaßenhof;;;0;0;Jülich;4;;;90
+52428;Gut Waldeck;;;0;0;Koslar;14;;;90
+52428;Gutenbergstr.;1;17;2;34;Jülich;7;;;90
+52428;Güstener Str.;1;67;2;78;Welldorf;18;;;90
+52428;Hahnengasse;3;29;2;10;Mersch;16.2;;;90
+52428;Hambacher Weg;5;11;2;6;Selgersdorf;11.1;;;90
+52428;Hasenfelder Str.;1;63;2;70;Koslar;14;;;90
+52428;Hasenfelder Weg;;;4;4;Jülich;8;;;90
+52428;Hasenpfad;1;13;4;18;Koslar;14;;;90
+52428;Haubourdinstr.;3;15;2;24;Jülich;10;;;90
+52428;Haus Brühl;;;0;0;Merzenhausen;15.2;;;90
+52428;Haus Brühlsfeld;;;0;0;Merzenhausen;15.2;;;90
+52428;Haus Fonger;;;0;0;Stetternich;19;;;90
+52428;Haus Mariawald;;;0;0;Jülich;5.1;;;90
+52428;Haus Schmitt;;;0;0;Stetternich;19;;;90
+52428;Heckenweg;29;37;;;Merzenhausen;15.2;;;90
+52428;Heckfeldstr.;1;57;8;46;Jülich;2;;;90
+52428;Heilig-Geist-Gasse;1;5;2;2;Stetternich;19;;;90
+52428;Heimbacher Str.;1;21;2;22;Jülich;3;;;90
+52428;Heinrich-Casson-Straße;1;9;;;Jülich;5.1;;;90
+52428;Heinrich-Hertz-Str.;1;17;2;10;Jülich;7;;;90
+52428;Heinrich-Mußmann-Straße;;;2;54;Jülich;5.1;;;90
+52428;Heinrich-Röttgen-Str;1;17;8;20;Jülich;8;;;90
+52428;Heinsberger Str.;3;47;2;34;Jülich;2;;;90
+52428;Helmholtzstraße;13;49;2;38;Jülich;4;;;90
+52428;Hermann-Barnikol-Straße;1;21;2;30;Jülich;8;;;90
+52428;Herrenstr.;1;27;2;20;Barmen;15.1;;;90
+52428;Herzog-Wilhelm-Allee;1;13;2;14;Jülich;8;;;90
+52428;Herzogin-Jakobe-Str.;1;21;2;20;Jülich;1;;;90
+52428;Hopfenweg;1;9;2;10;Jülich;4;;;90
+52428;Hubertusstr.;1;23;2;48;Welldorf;18;;;90
+52428;Hundsschleidener Weg;1;3;;;Broich;16.1;;;90
+52428;Huthmacherhof;;;0;0;Welldorf;18;;;90
+52428;Huthmacherstr.;1;17;2;22;Welldorf;18;;;90
+52428;Im Bongert;3;19;2;34;Broich;16.1;;;90
+52428;Im Dohrfeld;1;1;;;Selgersdorf;11.1;;;90
+52428;Im Fronhof;;;2;24;Kirchberg;12;;;90
+52428;Im Gäßchen;1;9;2;8;Kirchberg;12;;;90
+52428;Im Hang;3;15;2;16;Bourheim;13.2;;;90
+52428;Im Hörnchen;1;7;2;8;Mersch;16.2;;;90
+52428;Im Kirchfeld;1;17;2;22;Güsten;17.2;;;90
+52428;Im Knüppelchen;1;19;2;6;Kirchberg;12;;;90
+52428;Im Reinfeld;;;12;12;Kirchberg;12;;;90
+52428;Im Rott;;;4;6;Stetternich;19;;;90
+52428;Im Rurhof;1;11;2;12;Jülich;1;;;90
+52428;Im Rurwinkel;1;5;2;4;Jülich;1;;;90
+52428;Im Trift;1;21;2;12;Koslar;14;;;90
+52428;Im Wiesengrund;1;21;2;10;Koslar;14;;;90
+52428;In der Wiese;1;21;2;14;Broich;16.1;;;90
+52428;In der Zitadelle;;;4;4;Jülich;6;;;90
+52428;Industrieweg;;;12;12;Welldorf;18;;;90
+52428;Inselweg;27;27;2;2;Bourheim;13.2;;;90
+52428;Jakobusstraße;1;33;;;Güsten;17.2;;;90
+52428;Jan-von-Werth-Str.;1;73;2;124;Jülich;10;;;90
+52428;Johannesplatz;3;13;2;14;Güsten;17.2;;;90
+52428;Johannesstr.;1;47;2;62;Güsten;17.2;;;90
+52428;Josef-Bierth-Straße;1;19;2;24;Jülich;5.1;;;90
+52428;Josef-Hommen-Straße;3;25;2;8;Jülich;8;;;90
+52428;Josef-Meisen-Weg;3;7;2;8;Barmen;15.1;;;90
+52428;Josef-Rahier-Str.;1;25;2;20;Stetternich;19;;;90
+52428;Josef-Wimmer-Str.;1;105;2;32;Selgersdorf;11.1;;;90
+52428;Josefstr.;1;29;4;10;Koslar;14;;;90
+52428;Jungbluthstraße;1;13;2;6;Lich-Steinstraß;5.1;;;90
+52428;Justinastr.;1;33;8;40;Güsten;17.2;;;90
+52428;Jägergasse;1;9;2;14;Barmen;15.1;;;90
+52428;Jägerstr.;1;17;2;6;Koslar;14;;;90
+52428;Jülicher Str.;1;65;4;66;Welldorf;18;;;90
+52428;Jülicher Weg;;;0;0;Broich;16.1;;;90
+52428;Kampstr.;1;11;2;26;Koslar;14;;;90
+52428;Kapellenstr.;3;25;2;14;Broich;16.1;;;90
+52428;Kapuzinerstr.;1;17;12;16;Jülich;9;;;90
+52428;Karl-Heinz-Beckurts-Str.;13;13;;;Jülich;4;;;90
+52428;Karl-Theodor-Str.;7;11;2;16;Jülich;3;;;90
+52428;Kartäuserstr.;1;19;2;18;Jülich;3;;;90
+52428;Kasparsweg;;;8;22;Welldorf;18;;;90
+52428;Kastanienbusch;3;9;2;8;Kirchberg;12;;;90
+52428;Kastanienstr.;1;53;2;26;Kirchberg;12;;;90
+52428;Kasterstr.;5;41;2;42;Daubenrath;11.3;;;90
+52428;Katharinenweg;1;33;2;24;Selgersdorf;11.1;;;90
+52428;Keltenstr.;;;2;4;Jülich;3;;;90
+52428;Kirchberger Str.;1;53;16;52;Jülich;1;;;90
+52428;Kirchfeldchen;3;21;2;12;Barmen;15.1;;;90
+52428;Kirchgracht;1;1;;;Barmen;15.1;;;90
+52428;Kirchholzer Hof;;;0;0;Daubenrath;11.3;;;90
+52428;Kirchplatz;;;4;6;Jülich;9;;;90
+52428;Kirchstr.;1;41;8;20;Barmen;15.1;;;90
+52428;Kirchweg;3;27;4;32;Merzenhausen;15.2;;;90
+52428;Kirzenicher Weg;;;4;6;Mersch;16.2;;;90
+52428;Kleine Rurstr.;1;25;4;18;Jülich;9;;;90
+52428;Kleinfeldchen;1;1;2;16;Lich-Steinstraß;5.1;;;90
+52428;Klevische Str.;1;27;2;16;Jülich;1;;;90
+52428;Klosenkampstr.;3;21;2;10;Pattern;17.1;;;90
+52428;Klosterstraße;1;17;2;22;Welldorf;18;;;90
+52428;Knauzengracht;3;9;8;8;Broich;16.1;;;90
+52428;Kolfs Insel;1;15;2;14;Jülich;1;;;90
+52428;Kolpingstraße;;;2;20;Jülich;4;;;90
+52428;Kommstr.;1;41;2;30;Jülich;7;;;90
+52428;Kopernikusstr.;1;39;2;68;Jülich;7;;;90
+52428;Kosakengasse;1;13;2;12;Stetternich;19;;;90
+52428;Kreisbahnstr.;1;45;2;54;Koslar;14;;;90
+52428;Kreuzplatz;3;7;2;6;Welldorf;18;;;90
+52428;Kreuzstr.;15;137;2;156;Pattern;17.1;;;90
+52428;Krichelberg;1;11;2;20;Stetternich;19;;;90
+52428;Krokusweg;1;11;2;4;Kirchberg;12;;;90
+52428;Kuhlstr.;3;19;2;24;Jülich;8;;;90
+52428;Kurfürstenstr.;;;2;20;Jülich;6;;;90
+52428;Kurt-Schumacher-Straße;1;59;2;50;Koslar;14;;;90
+52428;Kölner Landstr.;11;51;34;64;Stetternich;19;;;90
+52428;Kölnstr.;1;33;2;50;Jülich;9;;;90
+52428;Königsberger Str.;1;27;2;16;Jülich;1;;;90
+52428;Königshäuschen;3;3;;;Bourheim;13.2;;;90
+52428;Königskamp;35;35;4;32;Jülich;4;;;90
+52428;Laachweg;1;23;2;30;Koslar;14;;;90
+52428;Lahnweg;1;7;4;30;Merzenhausen;15.2;;;90
+52428;Lambertusweg;3;7;2;8;Merzenhausen;15.2;;;90
+52428;Lankenstr.;1;55;4;58;Barmen;15.1;;;90
+52428;Leisartstr.;11;45;2;46;Koslar;13.1;;;90
+52428;Leo-Brandt-Str.;;;2;2;Jülich;4;;;90
+52428;Licher Allee;1;61;2;44;Lich-Steinstraß;5.1;;;90
+52428;Lindenend;1;1;2;8;Broich;16.1;;;90
+52428;Lindenplatz;1;5;4;10;Barmen;15.1;;;90
+52428;Lindenstr.;1;15;2;14;Jülich;4;;;90
+52428;Linnicher Str.;1;65;2;56;Jülich;8;;;90
+52428;Linzenicher Str.;1;61;2;48;Jülich;1;;;90
+52428;Linzenicher Weg;1;35;2;46;Bourheim;13.2;;;90
+52428;Lise-Meitner-Str.;1;11;4;10;Stetternich;19;;;90
+52428;Lobsgasse;1;27;2;26;Koslar;14;;;90
+52428;Lohbergweg;5;9;;;Kirchberg;12;;;90
+52428;Lohfeldstr.;11;37;4;32;Jülich;4;;;90
+52428;Lorcher Hof;;;0;0;Koslar;13.1;;;90
+52428;Lorsbecker Str.;1;75;2;64;Jülich;2;;;90
+52428;Luise-Kückhoven-Straße;1;31;2;30;Welldorf;18;;;90
+52428;Lyebeckstraße;1;11;2;22;Bourheim;13.2;;;90
+52428;Maarplatz;1;5;;;Mersch;16.2;;;90
+52428;Maiglöckchenweg;1;5;2;22;Lich-Steinstraß;5.1;;;90
+52428;Mannheimer Str.;1;3;2;4;Jülich;6;;;90
+52428;Marconistr.;1;5;2;4;Jülich;7;;;90
+52428;Margaretenstr.;1;17;2;10;Jülich;2;;;90
+52428;Margarethenhof;;;0;0;Welldorf;18;;;90
+52428;Marie-Juchacz-Weg;;;2;2;Jülich;3;;;90
+52428;Mariengartenstr.;1;91;4;52;Jülich;10;;;90
+52428;Marienhof;1;1;;;Jülich;2;;;90
+52428;Marktplatz;1;9;2;10;Jülich;9;;;90
+52428;Marktstr.;1;9;2;12;Jülich;9;;;90
+52428;Martinusplatz;1;13;2;12;Stetternich;19;;;90
+52428;Martinusstr.;1;5;2;12;Stetternich;19;;;90
+52428;Martinusweg;3;5;;;Kirchberg;12;;;90
+52428;Mathias-Pelzer-Straße;1;15;4;8;Stetternich;19;;;90
+52428;Mathildenhof;;;0;0;Merzenhausen;15.2;;;90
+52428;Matronenweg;1;5;;;Selgersdorf;11.1;;;90
+52428;Matthiasplatz;1;9;;;Lich-Steinstraß;5.1;;;90
+52428;Maulweg;1;1;;;Merzenhausen;15.2;;;90
+52428;Max-Hermkes-Platz;1;7;2;8;Jülich;5.1;;;90
+52428;Max-Planck-Str.;1;15;4;16;Jülich;7;;;90
+52428;Meisenweg;1;15;2;12;Jülich;10;;;90
+52428;Merkatorstr.;5;31;2;20;Jülich;3;;;90
+52428;Merscher Gracht;1;7;2;12;Broich;16.1;;;90
+52428;Merscher Höhe;1;5;2;2;Jülich;6;;;90
+52428;Merscher Weg;7;7;4;10;Welldorf;18;;;90
+52428;Meyburginsel;1;33;2;34;Jülich;4;;;90
+52428;Michelsberger Straße;1;47;2;34;Koslar;13.1;;;90
+52428;Molkereigasse;13;15;12;12;Mersch;16.2;;;90
+52428;Monschauer Str.;1;3;2;8;Jülich;3;;;90
+52428;Märkische Str.;1;11;2;24;Jülich;2;;;90
+52428;Mösgesweg;1;1;;;Pattern;17.1;;;90
+52428;Mühlendriesch;1;5;2;20;Kirchberg;12;;;90
+52428;Mühlenend;1;15;;;Broich;16.1;;;90
+52428;Mühlengasse;1;9;4;6;Koslar;14;;;90
+52428;Mühlenstr.;1;3;2;10;Jülich;8;;;90
+52428;Mühlenweg;1;9;2;10;Stetternich;19;;;90
+52428;Münchener Str.;1;5;;;Jülich;6;;;90
+52428;Münstereifeler Str.;3;5;2;10;Jülich;2;;;90
+52428;Müntzer Gäßchen;1;1;2;6;Mersch;16.2;;;90
+52428;Müntzer Str.;15;65;4;56;Mersch;16.2;;;90
+52428;Nettchen-Körfer-Straße;1;13;;;Jülich;4;;;90
+52428;Neuburger Str;1;15;2;14;Jülich;2;;;90
+52428;Neusser Str.;5;51;8;70;Jülich;6;;;90
+52428;Nideggener Str.;1;19;2;20;Jülich;2;;;90
+52428;Niederfeld;1;35;2;42;Kirchberg;12;;;90
+52428;Nordstr.;1;47;8;66;Jülich;7;;;90
+52428;Oligsweg;1;1;12;20;Welldorf;18;;;90
+52428;Ostring;1;29;2;24;Koslar;14;;;90
+52428;Oststr.;9;35;2;20;Jülich;4;;;90
+52428;Otto-Hahn-Str.;1;9;2;10;Stetternich;19;;;90
+52428;Overbacher Weg;1;1;2;6;Barmen;15.1;;;90
+52428;Paffenlicher Weg;1;5;2;18;Lich-Steinstraß;5.1;;;90
+52428;Parkweg;1;3;2;8;Barmen;15.1;;;90
+52428;Pasqualinistr.;5;7;2;10;Jülich;8;;;90
+52428;Pastoratsberg;9;13;2;20;Kirchberg;12;;;90
+52428;Pater-Pauels-Weg;1;15;4;14;Barmen;15.1;;;90
+52428;Patterner Gasse;1;15;10;10;Mersch;16.2;;;90
+52428;Patterner Mühle;;;0;0;Pattern;17.1;;;90
+52428;Paul-Fuhr-Str.;1;15;10;10;Koslar;13.1;;;90
+52428;Peter-Koof-Straße;;;4;30;Jülich;8;;;90
+52428;Peter-Linnartz-Str.;;;10;10;Jülich;4;;;90
+52428;Peter-Stommen-Str.;3;23;2;12;Jülich;8;;;90
+52428;Peter-Vaßen-Str;1;9;2;8;Selgersdorf;11.1;;;90
+52428;Petternicher Str.;1;27;2;20;Jülich;7;;;90
+52428;Pfaffenpfad;;;10;10;Mersch;16.2;;;90
+52428;Pfarrer-Außem-Str.;1;7;;;Barmen;15.1;;;90
+52428;Pfarrer-Coenen-Straße;3;39;2;24;Stetternich;19;;;90
+52428;Pfarrer-Engels-Str.;1;19;2;26;Lich-Steinstraß;5.1;;;90
+52428;Pfarrer-Floß-Str.;1;9;2;8;Broich;16.1;;;90
+52428;Pfarrer-Voßen-Platz;1;1;;;Welldorf;18;;;90
+52428;Pfälzische Str.;1;9;8;10;Jülich;2;;;90
+52428;Philippusstraße;;;2;40;Güsten;17.2;;;90
+52428;Poststr.;;;4;14;Jülich;9;;;90
+52428;Prinzengracht;1;45;2;30;Barmen;15.1;;;90
+52428;Promenadenstr.;5;25;4;10;Jülich;2;;;90
+52428;Propst-Bechte-Platz;9;17;2;18;Jülich;8;;;90
+52428;Prämienstr.;1;63;2;70;Merzenhausen;15.2;;;90
+52428;Prümer Weg;1;11;2;24;Güsten;17.2;;;90
+52428;Pützberg;3;7;2;8;Bourheim;13.2;;;90
+52428;Raderstr.;1;19;4;12;Jülich;9;;;90
+52428;Rathausstr.;13;17;2;24;Koslar;14;;;90
+52428;Ravensberger Str.;1;7;;;Jülich;1;;;90
+52428;Rebenweg;1;9;2;10;Jülich;4;;;90
+52428;Rehweg;1;9;2;8;Koslar;14;;;90
+52428;Reiderstr.;1;15;2;38;Broich;16.1;;;90
+52428;Robert-Koch-Str.;1;9;2;14;Jülich;7;;;90
+52428;Rochusstr.;9;53;2;60;Jülich;2;;;90
+52428;Romleweierweg;5;7;4;10;Welldorf;18;;;90
+52428;Rosenstr.;1;13;2;8;Bourheim;13.2;;;90
+52428;Rotdornweg;1;7;2;8;Jülich;10;;;90
+52428;Rottfeldstr.;23;23;;;Daubenrath;11.3;;;90
+52428;Rottstr.;1;3;;;Koslar;14;;;90
+52428;Rudolf-Diesel-Str.;1;15;12;14;Jülich;4;;;90
+52428;Rudolf-Schulten-Straße;9;9;;;Jülich;4;;;90
+52428;Rurauenstr.;;;10;10;Jülich;8;;;90
+52428;Rurfeld;1;15;4;24;Kirchberg;12;;;90
+52428;Rurpforte;;;2;8;Jülich;3;;;90
+52428;Rurwiesenstr.;1;35;2;32;Broich;16.1;;;90
+52428;Rödinger Str.;1;51;6;38;Güsten;17.2;;;90
+52428;Römerstr.;1;101;2;88;Jülich;10;;;90
+52428;Röntgenstr.;1;23;2;8;Jülich;6;;;90
+52428;Sandgracht;1;11;4;10;Barmen;15.1;;;90
+52428;Sandweg;1;47;2;60;Güsten;17.2;;;90
+52428;Schindberg;1;5;4;16;Kirchberg;12;;;90
+52428;Schirmerstr.;1;9;2;2;Jülich;9;;;90
+52428;Schlehdornweg;1;3;2;12;Jülich;10;;;90
+52428;Schlesische Str.;1;11;2;18;Jülich;1;;;90
+52428;Schloß Kellenberg;;;0;0;Barmen;15.1;;;90
+52428;Schloßstr.;;;2;16;Jülich;9;;;90
+52428;Schmiedstr.;1;11;4;10;Welldorf;18;;;90
+52428;Schneidersstr.;;;4;22;Jülich;6;;;90
+52428;Schneppruthweg;1;7;2;10;Selgersdorf;11.1;;;90
+52428;Schulstr.;5;67;6;46;Welldorf;18;;;90
+52428;Schwarzer Weg;1;23;2;30;Mersch;16.2;;;90
+52428;Schwedenschanze;1;27;4;24;Broich;16.1;;;90
+52428;Schweizer Str.;;;2;62;Jülich;4;;;90
+52428;Schützenkaul;1;37;4;22;Koslar;13.1;;;90
+52428;Schützenstr.;1;23;6;42;Jülich;9;;;90
+52428;Sebastianusstr.;1;19;8;18;Jülich;2;;;90
+52428;Seestr.;1;57;6;66;Barmen;15.1;;;90
+52428;Selgersdorfer Str.;15;27;16;28;Daubenrath;11.3;;;90
+52428;Serrester Kirchweg;17;17;;;Güsten;17.2;;;90
+52428;Serrester Str.;1;35;4;16;Welldorf;18;;;90
+52428;Siemensstr.;11;37;2;20;Jülich;4;;;90
+52428;Spieler Weg;1;3;;;Welldorf;18;;;90
+52428;St.-Mauri-Str.;1;7;2;10;Bourheim;13.2;;;90
+52428;Stallbusch;;;0;0;Stetternich;19;;;90
+52428;Starenweg;1;3;2;6;Jülich;10;;;90
+52428;Staudenweg;1;15;2;24;Bourheim;13.2;;;90
+52428;Steffensrott;3;3;4;14;Koslar;14;;;90
+52428;Stegerstr.;3;29;2;16;Welldorf;18;;;90
+52428;Steinbachweg;3;3;2;12;Lich-Steinstraß;5.1;;;90
+52428;Steineweiher;1;1;2;4;Barmen;15.1;;;90
+52428;Steinstr.;1;21;2;32;Barmen;15.1;;;90
+52428;Steinstraßer Allee;1;49;2;70;Lich-Steinstraß;5.1;;;90
+52428;Steinweg;1;47;2;32;Barmen;15.1;;;90
+52428;Sternschanze;3;37;2;72;Jülich;5.1;;;90
+52428;Stetternicher Str.;1;7;2;4;Jülich;5.1;;;90
+52428;Stiftsherrenstr.;1;23;6;10;Jülich;9;;;90
+52428;Stolper Weg;1;11;2;6;Jülich;10;;;90
+52428;Sudetenstr.;1;15;2;14;Jülich;1;;;90
+52428;Südweg;1;13;2;14;Barmen;15.1;;;90
+52428;Talstr.;1;11;4;4;Stetternich;19;;;90
+52428;Taubengracht;1;15;4;16;Barmen;15.1;;;90
+52428;Teichstr.;1;97;2;34;Kirchberg;12;;;90
+52428;Tetzer Weg;1;1;2;6;Mersch;16.2;;;90
+52428;Theodor-Heuss-Str.;3;185;2;178;Koslar;13.1;;;90
+52428;Theodor-Körner-Str.;1;9;;;Jülich;3;;;90
+52428;Thywissenhof;;;0;0;Welldorf;18;;;90
+52428;Tilgenkampstr.;1;23;2;12;Jülich;4;;;90
+52428;Trierer Str.;1;13;2;4;Jülich;2;;;90
+52428;Tuchbleiche;3;15;2;18;Barmen;15.1;;;90
+52428;Turmstr.;1;13;;;Jülich;9;;;90
+52428;Uferstr.;1;41;2;36;Kirchberg;12;;;90
+52428;Ulmenweg;5;7;2;34;Jülich;4;;;90
+52428;Urban-Lützeler-Straße;1;23;2;28;Koslar;13.1;;;90
+52428;Van-Gils-Str.;1;39;2;26;Altenburg;11.2;;;90
+52428;Victor-Gollancz-Str.;1;85;2;78;Jülich;8;;;90
+52428;Viktoriastr.;3;21;4;14;Koslar;14;;;90
+52428;Vogelbaumweg;1;1;;;Mersch;16.2;;;90
+52428;Vogelsangstraße;1;11;2;10;Jülich;11.3;;;90
+52428;Vogelsruth;1;19;2;24;Barmen;15.1;;;90
+52428;Von-Reuschenberg-Str.;1;11;2;6;Jülich;1;;;90
+52428;Von-Schöfer-Ring;11;11;;;Jülich;6;;;90
+52428;Waidweg;5;9;2;10;Jülich;4;;;90
+52428;Waldstr.;15;29;6;24;Altenburg;11.2;;;90
+52428;Wasserhof;1;11;2;8;Kirchberg;12;;;90
+52428;Wehrhahnhof;;;0;0;Welldorf;18;;;90
+52428;Wehrhahnstr.;1;31;2;26;Koslar;14;;;90
+52428;Weidenweg;1;3;2;8;Barmen;15.1;;;90
+52428;Weiherstr.;5;11;;;Welldorf;18;;;90
+52428;Weißdornweg;3;7;2;6;Jülich;10;;;90
+52428;Welldorfer Str.;5;81;6;106;Güsten;17.2;;;90
+52428;Welldorfer Weg;5;11;4;12;Stetternich;19;;;90
+52428;Welldorfer Weg;31;31;;;Welldorf;18;;;90
+52428;Wendelinusstr.;1;93;8;68;Stetternich;19;;;90
+52428;Werner-Bloss-Straße;9;19;2;12;Jülich;4;;;90
+52428;Wiesenstr.;1;7;4;22;Jülich;4;;;90
+52428;Wilhelm-Thenee-Weg;3;3;4;4;Bourheim;1;;;90
+52428;Wilhelm-Vogt-Str.;1;5;2;6;Jülich;3;;;90
+52428;Wilhelmstr.;1;13;2;22;Jülich;3;;;90
+52428;Windmühlenstr.;5;17;2;20;Welldorf;18;;;90
+52428;Winterbachstr.;1;29;2;20;Lich-Steinstraß;5.1;;;90
+52428;Wolfsgasse;1;7;;;Güsten;17.2;;;90
+52428;Wolfsgracht;13;47;2;28;Koslar;13.1;;;90
+52428;Wolfshovener Gasse;;;2;8;Stetternich;19;;;90
+52428;Wolfshovener Str.;1;213;8;218;Stetternich;19;;;90
+52428;Wymarstr.;19;49;10;28;Kirchberg;12;;;90
+52428;Xantener Str.;3;3;2;8;Jülich;8;;;90
+52428;Zeisigweg;1;7;4;4;Jülich;10;;;90
+52428;Zum Jagdfeld;1;17;2;16;Mersch;16.2;;;90
+52428;Zum Rosental;1;33;2;54;Welldorf;18;;;90
+52428;Zum Tivoli;7;17;;;Selgersdorf;11.1;;;90
+52428;Zur Brauerei;1;7;2;12;Mersch;16.2;;;90
+52428;Zur Burg;1;9;2;2;Bourheim;13.2;;;90
+52428;Zur Fuchskaul;1;1;2;44;Bourheim;13.2;;;90
+52428;Zur Inde;1;17;8;34;Kirchberg;12;;;90
+52428;Zur Mühle;1;3;0;4;Koslar;14;;;90
+52428;Zur Rur;1;25;2;28;Kirchberg;12;;;90
+52428;Zur Schloßmauer;1;17;2;4;Broich;16.1;;;90
+52428;Zülpicher Str.;3;11;2;2;Jülich;1;;;90
+52428;Ölmühlenweg;3;17;10;14;Bourheim;1;;;90
