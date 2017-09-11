@@ -1,0 +1,32 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+01.3;Carl-Orff-Schule;Jabachstraße;4;;;50354;Hürth;;J
+02.0;Carl-Orff-Schule;Jabachstraße;4;;;50354;Hürth;;J
+03.0;Brüder-Grimm-Schule;Schnellermaarstraße;19;;;50354;Hürth;;J
+04.0;Brüder-Grimm-Schule;Schnellermaarstraße;19;;;50354;Hürth;;J
+05.0;Brüder-Grimm-Schule;Schnellermaarstraße;19;;;50354;Hürth;;J
+01.1;Milos-Sovak-Schule;Plektrudisstraße;9;;;50354;Hürth;;J
+06.1;Wendelinusschule;Cäcilienstraße;5;;;50354;Hürth;;J
+06.2;Wendelinusschule;Cäcilienstraße;5;;;50354;Hürth;;J
+07.0;Clementinenschule;Schlangenpfad;28;;;50354;Hürth;;J
+08.0;Clementinenschule;Schlangenpfad;28;;;50354;Hürth;;J
+09.0;Bodelschwinghschule;Auf der Kumme;24;;;50354;Hürth;;J
+10.0;Ernst-Mach-Gymnasium;Bonnstraße;64-66;;;50354;Hürth;;J
+11.0;Ernst-Mach-Gymnasium;Bonnstraße;64-66;;;50354;Hürth;;J
+15.0;Friedrich-Ebert-Realschule;Krankenhausstraße;91;;;50354;Hürth;;J
+12.0;Deutschherrenschule;Pestalozzistraße;12;;;50354;Hürth;;J
+13.0;Deutschherrenschule;Pestalozzistraße;12;;;50354;Hürth;;J
+14.1;Dietrich-Bonhoeffer-Haus;Hermann-Löns-Straße;40;;;50354;Hürth;;J
+14.2;Deutsches Rotes Kreuz;Hans-Böckler-Straße;172;;;50354;Hürth;;J
+16.1;Geschwister-Scholl-Schule;Im Wiesengrund;30;;;50354;Hürth;;J
+16.2;Geschwister-Scholl-Schule;Im Wiesengrund;30;;;50354;Hürth;;J
+19.1;Geschwister-Scholl-Schule;Im Wiesengrund;30;;;50354;Hürth;;J
+19.2;Geschwister-Scholl-Schule;Im Wiesengrund;30;;;50354;Hürth;;J
+17.1;"VHS-Gebäude 'Ahl Schull'";Bachstraße;95-97;;;50354;Hürth;;J
+17.2;"VHS-Gebäude 'Ahl Schull'";Bachstraße;95-97;;;50354;Hürth;;J
+18.2;"VHS-Gebäude 'Ahl Schull'";Bachstraße;95-97;;;50354;Hürth;;J
+18.1;"VHS-Gebäude 'Ahl Schull'";Bachstraße;95-97;;;50354;Hürth;;J
+20.1;Hauptschule Kendenich;Steinackerstraße;6;;;50354;Hürth;;J
+20.2;Hauptschule Kendenich;Steinackerstraße;6;;;50354;Hürth;;J
+21.0;Martinusschule;Am Druvendriesch;19;;;50354;Hürth;;J
+22.0;Martinusschule;Am Druvendriesch;19;;;50354;Hürth;;J
+01.2;Restaurant Alt-Sielsdorf;Kölner Straße;225;;;50354;Hürth;;J

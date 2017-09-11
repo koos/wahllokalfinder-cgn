@@ -1,0 +1,623 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+50354;Abtstraße;1;27;2;32;Hürth;01.1;;;91
+50354;Adelheidisstraße;7;11;6;18;Hürth;02.0;;;91
+50354;Adolf-Dasbach-Weg;5;9;;;Hürth;07.0;;;91
+50354;Afrastraße;1;23;2;32;Hürth;18.2;;;91
+50354;Akazienweg;1;13;2;12;Hürth;05.0;;;91
+50354;Alberichstraße;1;13;;;Hürth;13.0;;;91
+50354;Albert-Schneider-Straße;;;2;74;Hürth;01.3;;;91
+50354;Albert-Schweitzer-Straße;1;27;;;Hürth;17.1;;;91
+50354;Albertus-Magnus-Weg;1;13;4;6;Hürth;11.0;;;91
+50354;Aldenrather Straße;3;17;2;74;Hürth;05.0;;;91
+50354;Alemannenstraße;1;13;;;Hürth;13.0;;;91
+50354;Alfred-Delp-Straße;1;11;2;6;Hürth;15.0;;;91
+50354;Alice-Neugebauer-Straße;;;2;24;Hürth;17.2;;;91
+50354;Alleestraße;;;20;52;Hürth;07.0;;;91
+50354;Alstädter Straße;1;27;6;32;Hürth;08.0;;;91
+50354;Am Abtshof;1;15;2;16;Hürth;01.1;;;91
+50354;Am Acker;1;39;2;42;Hürth;01.1;;;91
+50354;Am Alten Bahnhof;1;5;2;24;Hürth;14.1;;;91
+50354;Am Alten Klärwerk;1;3;4;12;Hürth;15.0;;;91
+50354;Am Alten Markt;1;21;2;22;Hürth;22.0;;;91
+50354;Am Bachemer Pfädchen;3;15;2;16;Hürth;04.0;;;91
+50354;Am Benden;1;3;2;18;Hürth;02.0;;;91
+50354;Am Bornbach;1;23;2;12;Hürth;02.0;;;91
+50354;Am Bruch;3;7;2;10;Hürth;21.0;;;91
+50354;Am Brunnen;3;13;2;10;Hürth;21.0;;;91
+50354;Am Clementinenhof;1;11;2;14;Hürth;08.0;;;91
+50354;Am Druvendriesch;3;31;2;38;Hürth;21.0;;;91
+50354;Am Gleueler Bach;3;9;2;24;Hürth;01.2;;;91
+50354;Am Groeneskamp;1;9;;;Hürth;04.0;;;91
+50354;Am Grünen Weg;1;11;2;16;Hürth;07.0;;;91
+50354;Am Grüngürtel;25;35;12;18;Hürth;18.2;;;91
+50354;Am Hang;3;9;2;6;Hürth;21.0;;;91
+50354;Am Heideberg;3;53;6;50;Hürth;20.1;;;91
+50354;Am Heidehang;1;35;;;Hürth;07.0;;;91
+50354;Am Hofacker;1;71;14;70;Hürth;03.0;;;91
+50354;Am Holderbusch;1;11;2;12;Hürth;05.0;;;91
+50354;Am Hummelsboor;1;3;;;Hürth;05.0;;;91
+50354;Am Kempishof;1;27;2;28;Hürth;20.2;;;91
+50354;Am Kirchberg;27;33;;;Hürth;22.0;;;91
+50354;Am Kirchtürmchen;;;60;62;Hürth;14.2;;;91
+50354;Am Klostergarten;3;31;2;20;Hürth;04.0;;;91
+50354;Am Kutzhof;1;15;2;16;Hürth;21.0;;;91
+50354;Am Lindenbusch;1;17;2;22;Hürth;05.0;;;91
+50354;Am Lintacker;7;35;;;Hürth;12.0;;;91
+50354;Am Neuen Friedhof;3;17;2;18;Hürth;21.0;;;91
+50354;Am Römerkanal;;;2;24;Hürth;09.0;;;91
+50354;Am Sandweg;1;49;4;34;Hürth;17.1;;;91
+50354;Am Schildgen;1;5;6;16;Hürth;22.0;;;91
+50354;Am Schneeberg;3;33;12;34;Hürth;21.0;;;91
+50354;Am Schänzjeskriemer;1;31;2;16;Hürth;06.1;;;91
+50354;Am Simonishof;1;27;2;26;Hürth;12.0;;;91
+50354;Am Sonnenhang;1;43;2;20;Hürth;20.1;;;91
+50354;Am Steeg;1;9;;;Hürth;01.1;;;91
+50354;Am Steinfeld;1;33;2;66;Hürth;22.0;;;91
+50354;Am Steinpütz;1;17;2;14;Hürth;21.0;;;91
+50354;Am Waldschlößchen;1;9;2;8;Hürth;06.1;;;91
+50354;Am Weißen Kreuz;1;15;2;12;Hürth;06.1;;;91
+50354;Am Wolterskreuz;1;33;4;28;Hürth;20.1;;;91
+50354;Am Zudendorfer Hof;3;17;4;32;Hürth;21.0;;;91
+50354;Amselweg;;;2;6;Hürth;13.0;;;91
+50354;An Maria Bronn;15;57;6;34;Hürth;06.2;;;91
+50354;An St. Martin;;;4;28;Hürth;22.0;;;91
+50354;An den Pescher Höfen;1;51;2;32;Hürth;10.0;;;91
+50354;An den Zehn Morgen;1;11;2;6;Hürth;05.0;;;91
+50354;An der Bauerbank;1;13;8;20;Hürth;22.0;;;91
+50354;An der Fuhr;1;51;12;50;Hürth;22.0;;;91
+50354;An der Herrenmühle;5;37;2;22;Hürth;12.0;;;91
+50354;An der Kirschhecke;1;15;2;16;Hürth;03.0;;;91
+50354;An der Kohlhaasmühle;3;19;4;14;Hürth;09.0;;;91
+50354;An der Markthalle;1;53;2;26;Hürth;22.0;;;91
+50354;An der Villenbahn;5;29;6;34;Hürth;08.0;;;91
+50354;Annenstraße;3;51;4;62;Hürth;17.2;;;91
+50354;Annoweg;1;9;;;Hürth;11.0;;;91
+50354;Asternweg;1;5;2;6;Hürth;14.1;;;91
+50354;Auf dem Bachacker;1;13;2;10;Hürth;15.0;;;91
+50354;Auf dem Klee;1;11;2;4;Hürth;01.1;;;91
+50354;Auf dem Kramberg;1;19;4;24;Hürth;05.0;;;91
+50354;Auf dem Mühlenacker;3;13;2;42;Hürth;13.0;;;91
+50354;Auf dem Schnorrenberg;1;7;2;12;Hürth;06.1;;;91
+50354;Auf den Dreien;1;35;4;52;Hürth;02.0;;;91
+50354;Auf der Aue;;;2;12;Hürth;20.2;;;91
+50354;Auf der Höhe;3;25;4;50;Hürth;21.0;;;91
+50354;Auf der Kumme;3;53;4;56;Hürth;09.0;;;91
+50354;Auf der Landau;1;47;6;10;Hürth;21.0;;;91
+50354;Auf der Weide;1;21;2;20;Hürth;02.0;;;91
+50354;Augustinerstraße;1;23;6;18;Hürth;22.0;;;91
+50354;Bachemer Straße;1;75;12;90;Hürth;04.0;;;91
+50354;Bachstraße;1;153;2;146;Hürth;18.1;;;91
+50354;Bachweg;;;2;10;Hürth;05.0;;;91
+50354;Backesstraße;1;17;2;20;Hürth;21.0;;;91
+50354;Bahnstraße;;;8;78;Hürth;16.1;;;91
+50354;Balkhausener Straße;1;47;2;52;Hürth;06.1;;;91
+50354;Balthasarstraße;1;29;8;30;Hürth;18.2;;;91
+50354;Barbarastraße;1;63;2;60;Hürth;03.0;;;91
+50354;Bauerweg;1;13;;;Hürth;01.1;;;91
+50354;Beckergasse;1;19;2;20;Hürth;05.0;;;91
+50354;Beethovenstraße;1;33;2;22;Hürth;17.2;;;91
+50354;Behrensstraße;1;13;2;58;Hürth;06.1;;;91
+50354;Bellerstraße;5;111;2;80;Hürth;18.2;;;91
+50354;Bergiusweg;1;7;2;8;Hürth;02.0;;;91
+50354;Bergmannstraße;1;167;10;202;Hürth;03.0;;;91
+50354;Bergstraße;1;81;2;64;Hürth;07.0;;;91
+50354;Berrenrather Kirchweg;3;13;2;12;Hürth;05.0;;;91
+50354;Berrenrather Straße;321;431;402;466;Hürth;17.2;;;91
+50354;Berrenrather Straße;435;527;470;572;Hürth;18.2;;;91
+50354;Berrenrather Straße;153;225;92;228;Hürth;01.1;;;91
+50354;Bertha-von-Suttner-Straße;;;2;32;Hürth;17.1;;;91
+50354;Beselerstraße;3;109;2;108;Hürth;16.2;;;91
+50354;Bettina-von-Arnim-Weg;3;3;4;12;Hürth;11.0;;;91
+50354;Biberstraße;;;2;28;Hürth;09.0;;;91
+50354;Birkenhusstraße;1;15;;;Hürth;16.1;;;91
+50354;Birklinstraße;3;11;2;8;Hürth;20.1;;;91
+50354;Bodelschwinghstraße;5;19;2;20;Hürth;18.1;;;91
+50354;Bolligstraße;1;15;2;18;Hürth;20.1;;;91
+50354;Bonnstraße;109;251;156;260;Hürth;12.0;;;91
+50354;Bonnstraße;13;89;2;98;Hürth;11.0;;;91
+50354;Bonnstraße;409;539;358;536;Hürth;22.0;;;91
+50354;Bourtscheidstraße;1;31;2;20;Hürth;16.2;;;91
+50354;Brabanter Platz;1;1;;;Hürth;09.0;;;91
+50354;Brandlstraße;;;4;8;Hürth;09.0;;;91
+50354;Brauweiler Weg;1;17;;;Hürth;11.0;;;91
+50354;Breite Straße;1;63;2;78;Hürth;08.0;;;91
+50354;Breite Straße;71;73;82;108;Hürth;07.0;;;91
+50354;Breitenbendener Weg;1;19;2;12;Hürth;15.0;;;91
+50354;Brentenstraße;1;33;6;26;Hürth;18.1;;;91
+50354;Breslauer Weg;1;13;;;Hürth;11.0;;;91
+50354;Brictiusweg;1;7;;;Hürth;01.1;;;91
+50354;Briemweg;1;11;;;Hürth;10.0;;;91
+50354;Bruchstraße;1;39;2;36;Hürth;06.1;;;91
+50354;Brunhildstraße;1;17;2;6;Hürth;13.0;;;91
+50354;Brunnenstraße;1;43;6;60;Hürth;02.0;;;91
+50354;Brunoweg;1;7;;;Hürth;11.0;;;91
+50354;Brüggener Straße;1;45;2;48;Hürth;06.1;;;91
+50354;Brühler Straße;;;0;0;Hürth;22.0;;;91
+50354;Brühler Weg;1;29;;;Hürth;11.0;;;91
+50354;Buchenstraße;1;55;2;46;Hürth;05.0;;;91
+50354;Bungartweg;;;2;8;Hürth;11.0;;;91
+50354;Bunsenweg;;;2;10;Hürth;02.0;;;91
+50354;Burbacher Straße;1;11;2;22;Hürth;08.0;;;91
+50354;Burggartenstraße;1;17;4;12;Hürth;22.0;;;91
+50354;Burgstraße;1;91;8;126;Hürth;04.0;;;91
+50354;Burgunderweg;1;11;;;Hürth;13.0;;;91
+50354;Burgweg;1;9;2;10;Hürth;17.1;;;91
+50354;Buschstraße;1;21;4;22;Hürth;20.2;;;91
+50354;Bussardweg;1;13;;;Hürth;13.0;;;91
+50354;Bärengasse;1;9;2;8;Hürth;06.1;;;91
+50354;Bödikerstraße;1;21;2;6;Hürth;14.1;;;91
+50354;Carl-Schurz-Straße;15;15;2;20;Hürth;09.0;;;91
+50354;Carl-von-Ossietzky-Straße;;;2;14;Hürth;17.1;;;91
+50354;Carlo-Schmid-Weg;1;25;;;Hürth;10.0;;;91
+50354;Coesenstraße;;;2;10;Hürth;16.2;;;91
+50354;Cäcilienstraße;;;2;14;Hürth;06.2;;;91
+50354;Dahlienweg;3;17;2;36;Hürth;14.1;;;91
+50354;Daimlerstraße;17;27;14;22;Hürth;13.0;;;91
+50354;Dankwartstraße;1;13;;;Hürth;13.0;;;91
+50354;Danziger Weg;;;2;12;Hürth;11.0;;;91
+50354;Dechant-Otter-Weg;1;11;;;Hürth;09.0;;;91
+50354;Decksteiner Straße;1;169;26;106;Hürth;01.1;;;91
+50354;Decksteiner Straße;237;239;;;Hürth;18.2;;;91
+50354;Deutscher Ring;1;1;2;20;Hürth;11.0;;;91
+50354;Deutschherrenstraße;;;2;6;Hürth;09.0;;;91
+50354;Deutschordensweg;1;13;;;Hürth;11.0;;;91
+50354;Diepenbroichstraße;1;15;2;28;Hürth;16.2;;;91
+50354;Dieselstraße;;;8;18;Hürth;13.0;;;91
+50354;Dietrich-Bonhoeffer-Str.;1;15;2;18;Hürth;15.0;;;91
+50354;Dionysiusstraße;;;2;24;Hürth;05.0;;;91
+50354;Donatusstraße;1;13;2;22;Hürth;16.1;;;91
+50354;Dorfstraße;7;37;4;36;Hürth;01.2;;;91
+50354;Dr.-Bethune-Straße;1;11;2;60;Hürth;12.0;;;91
+50354;Dr.-Krauß-Straße;3;15;;;Hürth;07.0;;;91
+50354;Dr.-Kürten-Straße;1;9;2;18;Hürth;09.0;;;91
+50354;Draf-Weg;1;13;;;Hürth;16.1;;;91
+50354;Drafenstraße;5;69;2;68;Hürth;21.0;;;91
+50354;Dreikönigenstraße;1;9;2;4;Hürth;18.2;;;91
+50354;Dreimühlenstraße;1;17;;;Hürth;15.0;;;91
+50354;Drosselweg;1;11;;;Hürth;13.0;;;91
+50354;Drosteweg;1;21;;;Hürth;11.0;;;91
+50354;Duffesbachstraße;21;143;2;20;Hürth;09.0;;;91
+50354;Dunantstraße;3;55;4;48;Hürth;09.0;;;91
+50354;Eichendorffstraße;1;17;2;16;Hürth;03.0;;;91
+50354;Eidechsenweg;5;7;2;12;Hürth;09.0;;;91
+50354;Eifelstraße;1;19;2;18;Hürth;06.2;;;91
+50354;Eintrachtstraße;1;19;2;24;Hürth;20.1;;;91
+50354;Eiserfeyweg;1;11;;;Hürth;15.0;;;91
+50354;Elbingstraße;1;7;2;8;Hürth;05.0;;;91
+50354;Elisabeth-Selbert-Weg;1;15;2;12;Hürth;10.0;;;91
+50354;Erderstraße;13;13;2;28;Hürth;06.1;;;91
+50354;Erftstraße;1;37;2;20;Hürth;06.2;;;91
+50354;Erich-Ollenhauer-Weg;1;15;2;12;Hürth;10.0;;;91
+50354;Erlenweg;1;7;2;10;Hürth;05.0;;;91
+50354;Ernst-Moritz-Arndt-Straße;1;1;2;6;Hürth;09.0;;;91
+50354;Ernst-Reuter-Straße;3;81;2;62;Hürth;03.0;;;91
+50354;Ernst-Reuter-Straße;85;171;66;162;Hürth;05.0;;;91
+50354;Ernst-Schmidt-Straße;1;5;2;6;Hürth;06.1;;;91
+50354;Ernst-Wilhelm-Nay-Straße;1;5;2;4;Hürth;19.2;;;91
+50354;Esserstraße;5;39;10;44;Hürth;18.2;;;91
+50354;Etzelweg;1;7;2;8;Hürth;13.0;;;91
+50354;Falkenweg;;;2;24;Hürth;09.0;;;91
+50354;Fasanenweg;1;11;;;Hürth;13.0;;;91
+50354;Fichtenweg;1;7;2;6;Hürth;19.2;;;91
+50354;Finkenschlag;;;2;4;Hürth;13.0;;;91
+50354;Firmenichstraße;5;59;4;40;Hürth;07.0;;;91
+50354;Fischenicher Höfe;1;17;2;34;Hürth;22.0;;;91
+50354;Fischenicher Straße;1;65;2;78;Hürth;20.2;;;91
+50354;Florianstraße;1;9;2;6;Hürth;05.0;;;91
+50354;Fontaneweg;1;19;2;4;Hürth;16.1;;;91
+50354;Frankenhof;1;11;2;38;Hürth;16.1;;;91
+50354;Frankenstraße;3;43;2;34;Hürth;13.0;;;91
+50354;Franziskusstraße;1;23;2;20;Hürth;13.0;;;91
+50354;Frechener Weg;;;2;8;Hürth;11.0;;;91
+50354;Freiherr-vom-Stein-Straße;1;1;2;10;Hürth;09.0;;;91
+50354;Freiligrathstraße;1;5;;;Hürth;09.0;;;91
+50354;Frentzenhofstraße;1;95;2;102;Hürth;20.1;;;91
+50354;Fridtjof-Nansen-Weg;;;2;6;Hürth;17.1;;;91
+50354;Friedenstraße;25;67;2;68;Hürth;05.0;;;91
+50354;Friedrich-Ebert-Straße;;;2;14;Hürth;11.0;;;91
+50354;Friedrich-Ebert-Straße;11;11;24;38;Hürth;12.0;;;91
+50354;Friedrich-Großmann-Weg;1;7;2;10;Hürth;02.0;;;91
+50354;Frielsweg;;;48;48;Hürth;18.2;;;91
+50354;Frielsweg;125;127;;;Hürth;01.1;;;91
+50354;Fritz-Räcke-Straße;3;33;6;10;Hürth;12.0;;;91
+50354;Froebelstraße;1;5;2;6;Hürth;13.0;;;91
+50354;Frongasse;1;7;2;6;Hürth;16.1;;;91
+50354;Fronhofstraße;5;29;4;30;Hürth;22.0;;;91
+50354;Fuchskaulenstraße;3;13;4;12;Hürth;07.0;;;91
+50354;Fuchsstraße;1;27;4;20;Hürth;20.2;;;91
+50354;Fühlingstraße;3;27;2;28;Hürth;01.2;;;91
+50354;Fürstenbergstraße;1;7;2;10;Hürth;16.2;;;91
+50354;Gartengäßchen;3;15;6;10;Hürth;21.0;;;91
+50354;Gartenstraße;5;23;8;10;Hürth;07.0;;;91
+50354;Gennerstraße;3;43;24;48;Hürth;22.0;;;91
+50354;Gennerstraße;47;211;50;260;Hürth;21.0;;;91
+50354;Georg-Elser-Straße;1;21;2;26;Hürth;17.2;;;91
+50354;Gerbergisstrasse;13;13;;;Hürth;16.2;;;91
+50354;Gerbergisstraße;9;25;2;18;Hürth;16.2;;;91
+50354;Gerberstraße;1;3;2;2;Hürth;02.0;;;91
+50354;Gereonsweg;;;2;14;Hürth;11.0;;;91
+50354;Gerhardsweg;3;9;;;Hürth;11.0;;;91
+50354;Gernotstraße;1;27;2;44;Hürth;13.0;;;91
+50354;Gertrudenstraße;;;2;8;Hürth;09.0;;;91
+50354;Gielenstraße;1;5;2;12;Hürth;04.0;;;91
+50354;Gielsdorfweg;;;2;10;Hürth;11.0;;;91
+50354;Gildenweg;3;19;2;6;Hürth;04.0;;;91
+50354;Ginsterhang;1;3;2;8;Hürth;05.0;;;91
+50354;Giselherweg;1;5;;;Hürth;13.0;;;91
+50354;Glückaufstraße;1;19;6;22;Hürth;06.2;;;91
+50354;Goethestraße;1;23;6;16;Hürth;16.1;;;91
+50354;Gotenweg;1;5;4;4;Hürth;13.0;;;91
+50354;Gottfried-Benn-Weg;1;13;;;Hürth;15.0;;;91
+50354;Grabenstraße;1;59;2;72;Hürth;20.2;;;91
+50354;Graf-Stauffenberg-Straße;3;51;2;70;Hürth;17.2;;;91
+50354;Grenzweg;1;7;2;10;Hürth;04.0;;;91
+50354;Grippekovener Straße;1;89;2;126;Hürth;04.0;;;91
+50354;Gronerstraße;1;31;52;126;Hürth;14.2;;;91
+50354;Grosmanstraße;;;4;4;Hürth;14.2;;;91
+50354;Große Ölbruchstraße;1;37;6;48;Hürth;07.0;;;91
+50354;Guderadisweg;1;15;2;20;Hürth;02.0;;;91
+50354;Guntherstraße;3;7;2;6;Hürth;13.0;;;91
+50354;Gustav-Freytag-Straße;1;19;2;58;Hürth;03.0;;;91
+50354;Gustav-Stresemann-Ring;1;57;22;44;Hürth;17.1;;;91
+50354;Gutenbergstraße;;;2;8;Hürth;09.0;;;91
+50354;Hagenstraße;1;3;2;2;Hürth;13.0;;;91
+50354;Hahnenstraße;1;41;2;24;Hürth;19.1;;;91
+50354;Hans-Böckler-Straße;7;23;12;60;Hürth;14.1;;;91
+50354;Hans-Böckler-Straße;143;143;156;198;Hürth;14.2;;;91
+50354;Hans-Pauli-Straße;1;35;2;44;Hürth;03.0;;;91
+50354;Harff-Straße;3;9;8;34;Hürth;07.0;;;91
+50354;Hebbelstraße;1;17;2;28;Hürth;16.1;;;91
+50354;Heidestraße;1;17;4;18;Hürth;07.0;;;91
+50354;Heidtstraße;1;25;2;8;Hürth;12.0;;;91
+50354;Heinrich-Felten-Straße;1;9;8;12;Hürth;08.0;;;91
+50354;Heinrich-Fuß-Straße;3;19;4;28;Hürth;21.0;;;91
+50354;Heinrich-Heine-Straße;1;11;2;12;Hürth;16.1;;;91
+50354;Heinrich-Hoerle-Straße;1;15;2;8;Hürth;19.2;;;91
+50354;Heinrich-Imig-Straße;9;23;2;32;Hürth;03.0;;;91
+50354;Heinrich-Mann-Straße;1;35;;;Hürth;15.0;;;91
+50354;Heinrich-Poll-Straße;17;33;6;32;Hürth;08.0;;;91
+50354;Heinrich-Sürth-Weg;1;1;;;Hürth;01.1;;;91
+50354;Heinrich-Vomhof-Weg;1;17;2;12;Hürth;08.0;;;91
+50354;Heisterbusch;1;17;2;42;Hürth;01.1;;;91
+50354;Helene-Weber-Weg;1;35;2;14;Hürth;10.0;;;91
+50354;Helenenstraße;;;2;8;Hürth;09.0;;;91
+50354;Henriette-Lott-Weg;3;13;4;12;Hürth;09.0;;;91
+50354;Herderstraße;1;11;2;16;Hürth;14.1;;;91
+50354;Heribertsweg;1;7;;;Hürth;11.0;;;91
+50354;Heristalstraße;1;15;2;20;Hürth;01.1;;;91
+50354;Hermann-Löns-Straße;1;43;2;40;Hürth;14.1;;;91
+50354;Hermülheimer Straße;187;245;206;244;Hürth;02.0;;;91
+50354;Hermülheimer Straße;247;283;246;286;Hürth;01.3;;;91
+50354;Hermülheimer Straße;1;101;4;122;Hürth;04.0;;;91
+50354;Hertzstraße;1;17;2;8;Hürth;17.2;;;91
+50354;Horbeller Straße;103;163;114;206;Hürth;01.1;;;91
+50354;Horbeller Straße;;;2;14;Hürth;13.0;;;91
+50354;Horbeller Straße;;;52;52;Hürth;15.0;;;91
+50354;Horst-Straße;1;3;4;6;Hürth;07.0;;;91
+50354;Hospitalstraße;3;39;4;50;Hürth;01.1;;;91
+50354;Hubertusstraße;1;9;2;2;Hürth;06.2;;;91
+50354;Höninger Weg;1;49;2;98;Hürth;19.2;;;91
+50354;Hürther Bogen;11;23;2;30;Hürth;12.0;;;91
+50354;Hürther Straße;1;9;4;20;Hürth;20.2;;;91
+50354;Hürther Weg;1;1;4;4;Hürth;02.0;;;91
+50354;Hürtherbergstraße;1;3;;;Hürth;09.0;;;91
+50354;Iltisweg;;;2;20;Hürth;09.0;;;91
+50354;Im Bachholz;1;7;2;10;Hürth;06.1;;;91
+50354;Im Broichtal;;;2;2;Hürth;05.0;;;91
+50354;Im Fliederhain;1;13;2;32;Hürth;14.1;;;91
+50354;Im Grund;1;3;2;12;Hürth;21.0;;;91
+50354;Im Hasenbusch;1;11;2;10;Hürth;19.1;;;91
+50354;Im Heidgen;1;11;2;14;Hürth;06.2;;;91
+50354;Im Kreuel;1;1;2;4;Hürth;02.0;;;91
+50354;Im Mühlengrund;15;35;4;36;Hürth;02.0;;;91
+50354;Im Obstgarten;1;27;2;12;Hürth;22.0;;;91
+50354;Im Rosenhag;1;17;2;12;Hürth;14.1;;;91
+50354;Im Rottland;1;77;2;96;Hürth;06.1;;;91
+50354;Im Rönnchen;73;73;;;Hürth;12.0;;;91
+50354;Im Schetteling;1;13;2;10;Hürth;12.0;;;91
+50354;Im Wiesengrund;1;33;2;28;Hürth;16.2;;;91
+50354;Im Winkel;1;7;2;8;Hürth;01.1;;;91
+50354;Immendorfer Straße;1;1;;;Hürth;19.2;;;91
+50354;In der Henn;1;51;2;64;Hürth;06.1;;;91
+50354;In der Hütte;5;5;2;6;Hürth;20.2;;;91
+50354;In der Kau;;;6;8;Hürth;06.2;;;91
+50354;In der Mulde;1;29;2;20;Hürth;20.2;;;91
+50354;Industriestraße;21;249;32;238;Hürth;07.0;;;91
+50354;Ingeborg-Bachmann-Straße;3;27;4;4;Hürth;15.0;;;91
+50354;Innungstraße;1;45;2;32;Hürth;04.0;;;91
+50354;Jabachstraße;5;27;8;22;Hürth;02.0;;;91
+50354;Jahnstraße;3;11;;;Hürth;06.2;;;91
+50354;Jakob-Eßer-Platz;;;2;18;Hürth;05.0;;;91
+50354;Jakob-Schorn-Straße;;;2;6;Hürth;01.1;;;91
+50354;Jakobstraße;5;35;2;32;Hürth;22.0;;;91
+50354;Johann-Hambloch-Weg;1;21;2;10;Hürth;09.0;;;91
+50354;Johann-Schäfer-Weg;1;9;2;22;Hürth;22.0;;;91
+50354;Johanna-Löwenstein-Straße;1;19;;;Hürth;17.2;;;91
+50354;Johanneshof;3;7;2;8;Hürth;20.2;;;91
+50354;Josef-Haefner-Straße;1;11;2;22;Hürth;01.1;;;91
+50354;Josef-Löcher-Straße;1;25;2;20;Hürth;01.3;;;91
+50354;Josef-Metternich-Straße;1;13;6;30;Hürth;12.0;;;91
+50354;Josef-Pick-Straße;9;11;2;18;Hürth;17.2;;;91
+50354;Josef-Thiesen-Straße;1;3;4;6;Hürth;09.0;;;91
+50354;Julius-Leber-Straße;1;23;2;26;Hürth;17.2;;;91
+50354;Jülichstraße;1;11;2;30;Hürth;16.2;;;91
+50354;Kabarnetstraße;1;19;2;14;Hürth;11.0;;;91
+50354;Kallmuthweg;1;15;;;Hürth;15.0;;;91
+50354;Kallweg;1;5;2;6;Hürth;15.0;;;91
+50354;Kalscheurener Straße;1;81;48;170;Hürth;19.2;;;91
+50354;Kampstraße;21;57;2;44;Hürth;02.0;;;91
+50354;Kantstraße;1;15;2;14;Hürth;03.0;;;91
+50354;Kapellenstraße;1;1;2;14;Hürth;07.0;;;91
+50354;Kapitolstraße;1;11;2;10;Hürth;16.2;;;91
+50354;Kardinal-von-Galen-Straße;1;53;2;74;Hürth;15.0;;;91
+50354;Karl-Ingenerf-Straße;;;2;32;Hürth;09.0;;;91
+50354;Karl-Kuenen-Straße;3;55;2;42;Hürth;18.1;;;91
+50354;Karl-Pimpertz-Weg;1;13;2;4;Hürth;08.0;;;91
+50354;Karthäusergasse;1;1;8;12;Hürth;22.0;;;91
+50354;Kaspar-Zopes-Straße;1;17;2;46;Hürth;22.0;;;91
+50354;Kasparstraße;3;21;2;46;Hürth;18.2;;;91
+50354;Katharina-Becker-Weg;1;5;2;6;Hürth;02.0;;;91
+50354;Katharinenstraße;1;31;12;42;Hürth;08.0;;;91
+50354;Kaulardstraße;7;59;2;42;Hürth;16.2;;;91
+50354;Kaulardstraße;61;77;44;74;Hürth;18.1;;;91
+50354;Kendenicher Straße;1;91;2;104;Hürth;07.0;;;91
+50354;Keutenstraße;1;49;2;48;Hürth;01.1;;;91
+50354;Kiebitzweg;1;13;;;Hürth;13.0;;;91
+50354;Kiefernweg;1;25;2;28;Hürth;19.2;;;91
+50354;Kierdorfer Straße;1;39;2;56;Hürth;06.2;;;91
+50354;Kirchweg;7;31;2;16;Hürth;02.0;;;91
+50354;Klarenstraße;1;35;4;42;Hürth;20.2;;;91
+50354;Kleine Ölbruchstraße;;;2;2;Hürth;07.0;;;91
+50354;Kloster Burbach;;;2;2;Hürth;02.0;;;91
+50354;Klosterstraße;15;61;4;76;Hürth;18.1;;;91
+50354;Klüttenweg;;;2;8;Hürth;09.0;;;91
+50354;Knapsackstraße;1;55;2;34;Hürth;10.0;;;91
+50354;Knipperstraße;1;27;2;32;Hürth;06.2;;;91
+50354;Kochstraße;1;85;2;78;Hürth;16.1;;;91
+50354;Kolpingstraße;5;75;2;82;Hürth;18.1;;;91
+50354;Komturring;1;1;2;12;Hürth;11.0;;;91
+50354;Konrad-Adenauer-Straße;5;5;;;Hürth;10.0;;;91
+50354;Kornblumenweg;1;15;2;34;Hürth;14.1;;;91
+50354;Krankenhausstraße;125;153;136;160;Hürth;16.1;;;91
+50354;Krankenhausstraße;21;119;28;118;Hürth;15.0;;;91
+50354;Krankenhausstraße;1;15;6;22;Hürth;11.0;;;91
+50354;Kranzmaarstraße;1;25;2;18;Hürth;08.0;;;91
+50354;Kreuzstraße;3;99;10;172;Hürth;09.0;;;91
+50354;Kreuzweingartener Weg;1;9;2;10;Hürth;15.0;;;91
+50354;Kriemhildstraße;1;11;2;6;Hürth;13.0;;;91
+50354;Kringsweg;;;2;36;Hürth;10.0;;;91
+50354;Kuhgasse;;;2;2;Hürth;21.0;;;91
+50354;Kunibertsweg;1;7;2;14;Hürth;11.0;;;91
+50354;Kurt-Schumacher-Weg;1;19;2;4;Hürth;10.0;;;91
+50354;Kölner Straße;209;295;160;170;Hürth;01.2;;;91
+50354;Kölner Straße;5;59;6;130;Hürth;04.0;;;91
+50354;Kölnstraße;11;117;18;92;Hürth;14.1;;;91
+50354;Königsberger Weg;1;15;;;Hürth;11.0;;;91
+50354;Lassallestraße;;;2;20;Hürth;14.1;;;91
+50354;Laubenweg;1;1;2;2;Hürth;17.1;;;91
+50354;Lechenicher Weg;1;59;2;38;Hürth;15.0;;;91
+50354;Lehnengasse;1;43;2;38;Hürth;22.0;;;91
+50354;Leopold-Freter-Straße;3;29;2;18;Hürth;18.2;;;91
+50354;Lerchenweg;;;2;6;Hürth;13.0;;;91
+50354;Lessingstraße;1;37;2;46;Hürth;14.1;;;91
+50354;Liblarer Weg;1;5;;;Hürth;10.0;;;91
+50354;Liebigweg;7;19;2;16;Hürth;02.0;;;91
+50354;Lindenplatz;;;2;14;Hürth;18.2;;;91
+50354;Lindenstraße;9;33;4;46;Hürth;08.0;;;91
+50354;Lindgenstraße;9;25;4;26;Hürth;20.2;;;91
+50354;Lippoldstraße;1;7;2;6;Hürth;20.1;;;91
+50354;Litschgasse;;;4;8;Hürth;02.0;;;91
+50354;Lortzingstraße;141;145;160;160;Hürth;15.0;;;91
+50354;Lortzingstraße;1;93;2;38;Hürth;17.1;;;91
+50354;Ludwig-Berg-Straße;1;11;2;28;Hürth;02.0;;;91
+50354;Ludwig-Erhard-Weg;;;2;8;Hürth;10.0;;;91
+50354;Lupenaustraße;1;31;4;28;Hürth;02.0;;;91
+50354;Luxemburger Straße;255;299;258;326;Hürth;13.0;;;91
+50354;Luxemburger Straße;67;103;32;118;Hürth;19.2;;;91
+50354;Luxemburger Straße;311;379;332;380;Hürth;12.0;;;91
+50354;Luxemburger Straße;;;454;484;Hürth;09.0;;;91
+50354;Luxemburger Straße;413;413;;;Hürth;20.1;;;91
+50354;Lövenicher Weg;;;2;18;Hürth;11.0;;;91
+50354;Lützerodeweg;;;2;22;Hürth;11.0;;;91
+50354;Margarete-Köchner-Straße;;;2;24;Hürth;17.2;;;91
+50354;Margueritenweg;1;31;2;10;Hürth;14.1;;;91
+50354;Marie-Elisabeth-Lüders-Wg;1;27;2;12;Hürth;10.0;;;91
+50354;Marienbornweg;1;11;2;16;Hürth;07.0;;;91
+50354;Mariengartenstraße;1;39;2;28;Hürth;02.0;;;91
+50354;Marienstraße;5;49;12;48;Hürth;17.2;;;91
+50354;Marktweg;3;65;8;60;Hürth;22.0;;;91
+50354;Martin-Luther-Straße;1;11;4;10;Hürth;18.1;;;91
+50354;Maternusweg;;;2;10;Hürth;11.0;;;91
+50354;Matthias-Erzberger-Weg;1;23;;;Hürth;17.1;;;91
+50354;Matthiasstraße;1;65;2;62;Hürth;08.0;;;91
+50354;Max-Ernst-Straße;1;13;2;2;Hürth;19.2;;;91
+50354;Max-Planck-Straße;;;28;28;Hürth;19.2;;;91
+50354;Max-Planck-Straße;9;9;4;14;Hürth;13.0;;;91
+50354;Maximilian-Kolbe-Straße;1;11;2;52;Hürth;15.0;;;91
+50354;Meisenbusch;1;9;;;Hürth;13.0;;;91
+50354;Melchiorstraße;5;19;4;18;Hürth;18.2;;;91
+50354;Merodeweg;;;2;16;Hürth;11.0;;;91
+50354;Mertener Weg;;;2;10;Hürth;10.0;;;91
+50354;Meschenicher Straße;1;21;2;16;Hürth;22.0;;;91
+50354;Minnepfad;1;23;4;16;Hürth;05.0;;;91
+50354;Mittelstraße;1;11;4;10;Hürth;08.0;;;91
+50354;Mohlbergstraße;9;11;2;18;Hürth;16.1;;;91
+50354;Mohnweg;1;17;;;Hürth;14.1;;;91
+50354;Moselstraße;7;23;2;18;Hürth;16.1;;;91
+50354;Mozartstraße;1;15;2;16;Hürth;17.2;;;91
+50354;Mühlenhof;1;27;2;36;Hürth;07.0;;;91
+50354;Mühlenstraße;1;69;4;74;Hürth;07.0;;;91
+50354;Mühlenweg;1;11;2;10;Hürth;02.0;;;91
+50354;Müserstraße;1;31;2;24;Hürth;06.1;;;91
+50354;Narzissenweg;1;5;2;6;Hürth;14.1;;;91
+50354;Nelkenweg;1;11;2;8;Hürth;14.1;;;91
+50354;Nelly-Sachs-Weg;1;9;2;22;Hürth;15.0;;;91
+50354;Nesselrodeweg;;;2;22;Hürth;11.0;;;91
+50354;Nettesheimer Weg;1;9;2;8;Hürth;15.0;;;91
+50354;Nibelungenstraße;3;45;8;80;Hürth;13.0;;;91
+50354;Niklausstraße;1;19;14;28;Hürth;01.2;;;91
+50354;Norbert-Pees-Weg;3;5;6;6;Hürth;09.0;;;91
+50354;Nordring;1;5;2;8;Hürth;11.0;;;91
+50354;Nußallee;1;35;2;12;Hürth;20.2;;;91
+50354;Oppelner Weg;;;2;10;Hürth;11.0;;;91
+50354;Orsbeckstraße;1;15;2;18;Hürth;16.2;;;91
+50354;Ortshofstraße;7;97;2;102;Hürth;20.2;;;91
+50354;Otto-Hahn-Straße;1;1;4;26;Hürth;19.2;;;91
+50354;Overstolzenplatz;;;2;12;Hürth;16.2;;;91
+50354;Pantaleonsweg;1;5;2;6;Hürth;11.0;;;91
+50354;Parkstraße;;;2;4;Hürth;22.0;;;91
+50354;Pastor-Giesen-Straße;1;25;2;22;Hürth;17.2;;;91
+50354;Pastor-Krombach-Straße;1;33;2;56;Hürth;20.1;;;91
+50354;Pastor-Kröner-Straße;1;29;;;Hürth;06.2;;;91
+50354;Pastor-Redecker-Straße;1;31;4;28;Hürth;04.0;;;91
+50354;Pastor-Sudhoff-Straße;;;2;8;Hürth;11.0;;;91
+50354;Pastoratstraße;1;15;2;12;Hürth;08.0;;;91
+50354;Paul-Gerhardt-Weg;3;7;2;2;Hürth;18.2;;;91
+50354;Pestalozzistraße;1;17;6;26;Hürth;13.0;;;91
+50354;Peter-Engels-Straße;1;27;2;24;Hürth;02.0;;;91
+50354;Peter-Grubert-Straße;1;37;2;34;Hürth;16.2;;;91
+50354;Peter-Köhr-Straße;1;1;2;30;Hürth;16.2;;;91
+50354;Pierweg;1;9;2;12;Hürth;02.0;;;91
+50354;Platzstraße;1;49;4;40;Hürth;21.0;;;91
+50354;Plektrudisstraße;3;19;6;30;Hürth;01.1;;;91
+50354;Plögerstraße;;;2;14;Hürth;20.2;;;91
+50354;Plönerstraße;3;5;;;Hürth;21.0;;;91
+50354;Pulheimer Weg;;;2;24;Hürth;11.0;;;91
+50354;Pützstraße;1;11;4;4;Hürth;20.2;;;91
+50354;Raiffeisenstraße;11;53;2;60;Hürth;22.0;;;91
+50354;Rainer-Maria-Rilke-Weg;1;15;2;12;Hürth;15.0;;;91
+50354;Raufteschstraße;1;21;2;14;Hürth;16.2;;;91
+50354;Rebenfeld;3;15;2;4;Hürth;21.0;;;91
+50354;Regina-Kaufmann-Weg;1;7;;;Hürth;02.0;;;91
+50354;Reifferscheidstraße;3;17;6;10;Hürth;13.0;;;91
+50354;Rheingoldstraße;11;21;2;36;Hürth;13.0;;;91
+50354;Ribbertstraße;1;27;2;28;Hürth;14.1;;;91
+50354;Richard-Hettinger-Straße;1;21;2;30;Hürth;07.0;;;91
+50354;Ringstraße;1;57;2;60;Hürth;08.0;;;91
+50354;Ritterstraße;1;25;8;34;Hürth;16.1;;;91
+50354;Robert-Bosch-Straße;;;2;2;Hürth;19.2;;;91
+50354;Rodderstraße;7;51;2;42;Hürth;01.1;;;91
+50354;Rodenkirchener Straße;31;31;;;Hürth;14.2;;;91
+50354;Rodenkirchener Weg;;;2;28;Hürth;11.0;;;91
+50354;Rollweg;1;17;;;Hürth;11.0;;;91
+50354;Rondorfer Straße;3;137;8;130;Hürth;19.1;;;91
+50354;Rosellstraße;1;37;2;68;Hürth;13.0;;;91
+50354;Rudi-Tonn-Platz;1;17;2;16;Hürth;09.0;;;91
+50354;Rupert-Mayer-Straße;3;21;2;50;Hürth;15.0;;;91
+50354;Römerhof;11;23;2;18;Hürth;09.0;;;91
+50354;Römerstraße;1;1;;;Hürth;07.0;;;91
+50354;Rüschergasse;;;4;24;Hürth;07.0;;;91
+50354;Sandkaulerweg;3;23;6;18;Hürth;21.0;;;91
+50354;Schaesbergstraße;1;13;;;Hürth;16.1;;;91
+50354;Schallmauerweg;11;95;22;52;Hürth;05.0;;;91
+50354;Schillerstraße;1;9;2;16;Hürth;16.1;;;91
+50354;Schlangenpfad;3;41;28;54;Hürth;08.0;;;91
+50354;Schlangenpfad;59;73;;;Hürth;07.0;;;91
+50354;Schlebuschweg;1;1;;;Hürth;01.1;;;91
+50354;Schmittenstraße;5;59;2;38;Hürth;22.0;;;91
+50354;Schmittenstraße;71;211;72;184;Hürth;21.0;;;91
+50354;Schneider-Clauß-Straße;3;15;4;22;Hürth;13.0;;;91
+50354;Schnellermaarstraße;7;151;18;120;Hürth;03.0;;;91
+50354;Schnitzlerweg;;;2;66;Hürth;04.0;;;91
+50354;Scholastikastraße;3;11;;;Hürth;02.0;;;91
+50354;Schollsbrücke;1;7;2;24;Hürth;01.1;;;91
+50354;Schollstraße;3;13;4;40;Hürth;09.0;;;91
+50354;Schwadorfer Weg;1;35;;;Hürth;10.0;;;91
+50354;Schwalbenweg;1;9;;;Hürth;13.0;;;91
+50354;Schützenstraße;1;23;2;26;Hürth;06.1;;;91
+50354;Sebastianusstraße;1;11;4;8;Hürth;05.0;;;91
+50354;Sechtemer Weg;1;25;;;Hürth;10.0;;;91
+50354;Seinsheimweg;;;2;12;Hürth;11.0;;;91
+50354;Severinusstraße;1;65;2;60;Hürth;12.0;;;91
+50354;Severinusstraße;73;89;84;96;Hürth;11.0;;;91
+50354;Siegfriedstraße;1;9;2;10;Hürth;13.0;;;91
+50354;Sieglindweg;1;5;;;Hürth;13.0;;;91
+50354;Siegmundweg;3;9;;;Hürth;13.0;;;91
+50354;Sielsdorfer Mühle;1;13;;;Hürth;01.2;;;91
+50354;Sinnersdorfer Weg;;;2;10;Hürth;11.0;;;91
+50354;Skawinastraße;1;17;;;Hürth;11.0;;;91
+50354;Sonnenblumenweg;1;27;;;Hürth;22.0;;;91
+50354;Sonnenwinkel;1;25;2;48;Hürth;19.1;;;91
+50354;Sperberweg;1;13;;;Hürth;13.0;;;91
+50354;Sperlingsweg;1;13;;;Hürth;13.0;;;91
+50354;Starenweg;1;13;;;Hürth;13.0;;;91
+50354;Stefan-George-Weg;1;11;2;8;Hürth;15.0;;;91
+50354;Stegerwaldstraße;1;7;2;20;Hürth;05.0;;;91
+50354;Steinackerstraße;7;45;8;46;Hürth;20.1;;;91
+50354;Steinmarderweg;;;2;28;Hürth;09.0;;;91
+50354;Steinstraße;3;89;4;80;Hürth;16.2;;;91
+50354;Stettiner Weg;;;2;20;Hürth;11.0;;;91
+50354;Stommelner Weg;;;2;10;Hürth;11.0;;;91
+50354;Stotzheimer Straße;3;57;16;58;Hürth;01.3;;;91
+50354;Stumbshofstraße;1;29;2;44;Hürth;02.0;;;91
+50354;Sudetenstraße;47;67;12;78;Hürth;10.0;;;91
+50354;Talmühlenstraße;1;3;;;Hürth;07.0;;;91
+50354;Talstraße;9;9;;;Hürth;21.0;;;91
+50354;Tannenweg;1;5;2;6;Hürth;19.2;;;91
+50354;Theo-Junghänel-Weg;1;13;;;Hürth;09.0;;;91
+50354;Theo-Zimmermann-Straße;1;29;6;28;Hürth;01.1;;;91
+50354;Theresiastraße;1;57;2;54;Hürth;02.0;;;91
+50354;Theresienhöhe;1;23;;;Hürth;09.0;;;91
+50354;Thetforder Straße;1;15;6;8;Hürth;11.0;;;91
+50354;Thielstraße;1;41;;;Hürth;14.1;;;91
+50354;Tilsitstraße;1;27;2;44;Hürth;08.0;;;91
+50354;Trierer Straße;1;81;2;60;Hürth;09.0;;;91
+50354;Tulpenweg;3;9;2;6;Hürth;14.1;;;91
+50354;Turmweg;1;9;2;2;Hürth;16.1;;;91
+50354;Tzerklaes-Straße;1;21;2;14;Hürth;07.0;;;91
+50354;Türnicher Straße;1;25;2;52;Hürth;06.2;;;91
+50354;Ubierweg;1;19;;;Hürth;13.0;;;91
+50354;Uhlandstraße;1;9;2;8;Hürth;16.1;;;91
+50354;Untere Mühle;9;17;2;8;Hürth;04.0;;;91
+50354;Urftweg;1;11;;;Hürth;15.0;;;91
+50354;Ursfelder Straße;1;59;2;52;Hürth;06.2;;;91
+50354;Ursulastraße;1;163;2;138;Hürth;14.2;;;91
+50354;Valkenburger Platz;1;3;2;6;Hürth;07.0;;;91
+50354;Villering;1;17;2;36;Hürth;10.0;;;91
+50354;Vochemer Straße;5;61;4;58;Hürth;21.0;;;91
+50354;Vogelsanger Weg;1;33;6;50;Hürth;19.2;;;91
+50354;Volkerstraße;1;23;2;14;Hürth;13.0;;;91
+50354;Von-Boetticher-Straße;1;7;2;16;Hürth;14.1;;;91
+50354;Von-Geyr-Ring;1;121;14;106;Hürth;02.0;;;91
+50354;Von-Mylius-Straße;1;41;2;10;Hürth;06.1;;;91
+50354;Vorgebirgsstraße;5;51;12;34;Hürth;22.0;;;91
+50354;Vorster Weg;3;15;8;14;Hürth;01.2;;;91
+50354;Vussemweg;1;9;;;Hürth;15.0;;;91
+50354;Walberberger Weg;1;19;;;Hürth;10.0;;;91
+50354;Walburgisstraße;;;2;10;Hürth;05.0;;;91
+50354;Wehrweg;1;11;;;Hürth;16.1;;;91
+50354;Weidengasse;1;43;2;26;Hürth;13.0;;;91
+50354;Weierstraße;3;55;6;40;Hürth;08.0;;;91
+50354;Weiherdamm;;;2;12;Hürth;06.2;;;91
+50354;Weiler Berrenrath;1;9;4;6;Hürth;06.2;;;91
+50354;Weilerstraße;115;115;0;130;Hürth;21.0;;;91
+50354;Weingartenstraße;1;5;4;10;Hürth;20.2;;;91
+50354;Wendelinusplatz;3;7;2;8;Hürth;06.1;;;91
+50354;Wendelinusstraße;43;89;4;120;Hürth;06.1;;;91
+50354;Werner-Disse-Straße;7;13;8;30;Hürth;08.0;;;91
+50354;Wesselinger Weg;;;2;8;Hürth;11.0;;;91
+50354;Weyerweg;1;15;;;Hürth;15.0;;;91
+50354;Weygoldstraße;3;13;6;22;Hürth;01.1;;;91
+50354;Wilhelm-Küppers-Straße;1;25;2;36;Hürth;01.3;;;91
+50354;Wilhelm-Rieländer-Straße;3;3;2;6;Hürth;12.0;;;91
+50354;Willi-Mainzer-Straße;1;15;4;62;Hürth;01.3;;;91
+50354;Willy-Brandt-Platz;1;1;;;Hürth;10.0;;;91
+50354;Winand-Lüttgens-Straße;3;19;6;10;Hürth;01.1;;;91
+50354;Wingertstraße;1;19;4;18;Hürth;09.0;;;91
+50354;Winterstraße;;;2;2;Hürth;14.2;;;91
+50354;Wolffen-Straße;11;11;2;12;Hürth;07.0;;;91
+50354;Wöhlerweg;;;2;6;Hürth;02.0;;;91
+50354;Zieselsmaarstraße;;;24;36;Hürth;09.0;;;91
+50354;Zieskovener Straße;1;83;2;82;Hürth;03.0;;;91
+50354;Zingelweg;1;9;;;Hürth;01.1;;;91
+50354;Zu den Weihern;5;17;2;14;Hürth;21.0;;;91
+50354;Zum Komarhof;3;13;;;Hürth;16.2;;;91
+50354;Zum Konraderhof;1;11;;;Hürth;22.0;;;91
+50354;Zum Lintlarhof;1;15;;;Hürth;18.1;;;91
+50354;Zum Waldfrieden;1;7;32;66;Hürth;05.0;;;91
+50354;Zunftweg;1;1;10;10;Hürth;04.0;;;91
+50354;Zur Alten Schmiede;3;21;4;16;Hürth;02.0;;;91
+50354;Zur Bauernsiedlung;5;13;4;20;Hürth;22.0;;;91
+50354;Zur Gotteshülfe;1;55;10;64;Hürth;02.0;;;91
+50354;Zur Roddergrube;1;29;2;24;Hürth;06.1;;;91
+50354;Zülpicher Weg;;;2;30;Hürth;15.0;;;91
