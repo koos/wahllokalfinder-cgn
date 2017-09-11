@@ -1,0 +1,29 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+01.0;Grundschule Gymnich;Schulstr.;2;;;50374;Erftstadt;;J
+02.0;Grundschule Gymnich;Schulstr.;2;;;50374;Erftstadt;;J
+03.0;Grundschule Kierdorf;Martinusplatz;1;;;50374;Erftstadt;;J
+07.0;Volkshochschule Liblar;Carl-Schurz-Str.;23;;;50374;Erftstadt;;J
+09.0;Donatusschule Liblar;Theodor-Heuss-Str.;24;;;50374;Erftstadt;;J
+11.0;Donatusschule Liblar;Theodor-Heuss-Str.;24;;;50374;Erftstadt;;J
+12.0;Donatusschule Liblar;Theodor-Heuss-Str.;24;;;50374;Erftstadt;;J
+13.0;Schützenhaus Bliesheim;Merowingerstr.;54;;;50374;Erftstadt;;N
+14.0;Grundschule Bliesheim;Lambertusstr.;75-77;;;50374;Erftstadt;;N
+15.2;Dorfgemeinschaftshaus Niederberg;Büchelstraße;26;;;50374;Erftstadt;;J
+06.0;Kath. Pfarrheim St. Michael;Klaus-Schäfer-Straße;7;;;50374;Erftstadt;;J
+16.0;Martinus-Förderschule;Franz-Stryck-Str.;1-3;;;50374;Erftstadt;;J
+17.0;Grundschule Erp;Flußstr.;19;;;50374;Erftstadt;;J
+18.0;Theodor-Heuss-Schule;Dr. Josef-Fieger-Str.;1;;;50374;Erftstadt;;J
+19.0;Theodor-Heuss-Schule;Dr. Josef-Fieger-Str.;1;;;50374;Erftstadt;;J
+21.0;Theodor-Heuss-Schule;Dr. Josef-Fieger-Str.;1;;;50374;Erftstadt;;J
+20.2;Kindergarten Herrig;St.-Clemens-Straße;7;;;50374;Erftstadt;;J
+23.0;Südschule Lechenich;Pestalozzistr.;29;;;50374;Erftstadt;;J
+24.0;Südschule Lechenich;Pestalozzistr.;29;;;50374;Erftstadt;;J
+10.0;Kath. Pfarrheim St. Barbara;Bergstraße;5;;;50374;Erftstadt;;J
+15.3;Kath. Pfarrheim Borr;Vonnesstraße;27a;;;50374;Erftstadt;;J
+15.1;Pfarrheim Sankt Martin;Hubert-Vilz-Platz;;;;50374;Erftstadt;;J
+08.0;Aula Ville Gymnasium;Schwalbenstraße;1;;;50374;Erftstadt;;J
+20.1;Schützenhaus Lechenich;Klosterstraße;;;;50374;Erftstadt;;J
+25.0;Pfarrheim Dirmerzheim;Lourdesweg;;;;50374;Erftstadt;;J
+04.0;Familienzentrum Köttingen;Franz-Lehnen-Straße;3;;;50374;Erftstadt;;J
+05.0;Familienzentrum Köttingen;Franz-Lehnen-Straße;3;;;50374;Erftstadt;;J
+22.0;Bonnfinanz Ahrem;Am Hermeshof;16;;;50374;Erftstadt;;J

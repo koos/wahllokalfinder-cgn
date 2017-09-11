@@ -1,0 +1,585 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+50374;Abt-Horchem-Straße;1;35;2;60;Erftstadt;17.0;;;92
+50374;Ackerstraße;3;79;2;146;Erftstadt;15.1;;;92
+50374;Adlerweg;1;31;2;6;Erftstadt;19.0;;;92
+50374;Agathastraße;1;7;2;8;Erftstadt;19.0;;;92
+50374;Ahornweg;1;11;2;14;Erftstadt;09.0;;;92
+50374;Ahremer Lichweg;3;47;30;30;Erftstadt;20.1;;;92
+50374;Akazienweg;1;7;2;8;Erftstadt;24.0;;;92
+50374;Albert-Einstein-Ring;;;6;10;Erftstadt;24.0;;;92
+50374;Alfred-Delp-Straße;1;27;2;18;Erftstadt;23.0;;;92
+50374;Alfred-Kubin-Weg;1;23;2;40;Erftstadt;05.0;;;92
+50374;Allensteiner Weg;1;21;2;22;Erftstadt;10.0;;;92
+50374;Alter Burgweg;;;4;14;Erftstadt;02.0;;;92
+50374;Am Anger;1;25;2;32;Erftstadt;12.0;;;92
+50374;Am Beißel;1;51;2;18;Erftstadt;21.0;;;92
+50374;Am Burgfeld;;;146;186;Erftstadt;19.0;;;92
+50374;Am Burgfeld;1;129;2;144;Erftstadt;18.0;;;92
+50374;Am Böttchen;1;39;2;22;Erftstadt;21.0;;;92
+50374;Am Büschel;1;55;4;24;Erftstadt;01.0;;;92
+50374;Am Büschel;1;55;;24;Erftstadt;01.0;;;92
+50374;Am Flutgraben;3;39;2;28;Erftstadt;01.0;;;92
+50374;Am Fußfall;1;27;2;36;Erftstadt;02.0;;;92
+50374;Am Giezenbach;1;31;2;26;Erftstadt;05.0;;;92
+50374;Am Haagenpfädchen;;;2;16;Erftstadt;23.0;;;92
+50374;Am Hahnacker;3;13;4;40;Erftstadt;07.0;;;92
+50374;Am Hasenpfad;1;1;;;Erftstadt;17.0;;;92
+50374;Am Heidehang;1;17;2;30;Erftstadt;13.0;;;92
+50374;Am Heisterfeld;1;5;;;Erftstadt;21.0;;;92
+50374;Am Hermeshof;1;3;2;24;Erftstadt;22.0;;;92
+50374;Am Hommerich;1;15;2;16;Erftstadt;22.0;;;92
+50374;Am Kapellenbusch;1;41;2;34;Erftstadt;08.0;;;92
+50374;Am Kellergraben;1;9;2;12;Erftstadt;20.1;;;92
+50374;Am Kirchpfad;1;13;2;10;Erftstadt;14.0;;;92
+50374;Am Kolbesmaar;1;21;2;14;Erftstadt;21.0;;;92
+50374;Am Konradsheimer Weg;1;1;0;0;Erftstadt;24.0;;;92
+50374;Am Kreuz;1;3;2;4;Erftstadt;14.0;;;92
+50374;Am Kämpchen;;;6;20;Erftstadt;25.0;;;92
+50374;Am Lindenfeld;1;13;2;16;Erftstadt;21.0;;;92
+50374;Am Lindengarten;1;15;4;50;Erftstadt;17.0;;;92
+50374;Am Ludwigsacker;1;21;2;10;Erftstadt;07.0;;;92
+50374;Am Marienkreuz;1;35;8;40;Erftstadt;20.2;;;92
+50374;Am Maximinenkreuz;3;41;2;28;Erftstadt;22.0;;;92
+50374;Am Mittelpfad;3;17;8;18;Erftstadt;15.3;;;92
+50374;Am Mühlenbach;1;7;2;16;Erftstadt;09.0;;;92
+50374;Am Plexer;1;11;2;10;Erftstadt;01.0;;;92
+50374;Am Qualenberg;1;41;2;28;Erftstadt;21.0;;;92
+50374;Am Rottfeld;1;11;2;42;Erftstadt;18.0;;;92
+50374;Am Rulenzflies;1;5;2;8;Erftstadt;15.3;;;92
+50374;Am Schießberg;1;17;2;36;Erftstadt;25.0;;;92
+50374;Am Schießendahl;1;91;6;82;Erftstadt;10.0;;;92
+50374;Am Siefenpfad;1;13;2;12;Erftstadt;17.0;;;92
+50374;Am Spielberg;1;1;2;4;Erftstadt;17.0;;;92
+50374;Am Spürkerkreuz;1;1;2;4;Erftstadt;09.0;;;92
+50374;Am Steinfeld;1;7;2;8;Erftstadt;21.0;;;92
+50374;Am Tunnel;1;5;2;2;Erftstadt;10.0;;;92
+50374;Am Vogelsang;1;55;6;64;Erftstadt;08.0;;;92
+50374;Am Wachberg;1;39;2;80;Erftstadt;13.0;;;92
+50374;Am Weilerweg;1;1;;;Erftstadt;16.0;;;92
+50374;Am Welschbach;3;9;2;4;Erftstadt;20.1;;;92
+50374;Am Ziegelacker;1;37;2;36;Erftstadt;09.0;;;92
+50374;Ammerstraße;1;9;2;10;Erftstadt;17.0;;;92
+50374;Amselweg;1;41;4;24;Erftstadt;19.0;;;92
+50374;An St.Servatius;1;9;2;12;Erftstadt;21.0;;;92
+50374;An den Eichen;1;17;8;12;Erftstadt;09.0;;;92
+50374;An der Baumschule;1;31;2;32;Erftstadt;24.0;;;92
+50374;An der Johannisbrücke;;;2;10;Erftstadt;02.0;;;92
+50374;An der Mirgelskaul;1;25;2;48;Erftstadt;12.0;;;92
+50374;An der Patria;11;55;2;22;Erftstadt;24.0;;;92
+50374;An der Schleifmühle;3;13;2;26;Erftstadt;21.0;;;92
+50374;An der Schwarzau;5;11;150;150;Erftstadt;06.0;;;92
+50374;An der Vogelrute;1;17;2;12;Erftstadt;18.0;;;92
+50374;An der Waschmaar;1;3;;;Erftstadt;15.3;;;92
+50374;Anemonenweg;1;25;2;10;Erftstadt;07.0;;;92
+50374;Annastraße;1;17;2;20;Erftstadt;04.0;;;92
+50374;Anne-Frank-Straße;;;2;2;Erftstadt;12.0;;;92
+50374;Antonsgasse;1;1;4;4;Erftstadt;07.0;;;92
+50374;Ardennenstraße;3;9;2;18;Erftstadt;01.0;;;92
+50374;Asternsteg;1;1;;;Erftstadt;07.0;;;92
+50374;Auerweg;1;7;2;4;Erftstadt;15.2;;;92
+50374;Auf dem Acker;1;1;;;Erftstadt;14.0;;;92
+50374;Auf dem Deuschen;1;9;2;14;Erftstadt;03.0;;;92
+50374;Auf dem Graben;;;8;22;Erftstadt;20.1;;;92
+50374;Auf dem Hamm;1;17;2;2;Erftstadt;14.0;;;92
+50374;Auf dem Hostert;3;11;2;18;Erftstadt;01.0;;;92
+50374;Auf dem Kreuzberg;1;17;2;32;Erftstadt;15.1;;;92
+50374;Auf dem Rodt;1;21;2;24;Erftstadt;14.0;;;92
+50374;Auf der Höhe;1;7;2;12;Erftstadt;13.0;;;92
+50374;Auf der Steinhaage;3;5;;;Erftstadt;06.0;;;92
+50374;August-Macke-Straße;1;45;2;30;Erftstadt;05.0;;;92
+50374;Augustinusweg;1;21;2;8;Erftstadt;03.0;;;92
+50374;Ausleger;1;49;2;30;Erftstadt;02.0;;;92
+50374;Bachstraße;1;31;2;26;Erftstadt;22.0;;;92
+50374;Badorfer Weg;1;37;2;20;Erftstadt;13.0;;;92
+50374;Bahnhofstraße;25;57;20;90;Erftstadt;08.0;;;92
+50374;Bahnhofstraße;1;23;4;6;Erftstadt;07.0;;;92
+50374;Bahnhofstraße;59;83;92;108;Erftstadt;10.0;;;92
+50374;Balkhausener Straße;1;37;2;2;Erftstadt;02.0;;;92
+50374;Barbarastraße;1;21;2;18;Erftstadt;10.0;;;92
+50374;Baumstraße;1;45;2;34;Erftstadt;25.0;;;92
+50374;Beethovenstraße;1;13;2;14;Erftstadt;03.0;;;92
+50374;Behrensstraße;5;35;4;22;Erftstadt;07.0;;;92
+50374;Bendenweg;1;17;2;16;Erftstadt;15.3;;;92
+50374;Bergstraße;1;3;2;18;Erftstadt;10.0;;;92
+50374;Berliner Straße;1;35;2;34;Erftstadt;11.0;;;92
+50374;Bernd-Alois-Zimmermann-;1;3;2;4;Erftstadt;13.0;;;92
+50374;Bernhard-Letterhaus-Str.;1;7;2;52;Erftstadt;23.0;;;92
+50374;Berrenrather Straße;1;5;2;50;Erftstadt;03.0;;;92
+50374;Bertha-von-Suttner-Weg;1;29;2;10;Erftstadt;12.0;;;92
+50374;Bertolt-Brecht-Straße;1;107;2;200;Erftstadt;11.0;;;92
+50374;Birkenstraße;1;69;2;30;Erftstadt;16.0;;;92
+50374;Blankenheimer Weg;1;33;2;26;Erftstadt;09.0;;;92
+50374;Bleistraße;1;45;2;56;Erftstadt;15.2;;;92
+50374;Blessemer Lichweg;;;4;4;Erftstadt;21.0;;;92
+50374;Blessemer Straße;43;51;2;108;Erftstadt;18.0;;;92
+50374;Blessemer Straße;1;31;;;Erftstadt;19.0;;;92
+50374;Bliesgasse;1;9;2;8;Erftstadt;14.0;;;92
+50374;Bliesheimer Straße;3;27;14;32;Erftstadt;09.0;;;92
+50374;Blumenstraße;1;7;4;8;Erftstadt;25.0;;;92
+50374;Bolzengasse;3;21;2;26;Erftstadt;16.0;;;92
+50374;Bonifatiusweg;1;11;2;10;Erftstadt;21.0;;;92
+50374;Bonner Ring;17;55;2;80;Erftstadt;24.0;;;92
+50374;Bonner Ring;59;151;88;130;Erftstadt;23.0;;;92
+50374;Bonner Straße;1;101;6;92;Erftstadt;24.0;;;92
+50374;Borrer Straße;1;39;2;42;Erftstadt;15.1;;;92
+50374;Breslauer Straße;1;27;2;52;Erftstadt;12.0;;;92
+50374;Broichweg;1;37;2;40;Erftstadt;03.0;;;92
+50374;Bruder-Edelfried-Straße;3;31;2;28;Erftstadt;16.0;;;92
+50374;Brückenstraße;3;75;2;84;Erftstadt;25.0;;;92
+50374;Brüggener Straße;1;111;4;144;Erftstadt;01.0;;;92
+50374;Brühler Straße;1;19;2;42;Erftstadt;07.0;;;92
+50374;Buchenweg;1;27;2;20;Erftstadt;10.0;;;92
+50374;Buschfelder Mühle;1;3;;;Erftstadt;13.0;;;92
+50374;Buschfelder Weg;1;1;2;10;Erftstadt;06.0;;;92
+50374;Bussardweg;1;17;2;22;Erftstadt;18.0;;;92
+50374;Büchelstraße;1;25;4;36;Erftstadt;15.2;;;92
+50374;Bühler Graben;1;19;2;18;Erftstadt;17.0;;;92
+50374;Carl-Schurz-Straße;1;167;2;160;Erftstadt;07.0;;;92
+50374;Carl-Schurz-Straße;169;203;;;Erftstadt;06.0;;;92
+50374;Chorweg;1;11;2;10;Erftstadt;25.0;;;92
+50374;Christian-Dahmen-Straße;3;5;2;4;Erftstadt;15.1;;;92
+50374;Concordiastraße;1;47;2;60;Erftstadt;03.0;;;92
+50374;Cäcilienweg;1;9;2;26;Erftstadt;25.0;;;92
+50374;Dahlienweg;1;13;2;14;Erftstadt;03.0;;;92
+50374;Daimlerstraße;5;15;10;14;Erftstadt;24.0;;;92
+50374;Danziger Straße;1;21;2;24;Erftstadt;11.0;;;92
+50374;Dechant-Linden-Weg;5;37;6;66;Erftstadt;07.0;;;92
+50374;Dieselstraße;1;3;10;22;Erftstadt;24.0;;;92
+50374;Dietrich-Bonhoeffer-Str.;1;35;2;16;Erftstadt;23.0;;;92
+50374;Dietrichsweg;1;9;2;8;Erftstadt;21.0;;;92
+50374;Dirmerzheimer Straße;1;13;6;50;Erftstadt;02.0;;;92
+50374;Disternicher Weg;1;11;2;44;Erftstadt;17.0;;;92
+50374;Dohlenweg;1;7;2;8;Erftstadt;18.0;;;92
+50374;Donatusstraße;1;41;6;56;Erftstadt;08.0;;;92
+50374;Dr.Josef-Fieger-Straße;;;2;30;Erftstadt;19.0;;;92
+50374;Dreikönigenweg;1;19;2;16;Erftstadt;22.0;;;92
+50374;Drieschstraße;1;69;2;48;Erftstadt;03.0;;;92
+50374;Drosselweg;1;69;2;36;Erftstadt;18.0;;;92
+50374;Eckstraße;1;9;2;18;Erftstadt;15.2;;;92
+50374;Ehrenstraße;9;13;4;18;Erftstadt;01.0;;;92
+50374;Eichendorffstraße;1;11;2;22;Erftstadt;16.0;;;92
+50374;Eichenweg;3;7;2;12;Erftstadt;16.0;;;92
+50374;Eifelstraße;1;107;2;118;Erftstadt;01.0;;;92
+50374;Eintrachtstraße;1;23;2;28;Erftstadt;02.0;;;92
+50374;Elderbachweg;1;13;2;14;Erftstadt;07.0;;;92
+50374;Elisabeth-Jansen-Straße;3;27;2;8;Erftstadt;21.0;;;92
+50374;Elisabethenweg;1;7;2;6;Erftstadt;06.0;;;92
+50374;Ellernstraße;1;17;2;10;Erftstadt;02.0;;;92
+50374;Elly-Heuss-Knapp-Weg;1;43;2;34;Erftstadt;20.1;;;92
+50374;Elsa-Brändström-Straße;1;77;2;84;Erftstadt;24.0;;;92
+50374;Elsterweg;1;35;2;36;Erftstadt;18.0;;;92
+50374;Erftstraße;1;35;2;40;Erftstadt;01.0;;;92
+50374;Erich-Schramm-Straße;1;11;2;34;Erftstadt;16.0;;;92
+50374;Ernteweg;5;15;2;8;Erftstadt;17.0;;;92
+50374;Erper Straße;1;17;2;22;Erftstadt;20.1;;;92
+50374;Eschenweg;3;9;2;20;Erftstadt;06.0;;;92
+50374;Falkenweg;1;3;2;12;Erftstadt;19.0;;;92
+50374;Fasanenaue;3;7;2;14;Erftstadt;08.0;;;92
+50374;Feldstraße;1;29;2;50;Erftstadt;25.0;;;92
+50374;Fichtenweg;1;9;2;8;Erftstadt;16.0;;;92
+50374;Finkenweg;1;19;4;34;Erftstadt;19.0;;;92
+50374;Fliederweg;1;3;2;2;Erftstadt;20.2;;;92
+50374;Flußstraße;3;29;2;50;Erftstadt;17.0;;;92
+50374;Forstweg;1;17;2;12;Erftstadt;04.0;;;92
+50374;Fortunastraße;1;15;2;18;Erftstadt;03.0;;;92
+50374;Frankenstraße;145;199;150;216;Erftstadt;13.0;;;92
+50374;Frankenstraße;1;141;2;144;Erftstadt;14.0;;;92
+50374;Franz-Busbach-Straße;1;5;2;4;Erftstadt;19.0;;;92
+50374;Franz-Lehnen-Straße;1;13;18;46;Erftstadt;04.0;;;92
+50374;Franz-Marc-Straße;1;65;2;220;Erftstadt;05.0;;;92
+50374;Franz-Rüth-Straße;1;15;2;20;Erftstadt;10.0;;;92
+50374;Franz-Stryck-Straße;9;9;2;20;Erftstadt;16.0;;;92
+50374;Franz-Xaver-Mauer-Straße;1;25;2;40;Erftstadt;22.0;;;92
+50374;Franziskaweg;1;5;2;8;Erftstadt;19.0;;;92
+50374;Frauenthaler Straße;3;151;10;118;Erftstadt;06.0;;;92
+50374;Frenzenstraße;1;201;2;146;Erftstadt;21.0;;;92
+50374;Friedhofsweg;3;3;;;Erftstadt;02.0;;;92
+50374;Friedrich-Ebert-Straße;1;101;2;130;Erftstadt;03.0;;;92
+50374;Friedrich-Engels-Straße;11;33;2;32;Erftstadt;23.0;;;92
+50374;Friedrich-Naumann-Straße;1;15;2;8;Erftstadt;23.0;;;92
+50374;Friesheimer Straße;1;31;2;36;Erftstadt;17.0;;;92
+50374;Fritz-Erler-Straße;;;2;4;Erftstadt;07.0;;;92
+50374;Fuchsweg;;;2;28;Erftstadt;04.0;;;92
+50374;Fuhrmannsgasse;1;5;2;24;Erftstadt;14.0;;;92
+50374;Gabriele-Münter-Weg;1;15;2;30;Erftstadt;05.0;;;92
+50374;Gartenstraße;1;43;2;34;Erftstadt;07.0;;;92
+50374;Geibelstraße;1;7;2;20;Erftstadt;25.0;;;92
+50374;Gemünder Straße;1;43;2;20;Erftstadt;09.0;;;92
+50374;Gennerstraße;1;77;2;72;Erftstadt;22.0;;;92
+50374;Georgstraße;1;71;2;70;Erftstadt;21.0;;;92
+50374;Gerhart-Hauptmann-Straße;1;15;2;14;Erftstadt;16.0;;;92
+50374;Gertrudenhofstraße;1;3;2;60;Erftstadt;15.2;;;92
+50374;Geschwister-Scholl-Straße;1;29;2;32;Erftstadt;24.0;;;92
+50374;Gierlingsgasse;1;1;2;4;Erftstadt;22.0;;;92
+50374;Gildestraße;;;4;4;Erftstadt;24.0;;;92
+50374;Gilgaustraße;9;13;2;12;Erftstadt;15.2;;;92
+50374;Ginsterweg;1;7;;;Erftstadt;13.0;;;92
+50374;Gippenzaun;1;29;2;28;Erftstadt;15.1;;;92
+50374;Gladbacher Straße;3;27;2;20;Erftstadt;17.0;;;92
+50374;Glückaufstraße;3;19;2;22;Erftstadt;03.0;;;92
+50374;Goerdeler Straße;1;23;2;22;Erftstadt;24.0;;;92
+50374;Goldenbergstraße;3;11;2;66;Erftstadt;03.0;;;92
+50374;Gottesweg;3;29;8;32;Erftstadt;01.0;;;92
+50374;Grachtstraße;1;33;4;34;Erftstadt;09.0;;;92
+50374;Graf-Emundus-Straße;1;59;2;56;Erftstadt;15.1;;;92
+50374;Graf-Stauffenberg-Straße;1;15;2;38;Erftstadt;24.0;;;92
+50374;Graf-Wolff-Metternich-Str;1;11;2;46;Erftstadt;12.0;;;92
+50374;Graf-von-Moltke-Straße;1;7;2;10;Erftstadt;24.0;;;92
+50374;Gregor-Vosen-Straße;1;21;4;54;Erftstadt;13.0;;;92
+50374;Große Jüch;1;17;4;18;Erftstadt;20.1;;;92
+50374;Großstraße;1;11;4;16;Erftstadt;25.0;;;92
+50374;Grubenweg;3;7;2;8;Erftstadt;10.0;;;92
+50374;Gruhlstraße;3;5;2;2;Erftstadt;05.0;;;92
+50374;Grüner Weg;3;5;6;6;Erftstadt;02.0;;;92
+50374;Grünstraße;1;7;2;16;Erftstadt;25.0;;;92
+50374;Gustav-Heinemann-Straße;3;7;6;28;Erftstadt;12.0;;;92
+50374;Gymnicher Hauptstraße;1;47;2;72;Erftstadt;02.0;;;92
+50374;Gymnicher Mühle;1;1;12;14;Erftstadt;01.0;;;92
+50374;Haagstraße;1;57;2;48;Erftstadt;02.0;;;92
+50374;Hahnenpfad;3;11;2;8;Erftstadt;17.0;;;92
+50374;Hahnstraße;5;17;2;16;Erftstadt;25.0;;;92
+50374;Hans-Böckler-Straße;1;11;2;62;Erftstadt;23.0;;;92
+50374;Haus Buschfeld;3;23;2;26;Erftstadt;13.0;;;92
+50374;Heddinghovener Straße;1;51;2;20;Erftstadt;21.0;;;92
+50374;Heerstraße;1;27;2;100;Erftstadt;13.0;;;92
+50374;Heidebroichstraße;7;71;2;36;Erftstadt;10.0;;;92
+50374;Heimbacher Weg;1;27;2;20;Erftstadt;09.0;;;92
+50374;Heinestraße;1;7;2;2;Erftstadt;16.0;;;92
+50374;Heinrich-Lübke-Straße;1;13;;;Erftstadt;09.0;;;92
+50374;Heinrichstraße;7;45;;;Erftstadt;01.0;;;92
+50374;Hellenthaler Weg;3;19;4;20;Erftstadt;09.0;;;92
+50374;Hennes-Weisweiler-Weg;1;1;;;Erftstadt;19.0;;;92
+50374;Henri-Dunant-Straße;1;19;2;22;Erftstadt;09.0;;;92
+50374;Herdweg;1;11;2;12;Erftstadt;15.2;;;92
+50374;Hermann-Köster-Straße;1;39;2;62;Erftstadt;04.0;;;92
+50374;Herriger Straße;1;47;6;60;Erftstadt;20.1;;;92
+50374;Heubahn;1;9;2;14;Erftstadt;22.0;;;92
+50374;Hildegardweg;1;5;;;Erftstadt;19.0;;;92
+50374;Hochstraße;1;83;2;56;Erftstadt;17.0;;;92
+50374;Hollerather Weg;;;2;22;Erftstadt;09.0;;;92
+50374;Holunderweg;1;1;2;10;Erftstadt;13.0;;;92
+50374;Holzdamm;1;5;2;2;Erftstadt;09.0;;;92
+50374;Hoverhof;1;1;;;Erftstadt;15.1;;;92
+50374;Hoverweg;1;9;2;12;Erftstadt;17.0;;;92
+50374;Hubert-Rüttger-Straße;1;51;2;32;Erftstadt;05.0;;;92
+50374;Hubert-Vilz-Platz;1;21;2;42;Erftstadt;15.1;;;92
+50374;Hubertusweg;1;7;2;8;Erftstadt;20.2;;;92
+50374;Hunsrückstraße;1;29;2;56;Erftstadt;01.0;;;92
+50374;Höchster Weg;1;25;2;12;Erftstadt;03.0;;;92
+50374;Hüttenstraße;3;17;4;20;Erftstadt;25.0;;;92
+50374;Im Bungert;1;17;2;30;Erftstadt;06.0;;;92
+50374;Im Gratessengarten;1;23;6;36;Erftstadt;03.0;;;92
+50374;Im Grisfeld;1;25;2;38;Erftstadt;01.0;;;92
+50374;Im Grünen Knipp;1;7;2;8;Erftstadt;21.0;;;92
+50374;Im Höhlchen;1;7;2;6;Erftstadt;14.0;;;92
+50374;Im Jagdfeld;1;63;2;50;Erftstadt;05.0;;;92
+50374;Im Kamp;3;7;2;14;Erftstadt;21.0;;;92
+50374;Im Karwinkel;1;15;2;14;Erftstadt;21.0;;;92
+50374;Im Laachenfeld;1;25;2;50;Erftstadt;25.0;;;92
+50374;Im Lehmtal;1;39;2;16;Erftstadt;21.0;;;92
+50374;Im Längsbusch;1;33;2;10;Erftstadt;05.0;;;92
+50374;Im Spürkergarten;1;47;2;36;Erftstadt;08.0;;;92
+50374;Im Spürkergarten;;;38;38;Erftstadt;10.0;;;92
+50374;Im Wertchen;1;13;2;14;Erftstadt;03.0;;;92
+50374;Im Wieschen;3;11;2;10;Erftstadt;03.0;;;92
+50374;In den Barbenden;1;19;2;22;Erftstadt;03.0;;;92
+50374;In den Vierwinden;1;29;2;30;Erftstadt;05.0;;;92
+50374;In der Aue;1;59;2;46;Erftstadt;06.0;;;92
+50374;In der Komm;1;11;2;10;Erftstadt;20.1;;;92
+50374;In der Röpp;3;3;2;2;Erftstadt;17.0;;;92
+50374;Jagdweg;1;1;;;Erftstadt;16.0;;;92
+50374;Jahnstraße;3;3;2;12;Erftstadt;08.0;;;92
+50374;Jakobstraße;1;39;2;44;Erftstadt;25.0;;;92
+50374;Johanna-Kinkel-Straße;;;4;4;Erftstadt;09.0;;;92
+50374;Johannes-Even-Straße;1;11;2;12;Erftstadt;23.0;;;92
+50374;Johannes-Kretz-Straße;;;2;6;Erftstadt;19.0;;;92
+50374;Johannisstraße;1;21;2;52;Erftstadt;17.0;;;92
+50374;Josef-Nix-Straße;3;11;2;6;Erftstadt;01.0;;;92
+50374;Josef-Zilken-Straße;1;67;2;112;Erftstadt;20.1;;;92
+50374;Josef-Zimmermann-Straße;1;23;2;10;Erftstadt;10.0;;;92
+50374;Josefstraße;3;29;4;40;Erftstadt;03.0;;;92
+50374;Judenstraße;1;23;4;22;Erftstadt;23.0;;;92
+50374;Julius-Leber-Straße;1;7;2;8;Erftstadt;24.0;;;92
+50374;Justengasse;1;7;2;6;Erftstadt;25.0;;;92
+50374;Justenhof;;;0;0;Erftstadt;25.0;;;92
+50374;Justus-von-Liebig-Straße;3;31;2;2;Erftstadt;02.0;;;92
+50374;Jägerweg;1;3;2;8;Erftstadt;16.0;;;92
+50374;Jülichplatz;3;19;2;20;Erftstadt;17.0;;;92
+50374;Kallenhofstraße;1;35;4;42;Erftstadt;13.0;;;92
+50374;Kampstraße;1;11;2;42;Erftstadt;25.0;;;92
+50374;Kantstraße;3;23;2;26;Erftstadt;11.0;;;92
+50374;Kapellenpfad;1;1;;;Erftstadt;17.0;;;92
+50374;Karl-Arnold-Straße;1;35;2;116;Erftstadt;23.0;;;92
+50374;Karl-Sonnenschein-Straße;1;17;4;16;Erftstadt;23.0;;;92
+50374;Karolingerstraße;1;301;2;138;Erftstadt;14.0;;;92
+50374;Kastanienweg;1;61;2;28;Erftstadt;09.0;;;92
+50374;Kehlerweg;1;17;4;20;Erftstadt;02.0;;;92
+50374;Kerpener Straße;1;81;2;62;Erftstadt;02.0;;;92
+50374;Kiefernweg;1;9;2;10;Erftstadt;16.0;;;92
+50374;Kiesstraße;3;61;2;30;Erftstadt;25.0;;;92
+50374;Kilianstraße;1;5;2;18;Erftstadt;19.0;;;92
+50374;Kirchengrund;1;21;2;32;Erftstadt;15.2;;;92
+50374;Kirchplatz;1;1;2;2;Erftstadt;04.0;;;92
+50374;Kirchstraße;1;27;2;28;Erftstadt;04.0;;;92
+50374;Klarastraße;1;61;2;40;Erftstadt;06.0;;;92
+50374;Klaus-Schäfer-Straße;1;27;2;34;Erftstadt;06.0;;;92
+50374;Kleiberstraße;1;11;2;12;Erftstadt;17.0;;;92
+50374;Kleine Jüch;1;23;2;38;Erftstadt;20.1;;;92
+50374;Klosengartenstraße;1;31;2;60;Erftstadt;07.0;;;92
+50374;Klosengartenstraße;35;73;76;96;Erftstadt;05.0;;;92
+50374;Klosterstraße;1;21;4;32;Erftstadt;20.1;;;92
+50374;Kocherbachweg;1;93;4;70;Erftstadt;03.0;;;92
+50374;Kohlstraße;1;99;2;160;Erftstadt;02.0;;;92
+50374;Kolberger Straße;1;103;2;104;Erftstadt;11.0;;;92
+50374;Kolibristraße;1;39;4;26;Erftstadt;08.0;;;92
+50374;Kolpingstraße;3;9;2;14;Erftstadt;04.0;;;92
+50374;Konrad-Adenauer-Straße;1;9;2;4;Erftstadt;09.0;;;92
+50374;Konradsweg;1;7;2;8;Erftstadt;20.2;;;92
+50374;Kranichstraße;3;15;2;80;Erftstadt;17.0;;;92
+50374;Kreuzwegstraße;1;9;4;14;Erftstadt;17.0;;;92
+50374;Kriegergasse;1;53;2;56;Erftstadt;16.0;;;92
+50374;Krokusweg;11;35;2;38;Erftstadt;07.0;;;92
+50374;Kruggenberg;1;1;2;6;Erftstadt;13.0;;;92
+50374;Kunibertusplatz;1;17;2;14;Erftstadt;02.0;;;92
+50374;Kurt-Schumacher-Straße;1;107;2;180;Erftstadt;23.0;;;92
+50374;Kyrionstraße;1;15;2;22;Erftstadt;13.0;;;92
+50374;Käthe-Kollwitz-Weg;3;57;2;50;Erftstadt;20.1;;;92
+50374;Kölner Ring;61;169;130;180;Erftstadt;19.0;;;92
+50374;Kölner Ring;1;57;4;126;Erftstadt;18.0;;;92
+50374;Königsberger Straße;1;37;2;20;Erftstadt;10.0;;;92
+50374;Köttinger Straße;5;25;14;14;Erftstadt;07.0;;;92
+50374;Lambertusstraße;5;89;2;42;Erftstadt;14.0;;;92
+50374;Landstraße;1;101;4;88;Erftstadt;25.0;;;92
+50374;Lange Heide;1;75;2;48;Erftstadt;13.0;;;92
+50374;Laucher Weg;1;17;2;14;Erftstadt;15.2;;;92
+50374;Lauerheid;1;5;2;6;Erftstadt;13.0;;;92
+50374;Laurentiusstraße;3;15;2;12;Erftstadt;17.0;;;92
+50374;Lechenicher Pfad;3;7;32;32;Erftstadt;02.0;;;92
+50374;Lechenicher Straße;3;59;4;52;Erftstadt;20.2;;;92
+50374;Leipziger Ring;1;25;2;62;Erftstadt;08.0;;;92
+50374;Lerchenstraße;3;31;2;36;Erftstadt;08.0;;;92
+50374;Liblarer See;;;0;0;Erftstadt;07.0;;;92
+50374;Lichtstraße;1;11;2;24;Erftstadt;15.3;;;92
+50374;Lilienweg;1;5;4;6;Erftstadt;20.2;;;92
+50374;Lindenstraße;1;5;2;28;Erftstadt;16.0;;;92
+50374;Lindgesweg;1;7;2;10;Erftstadt;02.0;;;92
+50374;Louisenstraße;3;33;2;58;Erftstadt;03.0;;;92
+50374;Lourdesweg;5;15;2;12;Erftstadt;25.0;;;92
+50374;Lubilarweg;1;11;2;10;Erftstadt;07.0;;;92
+50374;Ludwigstraße;1;25;2;20;Erftstadt;07.0;;;92
+50374;Luxemburger Straße;1;99;2;100;Erftstadt;17.0;;;92
+50374;Maarweg;1;43;2;48;Erftstadt;01.0;;;92
+50374;Magdalenenweg;1;17;2;20;Erftstadt;19.0;;;92
+50374;Margarethenstraße;1;9;2;10;Erftstadt;25.0;;;92
+50374;Marienburger Weg;1;19;2;18;Erftstadt;11.0;;;92
+50374;Mariengradenweg;1;1;2;2;Erftstadt;14.0;;;92
+50374;Marienstraße;3;49;2;46;Erftstadt;14.0;;;92
+50374;Markt;3;17;2;30;Erftstadt;19.0;;;92
+50374;Martin-Buber-Straße;1;39;2;34;Erftstadt;11.0;;;92
+50374;Martin-Luther-Straße;1;9;2;8;Erftstadt;08.0;;;92
+50374;Martinusplatz;1;9;6;10;Erftstadt;03.0;;;92
+50374;Martinusweg;1;7;4;6;Erftstadt;03.0;;;92
+50374;Mastenweg;3;7;;;Erftstadt;15.3;;;92
+50374;Matthias-Curt-Straße;1;65;2;88;Erftstadt;16.0;;;92
+50374;Matthias-Faßbender Straße;1;21;2;18;Erftstadt;06.0;;;92
+50374;Matthias-Grell-Straße;1;35;2;38;Erftstadt;03.0;;;92
+50374;Maulengasse;1;13;12;20;Erftstadt;17.0;;;92
+50374;Max-Ernst-Straße;1;11;2;48;Erftstadt;05.0;;;92
+50374;Max-Liebermann-Straße;1;41;2;48;Erftstadt;05.0;;;92
+50374;Max-Planck Straße;1;9;24;24;Erftstadt;07.0;;;92
+50374;Mechernicher Weg;1;27;2;8;Erftstadt;09.0;;;92
+50374;Mehlstraße;1;41;2;40;Erftstadt;22.0;;;92
+50374;Meisenstraße;1;23;2;28;Erftstadt;08.0;;;92
+50374;Melchiorstraße;1;7;2;14;Erftstadt;20.1;;;92
+50374;Mellerhöfe;1;3;0;8;Erftstadt;02.0;;;92
+50374;Mellerweg;1;23;2;16;Erftstadt;25.0;;;92
+50374;Merowingerstraße;1;25;2;34;Erftstadt;14.0;;;92
+50374;Merowingerstraße;57;167;42;156;Erftstadt;13.0;;;92
+50374;Mertensweg;;;2;12;Erftstadt;03.0;;;92
+50374;Michael-Schiffer-Weg;1;15;2;14;Erftstadt;20.1;;;92
+50374;Michaelsweg;1;9;2;10;Erftstadt;20.2;;;92
+50374;Mittelstraße;1;49;2;32;Erftstadt;04.0;;;92
+50374;Mohnweg;1;1;2;2;Erftstadt;20.2;;;92
+50374;Molkereistraße;3;29;2;32;Erftstadt;21.0;;;92
+50374;Monschauer Weg;1;57;2;40;Erftstadt;09.0;;;92
+50374;Moselstraße;1;25;4;22;Erftstadt;01.0;;;92
+50374;Möwenweg;1;5;2;6;Erftstadt;08.0;;;92
+50374;Müddersheimer Weg;1;9;2;18;Erftstadt;17.0;;;92
+50374;Mühlenstraße;1;31;2;44;Erftstadt;22.0;;;92
+50374;Münchweg;3;5;2;2;Erftstadt;06.0;;;92
+50374;Nachtigallenweg;1;17;2;18;Erftstadt;18.0;;;92
+50374;Nelkenweg;1;9;2;12;Erftstadt;16.0;;;92
+50374;Nelly-Sachs-Straße;1;47;2;22;Erftstadt;12.0;;;92
+50374;Neustraße;1;49;2;80;Erftstadt;02.0;;;92
+50374;Niederberger Weg;;;12;12;Erftstadt;16.0;;;92
+50374;Niederweg;1;75;2;72;Erftstadt;16.0;;;92
+50374;Nikolaus-Ehlen-Straße;1;51;2;40;Erftstadt;23.0;;;92
+50374;Nikolausstraße;1;21;2;46;Erftstadt;01.0;;;92
+50374;Nordstraße;1;3;2;10;Erftstadt;02.0;;;92
+50374;Notweg;1;5;48;48;Erftstadt;04.0;;;92
+50374;Odenwaldstraße;1;11;2;12;Erftstadt;01.0;;;92
+50374;Offenbachweg;1;9;2;12;Erftstadt;03.0;;;92
+50374;Oleanderweg;5;21;;;Erftstadt;13.0;;;92
+50374;Oststraße;1;37;2;34;Erftstadt;03.0;;;92
+50374;Otterdriesch;1;13;2;22;Erftstadt;18.0;;;92
+50374;Otto-Hahn-Allee;13;25;;;Erftstadt;24.0;;;92
+50374;Otto-Hue-Straße;1;35;4;28;Erftstadt;04.0;;;92
+50374;Otto-Wels-Straße;1;13;2;4;Erftstadt;05.0;;;92
+50374;Ottostraße;1;5;2;8;Erftstadt;01.0;;;92
+50374;Pantaleonsstraße;1;19;2;18;Erftstadt;17.0;;;92
+50374;Parkstraße;1;41;2;28;Erftstadt;09.0;;;92
+50374;Pastor-Faßbender-Straße;1;65;2;84;Erftstadt;17.0;;;92
+50374;Paul-Keller-Straße;1;45;2;32;Erftstadt;23.0;;;92
+50374;Paul-Klee-Straße;1;91;2;98;Erftstadt;05.0;;;92
+50374;Pestalozzistraße;1;47;2;60;Erftstadt;23.0;;;92
+50374;Peter-May-Straße;15;85;18;138;Erftstadt;04.0;;;92
+50374;Peter-May-Straße;1;11;2;16;Erftstadt;05.0;;;92
+50374;Pfarrer-Jaegers-Weg;1;3;6;6;Erftstadt;16.0;;;92
+50374;Pfarrer-Kaiser-Straße;1;5;2;4;Erftstadt;01.0;;;92
+50374;Pfarrer-Paul-Huhnen-Str.;3;9;4;44;Erftstadt;22.0;;;92
+50374;Pfarrer-Weißenfeld-Straße;1;9;2;36;Erftstadt;01.0;;;92
+50374;Pilgerweg;1;33;2;34;Erftstadt;02.0;;;92
+50374;Pingsheimer Straße;1;15;2;18;Erftstadt;20.2;;;92
+50374;Platanenweg;1;15;2;26;Erftstadt;09.0;;;92
+50374;Platzstraße;1;7;2;10;Erftstadt;25.0;;;92
+50374;Radmacherstraße;1;9;2;50;Erftstadt;06.0;;;92
+50374;Raiffeisenstraße;1;17;2;18;Erftstadt;23.0;;;92
+50374;Rathausstraße;1;7;2;8;Erftstadt;17.0;;;92
+50374;Reiherweg;1;1;2;8;Erftstadt;08.0;;;92
+50374;Reinoldweg;9;21;2;20;Erftstadt;06.0;;;92
+50374;Rektor-Meller-Straße;3;15;;;Erftstadt;20.2;;;92
+50374;Rektor-Thar-Straße;1;13;2;12;Erftstadt;04.0;;;92
+50374;Remigiusstraße;5;45;2;94;Erftstadt;25.0;;;92
+50374;Richardstraße;1;37;2;20;Erftstadt;19.0;;;92
+50374;Ritter-Arnold-Straße;3;29;4;20;Erftstadt;01.0;;;92
+50374;Rochusstraße;3;37;4;34;Erftstadt;14.0;;;92
+50374;Rodderweg;1;53;2;46;Erftstadt;03.0;;;92
+50374;Roggendorfer Weg;1;47;2;40;Erftstadt;03.0;;;92
+50374;Roncallistraße;1;9;2;12;Erftstadt;10.0;;;92
+50374;Rosellastraße;1;41;2;70;Erftstadt;17.0;;;92
+50374;Rosenstraße;1;31;2;32;Erftstadt;07.0;;;92
+50374;Rostocker Straße;1;21;2;72;Erftstadt;10.0;;;92
+50374;Rotbachstraße;1;39;2;32;Erftstadt;16.0;;;92
+50374;Rotdornweg;1;13;6;6;Erftstadt;13.0;;;92
+50374;Rothusener Weg;1;67;2;24;Erftstadt;19.0;;;92
+50374;Ruhländerstraße;1;5;2;14;Erftstadt;16.0;;;92
+50374;Ruwerstraße;1;15;6;12;Erftstadt;01.0;;;92
+50374;Römerhofweg;1;21;2;18;Erftstadt;24.0;;;92
+50374;Römerstraße;1;1;10;18;Erftstadt;24.0;;;92
+50374;Rövenicher Straße;1;7;2;4;Erftstadt;15.3;;;92
+50374;Saarstraße;1;17;2;14;Erftstadt;01.0;;;92
+50374;Sanddornweg;1;11;2;10;Erftstadt;13.0;;;92
+50374;Sauerlandstraße;1;13;2;14;Erftstadt;01.0;;;92
+50374;Scherpengasse;3;7;4;4;Erftstadt;14.0;;;92
+50374;Schildgensacker;1;29;;;Erftstadt;03.0;;;92
+50374;Schildgensweg;1;21;10;34;Erftstadt;03.0;;;92
+50374;Schlehenweg;5;21;4;8;Erftstadt;13.0;;;92
+50374;Schleidener Straße;;;4;10;Erftstadt;09.0;;;92
+50374;Schloss Buschfeld;1;1;;;Erftstadt;13.0;;;92
+50374;Schloßstraße;1;23;2;24;Erftstadt;19.0;;;92
+50374;Schloßwall;3;51;2;38;Erftstadt;19.0;;;92
+50374;Schlunkweg;1;85;10;58;Erftstadt;10.0;;;92
+50374;Schulstraße;1;19;4;22;Erftstadt;01.0;;;92
+50374;Schwalbenstraße;7;19;8;20;Erftstadt;07.0;;;92
+50374;Schwanenstraße;3;21;8;22;Erftstadt;07.0;;;92
+50374;Schützenstraße;1;41;4;32;Erftstadt;02.0;;;92
+50374;Sebastianusstraße;1;47;2;22;Erftstadt;01.0;;;92
+50374;Seestraße;1;43;0;76;Erftstadt;07.0;;;92
+50374;Seitenstraße;1;15;2;24;Erftstadt;25.0;;;92
+50374;Sibillenweg;1;11;2;8;Erftstadt;20.2;;;92
+50374;Siedlerweg;3;27;2;28;Erftstadt;02.0;;;92
+50374;Siegfr.-V.Westerburg-Str.;3;31;8;32;Erftstadt;19.0;;;92
+50374;Sielstraße;1;13;2;24;Erftstadt;25.0;;;92
+50374;Siemensstraße;1;31;2;32;Erftstadt;24.0;;;92
+50374;Sonnenweg;3;21;2;24;Erftstadt;02.0;;;92
+50374;Sophienweg;1;11;2;6;Erftstadt;19.0;;;92
+50374;Spechtweg;1;13;2;12;Erftstadt;18.0;;;92
+50374;Sperberweg;1;11;2;10;Erftstadt;19.0;;;92
+50374;Sperlingsweg;1;5;2;8;Erftstadt;19.0;;;92
+50374;Spickweg;1;9;2;22;Erftstadt;07.0;;;92
+50374;Spillesstraße;5;41;4;18;Erftstadt;02.0;;;92
+50374;Sportstraße;1;3;2;24;Erftstadt;25.0;;;92
+50374;Spürkerau;1;31;2;38;Erftstadt;08.0;;;92
+50374;St. Clemens-Straße;1;19;2;20;Erftstadt;20.2;;;92
+50374;St.-Agnes-Straße;1;5;4;12;Erftstadt;16.0;;;92
+50374;Steinackerweg;1;7;2;10;Erftstadt;13.0;;;92
+50374;Steinfelder Straße;1;9;2;26;Erftstadt;17.0;;;92
+50374;Steinkauzweg;1;23;2;30;Erftstadt;21.0;;;92
+50374;Steinstraße;3;31;4;32;Erftstadt;19.0;;;92
+50374;Sternenstraße;1;11;2;16;Erftstadt;02.0;;;92
+50374;Stettiner Straße;1;47;2;48;Erftstadt;10.0;;;92
+50374;Stieglitzweg;1;1;2;4;Erftstadt;08.0;;;92
+50374;Stockweg;1;7;;;Erftstadt;04.0;;;92
+50374;Stresemannstraße;1;13;2;10;Erftstadt;23.0;;;92
+50374;Strunkpfad;1;3;2;4;Erftstadt;16.0;;;92
+50374;Südstraße;1;15;2;22;Erftstadt;04.0;;;92
+50374;Talstraße;1;21;2;34;Erftstadt;15.1;;;92
+50374;Tannenweg;1;47;2;86;Erftstadt;10.0;;;92
+50374;Taubenpfad;1;11;2;22;Erftstadt;21.0;;;92
+50374;Taubenstraße;9;19;8;26;Erftstadt;08.0;;;92
+50374;Taunusstraße;1;41;4;74;Erftstadt;01.0;;;92
+50374;Teichweg;1;17;2;8;Erftstadt;20.2;;;92
+50374;Theißengasse;1;9;2;6;Erftstadt;14.0;;;92
+50374;Theo-Wolfgarten-Straße;1;11;4;10;Erftstadt;16.0;;;92
+50374;Theodor-Fliedner-Straße;1;35;2;24;Erftstadt;23.0;;;92
+50374;Theodor-Heuss-Straße;1;47;2;22;Erftstadt;11.0;;;92
+50374;Tillmannshof;1;11;4;12;Erftstadt;25.0;;;92
+50374;Tillmannsweg;5;5;2;8;Erftstadt;25.0;;;92
+50374;Triftweg;1;1;2;2;Erftstadt;04.0;;;92
+50374;Tulpenweg;1;7;2;12;Erftstadt;16.0;;;92
+50374;Ubierweg;1;11;2;12;Erftstadt;17.0;;;92
+50374;Ulenbäckerweg;1;19;2;12;Erftstadt;21.0;;;92
+50374;Ulmenstraße;3;17;2;20;Erftstadt;16.0;;;92
+50374;Valderstraße;1;37;2;50;Erftstadt;15.3;;;92
+50374;Villenweg;1;73;2;44;Erftstadt;04.0;;;92
+50374;Vilskaul;1;69;2;10;Erftstadt;21.0;;;92
+50374;Vogelstraße;1;7;2;8;Erftstadt;25.0;;;92
+50374;Von-Aare-Straße;5;13;2;14;Erftstadt;17.0;;;92
+50374;Von-Bodelschwingh-Weg;1;69;2;54;Erftstadt;24.0;;;92
+50374;Von-Droste-Hülshoff-Str.;1;45;2;24;Erftstadt;16.0;;;92
+50374;Von-Galen-Straße;3;9;2;28;Erftstadt;23.0;;;92
+50374;Von-Ketteler-Straße;1;11;2;4;Erftstadt;23.0;;;92
+50374;Von-Leibniz-Straße;1;73;2;76;Erftstadt;06.0;;;92
+50374;Von-Meer-Straße;1;15;4;16;Erftstadt;06.0;;;92
+50374;Von-Stephan-Straße;1;49;2;48;Erftstadt;06.0;;;92
+50374;Vonnesstraße;3;31;2;10;Erftstadt;15.3;;;92
+50374;Vorgebirgsstraße;3;29;2;48;Erftstadt;13.0;;;92
+50374;Vorpforte;1;27;2;28;Erftstadt;02.0;;;92
+50374;Wacholderweg;1;7;2;8;Erftstadt;13.0;;;92
+50374;Wahlengasse;3;21;2;34;Erftstadt;17.0;;;92
+50374;Waldstraße;1;47;2;46;Erftstadt;04.0;;;92
+50374;Wehrstraße;1;11;2;20;Erftstadt;25.0;;;92
+50374;Weiherstraße;;;2;8;Erftstadt;14.0;;;92
+50374;Weilerstraße;7;19;;;Erftstadt;15.2;;;92
+50374;Weilerswister Straße;1;63;10;40;Erftstadt;15.1;;;92
+50374;Weingartenacker;1;7;2;14;Erftstadt;03.0;;;92
+50374;Weltersmühle;3;57;6;54;Erftstadt;21.0;;;92
+50374;Wendelinusstraße;1;19;2;20;Erftstadt;25.0;;;92
+50374;Westerwaldstraße;1;49;2;50;Erftstadt;01.0;;;92
+50374;Wichernstraße;1;15;2;16;Erftstadt;23.0;;;92
+50374;Wiesenstraße;1;73;2;76;Erftstadt;03.0;;;92
+50374;Wildweg;;;2;20;Erftstadt;16.0;;;92
+50374;Wilfried-Neumann-Straße;1;31;2;46;Erftstadt;06.0;;;92
+50374;Wilhelm-Leuschner-Straße;1;15;2;28;Erftstadt;24.0;;;92
+50374;Wilhelm-Marx-Straße;1;33;2;30;Erftstadt;23.0;;;92
+50374;Wilhelmstraße;1;29;2;28;Erftstadt;16.0;;;92
+50374;Willy-Brandt-Straße;1;191;4;124;Erftstadt;12.0;;;92
+50374;Winkelstraße;1;21;2;6;Erftstadt;05.0;;;92
+50374;Wissersheimer Weg;;;2;8;Erftstadt;20.2;;;92
+50374;Wolfskaulstraße;1;13;2;8;Erftstadt;16.0;;;92
+50374;Zaunkönigstraße;1;11;2;14;Erftstadt;17.0;;;92
+50374;Zedernweg;1;11;2;10;Erftstadt;09.0;;;92
+50374;Zehntstraße;1;29;2;20;Erftstadt;23.0;;;92
+50374;Zehntwall;1;105;4;72;Erftstadt;23.0;;;92
+50374;Zeisigweg;1;17;2;20;Erftstadt;18.0;;;92
+50374;Zieselsmaarer Straße;1;1;;;Erftstadt;03.0;;;92
+50374;Zu den Erlen;3;9;2;10;Erftstadt;03.0;;;92
+50374;Zum Alten Bahndamm;1;9;2;2;Erftstadt;04.0;;;92
+50374;Zum Forellenteich;1;5;2;8;Erftstadt;04.0;;;92
+50374;Zum Grünen Weg;1;15;4;38;Erftstadt;07.0;;;92
+50374;Zum Köttinger See;1;21;2;10;Erftstadt;04.0;;;92
+50374;Zum Renngraben;1;5;2;8;Erftstadt;11.0;;;92
+50374;Zum Schlagbaum;1;11;2;16;Erftstadt;03.0;;;92
+50374;Zunftstraße;7;7;;;Erftstadt;24.0;;;92
+50374;Zur Alten Burg;1;15;2;18;Erftstadt;21.0;;;92
+50374;Zülpicher Straße;3;47;2;12;Erftstadt;15.1;;;92
