@@ -4,13 +4,11 @@ class Address < ActiveRecord::Base
 
   def self.search_city(search_string, city)
     search_string = search_string
-      .gsub('straße', 'str')
-      .gsub('Straße', 'str')
-      .gsub('strasse', 'str')
-      .gsub('Strasse', 'str') 
+      .gsub(/straße/i, 'str')
+      .gsub(/strasse/i, 'str')
       .gsub(/[[:digit:]]{5}/, '') # removing PLZ
     nr = search_string.match(/(\d+\w?)/).to_a.try(:first).to_i
-
+    p search_string
     if nr != 0 && search_string[(search_string.index(nr.to_s).to_i - 1)] != " "
       search_string.insert((search_string.index(nr.to_s)), " ")
     end
