@@ -79,9 +79,9 @@ All files that are accessible through rake tasks are semicolon-separated CSV fil
 - **Cities:**
 ```
 name;slug;zip;state;coordinates;city_housing_type
-```
-  * city_housing_type: one of the values ['normal', 'odd_even', 'mixed_odd_even', 'horseshoe']
-  * zip is comma separated string. (Ex: "14461, 14467, 14469")
+```  
+   city_housing_type: one of the values ['normal', 'odd_even', 'mixed_odd_even', 'horseshoe']  
+   zi p is comma separated string. (Ex: "14461, 14467, 14469")  
 
 
 - **Addresses:** the structure may be deferent depending on city house type.
