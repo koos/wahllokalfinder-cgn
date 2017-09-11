@@ -1,0 +1,7 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+01.0;01.0 Baasem, Pfarrsaal;Kronenburger Straße;12;;;53949;Dahlem;;N
+04.0;04.0 Frauenkron, Feuerwehrhaus;Nonnenpütz;6;;;53949;Dahlem;;J
+05.0;05.0 Kronenburg, Haus des Gastes;Burgstraße;19;;;53949;Dahlem;;N
+06.0;06.0 Schmidtheim, Förderschule;Sonnenweg;3;;;53949;Dahlem;;J
+02.0;02.0 Berk, Feuerwehrhaus;Schleidener Straße;20;;;53949;Dahlem;;N
+03.0;03.0 Dahlem, Kindergarten;Teichweg;7;;;53949;Dahlem;;N
