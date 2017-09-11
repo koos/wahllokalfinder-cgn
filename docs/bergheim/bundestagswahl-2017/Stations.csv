@@ -1,0 +1,48 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+01.1;Ahe Pfarrheim;Sindorfer Straße;2;;;50127;Bergheim;;J
+01.2;Ahe Stadtbücherei;Im Wohnpark;22;;;50127;Bergheim;;J
+02.1;Thorr Feuerwehrgerätehaus Thorr;Römerstraße;49;;;50127;Bergheim;;J
+02.2;Thorr Feuerwehrgerätehaus Thorr;Römerstraße;49;;;50127;Bergheim;;J
+03.1;Glesch Hermann-Gmeiner-Schule;Grevenbroicher Straße;11-13;;;50126;Bergheim;;N
+03.2;Paffendorf Altenstube AWO;Kindergartenweg;6-8;;;50126;Bergheim;;N
+05.1;Zieverich-Süd/Bergheim-Mitte-Süd Kindertageseinrichtung ?Tummelkiste?;Dänischer Weg;;;;50126;Bergheim;;J
+04.1;Zieverich Turnhalle Zieverich;Von-Langen-Straße;;;;50126;Bergheim;;J
+04.2;Zieverich Erich-Kästner-Schule;Gutenbergstraße;10;;;50126;Bergheim;;J
+05.2;Zieverich Erich-Kästner-Schule;Gutenbergstraße;10;;;50126;Bergheim;;J
+06.1;Kenten-West Astrid-Lindgren-Schule;Knappschaftsallee;2;;;50126;Bergheim;;J
+06.2;Kenten-West Astrid-Lindgren-Schule;Knappschaftsallee;2;;;50126;Bergheim;;J
+07.2;Kenten-Süd Carl-Sonnenschein-Schule;Carl-Sonnenschein-Straße;34;;;50126;Bergheim;;N
+09.1;Bergheim-Mitte Rathaus;Bethlehemer Straße;9-11;;;50126;Bergheim;;J
+09.2;Bergheim-Mitte Albert-Schweitzer-Schule;Ahornweg;2;;;50126;Bergheim;;J
+10.1;Bergheim-Mitte-Nord Remigiusschule Pavillon;Füssenichstraße;21;;;50126;Bergheim;;J
+10.2;Bergheim-Mitte-Nord Remigiusschule Pavillon;Füssenichstraße;21;;;50126;Bergheim;;J
+13.1;Niederaußem-West Barbaraschule;Silverbergstraße;28;;;50129;Bergheim;;J
+13.2;Niederaußem-West Barbaraschule;Silverbergstraße;28;;;50129;Bergheim;;J
+12.1;Oberaußem-Ost Fortunaschule;Am Tonnenberg;13;;;50129;Bergheim;;J
+!2.2;Oberaußem-Ost Fortunaschule;Am Tonnenberg;13;;;50129;Bergheim;;J
+14.1;Niederaußem-Ost ehemalige Paulusschule;Im Euel;2;;;50129;Bergheim;;J
+14.2;Niederaußem-Ost ehemalige Paulusschule;Im Euel;2;;;50129;Bergheim;;J
+15.1;Rheidt-Hüchelhoven Odilia-Weidenfeld-Schule;Nikolaus-Adams-Straße;75;;;50129;Bergheim;;J
+15.2;Rheidt-Hüchelhoven Odilia-Weidenfeld-Schule;Nikolaus-Adams-Straße;75;;;50129;Bergheim;;J
+17.1;Glessen-Nord Rochusschule;Am Wierichskamp;5;;;50129;Bergheim;;J
+17.2;Glessen-Nord Rochusschule;Am Wierichskamp;5;;;50129;Bergheim;;J
+18.1;Glessen-Süd Rochusschule;Am Wierichskamp;5;;;50129;Bergheim;;J
+18.2;Glessen-Süd Rochusschule;Am Wierichskamp;5;;;50129;Bergheim;;J
+19.1;Quadrath-Ichendorf-Nord AWO Feierabendstube Eingang;Domackerstraße;1-3;;;50127;Bergheim;;J
+19.2;Quadrath-Ichendorf-Nord AWO Feierabendstube Eingang;Domackerstraße;1-3;;;50127;Bergheim;;J
+16.2;Fliesteden Bürgertreff Alte Schule;An der Pfarrkirche;7;;;50129;Bergheim;;J
+20.2;Quadrath-Ichendorf-Ost Schule am Tierpark;Herbergerstraße;5;;;50127;Bergheim;;J
+23.2;Quadrath-Ichendorf-Süd-West "Kindertageseinrichtung ""Farbklecks""";Irisweg;34;;;50127;Bergheim;;J
+21.1;Quadrath-Ichendorf-Mitte Schule am Tierpark;Herbergerstraße;5;;;50127;Bergheim;;J
+22.1;Quadrath-Ichendorf-Süd Schule am Tierpark;Herbergerstraße;5;;;50127;Bergheim;;J
+22.2;Quadrath-Ichendorf-Süd Schule am Tierpark;Herbergerstraße;5;;;50127;Bergheim;;J
+15.3;Auenheim Ordenshof;Lourther Weg 2/Eingang Ordensstraße;;;;50129;Bergheim;;J
+16.1;Büsdorf Pfarrheim St. Laurentius;Windmühlenstraße;21;;;50129;Bergheim;;J
+23.1;Quadrath-Ichendorf-Süd-West "Kindertageseinrichtung ""Flohkiste""";Lombardring;8;;;50127;Bergheim;;J
+07.1;Kenten-Süd Astrid-Lindgren-Schule;Knappschaftsallee;2;;;50126;Bergheim;;J
+08.1;Kenten Carl-Sonnenschein-Schule;Carl-Sonnenschein-Straße;34;;;50126;Bergheim;;N
+08.2;Kenten Carl-Sonnenschein-Schule;Carl-Sonnenschein-Straße;34;;;50126;Bergheim;;N
+21.2;Quadrath-Ichendorf-Mitte Kindertageseinrichtung ?Sternenhimmel?;Am Wildwechsel;16;;;50127;Bergheim;;J
+20.1;Quadrath-Ichendorf-Ost Pfarrheim;Fischbachstraße;25;;;50127;Bergheim;;J
+11.1;Oberaußem Bürgerhaus;Zur Ville;2;;;50129;Bergheim;;J
+11.2;Oberaußem Bürgerhaus;Zur Ville;2;;;50129;Bergheim;;J

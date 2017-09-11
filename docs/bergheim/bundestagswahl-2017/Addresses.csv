@@ -1,0 +1,805 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+50126;Aachener Straße;3;61;4;46;Zieverich;04.1;;;91
+50129;Abts-Acker-Straße;3;67;10;54;Oberaußem;11.2;;;91
+50126;Adam-Giesen-Ring;1;37;2;50;Kenten;07.2;;;91
+50126;Adlerweg;1;7;2;6;Kenten;06.1;;;91
+50129;Adolf-Kolping-Straße;1;21;2;18;Büsdorf;16.1;;;91
+50127;Agavenweg;1;23;2;6;Quadrath-Ichendorf;23.2;;;91
+50126;Agnes-Miegel-Straße;1;33;2;32;Zieverich;04.1;;;91
+50127;Ahestraße;1;19;4;26;Quadrath-Ichendorf;21.1;;;91
+50126;Ahornweg;1;13;4;20;Bergheim;09.2;;;91
+50126;Akazienweg;1;9;2;14;Bergheim;09.2;;;91
+50127;Albert-Schweitzer-Straße;5;25;2;20;Quadrath-Ichendorf;21.1;;;91
+50126;Albrecht-Dürer-Allee;11;11;4;6;Kenten;05.2;;;91
+50127;Alpenkönigweg;1;11;2;18;Quadrath-Ichendorf;23.1;;;91
+50129;Alpenstraße;1;1;4;10;Oberaußem;11.2;;;91
+50129;Alte Landstraße;5;145;4;166;Niederaußem;13.1;;;91
+50129;Alte Windmühle;1;1;2;4;Glessen;17.2;;;91
+50127;Alter Sportplatz;5;5;;;Quadrath-Ichendorf;19.2;;;91
+50129;Am Abtshof;1;15;4;12;Glessen;17.2;;;91
+50129;Am Alten Bahnhof;1;15;2;22;Rheidt-Hüchelhoven;15.2;;;91
+50129;Am Alten Fließ;1;81;2;66;Fliesteden;16.2;;;91
+50129;Am Alten Hof;9;9;2;14;Oberaußem;11.1;;;91
+50129;Am Alten Maar;1;21;;;Oberaußem;11.1;;;91
+50126;Am Bahndamm;;;4;4;Bergheim;09.1;;;91
+50129;Am Berg;1;27;2;34;Oberaußem;11.2;;;91
+50129;Am Bommerichshof;1;3;2;4;Büsdorf;16.1;;;91
+50129;Am Breuersberg;1;25;2;12;Oberaußem;12.1;;;91
+50129;Am Breuershof;1;37;2;30;Glessen;17.2;;;91
+50126;Am Burgberg;1;27;2;24;Kenten;07.1;;;91
+50129;Am Buschfeld;1;23;2;54;Fliesteden;16.2;;;91
+50129;Am Ehrenfeldchen;1;27;2;24;Fliesteden;16.2;;;91
+50129;Am Ehrenmal;1;1;2;2;Büsdorf;16.1;;;91
+50126;Am Erftverband;;;10;10;Bergheim;09.1;;;91
+50129;Am Feldahorn;;;4;24;Rheidt-Hüchelhoven;15.1;;;91
+50129;Am Fischerhof;5;19;2;14;Niederaußem;13.1;;;91
+50129;Am Frankenfeld;3;11;4;44;Glessen;17.2;;;91
+50129;Am Fronhofpfad;3;5;4;4;Büsdorf;16.1;;;91
+50129;Am Fuchsberg;;;2;20;Glessen;18.1;;;91
+50127;Am Gastes;1;11;6;12;Quadrath-Ichendorf;20.1;;;91
+50129;Am Gillbach;1;35;2;32;Rheidt-Hüchelhoven;15.2;;;91
+50126;Am Glescher Hof;;;2;14;Glesch;03.1;;;91
+50129;Am Grüneck;1;33;6;32;Oberaußem;12.2;;;91
+50129;Am Haselbusch;1;19;2;16;Oberaußem;12.2;;;91
+50126;Am Heerwege;1;9;2;4;Kenten;08.1;;;91
+50129;Am Hengert;11;11;2;10;Rheidt-Hüchelhoven;15.2;;;91
+50129;Am Hofheckerweg;1;73;;;Glessen;17.1;;;91
+50129;Am Hüttenhof;1;3;2;12;Büsdorf;16.1;;;91
+50126;Am Jobberath;15;29;;;Bergheim;09.1;;;91
+50127;Am Kapellenkreuz;1;25;2;50;Ahe;01.1;;;91
+50129;Am Keuschenbroich;3;31;2;26;Glessen;17.2;;;91
+50129;Am Kirchgarten;11;25;2;44;Glessen;17.1;;;91
+50126;Am Knüchelsdamm;;;6;6;Bergheim;09.1;;;91
+50129;Am Langen Garten;1;33;4;24;Glessen;18.1;;;91
+50129;Am Langgraben;;;2;8;Auenheim;15.3;;;91
+50129;Am Lapprath;1;15;2;42;Oberaußem;12.1;;;91
+50129;Am Lindenberg;;;6;8;Fliesteden;16.2;;;91
+50129;Am Meulshof;;;2;18;Niederaußem;13.1;;;91
+50129;Am Mohlenberg;1;5;8;10;Büsdorf;16.1;;;91
+50129;Am Mühlenberg;;;2;10;Fliesteden;16.2;;;91
+50129;Am Mühlenteich;1;37;2;52;Glessen;18.1;;;91
+50129;Am Ommelstal;1;7;2;10;Fliesteden;16.2;;;91
+50129;Am Platz;1;5;2;4;Fliesteden;16.2;;;91
+50129;Am Pohl;1;1;;;Glessen;17.1;;;91
+50126;Am Protzenberg;15;17;2;6;Bergheim;10.2;;;91
+50129;Am Rosengarten;3;29;2;14;Glessen;18.1;;;91
+50127;Am Rötschberg;1;43;2;18;Quadrath-Ichendorf;19.2;;;91
+50129;Am Schaltwerk;1;3;2;24;Rheidt-Hüchelhoven;15.2;;;91
+50129;Am Scheideweg;1;9;2;8;Oberaußem;12.1;;;91
+50129;Am Schillberg;3;5;2;12;Oberaußem;12.1;;;91
+50126;Am Schloßpark;5;25;2;18;Paffendorf;03.2;;;91
+50129;Am Schultsgarten;1;19;2;10;Glessen;17.1;;;91
+50127;Am Schwarzwasser;;;2;4;Ahe;01.1;;;91
+50129;Am Senkchen;3;13;2;10;Glessen;17.2;;;91
+50129;Am Sieberath;1;35;8;8;Glessen;18.2;;;91
+50127;Am Sodagraben;7;9;;;Kenten;07.2;;;91
+50129;Am Spelzgarten;;;2;28;Glessen;17.2;;;91
+50126;Am Spielplatz;1;17;;;Zieverich;04.1;;;91
+50129;Am Sportplatz;;;2;22;Niederaußem;14.1;;;91
+50129;Am Sprung;3;3;2;8;Glessen;17.1;;;91
+50126;Am Stadion;1;17;2;6;Bergheim;09.1;;;91
+50129;Am Steg;1;7;2;8;Glessen;18.1;;;91
+50129;Am Steinweg;1;5;2;6;Glessen;17.1;;;91
+50129;Am Tonnenberg;1;11;2;38;Oberaußem;12.1;;;91
+50129;Am Villgraben;1;15;2;4;Oberaußem;12.2;;;91
+50126;Am Vogelwäldchen;1;7;2;14;Kenten;07.2;;;91
+50127;Am Wiebach;3;11;4;42;Thorr;02.2;;;91
+50129;Am Wierichskamp;1;1;2;28;Glessen;17.2;;;91
+50127;Am Wildwechsel;7;13;4;14;Quadrath-Ichendorf;21.2;;;91
+50126;Am Wäldchen;1;1;2;12;Kenten;07.2;;;91
+50129;Am Zehnthof;3;43;2;46;Glessen;17.2;;;91
+50126;Amselweg;1;3;2;2;Kenten;06.1;;;91
+50129;An de Krokpaasch;3;3;10;10;Niederaußem;13.2;;;91
+50129;An den Dreißig Morgen;1;11;2;30;Fliesteden;16.2;;;91
+50126;An den Ellern;1;13;2;18;Paffendorf;03.2;;;91
+50127;An den Erken;1;33;6;32;Kenten;07.2;;;91
+50126;An den Platanen;1;13;2;14;Paffendorf;03.2;;;91
+50127;An den Quellen;1;19;2;22;Ahe;01.1;;;91
+50129;An den Wiesen;1;23;2;16;Rheidt-Hüchelhoven;15.2;;;91
+50129;An der Abtsmühle;3;27;4;10;Glessen;17.2;;;91
+50129;An der Alten Schmiede;3;29;;;Glessen;17.2;;;91
+50129;An der Bahn;;;6;30;Oberaußem;11.2;;;91
+50129;An der Brennerei;;;6;14;Glessen;17.1;;;91
+50126;An der Broelhecke;1;13;2;16;Zieverich;04.1;;;91
+50129;An der Broicheiche;1;1;2;2;Glessen;18.1;;;91
+50129;An der Buchenhecke;1;25;2;8;Oberaußem;12.2;;;91
+50129;An der Burg;3;15;2;12;Fliesteden;16.2;;;91
+50127;An der Erft;5;5;2;2;Ahe;01.1;;;91
+50126;An der Erftaue;1;17;2;14;Bergheim;09.1;;;91
+50126;An der Erfttalstraße;;;0;0;Zieverich;04.2;;;91
+50129;An der Fronbrücke;1;15;2;10;Rheidt-Hüchelhoven;15.1;;;91
+50129;An der Fuchshecke;1;7;4;6;Fliesteden;16.2;;;91
+50129;An der Hecke;1;13;2;12;Oberaußem;12.2;;;91
+50129;An der Höferstraße;1;3;;;Rheidt-Hüchelhoven;15.2;;;91
+50129;An der Jussenhöhle;1;25;2;26;Oberaußem;12.1;;;91
+50126;An der Kentener Burg;1;9;2;10;Kenten;07.2;;;91
+50129;An der Kirche;3;3;2;10;Glessen;17.2;;;91
+50129;An der Kläranlage;;;0;0;Auenheim;15.3;;;91
+50129;An der Kriegskaule;;;0;0;Glessen;18.2;;;91
+50127;An der Marienburg;1;61;2;60;Quadrath-Ichendorf;20.2;;;91
+50129;An der Pfarrkirche;5;5;2;16;Fliesteden;16.2;;;91
+50129;An der Ronne;21;23;;;Büsdorf;16.1;;;91
+50126;An der Stadtmauer;5;5;;;Bergheim;09.1;;;91
+50129;An der Weide;17;21;2;26;Fliesteden;16.2;;;91
+50129;An der Windmühle;1;17;2;30;Oberaußem;12.2;;;91
+50126;An der Üleburg;1;15;2;8;Bergheim;10.2;;;91
+50127;Andersenstraße;7;17;4;6;Quadrath-Ichendorf;22.2;;;91
+50126;Angelsdorfer Weg;1;19;2;6;Zieverich;04.1;;;91
+50127;Annoweg;;;2;26;Quadrath-Ichendorf;23.1;;;91
+50127;Anton-Will-Straße;3;11;4;12;Thorr;02.2;;;91
+50126;Antoniushof;;;0;0;Paffendorf;03.2;;;91
+50126;Antoniusstraße;;;4;24;Paffendorf;03.2;;;91
+50129;Apfelmarkt;;;2;4;Büsdorf;16.1;;;91
+50127;Aralienweg;1;3;;;Quadrath-Ichendorf;23.2;;;91
+50129;Arnikaweg;1;47;4;38;Niederaußem;14.2;;;91
+50127;Arratosstraße;1;9;2;2;Quadrath-Ichendorf;23.1;;;91
+50129;Arthur-Rudolf-Straße;5;7;4;28;Büsdorf;16.1;;;91
+50127;Aschenputtelweg;3;5;2;6;Quadrath-Ichendorf;23.1;;;91
+50129;Asperschlagstraße;3;9;2;10;Niederaußem;13.1;;;91
+50129;Asperschlagstraße;11;101;26;76;Niederaußem;14.1;;;91
+50127;Asternweg;3;15;2;8;Ahe;01.1;;;91
+50129;Auenheimer Straße;3;5;2;30;Niederaußem;13.1;;;91
+50127;Auerhahnweg;1;19;;;Quadrath-Ichendorf;21.2;;;91
+50127;Auerweg;1;37;4;54;Quadrath-Ichendorf;20.2;;;91
+50129;Auf dem Driesch;1;95;4;92;Oberaußem;12.2;;;91
+50129;Auf dem Mühlenberg;1;23;2;28;Glessen;18.2;;;91
+50129;Auf dem Steinengarten;5;35;4;30;Glessen;17.1;;;91
+50127;Auf den Sprüngen;3;39;2;38;Kenten;08.2;;;91
+50126;Auf der Alm;1;25;8;12;Bergheim;10.2;;;91
+50127;Auf der Helle;1;29;2;30;Quadrath-Ichendorf;22.1;;;91
+50127;Auf der Helle;31;43;38;96;Quadrath-Ichendorf;22.2;;;91
+50129;Auf der Höhe;3;37;2;28;Fliesteden;16.2;;;91
+50126;Auf der Leck;1;23;2;18;Bergheim;09.1;;;91
+50129;Außemer Weg;1;11;2;14;Oberaußem;11.1;;;91
+50127;Bachstelzenweg;1;3;2;2;Quadrath-Ichendorf;22.1;;;91
+50127;Bachstraße;1;15;2;44;Quadrath-Ichendorf;21.1;;;91
+50126;Bahnstraße;;;4;20;Bergheim;10.1;;;91
+50129;Barbarastraße;27;51;2;60;Niederaußem;13.2;;;91
+50126;Bedburger Straße;1;37;2;72;Glesch;03.1;;;91
+50129;Beethovenstraße;7;11;2;16;Oberaußem;11.1;;;91
+50127;Begonienweg;1;3;2;2;Quadrath-Ichendorf;23.2;;;91
+50127;Behringstraße;1;41;4;44;Quadrath-Ichendorf;19.1;;;91
+50126;Beisselstraße;1;5;;;Bergheim;09.1;;;91
+50126;Bendenstraße;3;67;2;36;Kenten;06.2;;;91
+50129;Bergergasse;3;25;2;14;Rheidt-Hüchelhoven;15.1;;;91
+50129;Bergerhof;;;0;0;Rheidt-Hüchelhoven;15.1;;;91
+50129;Bergheimer Straße;1;59;2;62;Oberaußem;11.1;;;91
+50129;Berghof;;;0;0;Glessen;17.1;;;91
+50129;Bergmannstraße;3;19;2;18;Rheidt-Hüchelhoven;15.1;;;91
+50126;Bergstraße;1;35;2;4;Bergheim;10.1;;;91
+50127;Bertlingsgasse;3;5;6;18;Quadrath-Ichendorf;19.2;;;91
+50126;Bethlehemer Straße;11;61;2;66;Bergheim;10.1;;;91
+50126;Birkenweg;1;53;2;40;Bergheim;09.2;;;91
+50126;Birkhahnstraße;;;2;8;Zieverich;04.1;;;91
+50126;Blindgasse;1;9;8;14;Kenten;08.2;;;91
+50126;Blumenstraße;1;29;4;32;Kenten;08.1;;;91
+50129;Bodelschwinghstraße;1;17;2;20;Oberaußem;12.1;;;91
+50126;Bohlendorfer Weg;3;13;;;Bergheim;09.1;;;91
+50126;Bohnenfeld;;;0;0;Paffendorf;03.2;;;91
+50129;Bonnstraße;3;19;4;52;Fliesteden;16.2;;;91
+50127;Brahmsstraße;1;9;2;12;Quadrath-Ichendorf;21.1;;;91
+50129;Brandenburger Straße;1;41;2;84;Niederaußem;14.2;;;91
+50129;Braunfeldsmühle;5;25;4;16;Glessen;17.2;;;91
+50129;Brauweilerstraße;5;59;6;66;Glessen;18.1;;;91
+50126;Breslauer Straße;3;11;2;32;Kenten;07.1;;;91
+50129;Brieystraße;;;10;20;Niederaußem;14.1;;;91
+50126;Brockendorfer Weg;1;19;4;14;Zieverich;04.1;;;91
+50126;Broichstraße;1;11;4;16;Kenten;08.2;;;91
+50129;Bromberger Straße;1;15;2;10;Niederaußem;14.2;;;91
+50127;Brucknerstraße;1;17;4;56;Quadrath-Ichendorf;21.1;;;91
+50127;Brunhildenstraße;1;17;2;28;Thorr;02.1;;;91
+50129;Brunnenstraße;5;5;4;6;Rheidt-Hüchelhoven;15.2;;;91
+50126;Brückenstraße;1;15;2;6;Kenten;08.2;;;91
+50129;Brühler Straße;3;7;2;14;Rheidt-Hüchelhoven;15.2;;;91
+50126;Buchenweg;1;3;;;Bergheim;09.2;;;91
+50126;Buchfinkenweg;1;11;2;8;Kenten;07.1;;;91
+50127;Buntspechtweg;1;5;2;4;Quadrath-Ichendorf;22.1;;;91
+50129;Burg Geretzhoven;;;0;0;Rheidt-Hüchelhoven;15.1;;;91
+50127;Bussardstraße;3;73;2;52;Quadrath-Ichendorf;22.1;;;91
+50126;Bürgeweg;3;7;2;14;Paffendorf;03.2;;;91
+50129;Büsdorfer Straße;1;73;2;72;Oberaußem;11.1;;;91
+50126;Carl-Bosch-Straße;1;21;2;28;Zieverich;04.2;;;91
+50126;Carl-Sonnenschein-Straße;1;45;2;42;Kenten;08.1;;;91
+50127;Carl-Spitzweg-Straße;3;25;2;6;Quadrath-Ichendorf;20.1;;;91
+50126;Charlottenhofstraße;1;11;8;10;Zieverich;04.1;;;91
+50126;Chaunyring;21;33;40;42;Kenten;06.2;;;91
+50126;Chaunyring;;;6;16;Bergheim;09.1;;;91
+50129;Christian-Hüppeler-Straße;1;31;6;12;Büsdorf;16.1;;;91
+50126;Christoph-Klöver-Straße;1;13;2;12;Bergheim;10.1;;;91
+50129;Clarenweg;1;15;2;8;Oberaußem;11.2;;;91
+50127;Clivienweg;1;19;;;Thorr;02.1;;;91
+50126;Commerstraße;1;25;2;28;Bergheim;10.1;;;91
+50126;Cosmasstraße;1;5;2;12;Glesch;03.1;;;91
+50126;Cäcilienweg;1;5;4;6;Bergheim;10.1;;;91
+50127;Dachsweg;1;55;4;34;Quadrath-Ichendorf;21.2;;;91
+50126;Dahlienweg;1;1;2;2;Bergheim;05.2;;;91
+50126;Daimlerstraße;3;9;2;14;Kenten;08.1;;;91
+50126;Damianusweg;1;5;;;Glesch;03.1;;;91
+50127;Dammstraße;1;13;2;8;Quadrath-Ichendorf;19.2;;;91
+50129;Dansweilerstraße;1;1;;;Glessen;18.1;;;91
+50126;Danziger Straße;1;21;;;Kenten;06.1;;;91
+50129;Dechant-Heinr.Meurers-Str;1;41;2;18;Oberaußem;11.2;;;91
+50126;Dieselstraße;1;17;2;40;Bergheim;05.2;;;91
+50126;Distelfinkweg;1;19;2;10;Glesch;03.1;;;91
+50127;Dohlenweg;1;5;2;6;Quadrath-Ichendorf;22.1;;;91
+50127;Domackerstraße;7;77;28;78;Quadrath-Ichendorf;19.1;;;91
+50126;Dompfaffenweg;1;3;2;4;Kenten;07.1;;;91
+50129;Donatusstraße;1;45;2;50;Büsdorf;16.1;;;91
+50129;Dorfplatz;1;19;4;20;Rheidt-Hüchelhoven;15.2;;;91
+50129;Dormagener Straße;7;37;4;82;Niederaußem;13.2;;;91
+50129;Dornheckenweg;1;9;;;Oberaußem;12.2;;;91
+50127;Dornröschenweg;1;3;2;4;Quadrath-Ichendorf;23.1;;;91
+50126;Dresdener Straße;1;15;4;18;Kenten;06.2;;;91
+50126;Drosselweg;1;15;2;16;Kenten;07.1;;;91
+50127;Däumlingweg;1;1;2;2;Quadrath-Ichendorf;23.1;;;91
+50129;Dürbaumstraße;1;9;2;10;Oberaußem;12.1;;;91
+50129;Düsseldorfer Straße;3;51;2;46;Rheidt-Hüchelhoven;15.2;;;91
+50129;Edelweißweg;1;5;2;4;Oberaußem;11.2;;;91
+50129;Efeuweg;1;29;2;4;Rheidt-Hüchelhoven;15.2;;;91
+50129;Eibenweg;1;13;4;34;Glessen;18.2;;;91
+50126;Eichelhäherweg;1;11;2;6;Kenten;07.1;;;91
+50126;Eichendorffstraße;3;35;2;28;Bergheim;10.2;;;91
+50126;Eichenweg;1;3;2;4;Bergheim;09.2;;;91
+50129;Elisabeth-Schwarzhaupt-St;1;61;2;42;Glessen;18.2;;;91
+50129;Elly-Heuss-Straße;9;9;2;16;Glessen;18.1;;;91
+50129;Elsaßweg;;;2;8;Niederaußem;14.1;;;91
+50126;Elsdorfer Straße;1;47;2;88;Zieverich;04.1;;;91
+50127;Elsterweg;1;3;2;2;Quadrath-Ichendorf;22.1;;;91
+50129;Enzianweg;1;7;2;4;Oberaußem;11.2;;;91
+50126;Erftallee;3;41;2;16;Bergheim;09.1;;;91
+50127;Erftaue;1;59;2;38;Ahe;01.1;;;91
+50127;Erfthof;;;0;0;Ahe;01.1;;;91
+50126;Erftstraße;1;37;2;52;Kenten;08.1;;;91
+50126;Erfurter Straße;1;7;2;16;Kenten;06.1;;;91
+50129;Erlenring;1;83;2;42;Oberaußem;12.2;;;91
+50127;Ermlandhof;;;0;0;Quadrath-Ichendorf;19.1;;;91
+50129;Ernst-Reuter-Ring;1;35;2;68;Oberaußem;12.1;;;91
+50126;Eschenweg;1;11;2;16;Bergheim;09.2;;;91
+50127;Espenweg;1;9;2;8;Quadrath-Ichendorf;22.1;;;91
+50127;Falkenweg;1;11;;;Quadrath-Ichendorf;22.2;;;91
+50129;Farnweg;1;11;2;10;Niederaußem;14.2;;;91
+50127;Fasanenweg;1;9;2;10;Quadrath-Ichendorf;21.2;;;91
+50127;Feldhuhnweg;1;45;2;40;Quadrath-Ichendorf;21.2;;;91
+50129;Feldrosenweg;1;11;2;12;Rheidt-Hüchelhoven;15.1;;;91
+50126;Feldstraße;1;35;2;24;Bergheim;10.2;;;91
+50127;Feuerdornweg;1;17;2;28;Quadrath-Ichendorf;20.1;;;91
+50127;Fichtenweg;1;7;2;8;Quadrath-Ichendorf;22.1;;;91
+50126;Fieselerstraße;1;21;2;26;Glesch;03.1;;;91
+50126;Finkenweg;3;7;2;18;Kenten;07.1;;;91
+50127;Fischbachstraße;13;51;2;80;Quadrath-Ichendorf;20.1;;;91
+50126;Flamingostraße;1;11;2;10;Glesch;03.1;;;91
+50129;Fliederweg;1;13;4;20;Niederaußem;14.1;;;91
+50129;Fliestedener Straße;1;35;2;8;Büsdorf;16.1;;;91
+50126;Florastraße;1;35;2;54;Bergheim;05.2;;;91
+50127;Florianstraße;1;11;4;14;Ahe;01.1;;;91
+50129;Forellenweg;7;15;;;Auenheim;15.3;;;91
+50129;Fortuna-Nord-Straße;3;21;16;32;Niederaußem;13.1;;;91
+50129;Fortunastraße;1;97;2;86;Oberaußem;11.2;;;91
+50126;Frankenstraße;1;11;2;10;Glesch;03.1;;;91
+50129;Franz-Esser-Straße;1;13;4;18;Niederaußem;13.2;;;91
+50127;Frau-Holle-Weg;1;3;4;4;Quadrath-Ichendorf;23.1;;;91
+50127;Freesienweg;1;7;2;6;Quadrath-Ichendorf;23.2;;;91
+50126;Freiheitsstraße;1;3;2;12;Glesch;03.1;;;91
+50127;Frenser Straße;17;35;16;44;Quadrath-Ichendorf;20.2;;;91
+50127;Frenser Straße;1;15;2;12;Quadrath-Ichendorf;19.2;;;91
+50129;Frickestraße;1;73;4;48;Niederaußem;13.1;;;91
+50129;Friedensstraße;1;27;4;18;Oberaußem;12.2;;;91
+50129;Friedhofstraße;1;47;4;10;Oberaußem;12.1;;;91
+50127;Friedlandstraße;1;17;;;Quadrath-Ichendorf;20.1;;;91
+50126;Friedrich-Bessel-Straße;;;2;2;Paffendorf;03.2;;;91
+50129;Friedrich-Ebert-Straße;1;27;2;26;Oberaußem;12.1;;;91
+50127;Friedrichstraße;1;5;4;6;Quadrath-Ichendorf;20.1;;;91
+50127;Froschkönigweg;1;3;2;4;Quadrath-Ichendorf;23.1;;;91
+50126;Fröbelstraße;3;13;2;8;Bergheim;10.1;;;91
+50127;Fuchsienweg;1;23;2;8;Quadrath-Ichendorf;23.2;;;91
+50127;Fuchsweg;1;19;2;18;Quadrath-Ichendorf;21.2;;;91
+50129;Föhrenweg;1;11;2;24;Oberaußem;12.2;;;91
+50126;Füssenichstraße;1;51;2;60;Bergheim;10.1;;;91
+50126;Füssenichstraße;53;65;62;78;Bergheim;10.2;;;91
+50126;Gartenstraße;1;45;2;54;Kenten;08.2;;;91
+50127;Geranienweg;1;7;2;6;Quadrath-Ichendorf;23.2;;;91
+50126;Gerhart-Hauptmann-Straße;1;41;2;36;Zieverich;04.1;;;91
+50129;Gertrudenhof;;;0;0;Rheidt-Hüchelhoven;15.2;;;91
+50129;Gertrudenstraße;1;15;2;16;Rheidt-Hüchelhoven;15.2;;;91
+50129;Geschw.-Bentheuer-Straße;1;21;;;Glessen;17.2;;;91
+50129;Geuelweg;;;4;4;Auenheim;15.3;;;91
+50126;Giersbergstraße;3;65;2;74;Bergheim;10.2;;;91
+50129;Giethgasse;1;51;2;46;Glessen;17.2;;;91
+50129;Gillbachstraße;7;33;2;30;Auenheim;15.3;;;91
+50127;Gimpelweg;1;5;2;6;Quadrath-Ichendorf;22.1;;;91
+50129;Ginsterweg;1;13;6;34;Oberaußem;12.1;;;91
+50127;Gladiolenweg;1;5;2;4;Quadrath-Ichendorf;23.2;;;91
+50127;Glasbläserstraße;3;11;2;16;Quadrath-Ichendorf;19.1;;;91
+50126;Glescher Hof;;;0;0;Glesch;03.1;;;91
+50126;Glescher Straße;1;115;2;126;Paffendorf;03.2;;;91
+50129;Glessener Mühlenhof;;;0;0;Glessen;17.2;;;91
+50129;Glessener Weg;1;33;4;14;Oberaußem;12.1;;;91
+50126;Glessiker Straße;1;9;2;8;Glesch;03.1;;;91
+50126;Glockenweg;1;21;2;6;Kenten;08.2;;;91
+50129;Glogauer Straße;1;5;2;6;Niederaußem;14.2;;;91
+50127;Glück-Auf-Straße;1;33;4;20;Quadrath-Ichendorf;20.1;;;91
+50129;Gnesener Straße;1;13;2;16;Niederaußem;14.2;;;91
+50126;Goethestraße;1;51;4;12;Zieverich;04.1;;;91
+50126;Goldammerweg;3;3;2;4;Kenten;07.1;;;91
+50127;Gotenring;1;25;2;22;Thorr;02.1;;;91
+50127;Gotenstraße;1;7;2;14;Thorr;02.1;;;91
+50129;Gottfried-Stahl-Straße;1;21;2;20;Fliesteden;16.2;;;91
+50127;Graf-Otto-Straße;1;45;2;50;Quadrath-Ichendorf;19.2;;;91
+50129;Greifswalder Straße;1;11;2;22;Niederaußem;14.2;;;91
+50126;Grevenbroicher Straße;1;65;2;82;Glesch;03.1;;;91
+50127;Grimmstraße;3;11;2;12;Quadrath-Ichendorf;22.2;;;91
+50129;Groß-Mönchhof;3;7;0;6;Auenheim;15.3;;;91
+50126;Grüner Weg;1;47;2;68;Bergheim;10.2;;;91
+50129;Grünewaldstraße;1;5;2;10;Rheidt-Hüchelhoven;15.1;;;91
+50126;Grünspechtweg;1;7;2;4;Glesch;03.1;;;91
+50129;Gut Asperschlag;;;0;0;Niederaußem;14.1;;;91
+50129;Gut Neuhof;;;0;0;Glessen;18.1;;;91
+50127;Gut Peterhof;;;0;0;Quadrath-Ichendorf;19.1;;;91
+50126;Gutenbergstraße;1;19;;;Bergheim;05.2;;;91
+50126;Gutenbergstraße;23;43;;;Zieverich;04.2;;;91
+50127;Hainbuchenweg;17;23;2;18;Quadrath-Ichendorf;22.2;;;91
+50129;Hallerhof;;;0;0;Oberaußem;12.2;;;91
+50129;Hans-Böckler-Platz;1;7;2;6;Oberaußem;12.1;;;91
+50127;Hans-Im-Glück-Straße;1;15;2;12;Quadrath-Ichendorf;23.1;;;91
+50127;Harffer Hof;;;0;0;Quadrath-Ichendorf;19.1;;;91
+50127;Hasenweg;1;5;2;24;Quadrath-Ichendorf;21.2;;;91
+50126;Haubenlerchenweg;1;7;2;6;Kenten;07.1;;;91
+50126;Hauptstraße;1;103;8;110;Bergheim;09.1;;;91
+50127;Haus Wiedenau;;;0;0;Ahe;01.1;;;91
+50127;Hebelstraße;1;17;;;Quadrath-Ichendorf;21.1;;;91
+50129;Heckenrosenweg;1;21;;;Oberaußem;12.2;;;91
+50126;Heckenstraße;3;107;8;102;Paffendorf;03.2;;;91
+50126;Heerstraße;;;0;0;Kenten;08.1;;;91
+50126;Heerstraße;;;2A;2A;Kenten;08.1;;;91
+50126;Heerstraße;;;2C;2C;Kenten;08.1;;;91
+50126;Heerstraße;;;2D;2D;Kenten;08.1;;;91
+50126;Heerstraße;;;2E;2E;Kenten;08.1;;;91
+50126;Heerstraße;;;2F;2F;Kenten;08.1;;;91
+50126;Heerstraße;;;2J;2J;Kenten;08.1;;;91
+50126;Heerstraße;;;6;6;Kenten;08.1;;;91
+50126;Heerstraße;;;48A;48A;Kenten;08.1;;;91
+50126;Heerstraße;5;11;10;30;Kenten;08.1;;;91
+50126;Heerstraße;;;2B;2B;Bergheim;10.1;;;91
+50126;Heerstraße;;;2G;2G;Bergheim;10.1;;;91
+50126;Heerstraße;;;2H;2H;Bergheim;10.1;;;91
+50126;Heerstraße;;;8;8;Bergheim;10.1;;;91
+50126;Heerstraße;;;32;46;Bergheim;10.1;;;91
+50126;Heerstraße;13;81;50;88;Bergheim;10.1;;;91
+50126;Heerstraße;83;103;;;Bergheim;10.2;;;91
+50129;Heidenpfuhl;1;57;2;98;Glessen;18.1;;;91
+50127;Heideweg;;;2;4;Thorr;02.1;;;91
+50126;Heinemannstraße;1;45;2;34;Glesch;03.1;;;91
+50126;Heinrich-Heine-Straße;1;9;2;10;Zieverich;04.1;;;91
+50126;Heinrich-Hertz-Straße;3;17;2;48;Zieverich;04.2;;;91
+50129;Heinz-Esch-Johnen-Straße;3;79;2;52;Fliesteden;16.2;;;91
+50127;Heinz-Menzel-Straße;1;19;2;14;Kenten;07.2;;;91
+50127;Heinzelmännchenweg;1;7;2;20;Quadrath-Ichendorf;23.1;;;91
+50126;Heisenbergstraße;3;19;12;16;Zieverich;04.2;;;91
+50127;Heppendorfer Straße;3;45;;;Ahe;01.1;;;91
+50127;Herbergerstraße;5;5;2;2;Quadrath-Ichendorf;21.1;;;91
+50127;Herderstraße;3;43;4;48;Quadrath-Ichendorf;20.2;;;91
+50126;Hermann-Lautz-Straße;;;2;36;Kenten;08.2;;;91
+50127;Hermann-Löns-Straße;3;47;4;44;Quadrath-Ichendorf;20.2;;;91
+50126;Hermann-Stehr-Straße;1;19;2;10;Zieverich;04.1;;;91
+50129;Herrenhof;;;0;0;Rheidt-Hüchelhoven;15.1;;;91
+50129;Hessgasse;1;15;2;18;Büsdorf;16.1;;;91
+50129;Hiepenfeldweg;7;15;2;14;Niederaußem;13.2;;;91
+50129;Hinter den Hecken;5;27;4;22;Fliesteden;16.2;;;91
+50129;Hohe Straße;3;43;4;58;Glessen;17.1;;;91
+50129;Hohe Straße;45;115;60;146;Glessen;17.2;;;91
+50129;Holbeinweg;;;2;10;Rheidt-Hüchelhoven;15.1;;;91
+50129;Holtroper Straße;1;7;2;30;Niederaußem;13.1;;;91
+50129;Holunderweg;1;23;4;18;Oberaußem;11.2;;;91
+50126;Holzgasse;1;17;2;16;Paffendorf;03.2;;;91
+50129;Honiggasse;1;25;4;24;Glessen;17.2;;;91
+50129;Hoppengasse;1;33;2;16;Niederaußem;13.1;;;91
+50126;Hubertusplatz;1;1;4;6;Kenten;08.2;;;91
+50126;Hubertusstraße;15;23;2;54;Kenten;08.2;;;91
+50126;Humboldtstraße;21;21;;;Zieverich;04.2;;;91
+50127;Huppertstaler Weg;1;21;2;16;Ahe;01.1;;;91
+50126;Hähnsaler Hof;;;0;0;Paffendorf;03.2;;;91
+50127;Händelstraße;1;3;2;6;Quadrath-Ichendorf;21.1;;;91
+50127;Hänflingweg;1;63;2;36;Quadrath-Ichendorf;22.2;;;91
+50129;Höhenhof;;;0;0;Glessen;17.2;;;91
+50129;Höhenweg;1;25;4;28;Glessen;18.2;;;91
+50129;Hüttenweg;1;31;2;10;Büsdorf;16.1;;;91
+50127;Iltisweg;1;25;2;12;Quadrath-Ichendorf;21.2;;;91
+50129;Im Brauweilerfeld;3;87;2;34;Glessen;18.2;;;91
+50129;Im Broich;1;21;4;38;Fliesteden;16.2;;;91
+50129;Im Bruchfeldchen;3;41;2;34;Glessen;17.1;;;91
+50129;Im Dornenhau;1;51;;;Glessen;18.2;;;91
+50127;Im Dreieck;1;9;12;30;Quadrath-Ichendorf;19.2;;;91
+50127;Im Dünnen Bruch;1;17;2;18;Thorr;02.1;;;91
+50129;Im Funkenkamp;1;1;2;24;Oberaußem;12.2;;;91
+50126;Im Goldacker;1;55;6;30;Kenten;07.2;;;91
+50126;Im Hasental;1;15;2;10;Paffendorf;03.2;;;91
+50129;Im Heuchen;3;11;8;12;Glessen;18.1;;;91
+50129;Im Kamp;5;15;2;4;Glessen;17.2;;;91
+50129;Im Katzenbungert;5;49;4;16;Oberaußem;11.1;;;91
+50127;Im Kleinfeldchen;5;11;4;30;Ahe;01.1;;;91
+50127;Im Langen Benden;3;7;4;4;Thorr;02.2;;;91
+50129;Im Park;1;35;2;48;Büsdorf;16.1;;;91
+50129;Im Pfarrgarten;1;5;;;Büsdorf;16.1;;;91
+50127;Im Rauland;13;81;4;70;Quadrath-Ichendorf;19.2;;;91
+50127;Im Rauland;101;191;86;134;Quadrath-Ichendorf;21.2;;;91
+50127;Im Rosengarten;1;1;;;Ahe;01.1;;;91
+50129;Im Selch;1;35;4;22;Glessen;17.1;;;91
+50129;Im Sommershausfeld;1;99;2;44;Glessen;18.2;;;91
+50126;Im Stadtgarten;1;9;;;Bergheim;09.1;;;91
+50129;Im Tal;1;43;4;40;Glessen;18.1;;;91
+50129;Im Tiergarten;1;23;2;8;Fliesteden;16.2;;;91
+50127;Im Wiesengrund;1;29;;;Kenten;08.2;;;91
+50127;Im Wohnpark;13;39;14;38;Ahe;01.2;;;91
+50127;Im Wohnpark;1;11;2;12;Ahe;01.1;;;91
+50127;In den Benden;1;5;4;8;Ahe;01.1;;;91
+50126;In den Dorfgärten;;;4;4;Paffendorf;03.2;;;91
+50127;In den Herrenbenden;1;23;2;30;Kenten;08.2;;;91
+50126;In der Aue;1;3;2;6;Bergheim;09.2;;;91
+50127;In der Freiheit;;;2;22;Ahe;01.1;;;91
+50129;In der Hüll;1;59;2;44;Glessen;17.1;;;91
+50126;In der Loh;1;13;2;8;Paffendorf;03.2;;;91
+50129;In der Mitte;3;47;2;44;Oberaußem;11.2;;;91
+50127;In der Spitze;1;17;6;6;Ahe;01.1;;;91
+50129;Industriestraße;1;21;;;Niederaußem;13.2;;;91
+50129;Ingendorfer Straße;;;0;0;Büsdorf;16.1;;;91
+50129;Ingendorfer Weg;1;11;6;6;Fliesteden;16.2;;;91
+50129;Inselstraße;1;49;2;40;Oberaußem;11.2;;;91
+50127;Irisweg;1;41;8;58;Quadrath-Ichendorf;23.2;;;91
+50126;Jahnstraße;9;21;2;22;Glesch;03.1;;;91
+50126;Jasminweg;;;2;6;Glesch;03.1;;;91
+50129;Jennerstraße;1;43;2;28;Fliesteden;16.2;;;91
+50127;Jenseitsstraße;3;93;2;46;Quadrath-Ichendorf;20.1;;;91
+50126;Johann-Ruland-Weg;5;9;;;Bergheim;10.2;;;91
+50126;Johannes-Kepler-Straße;1;5;2;6;Zieverich;05.1;;;91
+50126;Josef-Thüner-Straße;1;25;2;44;Kenten;07.2;;;91
+50127;Kammerstraße;11;37;32;32;Quadrath-Ichendorf;19.2;;;91
+50129;Kapellenweg;1;23;6;32;Büsdorf;16.1;;;91
+50126;Karthäuserstraße;1;31;2;52;Glesch;03.1;;;91
+50129;Kaspar-Fünders-Straße;1;15;2;38;Niederaußem;14.1;;;91
+50126;Kastanienallee;1;1;2;2;Paffendorf;03.2;;;91
+50129;Kasterstraße;1;7;2;12;Büsdorf;16.1;;;91
+50127;Katzenberg;1;1;4;6;Quadrath-Ichendorf;19.1;;;91
+50129;Kaulens-Weide;1;29;2;22;Niederaußem;13.2;;;91
+50129;Kaulsgasse;3;23;2;18;Büsdorf;16.1;;;91
+50127;Keltenstraße;1;35;2;22;Thorr;02.2;;;91
+50126;Kennedystraße;1;75;6;28;Bergheim;09.2;;;91
+50127;Kentener Heide;9;23;2;18;Kenten;07.2;;;91
+50126;Kentener Wiesen;23;39;22;40;Kenten;06.2;;;91
+50126;Kettelerstraße;1;11;;;Kenten;08.1;;;91
+50126;Kiebitzweg;1;5;2;6;Kenten;07.1;;;91
+50127;Kiefernweg;1;7;2;6;Quadrath-Ichendorf;22.1;;;91
+50126;Kindergartenweg;5;11;4;4;Paffendorf;03.2;;;91
+50126;Kirchmannstraße;1;7;2;8;Bergheim;10.1;;;91
+50126;Kirchstraße;13;35;12;96;Bergheim;09.1;;;91
+50126;Kirchstraße;39;43;98;128;Bergheim;10.2;;;91
+50126;Kirdorfer Mühle;;;10;10;Glesch;03.1;;;91
+50126;Kirschbaumweg;1;17;2;10;Bergheim;09.2;;;91
+50127;Kitschburgstraße;1;41;4;56;Quadrath-Ichendorf;19.2;;;91
+50127;Kleiberweg;1;7;2;4;Quadrath-Ichendorf;22.1;;;91
+50127;Kleiner-Muck-Weg;1;3;2;2;Quadrath-Ichendorf;23.1;;;91
+50127;Klosterhütte;1;21;2;20;Ahe;01.1;;;91
+50126;Klosterstraße;1;11;4;12;Bergheim;09.1;;;91
+50127;Knospenweg;1;7;2;4;Ahe;01.1;;;91
+50129;Kolberger Straße;1;9;2;14;Niederaußem;14.2;;;91
+50126;Kolpingstraße;3;19;4;16;Bergheim;10.1;;;91
+50129;Komödchenstraße;3;53;2;12;Oberaußem;11.1;;;91
+50126;Kopernikusstraße;13;27;;;Paffendorf;03.2;;;91
+50127;Koppelsweg;1;47;4;44;Ahe;01.1;;;91
+50126;Kranichweg;1;33;2;12;Glesch;03.1;;;91
+50126;Krefelder Straße;1;15;4;8;Zieverich;04.1;;;91
+50129;Kreuzstraße;1;13;4;38;Büsdorf;16.1;;;91
+50129;Krokusweg;1;21;2;32;Niederaußem;14.2;;;91
+50129;Kurt-Schumacher-Straße;5;5;2;2;Glessen;18.1;;;91
+50127;Kurzer Weg;5;11;2;18;Quadrath-Ichendorf;20.2;;;91
+50129;Kämpchenstraße;1;9;2;6;Fliesteden;16.2;;;91
+50127;Köln-Aachener-Straße;139;217;234;318;Quadrath-Ichendorf;20.1;;;91
+50127;Köln-Aachener-Straße;;;190;190;Quadrath-Ichendorf;20.1;;;91
+50127;Köln-Aachener-Straße;13;131;2;188;Quadrath-Ichendorf;19.1;;;91
+50127;Köln-Aachener-Straße;;;192;232;Quadrath-Ichendorf;19.1;;;91
+50129;Kölner Hohlweg;;;2;22;Oberaußem;12.1;;;91
+50126;Kölner Straße;1;57;2;62;Kenten;10.1;;;91
+50126;Kölner Straße;107;147;76;230;Kenten;08.2;;;91
+50126;Königsberger Straße;1;55;4;40;Kenten;07.1;;;91
+50126;Königsgasse;;;2;8;Zieverich;04.1;;;91
+50126;Königsstraße;3;15;2;22;Paffendorf;03.2;;;91
+50129;Kösliner Straße;1;11;6;8;Niederaußem;14.2;;;91
+50127;Laacher Straße;5;17;2;12;Ahe;01.1;;;91
+50129;Laurentiusstraße;1;7;4;28;Büsdorf;16.1;;;91
+50126;Lechenicher Straße;1;33;2;28;Zieverich;04.1;;;91
+50129;Leinenweberweg;9;31;4;4;Niederaußem;13.2;;;91
+50126;Leipziger Straße;1;15;2;12;Kenten;07.1;;;91
+50129;Lerchenberg;1;7;2;14;Büsdorf;16.1;;;91
+50126;Lessingstraße;1;7;2;10;Zieverich;04.1;;;91
+50127;Licher Hof;;;0;0;Quadrath-Ichendorf;19.1;;;91
+50127;Ligastraße;3;5;2;2;Quadrath-Ichendorf;19.2;;;91
+50129;Ligusterstraße;1;43;2;64;Niederaußem;14.1;;;91
+50126;Lilienthalstraße;1;5;2;8;Kenten;08.1;;;91
+50126;Lilienweg;1;5;2;4;Bergheim;05.2;;;91
+50129;Lindenplatz;1;31;4;32;Rheidt-Hüchelhoven;15.2;;;91
+50126;Lindenring;1;19;4;26;Bergheim;09.2;;;91
+50127;Lindgesweg;;;2;4;Quadrath-Ichendorf;21.1;;;91
+50129;Lisztstraße;5;15;2;20;Oberaußem;11.1;;;91
+50129;Lochnerweg;1;3;2;4;Rheidt-Hüchelhoven;15.1;;;91
+50129;Lohweg;1;39;8;52;Niederaußem;13.2;;;91
+50127;Lombardring;1;35;10;96;Quadrath-Ichendorf;23.1;;;91
+50129;Lothringer Ring;5;53;2;54;Niederaußem;14.1;;;91
+50129;Lourther Weg;1;33;6;8;Auenheim;15.3;;;91
+50129;Ludwig-Erhard-Straße;5;5;4;10;Glessen;18.1;;;91
+50129;Ludwig-Kons-Straße;1;39;6;16;Oberaußem;11.2;;;91
+50126;Luisenstraße;1;19;2;26;Kenten;08.2;;;91
+50127;Lupinenweg;5;29;2;26;Quadrath-Ichendorf;23.2;;;91
+50127;Lutherstraße;1;47;2;34;Quadrath-Ichendorf;21.1;;;91
+50126;Löhrgasse;1;7;4;20;Paffendorf;03.2;;;91
+50129;Lütkes Hecke;1;15;;;Büsdorf;16.1;;;91
+50126;Magdeburger Straße;1;31;4;36;Kenten;07.1;;;91
+50127;Maiblumenweg;1;19;12;20;Quadrath-Ichendorf;23.2;;;91
+50127;Malvenweg;1;11;2;6;Quadrath-Ichendorf;23.2;;;91
+50127;Mandelweg;3;7;2;8;Quadrath-Ichendorf;22.1;;;91
+50129;Manstedtener Straße;;;2;14;Fliesteden;16.2;;;91
+50127;Marderweg;1;27;4;10;Quadrath-Ichendorf;21.2;;;91
+50127;Margeritenweg;1;5;2;10;Thorr;02.1;;;91
+50129;Marie-Juchacz-Straße;7;17;4;12;Oberaußem;11.1;;;91
+50126;Marienpfad;1;21;2;68;Glesch;03.1;;;91
+50129;Markhof;;;0;0;Glessen;17.1;;;91
+50126;Maronenweg;3;17;4;32;Glesch;03.1;;;91
+50126;Martin-Vetten-Straße;1;17;2;18;Glesch;03.1;;;91
+50126;Martinstraße;1;5;6;12;Kenten;08.2;;;91
+50129;Mauspfad;5;21;2;14;Oberaußem;11.2;;;91
+50126;Max-Born-Straße;1;45;2;42;Zieverich;05.1;;;91
+50129;Max-Stock-Straße;1;7;2;6;Fliesteden;16.2;;;91
+50126;Meisenweg;1;15;2;10;Kenten;06.1;;;91
+50126;Meißener Straße;1;1;;;Kenten;06.2;;;91
+50129;Memeler Straße;1;3;6;6;Niederaußem;14.2;;;91
+50129;Memlingweg;1;5;2;4;Rheidt-Hüchelhoven;15.1;;;91
+50129;Metzstraße;1;21;4;26;Niederaußem;14.1;;;91
+50126;Meßweg;1;17;2;4;Paffendorf;03.2;;;91
+50129;Michael-Juris-Straße;1;11;2;16;Glessen;17.2;;;91
+50127;Mimosenweg;1;5;2;8;Quadrath-Ichendorf;23.2;;;91
+50126;Mittelstraße;1;29;4;36;Bergheim;10.1;;;91
+50127;Mohnweg;1;7;2;6;Quadrath-Ichendorf;23.2;;;91
+50129;Moosweg;1;17;2;12;Oberaußem;12.1;;;91
+50127;Mozartstraße;1;41;2;28;Quadrath-Ichendorf;21.1;;;91
+50127;Myrtenweg;1;7;2;26;Quadrath-Ichendorf;23.2;;;91
+50127;Märchenring;1;39;2;58;Quadrath-Ichendorf;23.1;;;91
+50127;Möwenweg;1;7;2;8;Quadrath-Ichendorf;22.1;;;91
+50126;Mühlenstraße;1;23;4;16;Kenten;08.2;;;91
+50126;Mühlenwehr;1;23;2;24;Paffendorf;03.2;;;91
+50126;Nachtigallenweg;3;33;2;22;Kenten;07.1;;;91
+50129;Nancystraße;3;7;2;8;Niederaußem;14.1;;;91
+50126;Narzissenweg;1;3;2;4;Bergheim;05.2;;;91
+50126;Naumburger Straße;1;13;2;10;Kenten;06.2;;;91
+50129;Neißer Straße;1;3;2;2;Niederaußem;14.2;;;91
+50126;Nelkenweg;1;5;4;4;Bergheim;05.2;;;91
+50126;Neue Giersbergstraße;3;31;2;20;Glesch;03.1;;;91
+50129;Neuer Weg;3;9;2;4;Oberaußem;11.1;;;91
+50126;Neuhöllnerhof;;;0;0;Paffendorf;03.2;;;91
+50126;Neusser Straße;1;59;4;56;Bergheim;10.2;;;91
+50129;Niederaußemer Straße;1;99;2;38;Oberaußem;11.1;;;91
+50126;Niederembter Straße;3;21;2;10;Glesch;03.1;;;91
+50129;Nikolaus-Adams-Straße;1;65;2;60;Rheidt-Hüchelhoven;15.1;;;91
+50129;Nikolaus-Adams-Straße;69;73;;;Rheidt-Hüchelhoven;15.1;;;91
+50129;Nikolaus-Adams-Straße;67;67;;;Rheidt-Hüchelhoven;15.2;;;91
+50127;Nordring;5;53;2;28;Thorr;02.1;;;91
+50127;Nordstraße;1;33;2;36;Thorr;02.1;;;91
+50127;Nußbaumweg;1;7;2;6;Quadrath-Ichendorf;22.1;;;91
+50129;Oberaußemer Straße;1;19;2;18;Niederaußem;13.2;;;91
+50129;Oberaußemer Straße;21;69;42;80;Niederaußem;14.1;;;91
+50127;Obere Loh;1;11;2;34;Thorr;02.1;;;91
+50129;Oberfeldstraße;1;25;2;18;Oberaußem;12.1;;;91
+50129;Ohlesweg;1;11;;;Fliesteden;16.2;;;91
+50129;Ohmstraße;13;19;22;30;Niederaußem;14.1;;;91
+50126;Ohndorfer Weg;9;33;4;34;Glesch;03.1;;;91
+50127;Oleanderstraße;3;99;6;116;Quadrath-Ichendorf;23.2;;;91
+50129;Oppelner Straße;1;3;2;6;Niederaußem;14.2;;;91
+50129;Ordensstraße;3;39;2;28;Auenheim;15.3;;;91
+50129;Ostring;1;79;8;58;Fliesteden;16.2;;;91
+50126;Oswaldstraße;;;4;6;Zieverich;04.2;;;91
+50126;Otto-Hahn-Straße;1;23;2;24;Zieverich;05.1;;;91
+50126;Ottostraße;1;13;2;12;Kenten;08.1;;;91
+50126;Paffendorfer Weg;1;35;2;38;Bergheim;09.1;;;91
+50127;Palmenweg;1;3;2;70;Quadrath-Ichendorf;23.2;;;91
+50129;Pankratiusstraße;1;45;2;16;Glessen;17.1;;;91
+50129;Pannesser Weg;1;13;2;10;Auenheim;15.3;;;91
+50126;Pappelweg;1;27;2;16;Bergheim;09.2;;;91
+50127;Parkstraße;1;55;2;22;Quadrath-Ichendorf;20.1;;;91
+50129;Pastorsgasse;1;9;2;2;Niederaußem;13.2;;;91
+50126;Paul-Ehrlich-Straße;1;37;2;36;Zieverich;04.2;;;91
+50129;Paulusstraße;1;49;18;74;Niederaußem;14.1;;;91
+50126;Pelikanstraße;1;11;;;Glesch;03.1;;;91
+50126;Peringser Straße;1;41;2;40;Glesch;03.1;;;91
+50129;Perlgrasweg;1;25;4;22;Niederaußem;14.2;;;91
+50129;Pestalozzistraße;1;15;2;18;Büsdorf;16.1;;;91
+50129;Peter-Achnitz-Straße;7;7;2;2;Niederaußem;14.2;;;91
+50126;Peter-Otten-Straße;1;25;10;28;Glesch;03.1;;;91
+50129;Peter-Pütz-Straße;1;7;2;8;Rheidt-Hüchelhoven;15.2;;;91
+50127;Petunienweg;1;51;2;84;Quadrath-Ichendorf;23.2;;;91
+50129;Pf.-Heinrich v. Solre-Str;1;23;2;16;Oberaußem;12.2;;;91
+50126;Pfarrer-Evers-Ring;1;55;4;20;Kenten;07.2;;;91
+50126;Pfarrer-Keuter-Straße;1;17;2;14;Kenten;08.1;;;91
+50129;Pfarrer-Kreidt-Weg;1;37;2;10;Niederaußem;13.2;;;91
+50129;Pfarrer-Pesch-Straße;;;2;4;Rheidt-Hüchelhoven;15.1;;;91
+50126;Pfarrer-Piel-Strasse;;;2;2;Glesch;03.1;;;91
+50127;Pfarrer-Röhrig-Straße;1;1;2;2;Thorr;02.2;;;91
+50127;Pfarrer-Schlich-Straße;1;13;2;4;Quadrath-Ichendorf;21.1;;;91
+50129;Pfarrer-Tirtey-Straße;1;11;10;10;Glessen;17.2;;;91
+50126;Philipp-Reis-Straße;;;2;10;Zieverich;04.2;;;91
+50129;Pillauer Straße;1;19;2;28;Niederaußem;14.2;;;91
+50126;Pirolweg;1;23;2;8;Kenten;07.1;;;91
+50127;Platanenallee;11;23;2;26;Thorr;02.2;;;91
+50127;Pliesmühlenstraße;5;47;10;38;Quadrath-Ichendorf;21.1;;;91
+50129;Posener Straße;5;19;2;14;Niederaußem;14.2;;;91
+50129;Potsdamer Straße;1;9;2;20;Niederaußem;14.2;;;91
+50127;Priamosstraße;1;1;6;34;Quadrath-Ichendorf;23.1;;;91
+50127;Primelweg;3;9;2;10;Quadrath-Ichendorf;23.2;;;91
+50127;Quellenhof;;;0;0;Quadrath-Ichendorf;19.1;;;91
+50129;Quellenweg;3;7;2;6;Fliesteden;16.2;;;91
+50127;Rabenweg;1;5;2;2;Quadrath-Ichendorf;22.1;;;91
+50127;Rapunzelweg;1;9;2;8;Quadrath-Ichendorf;23.1;;;91
+50127;Rebhuhnweg;1;7;2;8;Quadrath-Ichendorf;21.2;;;91
+50127;Reiherweg;1;17;;;Quadrath-Ichendorf;22.2;;;91
+50126;Reiner-Trillen-Straße;1;33;8;16;Glesch;03.1;;;91
+50129;Reisinger Weg;;;12;12;Niederaußem;13.1;;;91
+50126;Remigiusstraße;1;21;;;Kenten;07.2;;;91
+50127;Rennstall Schlenderhan;;;0;0;Quadrath-Ichendorf;20.1;;;91
+50129;Reutergasse;1;55;2;22;Oberaußem;11.2;;;91
+50129;Rheidter Weg;5;23;;;Fliesteden;16.2;;;91
+50129;Richartzstraße;5;5;2;6;Oberaußem;11.2;;;91
+50129;Riedweg;1;25;2;28;Niederaußem;14.2;;;91
+50127;Rilkestraße;13;13;10;30;Quadrath-Ichendorf;22.2;;;91
+50129;Ringstraße;1;47;10;64;Niederaußem;13.2;;;91
+50127;Rispenweg;1;17;2;6;Ahe;01.1;;;91
+50129;Ritterspornweg;1;19;2;26;Niederaußem;14.2;;;91
+50126;Robert-Kirchhoff-Straße;1;33;2;12;Zieverich;04.2;;;91
+50127;Robert-Koch-Straße;7;17;2;34;Quadrath-Ichendorf;21.1;;;91
+50129;Rochusstraße;1;55;2;56;Glessen;18.2;;;91
+50129;Rosenhof;1;1;0;0;Glessen;18.1;;;91
+50129;Rosenweg;1;25;2;22;Niederaußem;14.1;;;91
+50126;Rotdornweg;1;11;2;8;Bergheim;09.2;;;91
+50127;Rote-Kreuz-Straße;1;57;14;60;Quadrath-Ichendorf;19.1;;;91
+50126;Rotkehlchenweg;1;3;2;4;Kenten;06.1;;;91
+50127;Rotkäppchenweg;1;7;2;8;Quadrath-Ichendorf;23.1;;;91
+50126;Rottannenweg;1;5;2;8;Bergheim;09.2;;;91
+50129;Rudolf-Harbig-Straße;1;43;6;36;Rheidt-Hüchelhoven;15.1;;;91
+50127;Römerstraße;1;131;2;116;Thorr;02.2;;;91
+50129;Sandberg;1;15;2;6;Oberaußem;12.1;;;91
+50126;Sanddornweg;1;17;4;30;Bergheim;09.2;;;91
+50127;Sandstraße;9;69;14;36;Quadrath-Ichendorf;20.1;;;91
+50127;Sandstraße;;;152;164;Quadrath-Ichendorf;22.2;;;91
+50127;Sandstraße;81;133;40;150;Quadrath-Ichendorf;20.2;;;91
+50126;Schillerstraße;3;17;2;22;Zieverich;04.1;;;91
+50127;Schlehdornweg;1;15;2;14;Quadrath-Ichendorf;22.1;;;91
+50127;Schleiferweg;1;25;;;Quadrath-Ichendorf;19.1;;;91
+50127;Schlenderhan;;;0;0;Quadrath-Ichendorf;19.1;;;91
+50127;Schloß Frens;;;0;0;Quadrath-Ichendorf;20.1;;;91
+50127;Schloß Frens Vorburg;1;33;0;32;Quadrath-Ichendorf;20.1;;;91
+50126;Schloßweg;1;25;2;2;Zieverich;04.1;;;91
+50129;Schlungweg;1;21;6;32;Oberaußem;11.2;;;91
+50126;Schmitte Weg;1;11;2;6;Paffendorf;03.2;;;91
+50127;Schneewittchenstraße;1;11;2;18;Quadrath-Ichendorf;23.1;;;91
+50127;Schnepfenweg;;;2;6;Quadrath-Ichendorf;22.2;;;91
+50129;Schongauer Weg;1;19;2;22;Rheidt-Hüchelhoven;15.1;;;91
+50126;Schulstraße;1;9;4;10;Bergheim;10.1;;;91
+50129;Schultesgasse;1;27;6;20;Niederaußem;13.1;;;91
+50129;Schulzental;1;11;;;Fliesteden;16.2;;;91
+50129;Schwalbenkaulstraße;3;21;2;20;Oberaußem;12.1;;;91
+50126;Schwalbenweg;1;17;2;4;Kenten;06.1;;;91
+50127;Schwarz-Gold-Weg;1;13;2;14;Quadrath-Ichendorf;23.1;;;91
+50129;Schwarze Gasse;1;7;2;10;Niederaußem;13.1;;;91
+50126;Schützenstraße;1;73;2;24;Bergheim;10.1;;;91
+50127;Sebastianusstraße;1;33;2;2;Quadrath-Ichendorf;19.2;;;91
+50127;Seidelstraße;1;15;2;16;Quadrath-Ichendorf;22.2;;;91
+50126;Siemensstraße;1;3;2;6;Bergheim;05.2;;;91
+50129;Silverbergstraße;1;43;2;44;Niederaußem;13.1;;;91
+50127;Sindorfer Straße;1;63;4;78;Ahe;01.1;;;91
+50129;Sintherner Holzweg;1;15;2;16;Glessen;18.1;;;91
+50129;Sommerhaus;3;47;2;34;Glessen;18.2;;;91
+50126;Sonnenblumenweg;1;17;2;20;Bergheim;05.2;;;91
+50127;Sonnenhang;1;43;4;38;Quadrath-Ichendorf;20.1;;;91
+50129;Sophienhof;;;0;0;Büsdorf;16.1;;;91
+50127;Sperberstraße;1;23;4;10;Quadrath-Ichendorf;22.2;;;91
+50126;Sperlingweg;1;3;2;2;Kenten;07.1;;;91
+50126;Sportparkstraße;3;3;;;Zieverich;05.1;;;91
+50129;St.-Michael-Straße;3;39;6;30;Rheidt-Hüchelhoven;15.1;;;91
+50126;St.-Pankratius-Weg;3;3;4;4;Paffendorf;03.2;;;91
+50129;St.-Simeon-Straße;1;19;2;16;Fliesteden;16.2;;;91
+50126;Stahlerweg;1;27;6;10;Bergheim;10.2;;;91
+50126;Stamsweg;3;15;2;2;Glesch;03.1;;;91
+50127;Starenweg;1;9;4;8;Quadrath-Ichendorf;22.1;;;91
+50126;Steinkauzweg;1;5;2;6;Glesch;03.1;;;91
+50127;Sterntalerweg;1;17;2;18;Quadrath-Ichendorf;23.1;;;91
+50126;Stettiner Straße;1;33;2;26;Kenten;06.1;;;91
+50127;Stieglitzweg;1;5;2;4;Quadrath-Ichendorf;22.1;;;91
+50129;Stolpstraße;1;3;2;2;Niederaußem;14.2;;;91
+50129;Stommelner Straße;7;13;2;6;Fliesteden;16.2;;;91
+50127;Storchenweg;1;7;2;6;Quadrath-Ichendorf;22.1;;;91
+50129;Stralsunder Straße;1;9;2;14;Niederaußem;14.2;;;91
+50127;Südring;1;37;6;42;Thorr;02.2;;;91
+50126;Südweststraße;1;9;;;Bergheim;09.1;;;91
+50126;Südweststraße;;;8;40;Kenten;09.1;;;91
+50126;Talstraße;1;41;2;46;Kenten;08.1;;;91
+50127;Tannenweg;1;15;2;12;Quadrath-Ichendorf;22.2;;;91
+50127;Taubenweg;1;7;2;8;Quadrath-Ichendorf;22.1;;;91
+50129;Theo-Philipps-Ring;1;49;2;26;Rheidt-Hüchelhoven;15.1;;;91
+50129;Theodor-Heuss-Straße;1;29;2;28;Niederaußem;14.1;;;91
+50127;Thorrer Straße;1;39;2;60;Quadrath-Ichendorf;21.2;;;91
+50127;Tiegelweg;1;17;2;8;Quadrath-Ichendorf;19.1;;;91
+50129;Tilsiter Straße;1;15;2;18;Niederaußem;14.2;;;91
+50126;Triftstraße;3;13;2;4;Kenten;08.2;;;91
+50126;Tulpenweg;1;5;2;6;Bergheim;05.2;;;91
+50126;Turmallee;3;9;6;20;Kenten;06.1;;;91
+50129;Turnstraße;1;9;2;10;Oberaußem;11.2;;;91
+50127;Uhlandstraße;1;41;2;36;Quadrath-Ichendorf;20.2;;;91
+50129;Ulmenring;5;25;2;26;Oberaußem;12.2;;;91
+50127;Unter den Linden;3;23;2;14;Ahe;01.1;;;91
+50129;Unter den Ulmen;1;13;4;14;Rheidt-Hüchelhoven;15.1;;;91
+50129;Unterfeldstraße;1;9;;;Oberaußem;12.1;;;91
+50129;Ursulastraße;7;23;4;16;Büsdorf;16.1;;;91
+50129;Usedomer Straße;1;19;2;20;Niederaußem;14.2;;;91
+50126;Van-Gils-Straße;3;33;4;10;Zieverich;04.1;;;91
+50129;Vinzentiusstraße;1;29;2;28;Oberaußem;11.2;;;91
+50129;Voltastraße;5;27;14;34;Niederaußem;14.1;;;91
+50126;Vom-Stein-Straße;3;29;4;32;Bergheim;10.2;;;91
+50127;Von-Drove-Straße;1;15;2;8;Thorr;02.2;;;91
+50127;Von-Elmpt-Straße;1;3;2;10;Thorr;02.2;;;91
+50129;Von-Galen-Weg;1;1;;;Niederaußem;13.2;;;91
+50126;Von-Langen-Straße;5;17;2;12;Zieverich;04.1;;;91
+50129;Von-Nell-Breuning-Straße;1;9;2;2;Glessen;18.1;;;91
+50127;Von-Roon-Straße;1;33;2;40;Quadrath-Ichendorf;19.1;;;91
+50127;Wacholderweg;1;53;2;36;Quadrath-Ichendorf;19.1;;;91
+50127;Wachtelweg;1;5;2;4;Quadrath-Ichendorf;22.1;;;91
+50126;Waldkauzweg;1;7;2;8;Glesch;03.1;;;91
+50126;Waldweg;1;13;4;6;Bergheim;10.2;;;91
+50126;Walter-Gropius-Straße;3;7;12;14;Paffendorf;03.2;;;91
+50126;Wasserwerk;;;0;0;Glesch;03.1;;;91
+50129;Weberstraße;1;1;2;16;Niederaußem;13.2;;;91
+50127;Wehrstraße;1;17;2;10;Quadrath-Ichendorf;19.2;;;91
+50126;Weidenweg;1;57;2;22;Bergheim;09.2;;;91
+50129;Weimarer Straße;1;3;2;2;Niederaußem;14.2;;;91
+50129;Weinbergstraße;3;21;10;22;Glessen;17.2;;;91
+50126;Weißdornweg;1;19;2;14;Bergheim;09.2;;;91
+50127;Weststraße;1;29;2;12;Thorr;02.1;;;91
+50127;Wiebachhof;1;1;2;2;Thorr;02.2;;;91
+50127;Wiedenaustraße;1;31;2;32;Ahe;01.1;;;91
+50126;Wiedenfelder Höhe;;;0;0;Paffendorf;03.2;;;91
+50126;Wiedenfelder Weg;;;2;4;Bergheim;10.2;;;91
+50127;Wieselweg;1;21;2;20;Quadrath-Ichendorf;21.2;;;91
+50126;Wiesenstraße;1;23;4;32;Bergheim;09.1;;;91
+50127;Wildentenweg;1;9;2;8;Quadrath-Ichendorf;22.1;;;91
+50129;Wilhelm-Moritz-Straße;1;39;2;32;Büsdorf;16.1;;;91
+50127;Willy-Schlegelmilch-Str.;;;2;6;Kenten;08.2;;;91
+50129;Windmühlenstraße;1;53;2;54;Büsdorf;16.1;;;91
+50129;Winfriedstraße;1;101;4;64;Glessen;17.1;;;91
+50126;Wöhlerstraße;1;23;2;8;Bergheim;05.2;;;91
+50126;Zaunkönigweg;1;3;2;4;Kenten;06.1;;;91
+50127;Zedernweg;1;11;2;10;Quadrath-Ichendorf;22.1;;;91
+50127;Zeisigweg;1;9;2;10;Quadrath-Ichendorf;22.1;;;91
+50126;Zeiss-Straße;1;25;2;18;Bergheim;05.2;;;91
+50126;Zeppelinstraße;7;27;2;42;Kenten;08.1;;;91
+50129;Ziegelstraße;5;33;2;34;Glessen;18.1;;;91
+50126;Zievericher Mühle;1;7;2;8;Zieverich;04.1;;;91
+50126;Zievericher Straße;1;21;2;72;Thorr;02.1;;;91
+50129;Zimmergasse;1;5;6;14;Fliesteden;16.2;;;91
+50129;Zum Acker;1;1;6;6;Glessen;17.1;;;91
+50127;Zum Biotop;1;7;;;Kenten;07.2;;;91
+50129;Zum Bohnenbach;11;19;2;28;Oberaußem;11.1;;;91
+50126;Zum Erftufer;3;3;2;46;Glesch;03.1;;;91
+50129;Zum Glessener Bach;1;17;2;30;Glessen;18.1;;;91
+50126;Zum Gottesacker;1;29;4;26;Glesch;03.1;;;91
+50129;Zum Großen Ahr;;;2;28;Büsdorf;16.1;;;91
+50129;Zum Gut Neuhof;7;17;;;Glessen;18.2;;;91
+50129;Zum Güsgensgraben;1;23;;;Glessen;17.2;;;91
+50126;Zum Hagelkreuz;1;17;6;24;Glesch;03.1;;;91
+50129;Zum Hahnacker;1;59;2;22;Fliesteden;16.2;;;91
+50129;Zum Hang;1;7;4;8;Glessen;18.2;;;91
+50127;Zum Mühlenfeld;5;35;4;42;Quadrath-Ichendorf;19.2;;;91
+50129;Zum Rott;1;19;2;10;Oberaußem;12.2;;;91
+50127;Zum Römerturm;1;99;2;14;Thorr;02.2;;;91
+50127;Zur Alten Glashütte;1;19;2;28;Quadrath-Ichendorf;19.1;;;91
+50126;Zur Fuchskaul;1;11;2;14;Glesch;03.1;;;91
+50129;Zur Glessener Höhe;1;45;2;38;Glessen;18.2;;;91
+50126;Zur Harfereiche;1;1;;;Bergheim;10.2;;;91
+50129;Zur Jansenhecke;;;2;22;Oberaußem;11.2;;;91
+50129;Zur Mühle;1;1;2;4;Fliesteden;16.2;;;91
+50129;Zur Ville;5;31;2;66;Oberaußem;11.2;;;91
+50127;Zypressenweg;1;11;2;4;Quadrath-Ichendorf;22.2;;;91
+50127;Ölbaumweg;1;13;2;16;Quadrath-Ichendorf;22.1;;;91
