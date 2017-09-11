@@ -1,0 +1,7 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+01.0;Haus des Gastes Blens;St.-Georg-Str.;1;;;52396;Heimbach Blens;;N
+02.0;Kindergarten Hasenfeld;Dr.-Heinen-Straße;1;;;52396;Heimbach Hasenfeld;;J
+03.0;Pfarrheim Hausen;Hausener Straße;12;;;52396;Heimbach Hausen;;N
+06.0;Jugendhalle Vlatten;Auf der Hostert;7;;;52396;Heimbach Vlatten;;N
+04.0;Altes Rathaus;Hengebachstraße;14;;;52396;Heimbach;;N
+05.0;Bürgerhaus Hergarten;Kermeterstraße;21;;;52396;Heimbach Hergarten;;N
