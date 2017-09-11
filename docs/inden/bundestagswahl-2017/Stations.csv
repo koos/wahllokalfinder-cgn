@@ -1,0 +1,7 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+02.0;Kindergarten Peppino;Turmstraße .;14A;;;52459;Inden;;J
+03.0;Grundschule;Hochstraße;34;;;52459;Inden;;J
+04.0;Feuerwehrgerätehaus;Lehrer-Steffens-Straße;;;;52459;Inden;;J
+05.0;Rathaus;Rathausstr.;1;;;52459;Inden;;J
+01.0;Kindergarten Frenz;Frenzer Driesch;44/46;;;52459;Inden;;J
+06.0 und 07.0;neue Grundschule;Kirchstraße;1;;;52459;Inden;;J
