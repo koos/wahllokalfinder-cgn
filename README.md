@@ -99,8 +99,8 @@ name;slug;zip;state;coordinates;city_housing_type
 
 
 If the new files are structured as mentioned previously, and it has the correct CSV formats (semicolon-separated entries), then it can be imported to database through the following commands:
-- ` $ rails import:stations `*
-- ` $ rails import:addresses `*  
-- ` $ rails import:cities `*  
+- ` $ rails import:stations `  
+- ` $ rails import:addresses `  
+- ` $ rails import:cities `  
 
 It is also able to edit and add records through RailsAdmin `http://website/admin`
