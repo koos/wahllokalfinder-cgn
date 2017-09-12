@@ -37,6 +37,7 @@ namespace :import do
       created_city = City.create city
       puts " + #{created_city.name} is created"
     end
+    puts "\n#{cities.length} record(s)"
     puts "\nDone!\n\n"
   end
 end
