@@ -1,0 +1,26 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+01.0;Gem. Grundschule Sinnersdorf Horionschule;Kölner Straße;93;;;50259;Pulheim;;J
+02.0;Gem. Grundschule Sinnersdorf Horionschule;Kölner Straße;93;;;50259;Pulheim;;J
+03.0;Gem. Grundschule Sinnersdorf Horionschule;Kölner Straße;93;;;50259;Pulheim;;J
+04.1;Kindergarten Stommelerbusch;Kapellenweg;1;;;50259;Pulheim;;J
+04.2;Kath. Grundschule Stommeln;An der Kopfbuche;1;;;50259;Pulheim;;J
+05.0;Turnhalle a.d. GGS Stommeln;Christinastraße;3;;;50259;Pulheim;;J
+06.0;Turnhalle a.d. GGS Stommeln;Christinastraße;3;;;50259;Pulheim;;J
+07.0;Turnhalle a.d. GGS Stommeln;Christinastraße;3;;;50259;Pulheim;;J
+08.0;Realschule Pulheim Marion-Dönhoff-Realschule;Hackenbroicher Straße;66;;;50259;Pulheim;;J
+09.0;Realschule Pulheim Marion-Dönhoff-Realschule;Hackenbroicher Straße;66;;;50259;Pulheim;;J
+10.0;Gem. Hauptschule Pulheim;Escher Straße;88;;;50259;Pulheim;;J
+12.0;Gem. Hauptschule Pulheim;Escher Straße;88;;;50259;Pulheim;;J
+13.0;Gem. Hauptschule Pulheim;Escher Straße;88;;;50259;Pulheim;;J
+11.0;Ev. Grundschule Pulheim Dietrich Bonhoeffer Schule;Auweilerstraße;11;;;50259;Pulheim;;J
+14.0;Ev. Grundschule Pulheim Dietrich Bonhoeffer Schule;Auweilerstraße;11;;;50259;Pulheim;;J
+21.0;Schulzentrum Brauweiler Abtei-Gymnasium;Kastanienallee;2;;;50259;Pulheim;;J
+22.0;Schulzentrum Brauweiler Abtei-Gymnasium;Kastanienallee;2;;;50259;Pulheim;;J
+23.0;Turnhalle a.d. GGS Dansweiler;Zehnthofstraße;14;;;50259;Pulheim;;J
+19.0;Gem. Grundschule Brauweiler Richezaschule;Mathildenstraße;22;;;50259;Pulheim;;N
+15.0;Kath. Grundschule Pulheim Barbara-Schule;Bachstraße;11;;;50259;Pulheim;;J
+16.0;Kath. Grundschule Pulheim Barbara-Schule;Bachstraße;11;;;50259;Pulheim;;J
+17.0;Gemeinschaftsgrundschule Geyen/Sinthern/Manstedten;Am Fronhof;10;;;50259;Pulheim;;J
+18.0;Gemeinschaftsgrundschule Geyen/Sinthern/Manstedten;Am Fronhof;10;;;50259;Pulheim;;J
+24.0;Gemeinschaftsgrundschule Geyen/Sinthern/Manstedten;Am Fronhof;10;;;50259;Pulheim;;J
+20.0;Feuerwehr Gerätehaus Brauweiler;Kaiser-Otto-Str.;53;;;50259;Pulheim;;J
