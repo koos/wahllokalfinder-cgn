@@ -1,0 +1,15 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+02.0;Pfarrjugendheim;Auf den Kämpen;1;;;52379;Langerwehe;;J
+04.0;Wehebachschule - Raum 1 -;Josef-Schwarz-Str.;17;;;52379;Langerwehe;;J
+05.0;Wehebachschule - Raum 2 -;Josef-Schwarz-Str.;17;;;52379;Langerwehe;;J
+06.0;Feuerwehrgerätehaus Jüngersd.;Laufenburgstraße;2;;;52379;Langerwehe;;J
+08.0;Alte Schule Heistern;Waldstr.;30b;;;52379;Langerwehe;;J
+09.0;Martinusschule - Raum 1 -;Rektor-Niederau-Straße;1;;;52379;Langerwehe;;J
+10.0;Martinusschule - Raum 2 -;Rektor-Niederau-Straße;1;;;52379;Langerwehe;;J
+11.0;Martinusschule - Raum 3 -;Rektor-Niederau-Straße;1;;;52379;Langerwehe;;J
+12.2;Feuerwehrgerätehaus Obergeich;Herrengarten;92;;;52379;Langerwehe;;J
+13.0;Feuerwehrgerätehaus Luchem;Brückenstraße;35;;;52379;Langerwehe;;J
+12.1;Pfarrheim Schlich;Paradiesstr.;14;;;52379;Langerwehe;;J
+03.0;Kulturhalle;Josef-Schwarz-Str.;14;;;52379;Langerwehe;;J
+01.0;Töpfereimuseum;Pastoratsweg;1;;;52379;Langerwehe;;J
+07.0;Pfarrsaal Wenau;Wenau;6;;;52379;Langerwehe;;J

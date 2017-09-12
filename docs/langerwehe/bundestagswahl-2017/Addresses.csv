@@ -1,0 +1,232 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+52379;Adam-Lehnen-Str.;1;5;2;6;Luchem;13.0;;;90
+52379;Altdorfer Weg;3;11;2;36;Jüngersdorf;06.0;;;90
+52379;Altdorfer Weg;13;17;38;40;Pier;06.0;;;90
+52379;Alte Kirchstr.;1;21;2;32;Langerwehe;04.0;;;90
+52379;Am Brandweiher;1;41;6;40;Schlich;11.0;;;90
+52379;Am Daens;1;41;2;58;Hamich;07.0;;;90
+52379;Am Fasanenhang;3;5;4;14;Hamich;07.0;;;90
+52379;Am Hinterbusch;3;15;4;6;Schlich;11.0;;;90
+52379;Am Hofacker;1;3;2;14;Jüngersdorf;06.0;;;90
+52379;Am Königsbusch;1;55;2;70;Jüngersdorf;05.0;;;90
+52379;Am Luschend;1;11;2;14;Pier;06.0;;;90
+52379;Am Neuhaus;3;61;6;56;Schlich;11.0;;;90
+52379;Am Niederbusch;1;59;2;110;Schlich;10.0;;;90
+52379;Am Parir;1;33;4;22;Jüngersdorf;05.0;;;90
+52379;Am Pfuhl;1;13;2;10;Hamich;07.0;;;90
+52379;Am Rotbach;1;45;2;14;Schlich;11.0;;;90
+52379;Am Sandberg;1;1;6;6;Heistern;08.0;;;90
+52379;Am Stadion;1;33;4;26;Stütgerloch;03.0;;;90
+52379;Am Steinchen;;;22;24;Stütgerloch;05.0;;;90
+52379;Am Wehebach;;;2;26;Langerwehe;03.0;;;90
+52379;Am Weiherhof;1;31;2;66;Jüngersdorf;06.0;;;90
+52379;Am Weiherhof;35;55;68;94;Pier;06.0;;;90
+52379;Amselweg;1;37;2;34;Stütgerloch;05.0;;;90
+52379;An den Obstwiesen;;;2;2;Obergeich;12.2;;;90
+52379;An der Dostel;;;2;2;Langerwehe;07.0;;;90
+52379;An der Erk;1;3;2;4;Jüngersdorf;06.0;;;90
+52379;An der Esch;1;7;2;14;Pier;06.0;;;90
+52379;An der Kante;3;7;2;8;Heistern;08.0;;;90
+52379;An der Lochmühle;3;35;4;48;Jüngersdorf;05.0;;;90
+52379;An der Sandgrube;3;11;2;14;Langerwehe;04.0;;;90
+52379;Antoniusstr.;9;27;14;30;Schlich;11.0;;;90
+52379;Antoniusstr.;3;3;2;8;Merode;09.0;;;90
+52379;Apolloniastr.;1;1;2;10;Langerwehe;01.0;;;90
+52379;Arnold-Homberg-Straße;5;9;6;10;Jüngersdorf;06.0;;;90
+52379;Auf dem Berg;5;9;2;18;Pier;06.0;;;90
+52379;Auf dem Berg;1;3;;;Jüngersdorf;06.0;;;90
+52379;Auf dem Berg;13;13;;;Jüngersdorf;06.0;;;90
+52379;Auf dem Feldchen;1;23;2;44;Jüngersdorf;05.0;;;90
+52379;Auf dem Hiebchen;1;1;2;50;Langerwehe;01.0;;;90
+52379;Auf dem Kamp;1;31;4;28;Merode;09.0;;;90
+52379;Auf den Kämpen;1;51;6;20;Langerwehe;02.0;;;90
+52379;Auf der Heide;1;27;2;30;Heistern;08.0;;;90
+52379;Auf'm Kutsch;1;11;2;10;Hamich;07.0;;;90
+52379;Bachstr.;1;27;;;Jüngersdorf;06.0;;;90
+52379;Bahnhofsplatz;1;13;2;14;Langerwehe;01.0;;;90
+52379;Bahnhofstraße;1;15;;;Langerwehe;01.0;;;90
+52379;Barbarastr.;1;35;2;32;Stütgerloch;03.0;;;90
+52379;Beethovenstr.;1;35;6;40;Obergeich;12.2;;;90
+52379;Bergstr.;13;35;10;42;Langerwehe;02.0;;;90
+52379;Bernadettestr.;1;9;2;20;Obergeich;12.2;;;90
+52379;Blumenstr.;1;15;2;10;Luchem;13.0;;;90
+52379;Bongard;1;13;2;10;Schlich;11.0;;;90
+52379;Bongenhaus;;;0;0;Obergeich;12.2;;;90
+52379;Bonsdorfer Straße;1;5;2;14;Pier;06.0;;;90
+52379;Brückenstr.;1;103;2;78;Luchem;13.0;;;90
+52379;Bundesstr.;;;2;4;Geich;12.2;;;90
+52379;Bundesstr.;;;6;16;Obergeich;12.2;;;90
+52379;Bundesstr.;1;1;;;Schlich;10.0;;;90
+52379;Bundesstr.;3;11;;;Merode;09.0;;;90
+52379;Burg Frenz;1;3;2;2;Langerwehe;13.0;;;90
+52379;Burg Holzheim;;;0;0;Langerwehe;08.0;;;90
+52379;Burgstr.;;;6;18;Luchem;13.0;;;90
+52379;Bürgerm.-Schoeller-Straße;1;25;2;16;Langerwehe;02.0;;;90
+52379;D'horner Str.;3;45;2;38;Merode;09.0;;;90
+52379;Dechant-Kallen-Str.;1;51;2;56;Langerwehe;01.0;;;90
+52379;Der Fußhof;1;11;2;14;Jüngersdorf;06.0;;;90
+52379;Derichsweilerstr.;1;31;2;38;Schlich;11.0;;;90
+52379;Driesch;3;39;10;24;Luchem;13.0;;;90
+52379;Drosselweg;1;55;;;Stütgerloch;05.0;;;90
+52379;Döllersfeldchen;3;75;4;80;Heistern;08.0;;;90
+52379;Dürener Str.;1;19;2;16;D'horn;12.1;;;90
+52379;Dürener Weg;;;2;16;Luchem;13.0;;;90
+52379;Echtzer Str.;1;23;2;32;Geich;12.2;;;90
+52379;Eichenweg;1;23;2;18;Geich;12.2;;;90
+52379;Eifelstr.;7;143;4;118;Schlich;10.0;;;90
+52379;Falkenweg;1;19;2;36;Hamich;07.0;;;90
+52379;Felix-Schleicher-Straße;1;7;2;18;Langerwehe;02.0;;;90
+52379;Finkenweg;1;31;2;30;Stütgerloch;05.0;;;90
+52379;Florastr.;1;15;;;Langerwehe;03.0;;;90
+52379;Forsthaus Bovenberg;;;0;0;Langerwehe;07.0;;;90
+52379;Forsthaus Wenau;;;0;0;Langerwehe;07.0;;;90
+52379;Franz-Engels-Straße;3;17;2;6;Pier;06.0;;;90
+52379;Franz-Schain-Str.;;;2;8;Stütgerloch;05.0;;;90
+52379;Frenzer Weg;15;15;;;Langerwehe;02.0;;;90
+52379;Friedhofstr.;5;13;4;10;D'horn;12.1;;;90
+52379;Gansbecker Hof;;;0;0;Geich;12.2;;;90
+52379;Gartenstr.;3;35;22;56;Jüngersdorf;06.0;;;90
+52379;Grabenstr.;1;15;2;18;Schlich;10.0;;;90
+52379;Gracht;1;11;4;16;Pier;06.0;;;90
+52379;Grüner Weg;1;39;2;58;Langerwehe;02.0;;;90
+52379;Grüntalstraße;1;15;6;22;Pier;06.0;;;90
+52379;Gut Atzenau;;;0;0;Hamich;07.0;;;90
+52379;Gut Eichenhof;;;0;0;Langerwehe;07.0;;;90
+52379;Gut Kammerbusch;;;0;0;Langerwehe;01.0;;;90
+52379;Gut Lamerdriesch;1;1;0;0;Langerwehe;07.0;;;90
+52379;Gut Merberich;;;0;0;Langerwehe;01.0;;;90
+52379;Gut Schönthal;1;27;4;26;Schönthal;07.0;;;90
+52379;Gysemans-Weg;1;3;;;Merode;09.0;;;90
+52379;Hahnweg;1;25;2;44;Luchem;13.0;;;90
+52379;Hamicher Str.;1;85;2;114;Heistern;08.0;;;90
+52379;Hans-Böckler-Str.;1;27;2;20;Langerwehe;01.0;;;90
+52379;Hauptstr.;7;69;2;64;Langerwehe;03.0;;;90
+52379;Hauptstr.;81;193;80;224;Langerwehe;04.0;;;90
+52379;Hauptstraße;201;279;200;336;Stütgerloch;05.0;;;90
+52379;Haus Blumenthal;;;2;6;Langerwehe;08.0;;;90
+52379;Haus Kammerbusch;;;2;2;Langerwehe;01.0;;;90
+52379;Haus Merberich;1;3;;;Langerwehe;01.0;;;90
+52379;Haus Wehetal;;;0;0;Langerwehe;07.0;;;90
+52379;Hausbuschgasse;3;43;2;34;Langerwehe;02.0;;;90
+52379;Heinz-Emonds-Str.;1;25;2;16;Stütgerloch;05.0;;;90
+52379;Heisterner Str.;1;57;2;64;Hamich;07.0;;;90
+52379;Herrengarten;1;47;2;64;Geich;12.2;;;90
+52379;Herrengarten;49;61;66;92;Obergeich;12.2;;;90
+52379;Hirkenweg;3;41;4;36;Langerwehe;04.0;;;90
+52379;Holzstr.;1;17;2;20;Jüngersdorf;06.0;;;90
+52379;Hospitalstr.;1;19;4;28;Langerwehe;03.0;;;90
+52379;Hülsenbergstr.;1;39;4;62;Langerwehe;01.0;;;90
+52379;Hüttenstraße;1;5;2;4;Pier;06.0;;;90
+52379;Im Baumgarten;1;3;2;4;Jüngersdorf;06.0;;;90
+52379;Im Birkengrund;3;3;4;4;Langerwehe;02.0;;;90
+52379;Im Meisenbusch;1;37;2;4;Langerwehe;02.0;;;90
+52379;In den Benden;39;39;2;44;Obergeich;12.2;;;90
+52379;In der Au;1;25;2;22;Schlich;11.0;;;90
+52379;In der Klaus;1;55;2;56;D'horn;12.1;;;90
+52379;In der Peitsch;1;9;4;10;Langerwehe;01.0;;;90
+52379;Indener Weg;1;17;2;30;Jüngersdorf;06.0;;;90
+52379;Jakob-Schmitz-Str.;3;3;6;52;Stütgerloch;03.0;;;90
+52379;Jakobstraße;3;7;2;22;Pier;06.0;;;90
+52379;Johannes-Haack-Str.;1;27;2;22;Langerwehe;03.0;;;90
+52379;Johannes-Hellwig-Straße;1;5;6;8;Jüngersdorf;06.0;;;90
+52379;Josef-Heinrichs-Straße;3;29;2;50;Langerwehe;02.0;;;90
+52379;Josef-Schwarz-Str.;1;13;;;Langerwehe;03.0;;;90
+52379;Jüngersdorfer Straße;;;2;86;Jüngersdorf;05.0;;;90
+52379;Kapellenstr.;11;77;2;110;Jüngersdorf;06.0;;;90
+52379;Karl-Arnold-Str.;1;29;;;Langerwehe;01.0;;;90
+52379;Kirchstr.;9;91;2;60;Schlich;10.0;;;90
+52379;Kleinschönthal;;;0;0;Schönthal;07.0;;;90
+52379;Klosterhof;;;14;18;Wenau;07.0;;;90
+52379;Klosterstr.;1;17;4;24;Hamich;07.0;;;90
+52379;Knotstraße;7;7;;;Stütgerloch;05.0;;;90
+52379;Kreuzfelder Straße;3;13;6;20;Hamich;07.0;;;90
+52379;Kreuzherrenstr.;7;7;2;80;Merode;09.0;;;90
+52379;Kreuzstr.;1;25;4;8;Obergeich;12.2;;;90
+52379;Krichelsmühle;;;0;0;Langerwehe;07.0;;;90
+52379;Kupfergasse;1;19;2;22;Heistern;08.0;;;90
+52379;Laufenburgstr.;5;29;6;32;Jüngersdorf;06.0;;;90
+52379;Lennestraße;1;7;2;10;Luchem;13.0;;;90
+52379;Lerchenweg;1;7;4;4;Jüngersdorf;06.0;;;90
+52379;Lindenhof;;;0;0;Luchem;13.0;;;90
+52379;Luchemer Str.;1;71;2;52;Langerwehe;03.0;;;90
+52379;Maarweg;;;14;14;Langerwehe;02.0;;;90
+52379;Margaretenstr.;1;21;2;20;Langerwehe;01.0;;;90
+52379;Mariahof;;;0;0;Schlich;10.0;;;90
+52379;Marienstr.;;;2;4;Langerwehe;04.0;;;90
+52379;Marienstr.;1;15;;;Stütgerloch;05.0;;;90
+52379;Martinstr.;1;55;2;46;Langerwehe;03.0;;;90
+52379;Martinusstr.;1;69;2;40;Schlich;11.0;;;90
+52379;Meierskamp;3;83;8;52;Hamich;07.0;;;90
+52379;Merbericher Weg;;;2;2;Langerwehe;01.0;;;90
+52379;Meroder Str.;15;35;18;38;Merode;09.0;;;90
+52379;Meroder Str.;1;13;2;14;Schlich;11.0;;;90
+52379;Mettlermühle;;;0;0;Stütgerloch;03.0;;;90
+52379;Mittelstr.;1;53;2;62;Luchem;13.0;;;90
+52379;Mühlenweg;;;4;10;Stütgerloch;05.0;;;90
+52379;Münsterstr.;1;59;2;48;Schlich;11.0;;;90
+52379;Neuer Töpferweg;;;14;14;Langerwehe;02.0;;;90
+52379;Neuer Weg;3;3;2;12;Jüngersdorf;06.0;;;90
+52379;Neustr.;1;45;2;108;Langerwehe;01.0;;;90
+52379;Nikolausberg;1;83;2;96;Langerwehe;02.0;;;90
+52379;Nothberger Weg;1;17;2;2;Heistern;08.0;;;90
+52379;Oligsdriesch;;;0;0;Jüngersdorf;06.0;;;90
+52379;Paradiesstr.;1;63;2;56;Schlich;10.0;;;90
+52379;Paradiesstr.;;;58;106;Merode;09.0;;;90
+52379;Paradiesstr.;65;89;;;Schlich;11.0;;;90
+52379;Pastoratsweg;1;25;4;28;Langerwehe;01.0;;;90
+52379;Petershof;1;1;;;Schlich;11.0;;;90
+52379;Pfarrer-Ossemann-Str.;9;87;2;54;Schlich;10.0;;;90
+52379;Pierer Straße;1;39;8;34;Pier;06.0;;;90
+52379;Pochmühle;;;0;0;Stütgerloch;03.0;;;90
+52379;Pochmühle;1;1;;;Langerwehe;03.0;;;90
+52379;Pochmühlenweg;1;99;2;32;Langerwehe;03.0;;;90
+52379;Pommenicher Straße;1;19;2;26;Pier;06.0;;;90
+52379;Poststr.;;;2;12;Langerwehe;03.0;;;90
+52379;Prof.-von-Capitaine-Str.;3;9;2;8;Pier;06.0;;;90
+52379;Prälat-Dr.-Selung-Straße;1;41;2;24;D'horn;12.1;;;90
+52379;Pützgasse;7;7;50;50;Heistern;08.0;;;90
+52379;Pützhecke;1;11;2;16;Obergeich;12.2;;;90
+52379;Ringstr.;1;21;2;26;Schlich;10.0;;;90
+52379;Rothammer;1;43;42;42;Langerwehe;04.0;;;90
+52379;Rymelsberg;1;7;;;Langerwehe;04.0;;;90
+52379;Römerweg;5;19;2;14;Hamich;07.0;;;90
+52379;Schafenberg;3;37;2;72;Langerwehe;04.0;;;90
+52379;Scheeresgasse;1;9;2;4;Pier;06.0;;;90
+52379;Schießberggraben;7;11;2;36;Langerwehe;04.0;;;90
+52379;Schlicher Str.;11;33;6;36;D'horn;12.1;;;90
+52379;Schloßstr.;1;7;2;68;Merode;09.0;;;90
+52379;Schmiedestr.;1;33;4;42;Schlich;11.0;;;90
+52379;Schulstr.;3;23;2;28;Merode;09.0;;;90
+52379;Schönthal;5;25;10;26;Schönthal;07.0;;;90
+52379;Schönthaler Hof;;;0;0;Langerwehe;07.0;;;90
+52379;Schönthaler Str.;1;49;6;82;Langerwehe;04.0;;;90
+52379;Schützenstr.;1;13;2;4;Langerwehe;01.0;;;90
+52379;Seelebach;1;39;2;30;Langerwehe;02.0;;;90
+52379;Sofienhof;;;0;0;Langerwehe;01.0;;;90
+52379;Steinweg;1;1;4;6;Heistern;08.0;;;90
+52379;Stütgerhof;;;0;0;Stütgerloch;05.0;;;90
+52379;Südstr.;3;9;4;8;Schlich;10.0;;;90
+52379;Talblick;1;3;2;2;Jüngersdorf;05.0;;;90
+52379;Töpferweg;1;1;;;Langerwehe;02.0;;;90
+52379;Ulhaus;5;95;4;118;Langerwehe;02.0;;;90
+52379;Ulhausgasse;1;17;;;Langerwehe;03.0;;;90
+52379;Vilvenicher Straße;1;17;2;12;Pier;06.0;;;90
+52379;Waldstr.;1;35;2;100;Heistern;08.0;;;90
+52379;Wasserfeld;;;2;16;Geich;12.2;;;90
+52379;Weberstr.;1;63;4;44;Schlich;11.0;;;90
+52379;Weberstr.;65;85;46;76;Merode;09.0;;;90
+52379;Weierstr.;1;19;2;36;Schlich;10.0;;;90
+52379;Weisweilerstr.;1;59;4;64;Heistern;08.0;;;90
+52379;Wenau;;;4;6;Wenau;07.0;;;90
+52379;Wenauer Höfchen;1;5;;;Heistern;08.0;;;90
+52379;Wenauer Str.;1;31;2;26;Heistern;08.0;;;90
+52379;Westerloer Allee;1;5;;;Merode;09.0;;;90
+52379;Wiesenstr.;1;17;2;30;Schlich;10.0;;;90
+52379;Wilhelmshof;;;0;0;Schlich;11.0;;;90
+52379;Zehnthofweg;1;9;6;12;Langerwehe;03.0;;;90
+52379;Zum Goldesacker;3;23;2;32;Pier;06.0;;;90
+52379;Zum Hahndorn;1;5;2;6;Merode;09.0;;;90
+52379;Zum Knabbert;;;22;22;Heistern;08.0;;;90
+52379;Zum Laufenburgblick;1;17;10;24;Heistern;08.0;;;90
+52379;Zum Tannenwald;1;35;2;34;Schlich;11.0;;;90
+52379;Zur Kalkbahn;3;41;14;36;Jüngersdorf;06.0;;;90
