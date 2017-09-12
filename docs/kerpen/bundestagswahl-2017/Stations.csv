@@ -1,0 +1,43 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+01.2;Kindergarten Sonnenschein;Limburger Str.;86A;;;50171;Kerpen;;J
+03.1;Th.-Heuss-Schule Kerpen;Broichmühlenstr.;41;;;50171;Kerpen;;J
+03.2;Th.-Heuss-Schule Kerpen;Broichmühlenstr.;41;;;50171;Kerpen;;J
+07.1;Grundschule Buir;Broichstr.;10;;;50170;Kerpen;;J
+07.2;Grundschule Buir;Broichstr.;10;;;50170;Kerpen;;J
+08.2;Grundschule Buir;Broichstr.;10;;;50170;Kerpen;;J
+12.1;Mühlenfeldschule Sindorf;Paul-Klee-Str.;2-8;;;50170;Kerpen;;J
+12.2;Mühlenfeldschule Sindorf;Paul-Klee-Str.;2-8;;;50170;Kerpen;;J
+13.1;Mühlenfeldschule Sindorf;Paul-Klee-Str.;2-8;;;50170;Kerpen;;J
+13.2;Mühlenfeldschule Sindorf;Paul-Klee-Str.;2-8;;;50170;Kerpen;;J
+09.1;Ulrichschule Sindorf;Hegelstraße;2 - 10;;;50170;Kerpen;;J
+09.2;Ulrichschule Sindorf;Hegelstraße;2 - 10;;;50170;Kerpen;;J
+11.1;Ulrichschule Sindorf;Hegelstraße;2 - 10;;;50170;Kerpen;;J
+11.2;Ulrichschule Sindorf;Hegelstraße;2 - 10;;;50170;Kerpen;;J
+14.1;Ulrichschule Sindorf;Hegelstraße;2 - 10;;;50170;Kerpen;;J
+14.2;Ulrichschule Sindorf;Hegelstraße;2 - 10;;;50170;Kerpen;;J
+17.1;Burgschule Horrem;Fontänestr.;20;;;50169;Kerpen;;J
+17.2;Burgschule Horrem;Fontänestr.;20;;;50169;Kerpen;;J
+15.1;Sozio-Kult. Zentrum Horrem;Mittelstr.;23;;;50169;Kerpen;;J
+15.2;Sozio-Kult. Zentrum Horrem;Mittelstr.;23;;;50169;Kerpen;;J
+19.0;Sozio-Kult. Zentrum Horrem;Mittelstr.;23;;;50169;Kerpen;;J
+21.1;Albert-Schweitzer-Schule;Waldstr.;24;;;50169;Kerpen;;J
+21.2;Albert-Schweitzer-Schule;Waldstr.;24;;;50169;Kerpen;;J
+02.1;Ev. Grundschule (Hofgebäude);Kölner Straße;29;;;50171;Kerpen;;J
+02.2;Ev. Grundschule (Hofgebäude);Kölner Straße;29;;;50171;Kerpen;;J
+01.1;Albertus-Magnus-Schule Mödrath;Albertus-Magnus-Straße;5;;;50171;Kerpen;;J
+06.1;Elisabeth-Schule Blatzheim;Kunibertusstraße;51;;;50171;Kerpen;;J
+06.2;Elisabeth-Schule Blatzheim;Kunibertusstraße;51;;;50171;Kerpen;;J
+10.1;"Kindergarten 'Wibbelstätz'";Am Keuschenend;34;;;50170;Kerpen;;J
+10.2;"Kindergarten 'Wibbelstätz'";Am Keuschenend;34;;;50170;Kerpen;;J
+16.1;Jugendheim Neu-Bottenbroich;Habbelrather Straße;1;;;50169;Kerpen;;J
+16.2;Jugendheim Neu-Bottenbroich;Habbelrather Straße;1;;;50169;Kerpen;;J
+20.0;Grundschule Türnich;Rosentalstraße;14;;;50169;Kerpen;;J
+18.0;Turnhalle Rathausschule;Rathausstr.;5;;;50169;Kerpen;;J
+22.1;Mehrzweckhalle Brüggen;Raphaelstr.;20;;;50169;Kerpen;;J
+22.2;Mehrzweckhalle Brüggen;Raphaelstr.;20;;;50169;Kerpen;;J
+04.1;Jahnhalle Kerpen;Jahnplatz;1;;;50171;Kerpen;;J
+04.2;Jahnhalle Kerpen;Jahnplatz;1;;;50171;Kerpen;;J
+05.1;Jahnhalle Kerpen;Jahnplatz;1;;;50171;Kerpen;;J
+05.2;Jahnhalle Kerpen;Jahnplatz;1;;;50171;Kerpen;;J
+23.0;Kita Mühlenbach Kinder;Pappelstraße;5;;;50169;Kerpen;;J
+08.1;Kindertageseinrichtung Pusteblume;Manheimer Ring;25;;;50171;Kerpen;;N

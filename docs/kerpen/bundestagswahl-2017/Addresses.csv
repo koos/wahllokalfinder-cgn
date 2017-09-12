@@ -1,0 +1,692 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+50169;Adenauerstraße;1;29;2;28;Kerpen;19.0;;;091
+50171;Ahornallee;3;31;2;16;Kerpen;08.1;;;091
+50169;Ahornstraße;1;3;2;8;Kerpen;23.0;;;091
+50169;Akazienweg;3;9;2;18;Kerpen;17.1;;;091
+50171;Albert-Schweitzer-Straße;1;21;2;14;Kerpen;01.1;;;091
+50171;Albertus-Magnus-Straße;1;15;4;24;Kerpen;01.1;;;091
+50170;Alfred-Döblin-Straße;15;31;4;22;Kerpen;13.1;;;091
+50169;Alfred-Nobel-Straße;1;1;;;Kerpen;23.0;;;091
+50171;Alte Landstraße;1;33;2;16;Kerpen;02.1;;;091
+50171;Alte Landstraße;35;55;;;Kerpen;04.1;;;091
+50171;Alte Straße;1;9;2;10;Kerpen;06.1;;;091
+50169;Alte Ziegelei;;;2;8;Kerpen;21.1;;;091
+50171;Altes Forsthaus;;;2;2;Kerpen;01.1;;;091
+50170;Am Bahndamm;;;2;14;Kerpen;08.2;;;091
+50170;Am Bahnhof;;;2;10;Kerpen;14.2;;;091
+50171;Am Bruch;1;15;2;10;Kerpen;03.2;;;091
+50170;Am Bug;1;11;2;10;Kerpen;08.2;;;091
+50170;Am Buirer Fließ;1;73;2;20;Kerpen;07.1;;;091
+50169;Am Burggraben;3;11;;;Kerpen;22.1;;;091
+50169;Am Burgtor;5;37;2;58;Kerpen;22.1;;;091
+50171;Am Dickbusch;1;7;2;8;Kerpen;05.1;;;091
+50170;Am Entenpfuhl;1;11;2;4;Kerpen;12.1;;;091
+50169;Am Erbbusch;1;15;2;14;Kerpen;16.2;;;091
+50171;Am Falder;1;1;;;Kerpen;01.2;;;091
+50170;Am Gewerbehof;1;21;4;30;Kerpen;14.1;;;091
+50169;Am Ginsterberg;3;73;2;86;Kerpen;21.2;;;091
+50169;Am Grünen Weg;1;29;2;18;Kerpen;19.0;;;091
+50169;Am Hahnenwall;1;37;6;28;Kerpen;17.1;;;091
+50169;Am Hauserbach;;;6;30;Kerpen;23.0;;;091
+50169;Am Hauserbach;1;21;;;Kerpen;20.0;;;091
+50170;Am Hoover Diggen;;;2;10;Kerpen;07.1;;;091
+50171;Am Hubertushof;9;9;8;8;Kerpen;06.1;;;091
+50169;Am Hügel;1;35;2;34;Kerpen;17.1;;;091
+50170;Am Hüttenhof;3;11;2;20;Kerpen;12.1;;;091
+50171;Am Jugendheim;1;13;;;Kerpen;04.1;;;091
+50169;Am Kalkofen;1;43;;;Kerpen;19.0;;;091
+50169;Am Kapellchen;1;5;;;Kerpen;20.0;;;091
+50170;Am Keuschenend;13;143;2;76;Kerpen;10.1;;;091
+50171;Am Klosterberg;3;15;2;16;Kerpen;06.2;;;091
+50170;Am Kolvermaar;1;17;2;60;Kerpen;10.1;;;091
+50170;Am Kuhweg;1;5;2;2;Kerpen;14.2;;;091
+50169;Am Käferbruch;1;37;2;24;Kerpen;22.2;;;091
+50169;Am Markt;1;15;2;14;Kerpen;20.0;;;091
+50169;Am Mistiansberg;1;17;2;16;Kerpen;17.1;;;091
+50171;Am Moosgarten;1;3;2;6;Kerpen;05.1;;;091
+50170;Am Obersten Bruch;;;2;102;Kerpen;07.1;;;091
+50170;Am Obstgarten;1;19;2;20;Kerpen;12.1;;;091
+50171;Am Rodelberg;1;11;6;10;Kerpen;08.1;;;091
+50169;Am Ronnenpfad;1;13;6;20;Kerpen;17.2;;;091
+50170;Am Rosengarten;1;21;28;34;Kerpen;14.2;;;091
+50171;Am Rott;1;25;2;76;Kerpen;02.1;;;091
+50169;Am Schloßpark;1;31;4;28;Kerpen;23.0;;;091
+50169;Am Schmiedekreuz;3;21;2;30;Kerpen;22.2;;;091
+50169;Am Schulberg;11;13;2;18;Kerpen;15.2;;;091
+50170;Am Schöffenhof;;;2;10;Kerpen;07.2;;;091
+50169;Am Schützenhaus;1;13;6;10;Kerpen;22.1;;;091
+50169;Am Stadion;1;9;4;4;Kerpen;19.0;;;091
+50171;Am Steinweg;1;9;4;12;Kerpen;08.1;;;091
+50170;Am Vogelsang;1;45;4;24;Kerpen;07.1;;;091
+50171;Am Waasacker;1;27;2;26;Kerpen;02.1;;;091
+50171;Am Wallgraben;1;11;6;22;Kerpen;02.2;;;091
+50170;Am Wiesenhof;1;21;2;14;Kerpen;08.2;;;091
+50169;Am Wingertsberg;1;19;16;16;Kerpen;15.1;;;091
+50169;Am Wolfsberg;1;5;2;10;Kerpen;21.1;;;091
+50170;Am Wäldchen;27;27;2;36;Kerpen;08.1;;;091
+50170;Am Ziegelgrund;1;47;2;40;Kerpen;07.1;;;091
+50169;Am langen Hau;1;73;12;54;Kerpen;15.2;;;091
+50170;Am langen Weiher;;;18;18;Kerpen;08.2;;;091
+50170;Am langen Weiher;3;27;2;40;Kerpen;07.2;;;091
+50171;Amselweg;1;11;2;20;Kerpen;03.1;;;091
+50171;Amsterdamer Straße;45;133;2;126;Kerpen;04.1;;;091
+50171;An Burg Mödrath;3;3;;;Kerpen;01.1;;;091
+50171;An den Fichten;1;1;;;Kerpen;06.2;;;091
+50171;An den Höfen;5;7;10;14;Kerpen;08.1;;;091
+50170;An den Waldhöfen;1;3;2;2;Kerpen;08.1;;;091
+50169;An den Wiesen;1;13;2;12;Kerpen;20.0;;;091
+50170;An der Brennerei;17;37;;;Kerpen;07.1;;;091
+50169;An der Feuerwehr;11;15;;;Kerpen;21.1;;;091
+50170;An der Kleemaar;3;31;4;14;Kerpen;10.1;;;091
+50171;An der Leimaar;1;9;2;8;Kerpen;05.1;;;091
+50169;An der Malzmühle;3;13;;;Kerpen;19.0;;;091
+50171;An der Marienkapelle;1;15;6;20;Kerpen;08.1;;;091
+50171;An der Mohle;1;21;4;28;Kerpen;06.1;;;091
+50171;An der Obstwiese;11;11;4;8;Kerpen;08.1;;;091
+50171;An der Tenk;1;1;;;Kerpen;06.1;;;091
+50171;An der Vogelrute;3;9;2;10;Kerpen;04.1;;;091
+50170;An der Zehsmaar;1;17;4;18;Kerpen;10.1;;;091
+50171;An der alten Burg;1;59;2;20;Kerpen;02.2;;;091
+50169;An der alten Kreisbahn;1;35;4;8;Kerpen;17.1;;;091
+50170;Anna-Seghers-Weg;;;2;26;Kerpen;13.1;;;091
+50171;Annostraße;1;19;2;8;Kerpen;03.1;;;091
+50170;Anton-Mungen-Straße;1;11;4;36;Kerpen;07.2;;;091
+50171;Antonitergasse;1;1;14;18;Kerpen;04.2;;;091
+50171;Antoniterhof;1;9;2;8;Kerpen;04.2;;;091
+50171;Antoniterstraße;1;13;4;28;Kerpen;04.2;;;091
+50170;Antoniusstraße;1;39;2;30;Kerpen;14.1;;;091
+50171;Antwerpener Straße;1;143;2;74;Kerpen;04.1;;;091
+50169;Apollinarisstraße;13;39;4;60;Kerpen;17.1;;;091
+50170;Apostelweg;;;2;12;Kerpen;14.1;;;091
+50170;Astrid-Lindgren-Straße;1;25;2;12;Kerpen;10.2;;;091
+50171;Auf dem Bauer;7;91;2;26;Kerpen;05.1;;;091
+50171;Auf dem Bürrig;3;3;6;6;Kerpen;01.2;;;091
+50169;Auf dem Gassenfeld;1;81;2;76;Kerpen;21.1;;;091
+50169;Auf dem Postberg;5;45;2;28;Kerpen;16.2;;;091
+50170;Auf dem Schildchen;;;2;20;Kerpen;08.2;;;091
+50171;Auf dem Stein;;;2;18;Kerpen;04.2;;;091
+50169;Auf dem Tonnacker;1;13;2;20;Kerpen;17.1;;;091
+50171;Auf dem Vorst;1;81;2;76;Kerpen;02.1;;;091
+50169;Auf der Gier;1;7;2;8;Kerpen;20.0;;;091
+50171;Auf der Heide;1;61;10;76;Kerpen;08.1;;;091
+50170;Augsburger Straße;31;43;18;28;Kerpen;13.2;;;091
+50170;Augsburger Straße;1;23;2;14;Kerpen;09.1;;;091
+50170;August-Macke-Straße;1;7;2;64;Kerpen;12.2;;;091
+50171;Bachstraße;179;255;170;226;Kerpen;04.2;;;091
+50171;Bachstraße;1;177;2;168;Kerpen;02.2;;;091
+50169;Bahnhofstraße;3;7;2;54;Kerpen;15.1;;;091
+50170;Bahnstraße;1;47;2;52;Kerpen;08.2;;;091
+50169;Barbarastraße;1;47;2;52;Kerpen;21.1;;;091
+50171;Beethovenstraße;1;43;2;18;Kerpen;02.1;;;091
+50169;Beisselstraße;7;11;2;18;Kerpen;17.1;;;091
+50169;Bendenstraße;1;15;2;16;Kerpen;20.0;;;091
+50170;Bennenwinkelstraße;;;4;4;Kerpen;08.1;;;091
+50170;Bergheimer Straße;5;25;4;6;Kerpen;08.1;;;091
+50171;Bergstraße;3;73;2;88;Kerpen;06.2;;;091
+50170;Berliner Ring;25;31;18;44;Kerpen;09.1;;;091
+50170;Berliner Ring;1;23;2;16;Kerpen;09.2;;;091
+50170;Berliner Ring;33;63;46;48;Kerpen;13.2;;;091
+50170;Berrendorfer Straße;11;49;24;56;Kerpen;08.1;;;091
+50169;Berrenrather Straße;1;35;2;44;Kerpen;21.1;;;091
+50170;Birkenweg;;;2;36;Kerpen;07.1;;;091
+50170;Blatzheimer Straße;7;27;;;Kerpen;08.1;;;091
+50170;Blatzheimer Weg;1;13;2;10;Kerpen;07.2;;;091
+50170;Blumenstraße;41;41;;;Kerpen;08.1;;;091
+50171;Blumenweg;;;2;24;Kerpen;08.1;;;091
+50170;Bodelschwinghstraße;3;35;2;38;Kerpen;14.1;;;091
+50171;Boelckestraße;5;97;2;6;Kerpen;01.2;;;091
+50169;Boisdorfer Straße;11;43;8;34;Kerpen;17.2;;;091
+50171;Boschstraße;37;59;46;66;Kerpen;01.2;;;091
+50171;Brabanter Straße;1;13;2;20;Kerpen;05.1;;;091
+50171;Brahmsstraße;;;2;40;Kerpen;02.1;;;091
+50169;Brahmsweg;1;13;;;Kerpen;16.2;;;091
+50171;Brauereigasse;;;8;20;Kerpen;06.2;;;091
+50170;Brechtstraße;11;17;2;20;Kerpen;09.2;;;091
+50171;Bredaer Straße;1;35;2;52;Kerpen;01.2;;;091
+50170;Breite Straße;27;75;22;76;Kerpen;11.2;;;091
+50170;Breite Straße;1;25;4;20;Kerpen;14.2;;;091
+50170;Breslauer Straße;3;17;2;10;Kerpen;09.2;;;091
+50170;Broichhof;1;1;0;0;Kerpen;14.1;;;091
+50171;Broichmühlenstraße;29;121;16;94;Kerpen;03.2;;;091
+50171;Broichmühlenstraße;5;27;2;14;Kerpen;03.1;;;091
+50170;Broichstraße;7;103;2;68;Kerpen;07.1;;;091
+50171;Broichweg;13;75;2;82;Kerpen;02.1;;;091
+50170;Bruchhöhe;1;21;2;2;Kerpen;13.2;;;091
+50170;Brucknerstraße;1;23;2;20;Kerpen;11.2;;;091
+50171;Brückengasse;3;9;2;4;Kerpen;02.2;;;091
+50169;Brüggener Straße;1;85;2;96;Kerpen;22.1;;;091
+50171;Brüsseler Straße;1;99;28;124;Kerpen;04.1;;;091
+50170;Buchenhof;1;1;0;0;Kerpen;07.1;;;091
+50169;Buchenhöhe;1;9;2;8;Kerpen;16.2;;;091
+50169;Buchenweg;3;5;6;28;Kerpen;16.1;;;091
+50170;Buchfinkenweg;1;13;2;36;Kerpen;11.1;;;091
+50171;Bugenhagenweg;1;7;2;8;Kerpen;06.2;;;091
+50170;Buirer Straße;1;29;8;22;Kerpen;08.1;;;091
+50171;Buirer Weg;1;73;2;72;Kerpen;06.2;;;091
+50171;Burg Niederbolheim;1;1;;;Kerpen;06.2;;;091
+50169;Burgackerstraße;1;51;2;30;Kerpen;22.1;;;091
+50171;Burggasse;3;29;2;28;Kerpen;03.2;;;091
+50171;Burgstraße;1;43;2;22;Kerpen;02.2;;;091
+50171;Burgstraße;45;67;24;74;Kerpen;03.2;;;091
+50171;Burgunder Straße;1;13;2;20;Kerpen;05.1;;;091
+50169;Buschkauer Weg;1;9;4;20;Kerpen;21.1;;;091
+50171;Buschweg;;;2;22;Kerpen;06.2;;;091
+50171;Bussardweg;1;35;6;22;Kerpen;03.1;;;091
+50170;Calvinstraße;11;19;2;16;Kerpen;08.2;;;091
+50170;Carl-Schurz-Straße;1;3;4;10;Kerpen;09.2;;;091
+50170;Carl-Zuckmayer-Weg;1;15;2;30;Kerpen;13.1;;;091
+50170;Chemnitzer Straße;1;9;4;8;Kerpen;13.2;;;091
+50171;Clemenshöfe;1;1;2;2;Kerpen;06.1;;;091
+50169;Clemensstraße;1;41;2;48;Kerpen;15.2;;;091
+50169;Coloniahalde;7;9;6;12;Kerpen;21.2;;;091
+50169;Coloniastraße;1;47;4;32;Kerpen;21.1;;;091
+50169;Concordiastraße;3;27;2;40;Kerpen;21.1;;;091
+50169;Cyriakusstraße;3;37;2;50;Kerpen;17.2;;;091
+50169;Dahlienweg;1;29;2;22;Kerpen;21.2;;;091
+50170;Daimlerstraße;11;11;22;24;Kerpen;14.1;;;091
+50170;Dammstraße;3;15;4;16;Kerpen;14.2;;;091
+50169;Dammweg;1;1;2;4;Kerpen;20.0;;;091
+50170;Danziger Straße;1;5;2;30;Kerpen;09.2;;;091
+50169;Dechant-Buff-Straße;1;1;;;Kerpen;19.0;;;091
+50170;Dickeicherfeld;1;19;2;20;Kerpen;10.2;;;091
+50170;Dickenbusch;1;21;2;24;Kerpen;14.2;;;091
+50170;Dieselstraße;3;9;4;14;Kerpen;14.1;;;091
+50171;Dietrich-Bonhoeffer-Str.;1;27;2;74;Kerpen;03.2;;;091
+50171;Domkauler Weg;1;49;12;58;Kerpen;06.1;;;091
+50171;Dorfstraße;5;49;8;50;Kerpen;06.2;;;091
+50171;Dorsfeld;1;9;2;24;Kerpen;06.1;;;091
+50171;Dr.-Orth-Straße;1;25;2;16;Kerpen;01.1;;;091
+50170;Dresdener Straße;1;7;2;6;Kerpen;13.2;;;091
+50171;Drieschweg;1;17;4;6;Kerpen;03.1;;;091
+50171;Drosselweg;1;9;2;10;Kerpen;03.1;;;091
+50169;Dukatenweg;1;9;2;12;Kerpen;20.0;;;091
+50171;Dürener Straße;1;273;14;286;Kerpen;06.1;;;091
+50171;Dürener Straße;289;379;288;384;Kerpen;06.2;;;091
+50169;Dürerstraße;3;11;4;14;Kerpen;17.2;;;091
+50169;Dürsfeld;;;2;4;Kerpen;03.2;;;091
+50171;Eibenweg;9;9;12;14;Kerpen;08.1;;;091
+50170;Eichemstraße;3;35;4;42;Kerpen;07.2;;;091
+50169;Eichenweg;1;45;2;28;Kerpen;16.1;;;091
+50169;Eifelstraße;1;21;2;24;Kerpen;21.1;;;091
+50169;Eifelstraße;;;34;52;Kerpen;22.1;;;091
+50171;Eindhovener Straße;1;25;2;96;Kerpen;01.2;;;091
+50171;Einsteinstraße;1;9;2;24;Kerpen;01.1;;;091
+50169;Eintrachtstraße;1;27;2;30;Kerpen;23.0;;;091
+50170;Elisabeth-von-Lemmen-Str.;1;41;6;38;Kerpen;10.2;;;091
+50171;Elisabethstraße;1;23;2;28;Kerpen;06.2;;;091
+50170;Emil-Nolde-Straße;1;99;2;188;Kerpen;12.2;;;091
+50170;Erftstraße;119;131;114;190;Kerpen;13.2;;;091
+50170;Erftstraße;11;65;2;60;Kerpen;09.1;;;091
+50170;Erftstraße;71;109;64;112;Kerpen;13.1;;;091
+50169;Erfttalweg;1;29;2;20;Kerpen;20.0;;;091
+50170;Erich-Fried-Weg;1;15;2;46;Kerpen;13.1;;;091
+50170;Erich-Kästner-Straße;1;31;;;Kerpen;13.1;;;091
+50169;Erikaweg;1;9;2;8;Kerpen;17.1;;;091
+50169;Erlenweg;1;9;;;Kerpen;23.0;;;091
+50169;Eschenweg;1;21;2;22;Kerpen;16.1;;;091
+50170;Esperantostraße;5;31;;;Kerpen;08.1;;;091
+50171;Esperantoweg;1;25;2;6;Kerpen;08.1;;;091
+50171;Eulenstraße;1;9;4;8;Kerpen;02.2;;;091
+50171;Falkenweg;1;17;2;62;Kerpen;03.1;;;091
+50170;Falladastraße;1;11;2;16;Kerpen;09.2;;;091
+50171;Fasanenweg;1;15;2;4;Kerpen;08.1;;;091
+50171;Feldlerchenweg;7;21;4;4;Kerpen;08.1;;;091
+50171;Feldstraße;1;73;2;52;Kerpen;03.1;;;091
+50171;Ferdinand-Müller-Straße;1;17;2;14;Kerpen;06.1;;;091
+50171;Fichtenpfad;5;23;;;Kerpen;06.2;;;091
+50169;Fichtenstraße;1;15;;;Kerpen;23.0;;;091
+50171;Filzengraben;1;51;2;46;Kerpen;04.1;;;091
+50169;Finkenweg;1;11;2;10;Kerpen;23.0;;;091
+50169;Fischbachstraße;1;3;2;6;Kerpen;19.0;;;091
+50169;Fliederweg;1;11;6;14;Kerpen;21.2;;;091
+50170;Fließstraße;1;33;2;52;Kerpen;07.1;;;091
+50171;Florastraße;1;3;2;22;Kerpen;01.1;;;091
+50169;Flothstraße;3;13;;;Kerpen;15.1;;;091
+50169;Fontänestraße;7;51;2;38;Kerpen;15.2;;;091
+50170;Forster Weg;11;13;;;Kerpen;08.1;;;091
+50171;Forsthaus Bergerbusch;;;0;0;Kerpen;06.1;;;091
+50170;Forsthausstraße;45;129;10;110;Kerpen;08.1;;;091
+50169;Frechener Straße;1;1;4;4;Kerpen;23.0;;;091
+50171;Freiheitsstraße;1;21;4;16;Kerpen;03.1;;;091
+50171;Friedensring;7;53;2;60;Kerpen;01.1;;;091
+50170;Friedensstraße;27;27;6;46;Kerpen;08.1;;;091
+50171;Friedensweg;1;25;2;12;Kerpen;08.1;;;091
+50171;Friedhofstraße;1;25;;;Kerpen;01.1;;;091
+50169;Friedhofsweg;1;19;2;6;Kerpen;21.2;;;091
+50169;Friedrich-Ebert-Platz;1;5;2;6;Kerpen;19.0;;;091
+50171;Fröbelstraße;1;25;2;30;Kerpen;03.2;;;091
+50170;Fuchsiusstraße;9;33;2;30;Kerpen;11.2;;;091
+50170;Fuchsiusstraße;1;7;;;Kerpen;09.2;;;091
+50169;Fuchskaul;1;33;2;28;Kerpen;23.0;;;091
+50169;Fürstenbergstraße;1;11;2;14;Kerpen;20.0;;;091
+50169;Gabrielweg;1;31;;;Kerpen;22.1;;;091
+50169;Galgenbachstraße;1;35;2;36;Kerpen;21.2;;;091
+50170;Gartenstraße;3;53;2;28;Kerpen;09.1;;;091
+50170;Gartenstraße;57;105;38;66;Kerpen;13.2;;;091
+50169;Gassenfeldweg;7;23;2;20;Kerpen;21.1;;;091
+50170;Gehlenstraße;3;13;2;22;Kerpen;07.1;;;091
+50169;Geigerstraße;5;5;;;Kerpen;23.0;;;091
+50171;Geilrath;11;11;10;16;Kerpen;06.1;;;091
+50170;Geilrather Weg;1;29;6;68;Kerpen;10.2;;;091
+50171;Genter Straße;3;11;10;10;Kerpen;05.1;;;091
+50170;Gerart-von-Bure-Straße;1;77;2;40;Kerpen;07.1;;;091
+50170;Gerhard-Ebeler-Straße;1;3;2;4;Kerpen;10.1;;;091
+50170;Gerhart-Hauptmann-Straße;1;9;2;6;Kerpen;09.2;;;091
+50171;Germaniaring;1;9;2;34;Kerpen;08.1;;;091
+50170;Germaniastraße;13;13;;;Kerpen;08.1;;;091
+50171;Giffelsberg;1;1;2;2;Kerpen;06.2;;;091
+50171;Giffelsberger Weg;1;55;2;40;Kerpen;06.2;;;091
+50169;Ginsterweg;1;61;2;68;Kerpen;16.1;;;091
+50170;Glockenblumenweg;3;13;2;38;Kerpen;10.1;;;091
+50170;Glockenring;3;29;6;36;Kerpen;10.1;;;091
+50170;Gluckstraße;1;13;6;20;Kerpen;11.1;;;091
+50169;Glück-Auf-Straße;5;67;2;48;Kerpen;17.1;;;091
+50170;Goethestraße;5;37;2;30;Kerpen;09.2;;;091
+50170;Goldammerweg;;;2;2;Kerpen;11.1;;;091
+50170;Golzheimer Straße;1;25;4;58;Kerpen;07.1;;;091
+50171;Golzheimer Weg;1;29;2;44;Kerpen;06.2;;;091
+50170;Gottfried-Beyenburg-Str.;3;9;8;20;Kerpen;07.2;;;091
+50169;Grabenweg;1;29;4;20;Kerpen;19.0;;;091
+50169;Graf-Berghe-von-Trips-Rg.;5;177;22;358;Kerpen;18.0;;;091
+50169;Graf-Hoensbroech-Straße;3;21;2;126;Kerpen;20.0;;;091
+50170;Graf-von-Galen-Straße;3;9;4;10;Kerpen;14.2;;;091
+50170;Grete-Fluss-Straße;3;49;2;38;Kerpen;10.1;;;091
+50169;Grubenallee;1;37;2;40;Kerpen;17.1;;;091
+50170;Grüner Weg;5;5;;;Kerpen;08.1;;;091
+50170;Gustav-Heinemann-Straße;1;77;6;76;Kerpen;14.2;;;091
+50170;Gustav-Mahler-Straße;1;21;2;18;Kerpen;11.2;;;091
+50171;Gut Mödrath;1;1;;;Kerpen;01.1;;;091
+50171;Gut Seelrath;;;0;0;Kerpen;06.2;;;091
+50171;Gutenbergstraße;1;35;2;28;Kerpen;01.1;;;091
+50169;Gymnicher Straße;1;55;2;34;Kerpen;20.0;;;091
+50171;Gymnicher Weg;1;9;2;4;Kerpen;03.1;;;091
+50170;Gänseblümchenweg;1;19;4;28;Kerpen;10.1;;;091
+50169;Götzenkirchener Straße;1;1;2;10;Kerpen;17.2;;;091
+50169;Gücherweg;1;91;2;74;Kerpen;20.0;;;091
+50171;Haagstraße;15;73;4;72;Kerpen;06.2;;;091
+50171;Haagstraße;75;127;76;116;Kerpen;06.1;;;091
+50169;Habbelrather Straße;3;11;2;24;Kerpen;16.1;;;091
+50171;Hahnenstraße;1;61;4;44;Kerpen;02.2;;;091
+50171;Hahnenstraße;65;119;46;80;Kerpen;03.1;;;091
+50169;Hangweg;3;5;2;2;Kerpen;20.0;;;091
+50170;Hans-Christian-Andersen-S;1;11;2;12;Kerpen;10.2;;;091
+50169;Hans-Sachs-Straße;3;35;2;38;Kerpen;18.0;;;091
+50169;Harzstraße;1;7;2;8;Kerpen;22.2;;;091
+50169;Hauptstraße;157;233;156;240;Kerpen;19.0;;;091
+50169;Hauptstraße;1;153;2;142;Kerpen;18.0;;;091
+50169;Hauptstraße;;;242;426;Kerpen;17.2;;;091
+50169;Hauptstraße;241;431;;;Kerpen;17.1;;;091
+50170;Haus Bochheim;1;1;0;0;Kerpen;08.1;;;091
+50170;Haus Breitmaar;1;1;;;Kerpen;11.1;;;091
+50170;Haus Forst;;;0;0;Kerpen;08.1;;;091
+50170;Haus Hahn;;;0;0;Kerpen;01.2;;;091
+50171;Haus Neffeltal;;;0;0;Kerpen;06.2;;;091
+50170;Haydnstraße;1;17;4;16;Kerpen;11.1;;;091
+50169;Hebbelstraße;1;11;2;10;Kerpen;19.0;;;091
+50169;Heerstraße;87;233;106;238;Kerpen;20.0;;;091
+50169;Heerstraße;11;85;12;104;Kerpen;23.0;;;091
+50169;Heerstraße;243;393;240;406;Kerpen;21.2;;;091
+50169;Heerstraße;395;467;408;464;Kerpen;22.1;;;091
+50169;Heerstraße;469;501;466;492;Kerpen;22.2;;;091
+50171;Heerweg;9;11;;;Kerpen;06.2;;;091
+50170;Hegelstraße;1;15;12;14;Kerpen;11.2;;;091
+50169;Heidestock;1;19;;;Kerpen;17.1;;;091
+50169;Heideweg;1;39;2;100;Kerpen;17.1;;;091
+50169;Heinkelstraße;;;10;10;Kerpen;23.0;;;091
+50170;Heinrich-Böll-Platz;1;13;2;6;Kerpen;12.2;;;091
+50169;Heinrich-Heine-Straße;1;15;2;10;Kerpen;19.0;;;091
+50170;Heinrich-Hertz-Straße;17;17;;;Kerpen;01.2;;;091
+50170;Heinrich-Weber-Weg;1;7;2;16;Kerpen;10.2;;;091
+50170;Heinz-Wassen-Straße;1;43;2;44;Kerpen;11.2;;;091
+50169;Heisenbergstraße;11;63;10;26;Kerpen;23.0;;;091
+50169;Hemmersbacher Heide;1;13;2;26;Kerpen;17.1;;;091
+50169;Hemmersbacher Straße;1;43;2;32;Kerpen;19.0;;;091
+50169;Hemmersbacher Straße;45;93;34;108;Kerpen;17.2;;;091
+50170;Heppendorfer Straße;1;61;2;78;Kerpen;10.1;;;091
+50169;Herderstraße;1;27;2;32;Kerpen;19.0;;;091
+50170;Heribertstraße;1;81;4;62;Kerpen;08.2;;;091
+50170;Hermann-Hesse-Straße;1;7;2;8;Kerpen;13.1;;;091
+50171;Hermann-Josef-Baum-Straße;1;7;2;20;Kerpen;04.1;;;091
+50170;Hermann-Löns-Straße;3;31;30;30;Kerpen;09.2;;;091
+50170;Herrenstraße;1;61;6;74;Kerpen;11.2;;;091
+50170;Herrenstraße;69;85;78;106;Kerpen;14.2;;;091
+50170;Hindemithstraße;1;15;2;16;Kerpen;11.1;;;091
+50170;Hinter den Hooven;1;3;2;2;Kerpen;07.1;;;091
+50170;Hohlweg;1;43;2;62;Kerpen;08.2;;;091
+50169;Holunderweg;1;11;2;8;Kerpen;17.1;;;091
+50171;Holzgasse;3;55;2;48;Kerpen;03.2;;;091
+50169;Holzhausener Weg;1;23;4;22;Kerpen;16.1;;;091
+50169;Horremer Straße;1;85;2;84;Kerpen;16.1;;;091
+50169;Hubertusstraße;1;43;2;38;Kerpen;22.1;;;091
+50169;Hubertusweg;1;13;2;12;Kerpen;22.1;;;091
+50169;Hubertusweg;17;27;;;Kerpen;22.1;;;091
+50169;Hubertusweg;15;15;;;Kerpen;21.2;;;091
+50171;Humboldtstraße;;;4;44;Kerpen;01.2;;;091
+50171;Humperdinckstraße;1;5;2;6;Kerpen;02.1;;;091
+50169;Hunsrückstraße;1;5;6;10;Kerpen;22.2;;;091
+50170;Huppelrather Straße;1;1;;;Kerpen;07.1;;;091
+50171;Händelstraße;1;15;30;44;Kerpen;02.1;;;091
+50169;Höhenweg;3;51;2;58;Kerpen;15.1;;;091
+50170;Hüttenstraße;1;207;2;126;Kerpen;14.2;;;091
+50169;Ichendorfer Straße;1;25;2;38;Kerpen;18.0;;;091
+50169;Im Abendbusch;1;29;4;28;Kerpen;17.1;;;091
+50169;Im Bendchen;1;51;2;108;Kerpen;15.2;;;091
+50169;Im Boisdorfer Feld;1;35;2;24;Kerpen;17.1;;;091
+50170;Im Broich;3;3;0;0;Kerpen;14.1;;;091
+50171;Im Bungert;1;15;2;20;Kerpen;06.2;;;091
+50170;Im Dänert;5;7;2;6;Kerpen;10.1;;;091
+50169;Im Erftgrund;1;15;2;22;Kerpen;20.0;;;091
+50170;Im Etschröttgen;;;4;10;Kerpen;08.1;;;091
+50171;Im Fußtal;1;95;2;66;Kerpen;04.2;;;091
+50169;Im Gotteskircher Feld;1;7;2;4;Kerpen;17.1;;;091
+50171;Im Neffeltal;1;7;2;8;Kerpen;06.2;;;091
+50171;Im Niederfeld;1;1;2;2;Kerpen;01.1;;;091
+50170;Im Pottwinkel;;;6;6;Kerpen;07.2;;;091
+50169;Im alten Hof;1;61;2;64;Kerpen;17.2;;;091
+50169;Im grünen Hof;1;9;2;10;Kerpen;20.0;;;091
+50171;In der Au;1;25;2;26;Kerpen;06.1;;;091
+50169;Ina-Seidel-Straße;1;9;2;18;Kerpen;16.2;;;091
+50170;Ingeborg-Bachmann-Weg;;;4;44;Kerpen;13.1;;;091
+50170;Jagdfeld;1;13;2;16;Kerpen;10.2;;;091
+50171;Jahnstraße;1;3;2;34;Kerpen;05.1;;;091
+50171;Jakob-Dohmen-Straße;3;59;6;64;Kerpen;06.1;;;091
+50171;Johann-Seb.-Bach-Straße;1;11;2;20;Kerpen;01.1;;;091
+50169;Josef-Bitschnau-Straße;51;69;50;50;Kerpen;16.2;;;091
+50170;Josefstraße;3;17;;;Kerpen;14.1;;;091
+50171;Judengasse;1;19;2;8;Kerpen;02.2;;;091
+50170;Jules-Verne-Straße;1;23;2;34;Kerpen;10.2;;;091
+50170;Jupp-Schmitz-Straße;1;5;4;4;Kerpen;10.1;;;091
+50170;Jägerring;1;1;14;14;Kerpen;08.1;;;091
+50171;Jägerweg;1;13;2;14;Kerpen;08.1;;;091
+50171;Jülicher Straße;1;37;2;28;Kerpen;05.1;;;091
+50170;Kampstraße;1;103;2;106;Kerpen;12.1;;;091
+50169;Kapellenweg;1;13;2;8;Kerpen;20.0;;;091
+50170;Karl-Arnold-Straße;1;5;2;6;Kerpen;14.2;;;091
+50170;Karl-Berbuer-Straße;1;13;2;16;Kerpen;10.1;;;091
+50170;Karl-Breitbach-Weg;1;11;2;20;Kerpen;10.2;;;091
+50170;Karl-Ferdinand-Braun-Str.;;;8;8;Kerpen;11.1;;;091
+50171;Karlheinz-Stockhausen-Str;1;49;2;56;Kerpen;04.1;;;091
+50171;Karlsgasse;1;15;6;14;Kerpen;02.2;;;091
+50171;Katharinenhof;1;3;2;2;Kerpen;06.2;;;091
+50169;Katterforststraße;1;57;2;80;Kerpen;20.0;;;091
+50171;Kaulenstraße;7;11;2;12;Kerpen;02.2;;;091
+50171;Kelzer Busch;3;23;2;12;Kerpen;06.2;;;091
+50170;Kerpener Straße;3;83;4;86;Kerpen;09.2;;;091
+50170;Kerpener Straße;99;183;88;148;Kerpen;14.1;;;091
+50171;Kerpener Weg;1;19;2;22;Kerpen;06.1;;;091
+50169;Kettelerstraße;1;23;2;18;Kerpen;17.2;;;091
+50170;Kiebitzweg;1;11;4;8;Kerpen;11.1;;;091
+50169;Kierdorfer Straße;35;75;28;64;Kerpen;22.2;;;091
+50169;Kierdorfer Straße;3;29;4;26;Kerpen;22.1;;;091
+50170;Kirchenstraße;3;57;4;32;Kerpen;07.2;;;091
+50171;Kirchplatz;3;3;2;2;Kerpen;01.1;;;091
+50171;Kirchstraße;5;5;2;20;Kerpen;02.2;;;091
+50169;Kirchweg;1;5;2;4;Kerpen;21.2;;;091
+50169;Kirschkaul;1;7;8;8;Kerpen;15.1;;;091
+50169;Klara-Marie-Faßbinder-Str;17;17;2;22;Kerpen;15.1;;;091
+50171;Klarahof;1;1;0;0;Kerpen;06.1;;;091
+50170;Kleiner Steinweg;11;13;;;Kerpen;08.1;;;091
+50171;Klostergarten;1;5;2;6;Kerpen;04.2;;;091
+50171;Klosterhof St. Peter;1;9;2;10;Kerpen;06.2;;;091
+50169;Knappenberg;1;13;4;8;Kerpen;17.1;;;091
+50171;Kolpingstraße;1;29;6;26;Kerpen;04.2;;;091
+50170;Konrad-Honings-Str.;1;33;2;28;Kerpen;10.1;;;091
+50170;Kornblumenweg;1;7;2;12;Kerpen;10.1;;;091
+50170;Krankenhausstraße;5;15;2;34;Kerpen;08.2;;;091
+50170;Krankenhausstraße;19;23;;;Kerpen;08.2;;;091
+50170;Krankenhausstraße;17;17;;;Kerpen;07.2;;;091
+50169;Kreuzbachweg;1;61;6;62;Kerpen;20.0;;;091
+50171;Kunibertusstraße;1;29;2;38;Kerpen;06.1;;;091
+50171;Kunibertusstraße;47;93;42;78;Kerpen;06.2;;;091
+50170;Käthe-Kollwitz-Straße;1;33;2;18;Kerpen;12.2;;;091
+50171;Kölner Straße;5;97;2;86;Kerpen;02.1;;;091
+50170;Kölnstraße;9;9;6;6;Kerpen;08.1;;;091
+50170;Königsberger Straße;1;7;2;6;Kerpen;13.2;;;091
+50169;Königsdorfer Straße;1;45;2;50;Kerpen;15.1;;;091
+50170;Lammertsheck;3;13;2;14;Kerpen;10.1;;;091
+50171;Langenrather Hof;1;1;;;Kerpen;03.2;;;091
+50171;Langerathsweg;1;9;2;12;Kerpen;03.2;;;091
+50170;Leipziger Straße;;;2;64;Kerpen;07.2;;;091
+50169;Lenbachpfad;1;5;2;8;Kerpen;19.0;;;091
+50170;Lerchenweg;1;13;2;16;Kerpen;08.2;;;091
+50171;Lessingstraße;1;45;2;14;Kerpen;03.2;;;091
+50169;Lichweg;1;19;2;6;Kerpen;20.0;;;091
+50169;Lilienstraße;5;13;6;18;Kerpen;21.2;;;091
+50171;Limburger Straße;1;23;4;134;Kerpen;01.2;;;091
+50171;Lindenstraße;1;45;4;40;Kerpen;04.2;;;091
+50171;Lortzingstraße;1;5;2;8;Kerpen;02.1;;;091
+50171;Lothringer Straße;1;25;2;44;Kerpen;01.2;;;091
+50169;Louisenthal;7;45;2;16;Kerpen;21.1;;;091
+50170;Luisenstraße;;;2;54;Kerpen;14.1;;;091
+50171;Lutherstraße;1;17;2;12;Kerpen;06.1;;;091
+50171;Löhrsgasse;13;35;8;32;Kerpen;06.2;;;091
+50171;Lörsfelder Busch;1;23;2;22;Kerpen;01.2;;;091
+50171;Löwenerstraße;7;35;16;30;Kerpen;01.2;;;091
+50171;Maarweg;1;19;2;20;Kerpen;04.2;;;091
+50171;Maastrichter Straße;1;11;2;24;Kerpen;05.2;;;091
+50170;Maiglöckchenweg;1;23;2;28;Kerpen;10.1;;;091
+50171;Manheimer Ring;3;51;8;64;Kerpen;08.1;;;091
+50170;Manheimer Straße;1;41;4;30;Kerpen;07.2;;;091
+50170;Margaretenweg;1;23;2;18;Kerpen;11.2;;;091
+50170;Marie-Curie-Straße;;;2;2;Kerpen;01.2;;;091
+50171;Marienstraße;5;69;2;70;Kerpen;02.1;;;091
+50170;Marktplatz;11;17;4;4;Kerpen;08.1;;;091
+50170;Markusweg;5;5;4;4;Kerpen;14.1;;;091
+50170;Martin-Luther-Straße;1;1;;;Kerpen;14.1;;;091
+50171;Martinusstraße;1;13;2;10;Kerpen;03.2;;;091
+50169;Matth.-Werner-Straße;1;3;2;6;Kerpen;21.1;;;091
+50169;Matth.-Werner-Straße;5;45;8;44;Kerpen;21.2;;;091
+50169;Maurinplatz;1;7;2;6;Kerpen;17.2;;;091
+50170;Max-Beckmann-Straße;1;5;2;46;Kerpen;12.2;;;091
+50171;Max-Planck-Straße;5;15;;;Kerpen;01.2;;;091
+50169;Max-Reger-Straße;1;15;2;20;Kerpen;16.2;;;091
+50169;Maximilianstraße;1;19;4;20;Kerpen;23.0;;;091
+50171;Meisenweg;1;21;2;10;Kerpen;03.1;;;091
+50169;Menzelstraße;3;11;4;10;Kerpen;17.2;;;091
+50169;Merkurweg;3;29;14;34;Kerpen;19.0;;;091
+50169;Merodestraße;1;29;2;40;Kerpen;19.0;;;091
+50169;Mertenweg;3;21;4;34;Kerpen;22.2;;;091
+50170;Merzenicher Straße;1;59;2;66;Kerpen;07.1;;;091
+50170;Michael-Ende-Straße;;;2;24;Kerpen;10.2;;;091
+50169;Michaelweg;1;31;4;14;Kerpen;22.1;;;091
+50169;Mittelstraße;3;17;2;34;Kerpen;15.1;;;091
+50169;Mittelstraße;41;51;42;68;Kerpen;15.2;;;091
+50169;Mozartstraße;1;21;2;28;Kerpen;16.2;;;091
+50171;Mähnstraße;1;55;4;60;Kerpen;02.2;;;091
+50171;Mödrather Straße;1;11;2;12;Kerpen;05.2;;;091
+50170;Möschenheck;1;15;2;16;Kerpen;10.1;;;091
+50169;Mühlengasse;1;21;2;14;Kerpen;22.2;;;091
+50169;Mühlengraben;1;11;4;16;Kerpen;15.2;;;091
+50170;Mühlenweg;3;37;2;46;Kerpen;07.1;;;091
+50170;Münchener Straße;1;17;2;14;Kerpen;09.1;;;091
+50169;Nachtigallenweg;5;37;2;40;Kerpen;23.0;;;091
+50170;Naumburger Straße;3;5;2;8;Kerpen;13.2;;;091
+50171;Neffelweg;1;17;2;62;Kerpen;04.2;;;091
+50169;Nelkenstraße;5;15;2;20;Kerpen;21.2;;;091
+50170;Nelly-Sachs-Weg;1;23;2;32;Kerpen;13.1;;;091
+50171;Neue Pforte;5;21;8;30;Kerpen;06.2;;;091
+50170;Neuer Weg;1;41;6;36;Kerpen;07.1;;;091
+50171;Neustraße;3;17;2;20;Kerpen;02.2;;;091
+50171;Neustraße;19;77;24;46;Kerpen;03.1;;;091
+50171;Neustraße;;;50;74;Kerpen;03.1;;;091
+50171;Neustraße;;;48;48;Kerpen;08.1;;;091
+50170;Nikolausweg;1;3;2;4;Kerpen;14.1;;;091
+50171;Nordring;13;77;10;74;Kerpen;05.2;;;091
+50170;Nordstraße;1;55;2;30;Kerpen;12.2;;;091
+50170;Nordstraße;57;81;34;74;Kerpen;13.1;;;091
+50169;Nordweg;1;29;2;12;Kerpen;20.0;;;091
+50169;Nußbaumallee;1;13;4;16;Kerpen;23.0;;;091
+50171;Obermühle;1;21;2;14;Kerpen;04.2;;;091
+50169;Oberweg;1;31;2;10;Kerpen;20.0;;;091
+50169;Oderstraße;1;5;2;4;Kerpen;19.0;;;091
+50170;Offenbachweg;3;13;;;Kerpen;11.2;;;091
+50171;Onnau;1;1;24;24;Kerpen;06.1;;;091
+50170;Orffstraße;1;5;2;22;Kerpen;11.2;;;091
+50169;Oscar-Straus-Straße;17;37;10;22;Kerpen;16.2;;;091
+50169;Ostermannstraße;1;17;;;Kerpen;16.2;;;091
+50170;Otfried-Preußler-Straße;1;81;2;54;Kerpen;10.2;;;091
+50169;Pappelstraße;1;1;2;8;Kerpen;23.0;;;091
+50170;Pappelweg;17;19;;;Kerpen;08.1;;;091
+50169;Parkstraße;;;2;20;Kerpen;18.0;;;091
+50170;Pastoratsacker;1;29;2;14;Kerpen;07.2;;;091
+50170;Pater-Delp-Straße;3;9;4;10;Kerpen;14.2;;;091
+50170;Paul-Klee-Straße;5;59;18;52;Kerpen;12.2;;;091
+50169;Paulshau;9;9;2;16;Kerpen;15.1;;;091
+50171;Pestalozzistraße;3;19;2;42;Kerpen;03.1;;;091
+50170;Peter-Hess-Straße;1;19;4;20;Kerpen;07.1;;;091
+50170;Peter-Härtling-Straße;1;13;2;16;Kerpen;10.2;;;091
+50171;Peter-Schumacher-Straße;1;55;2;144;Kerpen;03.2;;;091
+50171;Peters Mühle;3;7;6;12;Kerpen;06.2;;;091
+50170;Pfarrer-Gaevert-Str.;1;11;2;32;Kerpen;10.2;;;091
+50171;Pfarrer-Heyd-Straße;1;3;2;4;Kerpen;02.2;;;091
+50170;Pfarrer-Stratmann-Str.;1;31;2;14;Kerpen;10.2;;;091
+50170;Pferdsbruchfeld;3;39;2;38;Kerpen;10.2;;;091
+50171;Piusstraße;3;17;10;28;Kerpen;01.1;;;091
+50169;Platanenallee;1;13;2;12;Kerpen;23.0;;;091
+50170;Plauener Straße;1;29;2;12;Kerpen;09.2;;;091
+50169;Poststraße;1;37;2;36;Kerpen;23.0;;;091
+50169;Pützbenden;13;15;2;18;Kerpen;15.1;;;091
+50170;Raiffeisenstraße;;;2;4;Kerpen;14.1;;;091
+50169;Raphaelstraße;1;55;2;48;Kerpen;22.2;;;091
+50169;Rathausstraße;1;55;8;38;Kerpen;18.0;;;091
+50170;Rauschgraben;3;25;2;36;Kerpen;11.2;;;091
+50171;Regengasse;1;39;4;18;Kerpen;03.1;;;091
+50170;Reiterhof im Jagdfeld;;;0;0;Kerpen;10.2;;;091
+50169;Rembrandtstraße;;;2;8;Kerpen;17.2;;;091
+50169;Ringstraße;3;9;;;Kerpen;21.2;;;091
+50171;Robert-Koch-Straße;3;19;2;12;Kerpen;01.1;;;091
+50169;Rochusstraße;1;61;2;48;Kerpen;20.0;;;091
+50169;Rodderweg;1;13;2;8;Kerpen;21.2;;;091
+50169;Roggendorfer Straße;7;13;2;10;Kerpen;22.2;;;091
+50169;Rolshausenstraße;1;11;4;12;Kerpen;20.0;;;091
+50171;Rosenpfad;1;9;2;8;Kerpen;06.2;;;091
+50169;Rosentalstraße;5;5;2;34;Kerpen;20.0;;;091
+50171;Rosenweg;21;21;2;36;Kerpen;01.1;;;091
+50170;Rostocker Straße;;;2;6;Kerpen;09.2;;;091
+50169;Rotdornweg;1;7;;;Kerpen;23.0;;;091
+50169;Rote-Kreuz-Straße;1;19;2;36;Kerpen;18.0;;;091
+50170;Rotkehlchenweg;1;63;2;50;Kerpen;11.1;;;091
+50169;Rubensstraße;1;9;2;14;Kerpen;19.0;;;091
+50171;Römerring;1;21;2;44;Kerpen;08.1;;;091
+50169;Römerweg;1;31;6;22;Kerpen;22.2;;;091
+50169;Röntgenstraße;77;113;92;92;Kerpen;23.0;;;091
+50169;Sanddornweg;7;23;2;42;Kerpen;17.1;;;091
+50169;Sandweg;1;9;2;2;Kerpen;17.1;;;091
+50169;Sauerlandstraße;1;7;;;Kerpen;22.2;;;091
+50171;Schaevenstraße;5;83;2;60;Kerpen;01.1;;;091
+50169;Schiefbahn;5;5;2;24;Kerpen;15.2;;;091
+50169;Schildgenstraße;3;35;2;70;Kerpen;22.2;;;091
+50170;Schillerstraße;1;37;6;40;Kerpen;09.2;;;091
+50171;Schloß Loersfeld;;;0;0;Kerpen;01.2;;;091
+50169;Schloß Türnich;1;1;;;Kerpen;23.0;;;091
+50169;Schloßstraße;3;15;2;18;Kerpen;18.0;;;091
+50171;Schubertstraße;1;5;2;4;Kerpen;02.1;;;091
+50170;Schulplatz;1;17;2;8;Kerpen;07.2;;;091
+50171;Schulstraße;1;23;2;10;Kerpen;02.2;;;091
+50171;Schulstraße;29;89;22;76;Kerpen;04.1;;;091
+50170;Schulze-Delitzsch-Straße;1;13;2;18;Kerpen;14.1;;;091
+50170;Schumannstraße;1;11;2;12;Kerpen;11.1;;;091
+50169;Schwarze Erde;;;12;62;Kerpen;23.0;;;091
+50171;Schützenstraße;1;25;4;32;Kerpen;04.1;;;091
+50171;Sebastianusstraße;5;27;8;24;Kerpen;03.1;;;091
+50170;Seelrather Weg;1;1;4;20;Kerpen;07.1;;;091
+50170;Sehnrather Straße;1;21;4;14;Kerpen;14.2;;;091
+50170;Siemensstraße;3;19;8;8;Kerpen;14.1;;;091
+50170;Sindorfer Mühle;;;0;0;Kerpen;13.1;;;091
+50171;Sindorfer Straße;1;57;4;24;Kerpen;01.2;;;091
+50169;Sistenichstraße;1;77;2;72;Kerpen;19.0;;;091
+50170;Sonnenblumenstraße;15;15;26;26;Kerpen;08.1;;;091
+50171;Sonnenblumenweg;5;39;2;24;Kerpen;08.1;;;091
+50170;Sophienweg;1;11;2;10;Kerpen;14.2;;;091
+50170;Sperlingweg;3;9;2;10;Kerpen;11.1;;;091
+50169;Spitzwegstraße;1;7;2;6;Kerpen;19.0;;;091
+50169;Sportfeldweg;;;14;36;Kerpen;20.0;;;091
+50169;Sportfeldweg;7;7;4;8;Kerpen;23.0;;;091
+50171;St.-Albanus-Weg;;;6;6;Kerpen;08.1;;;091
+50170;St.-Blasius-Straße;1;25;2;10;Kerpen;08.2;;;091
+50169;St.-Josef-Straße;1;13;2;22;Kerpen;22.1;;;091
+50170;St.-Michael-Straße;1;47;6;18;Kerpen;07.1;;;091
+50171;St.-Quirinus-Straße;1;23;2;36;Kerpen;01.1;;;091
+50171;St.-Vither-Strasse;1;27;2;20;Kerpen;04.1;;;091
+50170;Steinheide;;;2;2;Kerpen;08.1;;;091
+50170;Steinweg;3;71;2;78;Kerpen;07.2;;;091
+50170;Stettiner Straße;1;7;2;10;Kerpen;13.2;;;091
+50170;Stieglitzweg;1;23;2;16;Kerpen;11.1;;;091
+50171;Stiftsplatz;1;17;4;14;Kerpen;02.2;;;091
+50171;Stiftsstraße;1;39;4;38;Kerpen;02.2;;;091
+50171;Stiftsstraße;43;271;44;258;Kerpen;04.2;;;091
+50171;Stockemsgasse;5;13;2;10;Kerpen;06.1;;;091
+50171;Stormstraße;1;13;2;16;Kerpen;03.2;;;091
+50170;Stralsunder Straße;1;9;2;6;Kerpen;09.2;;;091
+50169;Südweg;1;9;2;28;Kerpen;20.0;;;091
+50170;Talstraße;1;51;6;26;Kerpen;07.1;;;091
+50171;Talweg;1;13;2;18;Kerpen;04.2;;;091
+50170;Tannecker Straße;;;20;20;Kerpen;08.1;;;091
+50171;Tannecker Weg;1;17;2;6;Kerpen;08.1;;;091
+50169;Tannenweg;1;5;2;6;Kerpen;16.1;;;091
+50169;Taubentalweg;1;51;2;32;Kerpen;17.2;;;091
+50169;Taunusstraße;3;25;2;66;Kerpen;22.2;;;091
+50170;Theodor-Heuss-Straße;1;29;2;40;Kerpen;14.1;;;091
+50169;Theresia-von-Wüllenweber;3;23;16;16;Kerpen;16.1;;;091
+50169;Theresia-von-Wüllenweber;;;2;14;Kerpen;16.2;;;091
+50169;Theresia-von-Wüllenweber;;;18;18;Kerpen;16.2;;;091
+50169;Thomas-Mann-Straße;1;9;2;8;Kerpen;19.0;;;091
+50170;Thomas-Münzer-Straße;1;11;2;12;Kerpen;14.2;;;091
+50171;Triftstraße;37;37;2;12;Kerpen;04.2;;;091
+50169;Tulpenstraße;;;4;14;Kerpen;21.2;;;091
+50171;Uhlandstraße;1;1;2;22;Kerpen;03.1;;;091
+50171;Uhlandstraße;9;71;24;78;Kerpen;03.2;;;091
+50170;Ulrichstraße;1;27;10;10;Kerpen;09.1;;;091
+50169;Ursfelder Straße;3;85;2;50;Kerpen;20.0;;;091
+50169;Van-Gogh-Straße;1;43;2;26;Kerpen;17.2;;;091
+50169;Verdistraße;1;13;2;12;Kerpen;16.2;;;091
+50169;Villestraße;1;49;4;64;Kerpen;17.1;;;091
+50171;Vinger Weg;;;16;34;Kerpen;04.2;;;091
+50171;Vinzenzstrasse;1;27;;;Kerpen;04.1;;;091
+50170;Voigtplatz;;;2;16;Kerpen;07.1;;;091
+50170;Voigtstraße;7;23;2;14;Kerpen;07.1;;;091
+50170;Von-Arndt-Straße;1;19;2;24;Kerpen;07.2;;;091
+50171;Von-Kleist-Straße;1;15;2;22;Kerpen;03.2;;;091
+50170;Von-Stauffenberg-Straße;1;9;2;10;Kerpen;14.2;;;091
+50170;Vor dem Eschend;3;9;4;14;Kerpen;10.2;;;091
+50169;Wacholderweg;1;27;2;18;Kerpen;17.1;;;091
+50170;Wagnerstraße;1;21;2;20;Kerpen;11.2;;;091
+50169;Waldstraße;3;83;2;66;Kerpen;21.2;;;091
+50169;Waldweg;3;37;2;16;Kerpen;15.1;;;091
+50169;Wallrafstraße;;;4;20;Kerpen;17.2;;;091
+50170;Walram-von-Salmen-Weg;1;7;2;12;Kerpen;10.2;;;091
+50171;Wasserburg;1;13;2;16;Kerpen;06.1;;;091
+50171;Weberstraße;1;17;2;2;Kerpen;02.2;;;091
+50169;Weiler;1;13;2;14;Kerpen;21.1;;;091
+50169;Weißer Weg;1;27;2;28;Kerpen;18.0;;;091
+50169;Westerwaldstraße;5;19;6;10;Kerpen;22.1;;;091
+50170;Weyerstraße;9;75;2;70;Kerpen;14.2;;;091
+50169;Widau;1;21;2;30;Kerpen;15.2;;;091
+50170;Wiesengrund;1;43;2;52;Kerpen;12.2;;;091
+50169;Wiesenstraße;1;29;2;48;Kerpen;19.0;;;091
+50171;Wilfried-Ismar-Straße;1;17;2;12;Kerpen;04.1;;;091
+50170;Wilhelm-Busch-Straße;1;3;2;2;Kerpen;09.2;;;091
+50170;Willi-Graf-Straße;1;13;2;16;Kerpen;14.2;;;091
+50170;Wolfgang-Borchert-Straße;1;59;2;64;Kerpen;13.1;;;091
+50171;Wolfsgäßchen;5;5;2;8;Kerpen;02.2;;;091
+50170;Wolfskauler Straße;1;41;6;12;Kerpen;07.1;;;091
+50170;Wuppertaler Straße;;;2;10;Kerpen;09.1;;;091
+50170;Zeisigweg;1;7;6;38;Kerpen;11.1;;;091
+50171;Zeißstraße;1;29;8;26;Kerpen;01.2;;;091
+50169;Zieselsmaarstraße;1;19;4;36;Kerpen;22.2;;;091
+50169;Zum Bongert;1;9;2;6;Kerpen;15.2;;;091
+50170;Zum Breitmaar;1;71;2;78;Kerpen;11.2;;;091
+50171;Zum Dickbusch;9;59;4;88;Kerpen;08.1;;;091
+50170;Zum Hoover Feld;3;51;12;28;Kerpen;07.1;;;091
+50171;Zum Hubertusbusch;;;0;0;Kerpen;04.1;;;091
+50170;Zum Mühlenfeld;9;33;2;32;Kerpen;12.2;;;091
+50170;Zum Mühlenfeld;1;5;;;Kerpen;12.1;;;091
+50171;Zum Parrig;1;1;;;Kerpen;01.1;;;091
+50170;Zum Schlicksacker;1;11;4;38;Kerpen;07.2;;;091
+50170;Zum Vogelrutherfeld;129;145;116;140;Kerpen;10.1;;;091
+50170;Zum Vogelrutherfeld;23;87;22;42;Kerpen;11.1;;;091
+50170;Zum Vogelrutherfeld;89;127;48;112;Kerpen;10.2;;;091
+50169;Zum Werhahn;1;29;2;26;Kerpen;15.1;;;091
+50169;Zum Wolfsberg;1;19;2;8;Kerpen;15.1;;;091
+50171;Zur Alten Synagoge;1;1;;;Kerpen;04.1;;;091
+50169;Zur alten Kartbahn;25;91;36;84;Kerpen;15.1;;;091
