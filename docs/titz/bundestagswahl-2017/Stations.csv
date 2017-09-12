@@ -1,0 +1,21 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+3.0;Bürgerhaus Ralshoven;Gevelsdorfer Straße;2;;;52445;Titz-Ralshoven;;J
+2.0;Bürgerhaus Hasselsweiler;von-Leerodt-Straße;24;;;52445;Titz-Hasselsweiler;;N
+4.0;Bürgerhaus Gevelsdorf;Pfarrweg;4;;;52445;Titz-Gevelsdorf;;N
+5.0;Grundschule Titz, Raum 1;Schulstraße;2;;;52445;Titz;;J
+6.0;Grundschule Titz, Raum 2;Schulstraße;2;;;52445;Titz;;J
+7.0;Grundschule Titz, Raum 3;Schulstraße;2;;;52445;Titz;;J
+11.0;Bürgerhaus Opherten;Irmundusweg;;;;52445;Titz;;N
+10.0;Pfarrheim Jackerath;Kirchweg;;;;52445;Titz-Jackerath;;N
+13.0;Bürgerhaus Kalrath;Rödinger Straße;;;;52445;Titz-Kalrath;;N
+8.0;Grundschule Titz, Raum 4;Schulstraße;2;;;52445;Titz;;J
+12.0;Bürgerhaus Ameln;Kirchgasse;4;;;52445;Titz-Ameln;;J
+20.0;Rathaus Titz, Zimmer Nr. 33;Landstraße;4;;;52445;Titz;;N
+18.0;Rathaus Titz, Zimmer Nr. 1c;Landstraße;4;;;52445;Titz;;N
+1.0;Bürgerhaus Müntz;Raiffeisenstraße;11;;;52445;Titz-Müntz;;N
+19.0;Rathaus Titz, Zimmer Nr. 25;Landstraße 4;;;;52445;Titz;;N
+17.0;Rathaus Titz, Zimmer U 06;Landstraße;4;;;52445;Titz;;N
+14.0;Alte Schule Rödingen Raum 1;Hohe Str.;;;;52445;Titz-Rödingen;;N
+15.0;Alte Schule Rödingen Raum 2;Hohe Str.;;;;52445;Titz-Rödingen;;N
+16.0;Alte Schule Rödingen Raum 3;Hohe Str.;;;;52445;Titz;;J
+9.0;Alte Schule Spiel;Denkmalstraße;30;;;52445;Titz;;N
