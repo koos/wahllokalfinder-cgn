@@ -1,0 +1,23 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+01.2;Thum-Arena;Kaninsberg;15;;;52372;Kreuzau;;J
+03.1;Grundschule Drove Raum B;Drovestraße;143;;;52372;Kreuzau;;J
+02.1;Grundschule Drove Raum A;Drovestraße;143;;;52372;Kreuzau;;J
+04.1;Rathaus Kreuzau Zimmer 103;Bahnhofstraße;7;;;52372;Kreuzau;;J
+07.1;Gymnasium Kreuzau Raum A;Schulstraße;17;;;52372;Kreuzau;;J
+08.1;Gymnasium Kreuzau Raum B;Schulstraße;17;;;52372;Kreuzau;;J
+11.1;Sport- und Vereinsheim Üdingen;Dorfstraße;48;;;52372;Kreuzau;;J
+11.2;Gemeinschaftsraum Leversbach;Am Leversbach;24;;;52372;Kreuzau;;J
+12.1;Grundschulgebäude Winden Raum A;Lehrer-Mainz-Straße;6;;;52372;Kreuzau;;J
+13.1;Grundschulgebäude Winden Raum B;Lehrer-Mainz-Straße;6;;;52372;Kreuzau;;J
+13.2;Schützenheim Bergheim;Langenbroicher Straße;;;;52372;Kreuzau;;N
+16.2;Bürgerhaus Bogheim;An der Hardt;;;;52372;Kreuzau;;N
+14.1;Grundschulgebäude Obermaubach Raum A;Hinter den Gärten;1;;;52372;Kreuzau;;J
+15.1;Grundschulgebäude Obermaubach Raum B;Hinter den Gärten;1;;;52372;Kreuzau;;J
+15.2;Kath. Pfarrheim Untermaubach Raum A;Auf dem Graben;6;;;52372;Kreuzau;;J
+17.1;Kath. Pfarrheim Untermaubach Raum C;Auf dem Graben;6;;;52372;Kreuzau;;J
+16.1;Kath. Pfarrheim Untermaubach Raum B;Auf dem Graben;6;;;52372;Kreuzau;;J
+05.1;OGS an der Grundschule Kreuzau Raum A;Hauptstraße;22;;;52372;Kreuzau;;J
+06.1;OGS an der Grundschule Kreuzau Raum B;Hauptstraße;22;;;52372;Kreuzau;;J
+09.1;Turnhalle Stockheim Raum A;Im Kleinenfeld;;;;52372;Kreuzau;;J
+10.1;Turnhalle Stockheim Raum B;Im Kleinenfeld;;;;52372;Kreuzau;;J
+01.1;Bürgerhalle Boich;Gereonstraße;15a;;;52372;Kreuzau;;N

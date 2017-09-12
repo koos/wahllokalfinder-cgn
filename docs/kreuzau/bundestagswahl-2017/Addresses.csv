@@ -1,0 +1,268 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+52372;Ackerweg;3;11;2;8;Bilstein;17.1;;;90
+52372;Akazienweg;1;13;2;6;Stockheim;09.1;;;90
+52372;Albertus-Magnus-Straße;1;5;;;Leversbach;11.2;;;90
+52372;Alte Gasse;1;45;2;32;Kreuzau;06.1;;;90
+52372;Altenweiher;1;15;2;16;Kreuzau;07.1;;;90
+52372;Am Alten Fuhrweg;1;15;4;28;Untermaubach;17.1;;;90
+52372;Am Berg;3;11;2;12;Schlagstein;15.2;;;90
+52372;Am Bergwerk;1;9;2;8;Stockheim;09.1;;;90
+52372;Am Bolzplatz;1;13;;;Kreuzau;04.1;;;90
+52372;Am Bonsbusch;;;0;0;Kreuzau;05.1;;;90
+52372;Am Boten;7;19;2;14;Stockheim;09.1;;;90
+52372;Am Bruchbach;;;2;12;Drove;02.1;;;90
+52372;Am Buchenmaar;3;41;6;54;Stockheim;09.1;;;90
+52372;Am Burgholz;19;29;42;50;Stockheim;09.1;;;90
+52372;Am Dester;3;3;4;6;Untermaubach;17.1;;;90
+52372;Am Günster;3;17;2;10;Stockheim;10.1;;;90
+52372;Am Hauweg;7;23;6;20;Bogheim;16.2;;;90
+52372;Am Heiligenpütz;1;1;;;Drove;02.1;;;90
+52372;Am Kirschenhang;1;9;2;8;Üdingen;11.1;;;90
+52372;Am Kupferscheid;1;29;2;28;Kreuzau;08.1;;;90
+52372;Am Leversbach;1;75;2;100;Leversbach;11.2;;;90
+52372;Am Mortes;5;21;2;18;Obermaubach;14.1;;;90
+52372;Am Mühlenteich;7;23;;;Kreuzau;05.1;;;90
+52372;Am Ramgarten;1;15;2;38;Winden;12.1;;;90
+52372;Am Rebstock;3;7;4;20;Winden;12.1;;;90
+52372;Am Sandberg;1;25;2;28;Drove;02.1;;;90
+52372;Am Schlagstein;1;19;2;2;Schlagstein;15.2;;;90
+52372;Am Stadion;1;15;2;12;Kreuzau;07.1;;;90
+52372;Am Stausee;;;0;0;Obermaubach;15.1;;;90
+52372;Am Steinbruch;1;17;10;16;Schlagstein;15.2;;;90
+52372;Am Talberg;3;13;8;42;Winden;12.1;;;90
+52372;Am Thing;1;47;2;46;Stockheim;10.1;;;90
+52372;Am Thumbach;1;15;2;8;Thum;01.2;;;90
+52372;Am Torfberg;1;55;2;42;Stockheim;09.1;;;90
+52372;Am Vikariegarten;1;15;2;14;Stockheim;10.1;;;90
+52372;Am Waldheim;1;1;;;Schlagstein;15.2;;;90
+52372;Am Waldrand;7;7;;;Schlagstein;15.2;;;90
+52372;Am Wassergarten;1;21;;;Kreuzau;08.1;;;90
+52372;Am Weißenberg;1;15;2;32;Untermaubach;17.1;;;90
+52372;Amselweg;3;13;2;20;Üdingen;11.1;;;90
+52372;An Burg Kreuzau;1;7;;;Kreuzau;05.1;;;90
+52372;An Gut Stepprath;3;7;;;Stockheim;09.1;;;90
+52372;An den Weihern;1;15;;;Drove;02.1;;;90
+52372;An der Hardt;1;63;2;52;Bogheim;16.2;;;90
+52372;An der Motte;1;3;2;2;Stockheim;10.1;;;90
+52372;An der Papiermühle;1;3;2;8;Kreuzau;05.1;;;90
+52372;An der Tränke;1;11;4;12;Stockheim;10.1;;;90
+52372;Andreasstraße;7;89;2;88;Stockheim;09.1;;;90
+52372;Anni-Kohl-Straße;1;11;2;10;Stockheim;10.1;;;90
+52372;Apollinarisstraße;1;57;2;58;Obermaubach;15.1;;;90
+52372;Apollinarisstraße;61;79;60;78;Obermaubach;14.1;;;90
+52372;Auf dem Berg;1;1;2;2;Üdingen;11.1;;;90
+52372;Auf dem Blaßbusch;7;21;2;2;Obermaubach;14.1;;;90
+52372;Auf dem Fußberg;1;25;2;22;Obermaubach;14.1;;;90
+52372;Auf dem Graben;1;13;2;18;Untermaubach;16.1;;;90
+52372;Auf dem Hopfenberg;;;0;0;Bilstein;17.1;;;90
+52372;Auf dem Hügel;1;15;2;18;Bergheim;13.2;;;90
+52372;Auf dem Kamp;1;19;2;26;Bergheim;13.2;;;90
+52372;Auf dem Mönchenberg;1;27;2;22;Bilstein;17.1;;;90
+52372;Auf dem Schildchen;3;23;14;46;Boich;01.1;;;90
+52372;Auf den Brechen;1;61;2;38;Kreuzau;07.1;;;90
+52372;Auf der Heide;1;41;2;28;Stockheim;10.1;;;90
+52372;Auf der Neuen Ahr;1;19;2;18;Kreuzau;05.1;;;90
+52372;Auf der Tuchbleiche;1;15;2;16;Kreuzau;08.1;;;90
+52372;Aurora;1;15;2;18;Leversbach;11.2;;;90
+52372;Bachstraße;1;31;4;28;Thum;01.2;;;90
+52372;Bahnhofstraße;1;37;6;34;Kreuzau;05.1;;;90
+52372;Bergheimer Straße;1;1;2;4;Bilstein;17.1;;;90
+52372;Bergsteiner Straße;1;87;2;72;Obermaubach;14.1;;;90
+52372;Bergstraße;31;111;32;88;Winden;12.1;;;90
+52372;Bildergarten;;;2;30;Winden;13.1;;;90
+52372;Bilsteiner Weg;3;45;2;20;Untermaubach;17.1;;;90
+52372;Birkhahnweg;1;1;2;6;Obermaubach;14.1;;;90
+52372;Bleigraben;3;37;2;46;Leversbach;11.2;;;90
+52372;Blumenweg;7;7;6;12;Winden;12.1;;;90
+52372;Bogheimer Weg;1;27;2;24;Bilstein;17.1;;;90
+52372;Brandenberger Straße;73;89;4;16;Obermaubach;14.1;;;90
+52372;Brigidastraße;1;53;2;44;Untermaubach;16.1;;;90
+52372;Brunnenweg;1;5;4;14;Winden;12.1;;;90
+52372;Brückenweg;1;23;0;0;Schlagstein;15.2;;;90
+52372;Bubenheimer Weg;1;35;2;28;Stockheim;09.1;;;90
+52372;Burgplatz;1;9;2;8;Untermaubach;16.1;;;90
+52372;Christian-Richter-Straße;1;31;4;20;Drove;03.1;;;90
+52372;Dechanei;1;31;2;20;Boich;01.1;;;90
+52372;Dechant-Offermanns-Weg;5;27;6;26;Üdingen;11.1;;;90
+52372;Dorfstraße;3;159;12;146;Üdingen;11.1;;;90
+52372;Drovestraße;163;231;196;290;Drove;03.1;;;90
+52372;Drovestraße;1;161;2;194;Drove;02.1;;;90
+52372;Dürener Straße;1;19;4;174;Kreuzau;05.1;;;90
+52372;Eichenweg;1;11;2;12;Stockheim;09.1;;;90
+52372;Eifelstraße;1;33;2;20;Kreuzau;07.1;;;90
+52372;Eintrachtstraße;1;9;2;10;Kreuzau;04.1;;;90
+52372;Engelsweidchen;1;35;2;30;Stockheim;10.1;;;90
+52372;Erlenweg;1;13;4;26;Stockheim;09.1;;;90
+52372;Fasanenweg;1;17;4;28;Obermaubach;14.1;;;90
+52372;Feldstraße;3;21;2;16;Kreuzau;08.1;;;90
+52372;Fichtenweg;1;9;2;6;Stockheim;09.1;;;90
+52372;Flemingstraße;1;25;2;54;Kreuzau;05.1;;;90
+52372;Fliederbusch;1;27;4;10;Drove;02.1;;;90
+52372;Franzosenstraße;3;9;2;26;Drove;03.1;;;90
+52372;Freiheit;5;19;6;10;Kreuzau;08.1;;;90
+52372;Friedenau;1;19;2;38;Kreuzau;05.1;;;90
+52372;Friedhofstraße;1;15;4;56;Kreuzau;04.1;;;90
+52372;Frohbenden;3;45;2;38;Kreuzau;07.1;;;90
+52372;Fuchsberg;1;3;;;Untermaubach;16.1;;;90
+52372;Gereonstraße;1;109;2;122;Boich;01.1;;;90
+52372;Grünstraße;3;19;6;28;Drove;03.1;;;90
+52372;Gut Stein;1;1;0;0;Boich;01.1;;;90
+52372;Gut Stepprath;;;0;4;Stockheim;09.1;;;90
+52372;Hahnsweide;1;21;2;68;Stockheim;10.1;;;90
+52372;Hans-Zens-Straße;3;21;2;14;Kreuzau;04.1;;;90
+52372;Hauptstraße;97;141;110;166;Kreuzau;06.1;;;90
+52372;Hauptstraße;5;93;2;108;Kreuzau;08.1;;;90
+52372;Heidbüchel;1;35;6;46;Obermaubach;15.1;;;90
+52372;Heinrich-Böll-Straße;1;21;2;32;Langenbroich;13.2;;;90
+52372;Heinrich-Dohmen-Straße;7;15;;;Kreuzau;05.1;;;90
+52372;Heribertstraße;1;91;2;78;Kreuzau;04.1;;;90
+52372;Hinter dem Hof;5;13;2;18;Leversbach;11.2;;;90
+52372;Hinter den Gärten;5;23;6;32;Obermaubach;14.1;;;90
+52372;Hochkoppel;7;19;;;Untermaubach;17.1;;;90
+52372;Hoeschstraße;1;15;2;2;Untermaubach;17.1;;;90
+52372;Hohlweg;1;9;2;6;Thum;01.2;;;90
+52372;Holzweg;1;23;2;30;Schlagstein;15.2;;;90
+52372;Hormer Weg;1;7;2;4;Bergheim;13.2;;;90
+52372;Im Auerfeld;1;17;6;20;Kreuzau;04.1;;;90
+52372;Im Bockshof;1;9;2;8;Untermaubach;16.1;;;90
+52372;Im Bongert;1;13;2;12;Untermaubach;16.1;;;90
+52372;Im Dröhl;1;15;2;14;Kreuzau;05.1;;;90
+52372;Im Gassefeld;3;29;4;24;Drove;03.1;;;90
+52372;Im Grubengarten;1;21;6;26;Winden;12.1;;;90
+52372;Im Günther;1;1;2;4;Bergheim;13.2;;;90
+52372;Im Hanfgarten;9;9;2;14;Kreuzau;08.1;;;90
+52372;Im Heidehof;1;33;2;42;Untermaubach;17.1;;;90
+52372;Im Herkesgarten;1;25;12;32;Kreuzau;08.1;;;90
+52372;Im Hirnfeld;1;23;2;34;Kreuzau;07.1;;;90
+52372;Im Hüttengarten;1;11;4;18;Kreuzau;05.1;;;90
+52372;Im Kleinenfeld;7;13;2;12;Stockheim;10.1;;;90
+52372;Im Kämpchen;11;23;;;Kreuzau;06.1;;;90
+52372;Im Moosgarten;3;35;2;38;Boich;01.1;;;90
+52372;Im Naspel;1;27;2;38;Obermaubach;14.1;;;90
+52372;Im Niederbusch;3;11;6;26;Thum;01.2;;;90
+52372;Im Oberen Tal;1;15;2;22;Untermaubach;17.1;;;90
+52372;Im Reuter;5;43;4;32;Drove;02.1;;;90
+52372;Im Richelnberg;5;35;4;70;Winden;12.1;;;90
+52372;Im Schenkengarten;1;5;2;32;Winden;12.1;;;90
+52372;Im Schnürchen;;;6;12;Untermaubach;17.1;;;90
+52372;Im Seel;1;15;2;32;Üdingen;11.1;;;90
+52372;Im Weierfeld;1;5;2;12;Bilstein;17.1;;;90
+52372;Im Wingert;3;13;2;14;Untermaubach;17.1;;;90
+52372;Im Ölligspesch;1;7;2;48;Kreuzau;07.1;;;90
+52372;In den Benden;1;39;6;44;Drove;03.1;;;90
+52372;In den Weinbergen;9;25;2;8;Obermaubach;14.1;;;90
+52372;In der Au;1;15;2;16;Kreuzau;05.1;;;90
+52372;In der Britz;1;53;2;48;Drove;02.1;;;90
+52372;In der Held;1;11;2;16;Untermaubach;16.1;;;90
+52372;In der Schlecksweide;1;9;;;Bogheim;16.2;;;90
+52372;Johannes-Engels-Straße;3;19;2;18;Kreuzau;06.1;;;90
+52372;Kaninsberg;1;25;2;26;Thum;01.2;;;90
+52372;Kapellenweg;1;19;2;20;Kreuzau;07.1;;;90
+52372;Karl-Arnold-Straße;3;39;2;34;Drove;03.1;;;90
+52372;Kastanienweg;1;9;8;8;Langenbroich;13.2;;;90
+52372;Kelterstraße;5;187;2;170;Winden;12.1;;;90
+52372;Kiefernweg;3;15;2;14;Stockheim;09.1;;;90
+52372;Kirchweg;1;3;2;2;Kreuzau;08.1;;;90
+52372;Kleierde;3;69;2;50;Kreuzau;06.1;;;90
+52372;Kollweg;3;3;6;6;Stockheim;09.1;;;90
+52372;Kolpingstraße;1;11;2;16;Kreuzau;04.1;;;90
+52372;Kommweg;7;143;2;114;Drove;02.1;;;90
+52372;Kreuzauer Straße;7;91;2;74;Stockheim;10.1;;;90
+52372;Kreuzfeldchen;1;9;8;10;Drove;02.1;;;90
+52372;Kreuzstraße;5;21;4;24;Kreuzau;05.1;;;90
+52372;Landrat-Kaptain-Straße;1;55;4;18;Kreuzau;06.1;;;90
+52372;Langenbroicher Straße;5;53;6;52;Bergheim;13.2;;;90
+52372;Lehrer-Hausmann-Straße;1;7;2;8;Untermaubach;17.1;;;90
+52372;Lehrer-Mainz-Straße;1;29;8;20;Winden;12.1;;;90
+52372;Lindenstraße;1;35;4;40;Untermaubach;16.1;;;90
+52372;Lohberg;5;9;2;8;Kreuzau;07.1;;;90
+52372;Marienstraße;1;27;2;34;Stockheim;10.1;;;90
+52372;Martinstraße;1;15;10;12;Drove;03.1;;;90
+52372;Maubacher Straße;11;191;16;174;Winden;13.1;;;90
+52372;Mausauel;1;25;2;12;Leversbach;11.2;;;90
+52372;Mittelstraße;1;19;2;16;Kreuzau;08.1;;;90
+52372;Molbachstraße;1;3;6;10;Untermaubach;16.1;;;90
+52372;Mönchweg;1;63;2;34;Stockheim;10.1;;;90
+52372;Mühlengasse;1;7;6;8;Kreuzau;08.1;;;90
+52372;Niederdrove;1;75;2;32;Kreuzau;06.1;;;90
+52372;Nordstraße;1;31;2;32;Kreuzau;05.1;;;90
+52372;Ofenskaul;1;7;2;6;Winden;12.1;;;90
+52372;Parkstraße;1;21;4;26;Stockheim;10.1;;;90
+52372;Pater-Peters-Straße;1;13;2;16;Drove;03.1;;;90
+52372;Pater-Roettges-Weg;1;33;8;34;Üdingen;11.1;;;90
+52372;Peschstraße;9;39;4;34;Kreuzau;08.1;;;90
+52372;Peter-Schlack-Straße;1;29;2;22;Kreuzau;04.1;;;90
+52372;Pfarrer-Emunds-Straße;15;37;;;Kreuzau;04.1;;;90
+52372;Pfarrer-Kreitz-Straße;3;21;4;56;Drove;03.1;;;90
+52372;Poststraße;1;1;6;18;Kreuzau;08.1;;;90
+52372;Pützgasse;;;2;22;Üdingen;11.1;;;90
+52372;Raiffeisenstraße;1;51;2;60;Stockheim;10.1;;;90
+52372;Rather Weg;3;27;2;12;Boich;01.1;;;90
+52372;Rauvsauel;1;1;2;4;Schlagstein;15.2;;;90
+52372;Reitersweg;1;1;;;Kreuzau;06.1;;;90
+52372;Ringstraße;3;15;2;14;Drove;02.1;;;90
+52372;Rinnebachstraße;1;31;4;46;Obermaubach;14.1;;;90
+52372;Rosa-Schubert-Straße;9;21;2;12;Winden;13.1;;;90
+52372;Rosenhof;;;0;0;Bergheim;13.2;;;90
+52372;Rosenweg;3;9;2;8;Winden;12.1;;;90
+52372;Rotdornweg;1;31;12;44;Stockheim;09.1;;;90
+52372;Rurstraße;1;51;2;16;Untermaubach;16.1;;;90
+52372;Rödderweg;1;35;8;40;Obermaubach;14.1;;;90
+52372;Römerstraße;1;13;2;12;Üdingen;11.1;;;90
+52372;Röschen;1;29;2;60;Üdingen;11.1;;;90
+52372;Schafsbenden;1;5;4;24;Bogheim;16.2;;;90
+52372;Schulstraße;3;21;2;16;Kreuzau;08.1;;;90
+52372;Schulte-Krumpen-Weg;3;9;2;8;Leversbach;11.2;;;90
+52372;Schäfersgraben;13;33;10;16;Stockheim;09.1;;;90
+52372;Schützenstraße;1;13;2;12;Kreuzau;08.1;;;90
+52372;Seestraße;1;63;2;42;Obermaubach;15.1;;;90
+52372;Simonsgasse;1;11;10;12;Winden;12.1;;;90
+52372;Sonnenhang;3;7;4;30;Üdingen;11.1;;;90
+52372;Stegbenden;1;41;2;40;Kreuzau;06.1;;;90
+52372;Steinacker;1;41;2;36;Obermaubach;15.1;;;90
+52372;Steinbüchel;3;7;2;2;Obermaubach;14.1;;;90
+52372;Steinstiel;1;7;;;Winden;13.1;;;90
+52372;Steinstraße;1;57;2;40;Thum;01.2;;;90
+52372;Stockheimer Weg;3;33;2;28;Kreuzau;04.1;;;90
+52372;Stockweg;1;9;4;20;Obermaubach;14.1;;;90
+52372;Südstraße;1;25;;;Kreuzau;07.1;;;90
+52372;Teichstraße;1;37;4;18;Kreuzau;08.1;;;90
+52372;Thumstraße;9;73;12;56;Thum;01.2;;;90
+52372;Tillmann-Gottschalk-Str.;3;11;2;24;Kreuzau;06.1;;;90
+52372;Titzgarten;1;9;2;38;Leversbach;11.2;;;90
+52372;Tivolistraße;1;13;2;8;Stockheim;10.1;;;90
+52372;Trankgasse;1;5;2;4;Boich;01.1;;;90
+52372;Traubenweg;3;19;2;22;Obermaubach;14.1;;;90
+52372;Ulmenweg;1;7;4;10;Stockheim;09.1;;;90
+52372;Untermaubacher Straße;1;3;2;4;Obermaubach;15.1;;;90
+52372;Urbanusstraße;23;131;2;136;Winden;13.1;;;90
+52372;Vollsteiner Mühle;;;0;0;Drove;03.1;;;90
+52372;Von-Ketteler-Straße;1;13;4;14;Kreuzau;04.1;;;90
+52372;Von-Torck-Straße;1;7;2;6;Kreuzau;05.1;;;90
+52372;Vor dem Bovenberg;1;11;10;10;Obermaubach;14.1;;;90
+52372;Vor dem Bruch;11;59;8;64;Kreuzau;06.1;;;90
+52372;Waldhaus;1;1;;;Thum;01.2;;;90
+52372;Waldstraße;1;17;2;32;Langenbroich;13.2;;;90
+52372;Waschpöl;1;17;2;56;Untermaubach;16.1;;;90
+52372;Wehrstraße;1;61;4;60;Drove;03.1;;;90
+52372;Weidchen;3;9;2;8;Bergheim;13.2;;;90
+52372;Weideweg;1;13;2;14;Untermaubach;17.1;;;90
+52372;Welk;1;7;;;Kreuzau;05.1;;;90
+52372;Wewordenstraße;7;13;2;24;Drove;02.1;;;90
+52372;Wilhelm-Böhmer-Straße;1;27;10;38;Bilstein;17.1;;;90
+52372;Windener Weg;;;2;2;Kreuzau;08.1;;;90
+52372;Ziegelfeld;1;1;;;Kreuzau;07.1;;;90
+52372;Zum Alten Forsthaus;1;3;2;2;Langenbroich;13.2;;;90
+52372;Zum Alten Wehr;5;13;;;Winden;13.1;;;90
+52372;Zum Duffesbach;1;19;2;36;Kreuzau;04.1;;;90
+52372;Zum Knipp;1;1;2;2;Bergheim;13.2;;;90
+52372;Zum Obsthof;;;2;2;Boich;01.1;;;90
+52372;Zum Prontzgraben;1;3;2;8;Boich;01.1;;;90
+52372;Zum Schmitzbusch;;;2;2;Stockheim;10.1;;;90
+52372;Zum Sportplatz;;;2;10;Winden;12.1;;;90
+52372;Zum Wiesenbach;1;55;2;26;Kreuzau;07.1;;;90
+52372;Zur Allmende;1;7;2;12;Winden;12.1;;;90
+52372;Zur Alten Malzfabrik;1;3;2;4;Kreuzau;05.1;;;90
+52372;Zur Alten Pumpe;3;5;;;Winden;12.1;;;90
+52372;Zur Marieneiche;1;75;2;64;Stockheim;10.1;;;90
+52372;Üdinger Weg;1;93;26;68;Kreuzau;08.1;;;90
