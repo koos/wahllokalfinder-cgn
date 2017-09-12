@@ -85,4 +85,5 @@ if (typeof map === 'object'){
   map.on('zoom', function () {
     mapZoomEdge()
   });
+  // #
 }
