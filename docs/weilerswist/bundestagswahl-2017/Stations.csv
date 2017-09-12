@@ -1,0 +1,11 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+001.1;Grundschule Weilerswist;Anton-Schell-Straße;;;;53919;Weilerswist;;N
+002.1;Grundschule Weilerswist;Anton-Schell-Straße;;;;53919;Weilerswist;;N
+003.1;Gesamtschule Weilerswist;Martin-Luther-Straße;26;;;53919;Weilerswist;;N
+004.1;Gesamtschule Weilerswist;Martin-Luther-Straße;26;;;53919;Weilerswist;;N
+005.1;Tomberghalle;Mühlenstraße;11;;;53919;Weilerswist;;N
+006.1;Tomberghalle;Mühlenstraße;11;;;53919;Weilerswist;;N
+007.1;Grundschule Metternich;Drei-Eichen-Straße;;;;53919;Weilerswist;;N
+008.1;Kindergarten Müggenhausen;Heimerzheimer Straße;12;;;53919;Weilerswist;;N
+009.1;Kindergarten Derkum;Erftstraße;42;;;53919;Weilerswist;;N
+010.1;Grundschule Lommersum;Loewener Straße;;;;53919;Weilerswist;;N

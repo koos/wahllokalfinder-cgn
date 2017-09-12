@@ -1,0 +1,317 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+53919;Adelheidstraße;1;3;2;12;Weilerswist;002.1;;;92
+53919;Adlerweg;1;21;2;16;Weilerswist;007.1;;;92
+53919;Adolf-Dasbach-Straße;5;17;4;16;Weilerswist;001.1;;;92
+53919;Adolf-Dasbach-Straße;;17;4;16;Weilerswist;001.1;;;92
+53919;Ahrstraße;5;23;4;24;Weilerswist;004.1;;;92
+53919;Am Alten Sportplatz;1;11;2;36;Weilerswist;007.1;;;92
+53919;Am Bendenpütz;7;13;;;Weilerswist;010.1;;;92
+53919;Am Brenter Fließ;1;9;2;12;Weilerswist;005.1;;;92
+53919;Am Dinghaus;1;15;2;12;Weilerswist;001.1;;;92
+53919;Am Ginsterberg;1;9;;;Weilerswist;007.1;;;92
+53919;Am Klarenhof;;;2;36;Weilerswist;006.1;;;92
+53919;Am Lindchen;1;17;2;10;Weilerswist;010.1;;;92
+53919;Am Lohgraben;1;9;2;20;Weilerswist;010.1;;;92
+53919;Am Swisterberg;;;4;26;Weilerswist;001.1;;;92
+53919;Amselweg;1;15;4;20;Weilerswist;001.1;;;92
+53919;An der Römervilla;1;3;2;18;Weilerswist;006.1;;;92
+53919;Angelsteiner Straße;1;13;2;18;Weilerswist;010.1;;;92
+53919;Anton-Schell-Straße;1;21;2;28;Weilerswist;001.1;;;92
+53919;Apolloniagasse;1;5;2;4;Weilerswist;010.1;;;92
+53919;Auf dem Brand;3;5;2;8;Weilerswist;010.1;;;92
+53919;Auf dem Driesch;1;17;2;24;Weilerswist;010.1;;;92
+53919;Auf dem Höstert;;;2;6;Weilerswist;001.1;;;92
+53919;Auf dem Köll;1;9;2;6;Weilerswist;010.1;;;92
+53919;Auf dem Rübenkämpchen;1;15;;;Weilerswist;006.1;;;92
+53919;Auf der Hochfahrt;1;39;2;26;Weilerswist;001.1;;;92
+53919;Azaleenweg;1;1;2;16;Weilerswist;001.1;;;92
+53919;Bachstraße;1;37;8;102;Weilerswist;002.1;;;92
+53919;Bahnhofsallee;1;35;2;20;Weilerswist;004.1;;;92
+53919;Barbarastraße;3;25;2;18;Weilerswist;001.1;;;92
+53919;Beethovenstraße;1;19;2;18;Weilerswist;004.1;;;92
+53919;Bendenstraße;1;5;2;14;Weilerswist;010.1;;;92
+53919;Bergstraße;1;63;6;70;Weilerswist;007.1;;;92
+53919;Berliner Straße;1;55;2;50;Weilerswist;002.1;;;92
+53919;Bernhard-Thywissen-Straße;;;6;14;Weilerswist;003.1;;;92
+53919;Billiger Straße;3;3;2;8;Weilerswist;009.1;;;92
+53919;Birkenweg;1;19;;;Weilerswist;001.1;;;92
+53919;Birnbaumweg;3;7;4;14;Weilerswist;003.1;;;92
+53919;Blankenheimer Straße;11;45;6;48;Weilerswist;009.1;;;92
+53919;Bliesheimer Straße;1;1;;;Weilerswist;002.1;;;92
+53919;Blumenstraße;3;11;2;20;Weilerswist;006.1;;;92
+53919;Bodenheimer Weg;3;25;6;10;Weilerswist;010.1;;;92
+53919;Bongartsgasse;1;3;2;8;Weilerswist;006.1;;;92
+53919;Bonner Straße;1;43;2;62;Weilerswist;004.1;;;92
+53919;Bonner Straße;;;66;70;Weilerswist;003.1;;;92
+53919;Borrer Straße;;;6;12;Weilerswist;006.1;;;92
+53919;Brabanter Straße;1;77;8;72;Weilerswist;010.1;;;92
+53919;Bremptergasse;1;23;2;12;Weilerswist;006.1;;;92
+53919;Breslauer Straße;1;9;2;30;Weilerswist;005.1;;;92
+53919;Broicher Straße;1;17;2;2;Weilerswist;009.1;;;92
+53919;Bröhlpfad;1;7;;;Weilerswist;006.1;;;92
+53919;Brügger Weg;1;11;2;6;Weilerswist;010.1;;;92
+53919;Brüsseler Straße;1;37;2;66;Weilerswist;010.1;;;92
+53919;Buchenweg;1;19;;;Weilerswist;001.1;;;92
+53919;Burg Kühlseggen;;;0;0;Weilerswist;001.1;;;92
+53919;Burgstraße;1;43;2;44;Weilerswist;002.1;;;92
+53919;Bäckerweg;;;2;2;Weilerswist;008.1;;;92
+53919;Dahlemer Straße;1;9;2;8;Weilerswist;009.1;;;92
+53919;Daniel-Wierz-Straße;1;15;2;16;Weilerswist;003.1;;;92
+53919;Danziger Straße;1;5;2;6;Weilerswist;005.1;;;92
+53919;Derkumer Straße;3;11;;;Weilerswist;010.1;;;92
+53919;Deutscher Platz;1;5;;;Weilerswist;004.1;;;92
+53919;Diefentaler Hof;;;0;0;Weilerswist;010.1;;;92
+53919;Dietrich-Bonhoeffer-Str.;;;2;4;Weilerswist;005.1;;;92
+53919;Dobschleider Straße;;;10;10;Weilerswist;001.1;;;92
+53919;Donaustraße;1;49;2;30;Weilerswist;002.1;;;92
+53919;Dr.-Franz-Schorn-Straße;1;49;2;32;Weilerswist;003.1;;;92
+53919;Drei-Eichen-Straße;1;15;2;30;Weilerswist;007.1;;;92
+53919;Drosselweg;1;21;2;14;Weilerswist;002.1;;;92
+53919;Dürener Straße;1;49;2;50;Weilerswist;010.1;;;92
+53919;Eburonenstraße;1;41;2;50;Weilerswist;007.1;;;92
+53919;Eibenweg;1;9;;;Weilerswist;001.1;;;92
+53919;Eichendorffstraße;1;7;2;8;Weilerswist;007.1;;;92
+53919;Eifelweg;1;3;2;8;Weilerswist;008.1;;;92
+53919;Eilauer Weg;1;7;;;Weilerswist;002.1;;;92
+53919;Eispfad;1;33;2;52;Weilerswist;001.1;;;92
+53919;Elbestraße;1;61;2;42;Weilerswist;004.1;;;92
+53919;Elsiger Weg;5;5;;;Weilerswist;010.1;;;92
+53919;Enggasse;1;15;2;16;Weilerswist;002.1;;;92
+53919;Erftstraße;1;25;6;44;Weilerswist;009.1;;;92
+53919;Erlenweg;3;19;;;Weilerswist;001.1;;;92
+53919;Erper Straße;3;9;6;6;Weilerswist;006.1;;;92
+53919;Eschenstraße;1;35;2;24;Weilerswist;003.1;;;92
+53919;Espenweg;1;11;2;12;Weilerswist;001.1;;;92
+53919;Eupener Straße;17;17;;;Weilerswist;010.1;;;92
+53919;Euskirchener Straße;1;239;2;228;Weilerswist;009.1;;;92
+53919;Falkenbergstraße;3;21;2;34;Weilerswist;010.1;;;92
+53919;Fasanenweg;1;37;2;34;Weilerswist;009.1;;;92
+53919;Fichtenhof;;;0;0;Weilerswist;010.1;;;92
+53919;Fichtenweg;;;2;10;Weilerswist;001.1;;;92
+53919;Finkenweg;1;21;2;24;Weilerswist;002.1;;;92
+53919;Fliederweg;1;29;10;16;Weilerswist;001.1;;;92
+53919;Flittergasse;1;23;4;16;Weilerswist;010.1;;;92
+53919;Frankenstraße;1;63;2;96;Weilerswist;007.1;;;92
+53919;Franzstraße;7;17;8;18;Weilerswist;002.1;;;92
+53919;Friedensstraße;;;2;8;Weilerswist;005.1;;;92
+53919;Friedrich-Ebert-Straße;1;43;4;46;Weilerswist;002.1;;;92
+53919;Friedweg;1;23;4;8;Weilerswist;007.1;;;92
+53919;Friesheimer Straße;1;5;2;8;Weilerswist;006.1;;;92
+53919;Fuchsweg;;;4;4;Weilerswist;009.1;;;92
+53919;Gartenstraße;1;5;2;6;Weilerswist;009.1;;;92
+53919;Gemünder Straße;1;9;4;10;Weilerswist;009.1;;;92
+53919;Genter Straße;1;9;4;12;Weilerswist;010.1;;;92
+53919;Geranienweg;1;11;2;18;Weilerswist;003.1;;;92
+53919;Gerberstraße;1;29;4;34;Weilerswist;003.1;;;92
+53919;Gertrudenweg;;;2;14;Weilerswist;002.1;;;92
+53919;Goethestr.;1;11;;;Weilerswist;005.1;;;92
+53919;Gottfried-Keller-Straße;3;3;2;14;Weilerswist;005.1;;;92
+53919;Grabenstraße;1;43;8;28;Weilerswist;002.1;;;92
+53919;Grillparzerstraße;;;2;10;Weilerswist;005.1;;;92
+53919;Große Heide;1;25;2;32;Weilerswist;003.1;;;92
+53919;Grüner Weg;1;19;2;20;Weilerswist;010.1;;;92
+53919;Gut Kühlseggen;;;0;0;Weilerswist;001.1;;;92
+53919;Gürtelweg;1;47;2;26;Weilerswist;004.1;;;92
+53919;Hasenweg;3;3;4;8;Weilerswist;009.1;;;92
+53919;Hausweilerweg;1;5;6;8;Weilerswist;009.1;;;92
+53919;Heimbacher Straße;1;73;2;108;Weilerswist;006.1;;;92
+53919;Heimerzheimer Straße;1;29;2;14;Weilerswist;008.1;;;92
+53919;Heinrich-Heine-Straße;5;17;;;Weilerswist;005.1;;;92
+53919;Heinrich-Potthoff-Straße;1;13;4;36;Weilerswist;003.1;;;92
+53919;Heinrich-Rosen-Allee;3;51;18;42;Weilerswist;003.1;;;92
+53919;Hellweg;1;17;2;38;Weilerswist;002.1;;;92
+53919;Hemmericher Straße;19;19;10;12;Weilerswist;007.1;;;92
+53919;Hermann-Löns-Straße;1;35;2;18;Weilerswist;005.1;;;92
+53919;Holunderweg;3;7;2;6;Weilerswist;001.1;;;92
+53919;Horchheimer Straße;1;5;2;6;Weilerswist;006.1;;;92
+53919;Hovener Hof;1;1;0;0;Weilerswist;007.1;;;92
+53919;Hovenerweg;1;1;0;0;Weilerswist;007.1;;;92
+53919;Hunsrückweg;1;19;2;20;Weilerswist;008.1;;;92
+53919;Höhenweg;3;11;2;10;Weilerswist;007.1;;;92
+53919;Hölderlinstraße;;;2;10;Weilerswist;005.1;;;92
+53919;Im Kirchfeld;1;9;2;18;Weilerswist;008.1;;;92
+53919;Im Weidchen;;;2;4;Weilerswist;001.1;;;92
+53919;Im Wiesengrund;1;7;2;16;Weilerswist;005.1;;;92
+53919;In den Helten;31;31;4;34;Weilerswist;004.1;;;92
+53919;In der Höhle;3;23;8;16;Weilerswist;010.1;;;92
+53919;Inselstraße;3;19;14;14;Weilerswist;008.1;;;92
+53919;Jakob-Brock-Straße;3;17;8;12;Weilerswist;007.1;;;92
+53919;Johannes-Kreuz-Weg;1;13;2;24;Weilerswist;007.1;;;92
+53919;Johanneshof;;;0;0;Weilerswist;010.1;;;92
+53919;Josef-Burghof-Straße;1;49;2;42;Weilerswist;003.1;;;92
+53919;Josef-Heibges-Straße;3;13;2;8;Weilerswist;003.1;;;92
+53919;Josefstraße;3;19;2;20;Weilerswist;005.1;;;92
+53919;Jülicher Straße;1;61;2;42;Weilerswist;006.1;;;92
+53919;Jünkerather Straße;1;5;;;Weilerswist;009.1;;;92
+53919;Kaller Straße;1;21;2;22;Weilerswist;009.1;;;92
+53919;Kapellenstraße;7;23;2;24;Weilerswist;009.1;;;92
+53919;Karlstraße;1;25;2;26;Weilerswist;002.1;;;92
+53919;Karolingerstraße;1;53;4;34;Weilerswist;007.1;;;92
+53919;Kastanienweg;1;15;2;2;Weilerswist;001.1;;;92
+53919;Keltenstraße;1;21;2;26;Weilerswist;007.1;;;92
+53919;Kelzmühle;;;0;0;Weilerswist;010.1;;;92
+53919;Kerpener Straße;1;21;4;20;Weilerswist;010.1;;;92
+53919;Kessenicher Straße;1;39;2;36;Weilerswist;010.1;;;92
+53919;Kiefernweg;1;9;2;14;Weilerswist;001.1;;;92
+53919;Kirchweg;3;17;;;Weilerswist;005.1;;;92
+53919;Kirschbaumstraße;3;11;2;14;Weilerswist;003.1;;;92
+53919;Kirschfeld;1;1;;;Weilerswist;001.1;;;92
+53919;Kolpingstraße;7;33;2;38;Weilerswist;005.1;;;92
+53919;Konrad-Adenauer-Straße;9;11;12;18;Weilerswist;004.1;;;92
+53919;Korbmacherweg;3;9;2;10;Weilerswist;003.1;;;92
+53919;Kreuzstraße;1;7;2;14;Weilerswist;006.1;;;92
+53919;Kuhgasse;;;4;4;Weilerswist;010.1;;;92
+53919;Kurfürstenweg;;;10;10;Weilerswist;005.1;;;92
+53919;Kyllweg;9;13;2;4;Weilerswist;004.1;;;92
+53919;Kälberweide;1;15;2;2;Weilerswist;009.1;;;92
+53919;Köhlerweg;3;11;4;14;Weilerswist;003.1;;;92
+53919;Kölner Straße;131;245;150;268;Weilerswist;001.1;;;92
+53919;Kölner Straße;49;127;54;148;Weilerswist;002.1;;;92
+53919;Kölner Straße;1;45;6;50;Weilerswist;004.1;;;92
+53919;Lahnstraße;5;19;2;18;Weilerswist;004.1;;;92
+53919;Laurentiusstraße;1;19;6;30;Weilerswist;008.1;;;92
+53919;Lavendelweg;1;9;4;8;Weilerswist;003.1;;;92
+53919;Lechenicher Weg;1;11;2;4;Weilerswist;002.1;;;92
+53919;Limburger Straße;1;85;2;68;Weilerswist;010.1;;;92
+53919;Lindenhof;;;0;0;Weilerswist;002.1;;;92
+53919;Lippestraße;1;55;2;32;Weilerswist;004.1;;;92
+53919;Loewener Straße;;;0;0;Weilerswist;010.1;;;92
+53919;Lommersumer Straße;1;7;2;8;Weilerswist;009.1;;;92
+53919;Ludwigstraße;1;15;2;16;Weilerswist;002.1;;;92
+53919;Luisenweg;;;2;8;Weilerswist;002.1;;;92
+53919;Lärchenweg;1;5;6;6;Weilerswist;003.1;;;92
+53919;Lütticher Straße;1;1;2;8;Weilerswist;010.1;;;92
+53919;Maarweg;3;39;2;44;Weilerswist;001.1;;;92
+53919;Maasstraße;1;25;20;20;Weilerswist;010.1;;;92
+53919;Mainstraße;1;9;2;10;Weilerswist;004.1;;;92
+53919;Malvenweg;1;7;4;8;Weilerswist;003.1;;;92
+53919;Marienstraße;1;17;2;10;Weilerswist;007.1;;;92
+53919;Martin-Luther-Straße;1;29;2;32;Weilerswist;004.1;;;92
+53919;Martin-Luther-Straße;33;33;;;Weilerswist;004.1;;;92
+53919;Martin-Luther-Straße;31;31;;;Weilerswist;005.1;;;92
+53919;Martin-Luther-Straße;35;43;34;62;Weilerswist;005.1;;;92
+53919;Maternusstraße;1;25;4;18;Weilerswist;007.1;;;92
+53919;Mauritiusgasse;3;21;2;10;Weilerswist;002.1;;;92
+53919;Meckenheimer Straße;1;103;4;112;Weilerswist;007.1;;;92
+53919;Meckenheimerstraße;39;39;;;Weilersist;007.1;;;92
+53919;Mehlemer Straße;1;1;2;6;Weilerswist;005.1;;;92
+53919;Meisenweg;1;13;2;14;Weilerswist;002.1;;;92
+53919;Merowingerstraße;1;9;2;8;Weilerswist;007.1;;;92
+53919;Metternicher Straße;;;6;12;Weilerswist;003.1;;;92
+53919;Moselstraße;1;5;2;8;Weilerswist;004.1;;;92
+53919;Mozartstraße;1;21;2;20;Weilerswist;004.1;;;92
+53919;Mödrather Straße;1;7;4;8;Weilerswist;010.1;;;92
+53919;Müddersheimer Straße;3;11;2;20;Weilerswist;006.1;;;92
+53919;Müggenhausener Straße;7;9;4;8;Weilerswist;005.1;;;92
+53919;Mühlenhof;;;0;0;Weilerswist;010.1;;;92
+53919;Mühlenstraße;3;5;;;Weilerswist;006.1;;;92
+53919;Münstereifeler Straße;1;33;2;32;Weilerswist;009.1;;;92
+53919;Nahestraße;1;23;2;6;Weilerswist;004.1;;;92
+53919;Narzissenstraße;3;17;2;18;Weilerswist;003.1;;;92
+53919;Neckarstraße;1;9;2;24;Weilerswist;004.1;;;92
+53919;Neffelbachstraße;1;17;2;20;Weilerswist;009.1;;;92
+53919;Nelkenstraße;1;79;2;52;Weilerswist;006.1;;;92
+53919;Nideggergasse;1;9;2;10;Weilerswist;006.1;;;92
+53919;Niederberger Straße;1;35;2;18;Weilerswist;010.1;;;92
+53919;Nikolaus-A-Otto-Straße;;;8;16;Weilerswist;003.1;;;92
+53919;Nikolaus-Ehlen-Straße;1;9;4;8;Weilerswist;005.1;;;92
+53919;Nordstraße;1;1;;;Weilerswist;010.1;;;92
+53919;Oberbroich;1;13;2;6;Weilerswist;009.1;;;92
+53919;Ohne Festen Wohnsitz;;;;;Weilerswist;001.1;;;92
+53919;Pankratiusgasse;1;7;2;12;Weilerswist;010.1;;;92
+53919;Pankratiushof;;;0;0;Weilerswist;010.1;;;92
+53919;Pappelweg;1;7;;;Weilerswist;001.1;;;92
+53919;Parkallee;9;85;20;78;Weilerswist;003.1;;;92
+53919;Peter-Vey-Straße;1;21;6;30;Weilerswist;005.1;;;92
+53919;Pfeilstraße;1;17;;;Weilerswist;004.1;;;92
+53919;Pfingstmühle;;;0;0;Weilerswist;007.1;;;92
+53919;Pfingstmühlenweg;1;23;2;20;Weilerswist;007.1;;;92
+53919;Pinienweg;;;4;4;Weilerswist;003.1;;;92
+53919;Prümer Straße;1;1;;;Weilerswist;009.1;;;92
+53919;Pützweg;1;23;2;10;Weilerswist;009.1;;;92
+53919;Rathenaustraße;1;23;2;40;Weilerswist;001.1;;;92
+53919;Rebhuhnweg;1;17;2;4;Weilerswist;009.1;;;92
+53919;Rehweg;1;11;4;16;Weilerswist;007.1;;;92
+53919;Rheinbacher Straße;1;73;2;66;Weilerswist;008.1;;;92
+53919;Rheinstraße;1;21;2;50;Weilerswist;004.1;;;92
+53919;Ringelblumenweg;1;9;2;6;Weilerswist;003.1;;;92
+53919;Ringstraße;1;35;4;38;Weilerswist;009.1;;;92
+53919;Rochusstraße;1;13;2;14;Weilerswist;008.1;;;92
+53919;Rosenhügel;1;21;6;8;Weilerswist;001.1;;;92
+53919;Rosmarinweg;1;3;2;10;Weilerswist;003.1;;;92
+53919;Rotdornweg;1;11;4;22;Weilerswist;001.1;;;92
+53919;Rudolf-Diesel-Straße;;;2;8;Weilerswist;003.1;;;92
+53919;Rurstraße;3;15;2;12;Weilerswist;010.1;;;92
+53919;Ruwerstraße;3;21;6;36;Weilerswist;004.1;;;92
+53919;Römerstraße;3;15;4;20;Weilerswist;007.1;;;92
+53919;Rüdesheimer Straße;1;11;;;Weilerswist;009.1;;;92
+53919;Saarstraße;1;67;2;62;Weilerswist;002.1;;;92
+53919;Salbeiweg;1;21;4;20;Weilerswist;003.1;;;92
+53919;Salierweg;1;13;2;12;Weilerswist;007.1;;;92
+53919;Sanddornweg;1;7;2;8;Weilerswist;003.1;;;92
+53919;Schaesberggasse;5;25;4;14;Weilerswist;010.1;;;92
+53919;Scheiffartsweg;1;43;4;16;Weilerswist;002.1;;;92
+53919;Schillerstraße;1;19;;;Weilerswist;005.1;;;92
+53919;Schillingsweg;1;5;2;2;Weilerswist;009.1;;;92
+53919;Schlehenweg;1;17;12;32;Weilerswist;001.1;;;92
+53919;Schleidener Straße;33;41;2;8;Weilerswist;009.1;;;92
+53919;Schneiderweg;1;9;2;10;Weilerswist;003.1;;;92
+53919;Schneppenheimer Weg;3;51;6;8;Weilerswist;009.1;;;92
+53919;Schwarzmaarer Weg;1;1;4;6;Weilerswist;005.1;;;92
+53919;Schweinemarkt;1;9;2;2;Weilerswist;010.1;;;92
+53919;Schützenstraße;11;21;2;42;Weilerswist;004.1;;;92
+53919;Sebastianusgasse;1;3;2;2;Weilerswist;002.1;;;92
+53919;Siegstraße;1;11;2;12;Weilerswist;004.1;;;92
+53919;Sofienweg;1;7;;;Weilerswist;002.1;;;92
+53919;Sonnenblumenstraße;1;23;2;20;Weilerswist;003.1;;;92
+53919;Spanischer Platz;;;4;4;Weilerswist;010.1;;;92
+53919;St.-Florian-Weg;1;1;;;Weilerswist;006.1;;;92
+53919;Starenweg;;;2;8;Weilerswist;001.1;;;92
+53919;Steinfelder Straße;1;5;2;18;Weilerswist;009.1;;;92
+53919;Stettiner Straße;1;31;2;22;Weilerswist;005.1;;;92
+53919;Straßfelder Straße;;;2;6;Weilerswist;009.1;;;92
+53919;Swisterhof;;;0;0;Weilerswist;003.1;;;92
+53919;Swiststraße;1;37;2;56;Weilerswist;004.1;;;92
+53919;Talstraße;1;7;6;14;Weilerswist;005.1;;;92
+53919;Tannenweg;1;5;2;8;Weilerswist;001.1;;;92
+53919;Theodor-Heuss-Straße;51A;51A;;;Weilerswist;001.1;;;92
+53919;Theodor-Heuss-Straße;57;113;34;60;Weilerswist;001.1;;;92
+53919;Theodor-Heuss-Straße;1;55;4;30;Weilerswist;002.1;;;92
+53919;Theodor-Storm-Straße;;;2;18;Weilerswist;005.1;;;92
+53919;Tieffenthaler Gasse;1;11;2;8;Weilerswist;010.1;;;92
+53919;Tomberger Straße;1;25;2;56;Weilerswist;006.1;;;92
+53919;Trierer Straße;5;123;4;198;Weilerswist;005.1;;;92
+53919;Triftstraße;3;55;2;52;Weilerswist;002.1;;;92
+53919;Tulpenstraße;;;4;18;Weilerswist;003.1;;;92
+53919;Tönnespfad;1;1;6;8;Weilerswist;006.1;;;92
+53919;Türnicher Straße;7;19;6;10;Weilerswist;010.1;;;92
+53919;Ubierstraße;1;33;4;28;Weilerswist;007.1;;;92
+53919;Uferstraße;3;5;2;16;Weilerswist;007.1;;;92
+53919;Uhlandstraße;1;23;4;16;Weilerswist;005.1;;;92
+53919;Uhrmacherweg;3;25;4;28;Weilerswist;003.1;;;92
+53919;Ulmenstraße;1;13;2;16;Weilerswist;001.1;;;92
+53919;Unionstraße;1;9;2;14;Weilerswist;001.1;;;92
+53919;Variniusstraße;1;15;;;Weilerswist;005.1;;;92
+53919;Veilchenstraße;3;19;2;24;Weilerswist;003.1;;;92
+53919;Velbrückweg;1;11;4;10;Weilerswist;007.1;;;92
+53919;Vernicher Straße;9;25;8;18;Weilerswist;008.1;;;92
+53919;Veybachstraße;;;44;44;Weilerswist;009.1;;;92
+53919;Von-Ketteler-Straße;1;17;2;30;Weilerswist;005.1;;;92
+53919;Von-Orsbeck-Straße;5;57;8;46;Weilerswist;005.1;;;92
+53919;Wacholderweg;1;7;2;6;Weilerswist;003.1;;;92
+53919;Walramstraße;1;39;2;52;Weilerswist;010.1;;;92
+53919;Wasserburgstraße;;;2;8;Weilerswist;007.1;;;92
+53919;Wichtericher Weg;1;25;2;18;Weilerswist;010.1;;;92
+53919;Wieselweg;1;7;2;12;Weilerswist;009.1;;;92
+53919;Wilhelm-Busch-Straße;;;2;8;Weilerswist;005.1;;;92
+53919;Wilhelmshof;;;0;0;Weilerswist;007.1;;;92
+53919;Wilhelmstraße;;;2;16;Weilerswist;002.1;;;92
+53919;Willi-Ostermann-Straße;;;2;18;Weilerswist;005.1;;;92
+53919;Wüschheimer Straße;;;2;2;Weilerswist;009.1;;;92
+53919;Zedernstraße;3;11;4;12;Weilerswist;003.1;;;92
+53919;Zum Alten Zoll;1;11;2;10;Weilerswist;001.1;;;92
+53919;Zum Blauen Stein;3;5;2;102;Weilerswist;007.1;;;92
+53919;Zum Römerbrunnen;1;23;4;20;Weilerswist;006.1;;;92
+53919;Zum Rösselsgraben;1;11;2;8;Weilerswist;010.1;;;92
+53919;Zum Sportzentrum;1;9;;;Weilerswist;005.1;;;92
+53919;Zülpicher Straße;35;81;24;98;Weilerswist;006.1;;;92
