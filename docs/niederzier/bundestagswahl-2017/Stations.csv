@@ -1,0 +1,15 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+1.0;Dorfgemeinschaftshaus Ellen;Gartenstraße;11A;;;52382;Niederzier;;J
+2.0;Kindergarten Ellen;Streffenweg;4;;;52382;Niederzier;;J
+3.0;Dorfgemeinschaftshaus Oberzier;Dorfplatz;51;;;52382;Niederzier;;J
+4.0;Pfarrheim Oberzier;Dorfplatz;14;;;52382;Niederzier;;J
+6.0;Rentei am Rathaus;Rathausstraße;6;;;52382;Niederzier;;J
+7.0;Grundschule Niederzier;Weihbergstraße;23;;;52382;Niederzier;;J
+8.0;Bürgerhaus Niederzier;Kölnstraße;46;;;52382;Niederzier;;J
+9.0;Pfarrheim Hambach;Bachstraße;2B;;;52382;Niederzier;;J
+10.1;Sport- und Kulturhaus;Niederfeld;7;;;52382;Niederzier;;J
+10.2;Gaststätte Jonen;Römerstraße;2;;;52382;Niederzier;;J
+11.0;Bürgerhaus Huchem-Stammeln;Stammelner Straße;33;;;52382;Niederzier;;J
+12.0;Kindergarten Huchem-Stammeln;Grabenstraße;28;;;52382;Niederzier;;J
+13.0;Grundschule Huchem-Stammeln;Hochheimstraße;34;;;52382;Niederzier;;J
+5.0;Mensa der Gesamtschule;Am Weiherhof;22;;;52382;Niederzier;;J
