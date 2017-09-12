@@ -1,0 +1,12 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+09.0;Feuerwehrgerätehaus;Hilbergartenstr. 3;;;;53947;Nettersheim-Roderath;;J
+11.0;Grundschule;Petrusstr. 5;;;;53947;Nettersheim-Zingsheim;;J
+02.0;Ehem. Schule Buir;Zur Feldscheid 2;;;;53947;Nettersheim-Buir;;J
+03.0;DRK Kindergarten;Dürener Straße;28;;;53947;Nettersheim-Engelgau;;J
+10.0;Kindergarten Tondorf;Spielstraße;2;;;53947;Nettersheim-Tondorf;;J
+06.0;Alte Schule Marmagen;Kölner Str. 43;;;;53947;Nettersheim-Marmagen;;N
+07.0;Naturzentrum Eifel;Urftstraße;2;;;53947;Nettersheim;;J
+08.0;Pfarrheim Pesch;Jakob-Kneip-Straße;27;;;53947;Nettersheim-Pesch;;J
+04.0;Pfarrheim Frohngau;Holzmülheimer Str. 9;;;;53947;Nettersheim-Frohngau;;N
+05.0;"Gaststätte ""Zur Erftquelle""";Trierer Straße;30;;;53947;Nettersheim-Holzmülheim;;J
+01.0;Feuerwehrgerätehaus Bouderath;Ahornstraße;3;;;53947;Nettersheim;;J
