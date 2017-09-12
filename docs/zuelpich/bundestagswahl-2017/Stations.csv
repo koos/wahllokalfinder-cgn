@@ -1,0 +1,27 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+0030;Rathaus Raum 6, Erdgeschoss;Markt;21;;;53909;Zülpich;;J
+0020;Franken-Gymnasium Zülpich;Keltenweg;14;;;53909;Zülpich;;J
+0040;Franken-Gymnasium Zülpich;Keltenweg;14;;;53909;Zülpich;;N
+0060;Städt. Kindergarten Hoven;Hermann-Josef-Straße;9;;;53909;Zülpich;;J
+0051;Ehemalige Schule Bessenich;Im Kirchfeldchen;10;;;53909;Zülpich;;J
+0071;Kath. Pfarrheim Rövenich;Oberelvenicher Straße;47;;;53909;Zülpich;;N
+0070;Alte Schule Nemmenich;Philipp-Orth-Straße;58;;;53909;Zülpich;;N
+0081;Alte Schule Oberelvenich;Kellerhofstraße;24a;;;53909;Zülpich;;N
+0090;Grundschule Wichterich (Schulcontainer);Jahnstraße;2;;;53909;Zülpich;;J
+0100;Grundschule Ülpenich;Eulenweg;10;;;53909;Zülpich;;J
+0110;Kath. KG Lövenich;Im Tiergarten;50;;;53909;Zülpich;;J
+0111;Ehemalige Schule Schwerfen;Zur Talmühle;5;;;53909;Zülpich;;J
+0120;Ehemalige Schule Schwerfen;Zur Talmühle;5;;;53909;Zülpich;;J
+0131;Feuerwehrgerätehaus Enzen;Pfarrer-Funke-Str.;2;;;53909;Zülpich;;J
+0140;Alte Schule Merzenich;Severinusstraße;22;;;53909;Zülpich;;N
+0141;Grundschule Sinzenich;Gartenstraße;33;;;53909;Zülpich;;N
+0150;Stephanusschule;Eldernstraße;62;;;53909;Zülpich;;J
+0151;Bürgerhaus Langendorf;Eifelstraße;43;;;53909;Zülpich;;N
+0160;Schule Füssenich;St.-Nikolaus-Str.;18;;;53909;Zülpich;;J
+0061;Altenzentrum St. Elisabeth;Am Wassersportsee;1;;;53909;Zülpich;;N
+0082;Dorfhalle Niederelvenich;Wichtericher Straße;45;;;53909;Zülpich;;J
+0080;Feuerwehrgerätehaus Weiler i.d.E.;Borrer Straße;18a;;;53909;Zülpich;;J
+0050;Alte Schule Geich;Auf dem Fluß;7;;;53909;Zülpich;;N
+0010;Sachverständigenbüro LŽhonneux;Römerallee;55;;;53909;Zülpich;;J
+0130;Dorfgemeinschaftshaus am Sportplatz;Bleistraße;;;;53909;Zülpich;;N
+0161;Feuerwehrgerätehaus Juntersdorf;Hovener Straße;17;;;53909;Zülpich;;N

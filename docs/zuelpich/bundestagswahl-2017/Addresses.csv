@@ -1,0 +1,419 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+53909;Aachener Straße;1;115;2;96;Geich;0050;;;92
+53909;Adenauerplatz;3;11;4;10;Zülpich;0040;;;92
+53909;Adolf-Kolping-Straße;1;9;2;8;Hoven;0060;;;92
+53909;Ahrstraße;15;41;8;56;Ülpenich;0100;;;92
+53909;Albert-Schweitzer-Straße;3;31;4;44;Enzen;0131;;;92
+53909;Alderikusstraße;1;15;2;4;Geich;0050;;;92
+53909;Alemannenstraße;1;11;2;4;Zülpich;0040;;;92
+53909;Allensteiner Straße;1;3;2;18;Zülpich;0040;;;92
+53909;Alte Bachstraße;1;13;2;14;Schwerfen;0120;;;92
+53909;Alte Heide;3;15;2;26;Dürscheven;0130;;;92
+53909;Alte Kornkammer;3;23;2;28;Zülpich;0020;;;92
+53909;Alter Weg;1;1;;;Merzenich;0140;;;92
+53909;Am Bahnhof;1;1;2;2;Dürscheven;0130;;;92
+53909;Am Baumgarten;1;19;4;22;Hoven;0060;;;92
+53909;Am Bildchen;1;5;;;Zülpich;0030;;;92
+53909;Am Braunacker;1;25;2;8;Nemmenich;0070;;;92
+53909;Am Burgweiher;1;13;8;8;Nemmenich;0070;;;92
+53909;Am Fuchsberg;1;5;2;8;Wichterich;0090;;;92
+53909;Am Heidenfeld;1;17;2;18;Bürvenich;0150;;;92
+53909;Am Holzweg;3;21;4;40;Ülpenich;0100;;;92
+53909;Am Kopmann;1;33;2;54;Bürvenich;0150;;;92
+53909;Am Kreisbahnhof;3;19;2;22;Wichterich;0090;;;92
+53909;Am Pantzenberg;;;4;8;Füssenich;0160;;;92
+53909;Am Sandberg;3;19;2;8;Linzenich;0110;;;92
+53909;Am Silberberg;1;5;4;6;Zülpich;0030;;;92
+53909;Am Stein;1;9;;;Eppenich;0150;;;92
+53909;Am Valder;1;5;2;20;Geich;0050;;;92
+53909;Am Vlattener Bach;;;2;6;Lövenich;0110;;;92
+53909;Am Wachbaum;3;23;10;22;Wichterich;0090;;;92
+53909;Am Wassersportsee;1;1;;;Hoven;0061;;;92
+53909;Am Wehr;3;41;4;60;Lövenich;0110;;;92
+53909;Am stenere Hus;3;3;;;Geich;0050;;;92
+53909;Amselweg;1;11;2;14;Ülpenich;0100;;;92
+53909;An der Burg;1;15;4;14;Linzenich;0110;;;92
+53909;An der Drüghweide;5;21;6;14;Enzen;0131;;;92
+53909;An der Erk;1;3;2;2;Schwerfen;0111;;;92
+53909;An der Gülichsburg;1;23;2;32;Schwerfen;0120;;;92
+53909;An der Kirche;1;3;;;Weiler I.d.E.;0080;;;92
+53909;An der Trift;7;47;6;48;Enzen;0131;;;92
+53909;An der Tränke;1;3;6;6;Weiler I.d.E.;0080;;;92
+53909;An der Ölmühle;15;19;2;22;Oberelvenich;0081;;;92
+53909;Angerbitz;3;3;8;12;Enzen;0131;;;92
+53909;Antonigartzem;1;1;;;Enzen;0131;;;92
+53909;Antoniusstraße;3;61;2;60;Langendorf;0151;;;92
+53909;Apfelweg;1;35;2;26;Zülpich;0040;;;92
+53909;Astreastraße;1;47;6;20;Juntersdorf;0161;;;92
+53909;Auf dem Acker;21;21;;;Ülpenich;0100;;;92
+53909;Auf dem Fluß;1;5;2;20;Geich;0050;;;92
+53909;Auf dem Sand;3;13;2;24;Sinzenich;0141;;;92
+53909;Auf dem Äckerchen;1;45;2;62;Schwerfen;0120;;;92
+53909;Auf den Steinen;7;9;2;2;Ülpenich;0100;;;92
+53909;Auf der Auel;3;3;2;2;Lövenich;0110;;;92
+53909;Aufm Hagedorn;1;37;4;42;Rövenich;0071;;;92
+53909;Augustinusstraße;;;2;6;Hoven;0060;;;92
+53909;Bachsteinweg;1;15;2;34;Zülpich;0030;;;92
+53909;Bachstraße;1;29;2;22;Zülpich;0030;;;92
+53909;Backesgarten;1;27;2;56;Enzen;0131;;;92
+53909;Bahnhofstraße;1;51;2;46;Dürscheven;0130;;;92
+53909;Baumschulweg;5;9;2;8;Ülpenich;0100;;;92
+53909;Bendenstraße;3;29;2;36;Dürscheven;0130;;;92
+53909;Bergheimer Straße;1;25;8;8;Zülpich;0010;;;92
+53909;Bergstraße;3;17;4;22;Ülpenich;0100;;;92
+53909;Bessenicher Mühle;;;0;0;Bessenich;0051;;;92
+53909;Beuelsstraße;1;49;2;48;Schwerfen;0120;;;92
+53909;Birnenweg;5;21;2;34;Zülpich;0040;;;92
+53909;Bitzgasse;1;5;4;14;Bessenich;0051;;;92
+53909;Blatzheimer Straße;3;15;6;14;Zülpich;0010;;;92
+53909;Blayer Straße;;;30;48;Zülpich;0040;;;92
+53909;Bleibachstraße;1;11;4;4;Dürscheven;0130;;;92
+53909;Blockhaus;;;0;0;Ülpenich;0100;;;92
+53909;Blumenweg;1;19;6;20;Bürvenich;0150;;;92
+53909;Bollheimer Straße;1;11;2;20;Oberelvenich;0081;;;92
+53909;Bonner Straße;3;37;2;54;Zülpich;0040;;;92
+53909;Bootsstraße;1;17;2;24;Füssenich;0160;;;92
+53909;Borrer Straße;3;25;4;42;Weiler I.d.E.;0080;;;92
+53909;Bouliger Straße;9;21;50;50;Weiler I.d.E.;0080;;;92
+53909;Bouligsmühle;;;0;0;Mülheim;0090;;;92
+53909;Brabenderstraße;1;19;;;Zülpich;0040;;;92
+53909;Brauersgasse;3;3;6;10;Zülpich;0030;;;92
+53909;Bruchstraße;1;21;8;10;Nemmenich;0070;;;92
+53909;Brunnenstraße;1;31;2;20;Füssenich;0160;;;92
+53909;Brückenstraße;1;23;2;20;Ülpenich;0100;;;92
+53909;Brüsseler Straße;1;123;2;72;Füssenich;0160;;;92
+53909;Buchenweg;11;11;10;12;Zülpich;0010;;;92
+53909;Burg Irnich;;;0;0;Schwerfen;0120;;;92
+53909;Burg Mülheim;;;0;0;Mülheim;0090;;;92
+53909;Burg Virnich;;;0;0;Schwerfen;0120;;;92
+53909;Burgstraße;3;7;8;34;Enzen;0131;;;92
+53909;Buschpfad;1;1;;;Mülheim;0090;;;92
+53909;Bürvenicher Straße;7;49;4;44;Hoven;0060;;;92
+53909;Chlodwigstraße;9;31;4;30;Zülpich;0040;;;92
+53909;Chlodwigstraße;39;49;;;Hoven;0060;;;92
+53909;Dahlienweg;1;7;4;10;Enzen;0131;;;92
+53909;Danziger Straße;3;33;2;22;Zülpich;0040;;;92
+53909;Dechant-Zangs-Straße;1;23;2;24;Nemmenich;0070;;;92
+53909;Disternicher Straße;1;15;2;24;Weiler I.d.E.;0080;;;92
+53909;Dreikönigenstraße;3;25;2;34;Zülpich;0010;;;92
+53909;Drimbornweg;11;11;2;26;Rövenich;0071;;;92
+53909;Drosselweg;1;9;4;14;Ülpenich;0100;;;92
+53909;Duisburger Straße;1;13;2;18;Zülpich;0020;;;92
+53909;Dürener Straße;5;43;8;54;Bessenich;0051;;;92
+53909;Düsseldorfer Straße;1;81;2;86;Zülpich;0020;;;92
+53909;Düttling;1;7;4;24;Juntersdorf;0161;;;92
+53909;Eifelstraße;7;99;6;64;Langendorf;0151;;;92
+53909;Eldernstraße;3;65;6;60;Bürvenich;0150;;;92
+53909;Ellemaarsgraben;1;31;4;34;Füssenich;0160;;;92
+53909;Elster Straße;3;29;2;8;Zülpich;0020;;;92
+53909;Embkener Straße;1;1;2;2;Juntersdorf;0161;;;92
+53909;Engelhartszeller Straße;;;2;6;Sinzenich;0141;;;92
+53909;Enzener Straße;9;77;20;94;Linzenich;0110;;;92
+53909;Eppenicher Straße;5;21;2;42;Bürvenich;0150;;;92
+53909;Eulenberg;;;0;0;Füssenich;0160;;;92
+53909;Eulenweg;1;23;2;16;Ülpenich;0100;;;92
+53909;Euskirchener Straße;3;27;4;58;Zülpich;0020;;;92
+53909;Falkenhof;;;0;0;Niederelvenich;0082;;;92
+53909;Falkenweg;17;17;4;16;Ülpenich;0100;;;92
+53909;Fasanenweg;3;9;2;16;Ülpenich;0100;;;92
+53909;Finkenweg;7;15;6;12;Ülpenich;0100;;;92
+53909;Firmenicher Straße;1;3;4;44;Enzen;0131;;;92
+53909;Floisdorfer Straße;1;9;2;24;Schwerfen;0111;;;92
+53909;Forellenstraße;1;9;2;16;Geich;0050;;;92
+53909;Frankengraben;1;43;2;32;Zülpich;0040;;;92
+53909;Frankfurter Straße;1;45;2;38;Wichterich;0090;;;92
+53909;Frauenberger Weg;3;9;8;8;Ülpenich;0100;;;92
+53909;Friedhofstraße;3;5;2;6;Wichterich;0090;;;92
+53909;Friedrich-Ebert-Straße;1;5;2;6;Zülpich;0040;;;92
+53909;Frohngasse;3;5;4;4;Wichterich;0090;;;92
+53909;Froitzheimer Weg;9;35;26;30;Füssenich;0160;;;92
+53909;Froschweg;1;7;2;4;Ülpenich;0100;;;92
+53909;Füssenicher Weg;1;15;4;8;Juntersdorf;0161;;;92
+53909;Gartenstraße;1;43;2;40;Sinzenich;0141;;;92
+53909;Gassenpfad;3;3;;;Wichterich;0090;;;92
+53909;Gasthausberg;1;5;;;Zülpich;0030;;;92
+53909;Gehner Straße;1;5;6;18;Schwerfen;0120;;;92
+53909;Geicher Gasse;1;15;4;34;Zülpich;0030;;;92
+53909;Gertrudisstraße;1;17;4;14;Juntersdorf;0161;;;92
+53909;Giersberg;1;19;4;26;Schwerfen;0111;;;92
+53909;Giesebrechtstraße;1;39;4;34;Zülpich;0010;;;92
+53909;Gladbacher Straße;11;57;6;54;Weiler I.d.E.;0080;;;92
+53909;Goldsteinhof;1;1;0;2;Bürvenich;0150;;;92
+53909;Golzheimer Straße;3;3;;;Zülpich;0010;;;92
+53909;Gottsberg;5;17;2;40;Zülpich;0030;;;92
+53909;Grabenstraße;1;3;2;4;Geich;0050;;;92
+53909;Grenicher Hof;;;0;0;Schwerfen;0120;;;92
+53909;Grüne Gasse;1;5;2;12;Zülpich;0040;;;92
+53909;Guinbertstraße;1;5;4;6;Zülpich;0030;;;92
+53909;Guter-Mann-Straße;1;29;6;16;Zülpich;0010;;;92
+53909;Hallstattweg;1;5;4;18;Linzenich;0110;;;92
+53909;Haus Bollheim;1;1;0;0;Oberelvenich;0081;;;92
+53909;Haus Boulig;1;3;0;0;Mülheim;0090;;;92
+53909;Haus Busch;3;3;0;2;Niederelvenich;0082;;;92
+53909;Haus Dürffenthal;;;0;0;Ülpenich;0100;;;92
+53909;Haus Pesch;;;0;2;Mülheim;0090;;;92
+53909;Heerfahrt;3;5;;;Nemmenich;0070;;;92
+53909;Heerstraße;1;65;4;60;Dürscheven;0130;;;92
+53909;Heimbacher Straße;1;29;2;30;Eppenich;0150;;;92
+53909;Hermann-Josef-Straße;21;23;2;30;Hoven;0060;;;92
+53909;Hertenicher Weg;1;23;2;30;Zülpich;0010;;;92
+53909;Hinter den Hecken;1;5;4;12;Schwerfen;0120;;;92
+53909;Hochstadenstraße;7;53;4;64;Zülpich;0010;;;92
+53909;Hompeschstraße;1;5;2;8;Geich;0050;;;92
+53909;Hornstraße;1;13;2;10;Schwerfen;0120;;;92
+53909;Hovener Straße;1;19;2;20;Juntersdorf;0161;;;92
+53909;Hubert-Trimborn-Straße;7;49;6;34;Nemmenich;0070;;;92
+53909;Hubertushof;;;0;2;Nemmenich;0070;;;92
+53909;Hummelweg;1;7;4;10;Ülpenich;0100;;;92
+53909;Hüllenweg;1;5;4;12;Linzenich;0110;;;92
+53909;Im Bungert;3;5;2;10;Oberelvenich;0081;;;92
+53909;Im Feldchen;5;9;4;6;Geich;0050;;;92
+53909;Im Felde;;;0;0;Geich;0050;;;92
+53909;Im Geretchen;5;7;6;6;Füssenich;0160;;;92
+53909;Im Haag;1;29;2;54;Schwerfen;0120;;;92
+53909;Im Kamp;3;3;;;Lövenich;0110;;;92
+53909;Im Kirchfeldchen;15;37;30;38;Bessenich;0051;;;92
+53909;Im Knekel;7;11;10;10;Geich;0050;;;92
+53909;Im Meisenbusch;1;17;2;2;Schwerfen;0111;;;92
+53909;Im Odenthal;;;0;0;Bessenich;0051;;;92
+53909;Im Tal;;;18;18;Schwerfen;0120;;;92
+53909;Im Tiergarten;3;3;4;52;Linzenich;0110;;;92
+53909;Im Weidchen;1;9;;;Nemmenich;0070;;;92
+53909;Im Wiesengrund;1;11;2;12;Füssenich;0160;;;92
+53909;Im Wingert;3;7;6;22;Zülpich;0030;;;92
+53909;In den Auen;3;21;2;32;Schwerfen;0120;;;92
+53909;In den Betzen;5;31;2;28;Schwerfen;0120;;;92
+53909;In den Erlen;1;17;2;16;Schwerfen;0120;;;92
+53909;In der Furth;7;7;2;8;Lövenich;0110;;;92
+53909;In der Hostert;3;7;;;Sinzenich;0141;;;92
+53909;In der Höhle;3;13;4;20;Wichterich;0090;;;92
+53909;In der Hütte;1;5;6;6;Niederelvenich;0082;;;92
+53909;In der Otterkaul;1;11;4;26;Wichterich;0090;;;92
+53909;Industriestraße;7;35;4;16;Zülpich;0010;;;92
+53909;Irnich;1;5;2;10;Schwerfen;0120;;;92
+53909;Irnicher Straße;57;61;60;62;Schwerfen;0120;;;92
+53909;Jahnstraße;3;29;8;8;Wichterich;0090;;;92
+53909;Joh.-Brandenberg-Straße;1;17;2;4;Niederelvenich;0082;;;92
+53909;Johann-Greuel-Straße;1;3;2;4;Dürscheven;0130;;;92
+53909;Johannesstraße;1;13;2;18;Mülheim;0090;;;92
+53909;Josef-Beden-Straße;31;43;8;38;Mülheim;0090;;;92
+53909;Josef-Peiffer-Platz;;;2;2;Zülpich;0030;;;92
+53909;Juntersdorfer Straße;3;5;2;20;Hoven;0060;;;92
+53909;Jülicher Straße;1;11;;;Füssenich;0160;;;92
+53909;Kanalstraße;5;11;8;8;Dürscheven;0130;;;92
+53909;Kangasalastraße;1;21;4;38;Zülpich;0020;;;92
+53909;Kannengarten;9;17;2;18;Ülpenich;0100;;;92
+53909;Kapellenstraße;9;15;2;32;Enzen;0131;;;92
+53909;Karl-Esser-Straße;5;5;4;6;Zülpich;0010;;;92
+53909;Karolingerstraße;9;13;;;Zülpich;0010;;;92
+53909;Karpfenstraße;1;5;6;6;Geich;0050;;;92
+53909;Katharinenhof;;;0;0;Niederelvenich;0082;;;92
+53909;Kellergasse;1;1;;;Bürvenich;0150;;;92
+53909;Kellerhofstraße;1;49;2;32;Oberelvenich;0081;;;92
+53909;Keltenweg;7;43;12;42;Zülpich;0040;;;92
+53909;Kesselstraße;7;9;2;20;Niederelvenich;0082;;;92
+53909;Ketteler Siedlung;1;39;2;22;Zülpich;0010;;;92
+53909;Kettenweg;5;25;8;48;Zülpich;0040;;;92
+53909;Kirchstraße;1;31;2;18;Sinzenich;0141;;;92
+53909;Kirschweg;1;11;2;18;Zülpich;0040;;;92
+53909;Kleine Grüne Gasse;1;1;2;10;Zülpich;0040;;;92
+53909;Klever Straße;1;13;2;30;Zülpich;0020;;;92
+53909;Klostergarten;3;11;2;8;Sinzenich;0141;;;92
+53909;Klosterstraße;5;5;4;10;Sinzenich;0141;;;92
+53909;Kommerner Straße;1;81;2;100;Sinzenich;0141;;;92
+53909;Kornmühlenweg;;;2;2;Oberelvenich;0081;;;92
+53909;Krefelder Straße;51;77;2;64;Zülpich;0020;;;92
+53909;Kreuzstraße;1;45;4;52;Bessenich;0051;;;92
+53909;Kuhweider Weg;;;14;14;Rövenich;0071;;;92
+53909;Kunibertstraße;;;4;14;Ülpenich;0100;;;92
+53909;Käsmarkt;3;9;2;8;Zülpich;0030;;;92
+53909;Kölnstraße;1;77;2;64;Zülpich;0030;;;92
+53909;Königsberger Straße;1;9;2;20;Zülpich;0020;;;92
+53909;Langendorfer Straße;;;4;4;Bürvenich;0150;;;92
+53909;Langer Rehn;1;13;8;14;Zülpich;0040;;;92
+53909;Leiwener Straße;3;9;2;8;Zülpich;0020;;;92
+53909;Lerchenweg;3;19;4;12;Ülpenich;0100;;;92
+53909;Libellenweg;1;9;6;8;Ülpenich;0100;;;92
+53909;Lindenweg;13;15;14;14;Zülpich;0010;;;92
+53909;Linzenicher Straße;1;39;2;40;Sinzenich;0141;;;92
+53909;Lochstraße;1;29;2;26;Geich;0050;;;92
+53909;Lohgasse;;;2;8;Bürvenich;0150;;;92
+53909;Lohhof;;;0;0;Bürvenich;0150;;;92
+53909;Lohmühlenstraße;1;53;2;46;Schwerfen;0120;;;92
+53909;Lommersumer Straße;11;43;2;44;Wichterich;0090;;;92
+53909;Luisges Mühle;;;0;0;Füssenich;0160;;;92
+53909;Lurchenweg;1;5;6;6;Ülpenich;0100;;;92
+53909;Luxemburger Straße;1;65;2;80;Hoven;0061;;;92
+53909;Löhrstraße;5;19;2;8;Sinzenich;0141;;;92
+53909;Lövenicher Straße;3;3;6;6;Sinzenich;0141;;;92
+53909;Lüssem;1;7;2;2;Nemmenich;0070;;;92
+53909;Lüssemer Straße;1;37;2;28;Nemmenich;0070;;;92
+53909;Maarweg;5;11;4;8;Weiler I.d.E.;0080;;;92
+53909;Marienburger Straße;1;29;2;26;Zülpich;0020;;;92
+53909;Marienhof;;;0;0;Niederelvenich;0082;;;92
+53909;Marienstraße;1;3;4;14;Niederelvenich;0082;;;92
+53909;Markt;1;21;4;22;Zülpich;0030;;;92
+53909;Martinstraße;5;49;2;54;Zülpich;0030;;;92
+53909;Mechernicher Straße;1;17;6;20;Bürvenich;0150;;;92
+53909;Meisenweg;1;3;2;2;Ülpenich;0100;;;92
+53909;Merowingerstraße;1;17;4;12;Zülpich;0040;;;92
+53909;Mersburdenstraße;1;45;2;42;Zülpich;0010;;;92
+53909;Merzenicher Straße;1;55;4;18;Sinzenich;0141;;;92
+53909;Mittelstraße;1;7;2;6;Sinzenich;0141;;;92
+53909;Moselstraße;1;81;2;98;Ülpenich;0100;;;92
+53909;Mönchhof;;;0;0;Bessenich;0051;;;92
+53909;Mönchhofweg;1;17;2;18;Bessenich;0051;;;92
+53909;Mühlenberg;1;9;2;10;Zülpich;0030;;;92
+53909;Mühlenhof;;;0;0;Dürscheven;0130;;;92
+53909;Mühlenhostert;5;19;4;56;Sinzenich;0141;;;92
+53909;Mühlenstraße;7;25;6;26;Sinzenich;0141;;;92
+53909;Mülheimer Straße;1;71;2;72;Wichterich;0090;;;92
+53909;Münsterstraße;3;31;6;32;Zülpich;0030;;;92
+53909;Nachtigallenweg;7;17;;;Lövenich;0110;;;92
+53909;Neffeltalstraße;1;9;2;10;Zülpich;0020;;;92
+53909;Nelkenweg;;;2;14;Enzen;0131;;;92
+53909;Nemmenicher Straße;3;39;2;34;Zülpich;0020;;;92
+53909;Neuenthaler Weg;7;9;6;6;Dürscheven;0130;;;92
+53909;Neuer Weg;1;21;2;16;Hoven;0060;;;92
+53909;Neusser Straße;3;33;2;54;Zülpich;0020;;;92
+53909;Neustraße;1;57;2;52;Schwerfen;0120;;;92
+53909;Nideggener Straße;39;161;38;166;Hoven;0060;;;92
+53909;Nideggener Straße;1;37;4;26;Zülpich;0030;;;92
+53909;Niederberger Straße;1;79;2;80;Mülheim;0090;;;92
+53909;Nordstraße;11;27;2;22;Niederelvenich;0082;;;92
+53909;Normannengasse;7;31;8;40;Zülpich;0030;;;92
+53909;Oberdorfallee;1;19;2;18;Füssenich;0160;;;92
+53909;Oberelvenicher Straße;23;83;24;96;Rövenich;0071;;;92
+53909;Oststraße;5;21;2;24;Füssenich;0160;;;92
+53909;Pankratiusstraße;1;55;4;50;Rövenich;0071;;;92
+53909;Pastor-Bauer-Strasse;1;19;2;6;Zülpich;0030;;;92
+53909;Pastor-Kremers-Straße;1;35;2;82;Hoven;0060;;;92
+53909;Pastoratstraße;1;5;8;8;Enzen;0131;;;92
+53909;Pater-Dietmar-Straße;1;11;2;14;Niederelvenich;0082;;;92
+53909;Paul-Hubert-Pesch-Straße;13;13;2;14;Zülpich;0040;;;92
+53909;Pescher Straße;1;11;2;20;Mülheim;0090;;;92
+53909;Peter-Geuer-Straße;1;9;2;8;Nemmenich;0070;;;92
+53909;Peter-Hett-Straße;1;55;2;34;Sinzenich;0141;;;92
+53909;Peter-Simons-Straße;1;15;2;10;Nemmenich;0070;;;92
+53909;Petzestraße;3;7;4;6;Dürscheven;0130;;;92
+53909;Pfarrer-Funke-Straße;1;21;22;22;Enzen;0131;;;92
+53909;Pfarrer-Jägers-Straße;3;39;4;40;Ülpenich;0100;;;92
+53909;Pfarrer-Klein-Straße;1;13;2;16;Geich;0050;;;92
+53909;Pfarrer-Königs-Straße;3;5;2;2;Füssenich;0160;;;92
+53909;Pfarrer-Linden-Straße;1;25;2;44;Niederelvenich;0082;;;92
+53909;Pfarrer-Ostwald-Strasse;1;11;4;16;Langendorf;0151;;;92
+53909;Pfarrer-Wachten-Straße;3;9;6;8;Juntersdorf;0161;;;92
+53909;Pfr.Krumscheidt-Straße;5;5;4;8;Schwerfen;0111;;;92
+53909;Philipp-Orth-Straße;5;33;2;58;Nemmenich;0070;;;92
+53909;Poststraße;3;35;6;32;Nemmenich;0070;;;92
+53909;Provinzialstraße;;;2;6;Schwerfen;0120;;;92
+53909;Prälat-Franken-Straße;1;37;2;46;Lövenich;0110;;;92
+53909;Prälat-Lessenich-Straße;5;5;10;12;Rövenich;0071;;;92
+53909;Pützacker;;;2;6;Nemmenich;0070;;;92
+53909;Pützstraße;1;17;2;18;Niederelvenich;0082;;;92
+53909;Quellenweg;5;7;;;Füssenich;0160;;;92
+53909;Quittenweg;1;47;2;24;Zülpich;0040;;;92
+53909;Raiffeisenstraße;1;13;2;12;Wichterich;0090;;;92
+53909;Rathausgasse;3;5;2;2;Zülpich;0030;;;92
+53909;Rheinstraße;1;71;4;100;Ülpenich;0100;;;92
+53909;Ringstraße;3;53;8;54;Ülpenich;0100;;;92
+53909;Ritterstraße;1;19;6;8;Sinzenich;0141;;;92
+53909;Rochushof;;;0;0;Zülpich;0040;;;92
+53909;Rosengarten;;;0;0;Füssenich;0160;;;92
+53909;Rosenweg;1;7;4;6;Ülpenich;0100;;;92
+53909;Rotbachaue;15;21;4;8;Wichterich;0090;;;92
+53909;Rotbachstraße;1;25;2;6;Nemmenich;0070;;;92
+53909;Ruckau;1;1;;;Ülpenich;0100;;;92
+53909;Römerallee;3;73;4;48;Zülpich;0010;;;92
+53909;Röschhofgasse;1;1;2;2;Wichterich;0090;;;92
+53909;Rövenicher Straße;1;9;2;8;Zülpich;0020;;;92
+53909;Salamanderweg;1;39;2;20;Ülpenich;0100;;;92
+53909;Salentinweg;1;19;2;20;Zülpich;0030;;;92
+53909;Schafsacker;3;25;4;28;Hoven;0060;;;92
+53909;Schießbahn;1;5;4;10;Zülpich;0030;;;92
+53909;Schleidener Straße;1;13;;;Zülpich;0040;;;92
+53909;Schmetterlingsweg;3;5;;;Ülpenich;0100;;;92
+53909;Schmiedestraße;5;21;4;18;Mülheim;0090;;;92
+53909;Schmittgasse;5;5;2;6;Zülpich;0030;;;92
+53909;Schnorrenberg;1;7;6;6;Nemmenich;0070;;;92
+53909;Schnorrenberger Allee;1;55;2;40;Nemmenich;0070;;;92
+53909;Schulstraße;5;5;;;Langendorf;0151;;;92
+53909;Schumacherstraße;1;19;2;18;Zülpich;0030;;;92
+53909;Schwerfener Hauptstraße;3;55;2;58;Schwerfen;0120;;;92
+53909;Schützenstraße;1;27;2;28;Bessenich;0051;;;92
+53909;Sebastianusstraße;1;15;2;8;Wichterich;0090;;;92
+53909;Seegartenstraße;;;2;14;Zülpich;0040;;;92
+53909;Seestraße;1;21;2;12;Geich;0050;;;92
+53909;Severinusstraße;3;75;2;62;Merzenich;0140;;;92
+53909;Siebengebirgsstraße;1;29;2;16;Zülpich;0020;;;92
+53909;Siechhaus;;;0;0;Rövenich;0071;;;92
+53909;Sievernicher Straße;3;5;4;4;Weiler I.d.E.;0080;;;92
+53909;Sinzenicher Straße;7;23;;;Merzenich;0140;;;92
+53909;Sommerbenden;1;13;2;20;Geich;0050;;;92
+53909;Sonnenweg;3;21;10;22;Wichterich;0090;;;92
+53909;Sportplatzweg;;;2;2;Bessenich;0051;;;92
+53909;St. Hubertus Weg;1;9;6;12;Rövenich;0071;;;92
+53909;St.-Gereon-Straße;5;19;;;Dürscheven;0130;;;92
+53909;St.-Nikolaus-Straße;3;3;2;36;Füssenich;0160;;;92
+53909;St.-Rochus-Straße;3;17;2;14;Geich;0050;;;92
+53909;St.Florian Straße;13;21;4;20;Sinzenich;0141;;;92
+53909;Steinfelder Straße;1;37;2;10;Zülpich;0040;;;92
+53909;Stephanusstraße;1;151;2;160;Bürvenich;0150;;;92
+53909;Südstraße;1;11;4;14;Niederelvenich;0082;;;92
+53909;Tacitusstraße;1;33;4;26;Zülpich;0010;;;92
+53909;Talstraße;3;11;2;14;Niederelvenich;0082;;;92
+53909;Tannenweg;7;9;8;8;Zülpich;0010;;;92
+53909;Tarregastraße;3;7;4;6;Zülpich;0020;;;92
+53909;Tempelgasse;3;5;6;6;Zülpich;0040;;;92
+53909;Thalhof;1;3;2;2;Niederelvenich;0082;;;92
+53909;Theodor-Heuss-Straße;3;53;8;40;Zülpich;0040;;;92
+53909;Theudebertstraße;1;57;2;66;Enzen;0131;;;92
+53909;Theuderichstraße;1;69;4;28;Zülpich;0010;;;92
+53909;Thomashof;;;0;0;Füssenich;0160;;;92
+53909;Tiefentaler Straße;9;23;;;Rövenich;0071;;;92
+53909;Tissenicher Mühle;1;1;2;2;Enzen;0131;;;92
+53909;Tissenicher Straße;7;31;8;34;Enzen;0131;;;92
+53909;Trierer Straße;3;75;2;74;Weiler I.d.E.;0080;;;92
+53909;Triftstraße;;;2;10;Bürvenich;0150;;;92
+53909;Ubierweg;3;25;4;28;Zülpich;0040;;;92
+53909;Udelsgasse;3;29;2;26;Schwerfen;0111;;;92
+53909;Uferstraße;1;45;2;44;Füssenich;0160;;;92
+53909;Ulmenweg;1;9;2;10;Zülpich;0010;;;92
+53909;Ulrichstraße;7;41;2;34;Weiler I.d.E.;0080;;;92
+53909;Urbanusstraße;1;29;2;28;Lövenich;0110;;;92
+53909;Veilchenstraße;9;27;2;8;Geich;0050;;;92
+53909;Violenhof;;;0;0;Langendorf;0151;;;92
+53909;Virnich;1;11;4;14;Schwerfen;0120;;;92
+53909;Virnicher Straße;1;29;4;40;Schwerfen;0120;;;92
+53909;Vogelsangstraße;3;19;4;8;Rövenich;0071;;;92
+53909;Von-Bodelschwingh-Straße;1;17;2;32;Zülpich;0010;;;92
+53909;Von-Colyn-Straße;;;2;6;Linzenich;0110;;;92
+53909;Von-Hengebach-Straße;;;4;6;Hoven;0061;;;92
+53909;Von-Keverberg-Strasse;3;13;6;6;Linzenich;0110;;;92
+53909;Von-Lutzenberger-Straße;3;27;4;36;Zülpich;0040;;;92
+53909;Von-Orsbach-Weg;1;9;2;2;Bürvenich;0150;;;92
+53909;Von-Westerburg-Straße;1;15;2;16;Zülpich;0010;;;92
+53909;Waldstraße;3;17;2;16;Bürvenich;0150;;;92
+53909;Walramstraße;1;21;2;14;Zülpich;0010;;;92
+53909;Walter-Voegels-Straße;1;11;4;10;Geich;0050;;;92
+53909;Weierstraße;1;5;6;6;Zülpich;0030;;;92
+53909;Weilerer Straße;5;5;6;6;Niederelvenich;0082;;;92
+53909;Weingartzgarten;3;61;2;62;Sinzenich;0141;;;92
+53909;Weingartzhof;;;0;0;Sinzenich;0141;;;92
+53909;Weingärten;1;3;;;Schwerfen;0111;;;92
+53909;Weststraße;1;21;2;12;Schwerfen;0111;;;92
+53909;Wichtericher Straße;1;43;2;36;Niederelvenich;0082;;;92
+53909;Wiesenstraße;3;21;16;40;Bessenich;0051;;;92
+53909;Wilh.-Falkenberg-Straße;23;63;2;66;Niederelvenich;0082;;;92
+53909;Xantener Straße;3;45;10;50;Zülpich;0020;;;92
+53909;Ziegelgasse;5;13;4;6;Wichterich;0090;;;92
+53909;Zum Eichbaum;3;11;2;6;Schwerfen;0111;;;92
+53909;Zum Grenicher Hof;1;1;2;2;Schwerfen;0120;;;92
+53909;Zum Herrenberg;5;5;2;2;Bürvenich;0150;;;92
+53909;Zum Kelderberg;1;29;2;36;Dürscheven;0130;;;92
+53909;Zum Kiesel;1;25;2;28;Schwerfen;0111;;;92
+53909;Zum Schievelsberg;1;1;;;Lövenich;0110;;;92
+53909;Zur Talmühle;1;3;2;14;Schwerfen;0111;;;92
+53909;Zülpicher Gasse;3;3;;;Rövenich;0071;;;92
+53909;Ägidiusweg;;;2;16;Nemmenich;0070;;;92
+53909;Ülpenicher Weg;1;19;2;24;Linzenich;0110;;;92
