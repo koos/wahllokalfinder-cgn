@@ -1,0 +1,254 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+52388;Ackerstraße;3;3;2;4;Eschweiler Über Feld;10.0;;;90
+52388;Ahremer Gasse;3;3;2;10;Gemeindeteil Pingsheim;06.0;;;90
+52388;Albert-Schweitzer-Straße;1;27;2;40;Gemeindeteil Binsfeld;13.0;;;90
+52388;Alfons-Keever-Straße;1;51;4;62;Gemeindeteil Pingsheim;06.0;;;90
+52388;Alter Buntwolf;1;17;2;22;Eschweiler Über Feld;10.0;;;90
+52388;Alter Kirchpfad;1;9;4;10;Eschweiler Über Feld;10.0;;;90
+52388;Am Annahof;1;1;0;0;Nörvenich;01.0;;;90
+52388;Am Bräucher;1;39;2;34;Gemeindeteil Pingsheim;06.0;;;90
+52388;Am Burgacker;1;7;2;16;Gemeindeteil Binsfeld;13.0;;;90
+52388;Am Fließ;3;5;2;14;Gemeindeteil Rath;07.0;;;90
+52388;Am Flutgraben;1;15;2;10;Eschweiler Über Feld;10.0;;;90
+52388;Am Fußfall;;;4;6;Gemeindeteil Hochkirchen;04.2;;;90
+52388;Am Hof;1;3;2;2;Gemeindeteil Binsfeld;13.0;;;90
+52388;Am Kallenberg;1;33;2;36;Gemeindeteil Wissersheim;08.0;;;90
+52388;Am Kreuzberg;1;9;2;14;Nörvenich;02.1;;;90
+52388;Am Königsforst;1;7;2;6;Eschweiler Über Feld;10.0;;;90
+52388;Am Lindenkreuz;5;7;2;6;Eschweiler Über Feld;10.0;;;90
+52388;Am Mohlenpfad;3;31;2;24;Gemeindeteil Binsfeld;13.0;;;90
+52388;Am Ringsheimer Hof;1;5;2;2;Eschweiler Über Feld;10.0;;;90
+52388;Am Wallgraben;1;21;14;20;Nörvenich;02.1;;;90
+52388;Am Weierschleiden;;;0;0;Nörvenich;04.1;;;90
+52388;An Johannes Junker;;;2;32;Nörvenich;05.0;;;90
+52388;An den Obstwiesen;1;19;10;10;Gemeindeteil Poll;09.1;;;90
+52388;An den Sonnengärten;1;89;2;32;Gemeindeteil Wissersheim;08.0;;;90
+52388;An der Esche;1;3;2;10;Eschweiler Über Feld;10.0;;;90
+52388;An der Goldkaul;;;2;2;Gemeindeteil Irresheim;04.3;;;90
+52388;An der Gärtnerei;1;13;4;8;Gemeindeteil Poll;09.1;;;90
+52388;An der Marienkapelle;1;15;2;16;Gemeindeteil Rath;07.0;;;90
+52388;An der Mohle;9;11;2;14;Nörvenich;02.1;;;90
+52388;An der Vikarie;1;1;2;2;Nörvenich;01.0;;;90
+52388;Annastraße;1;11;2;22;Gemeindeteil Irresheim;04.3;;;90
+52388;Antoniterhof;;;0;0;Nörvenich;01.0;;;90
+52388;Antoniterstraße;1;5;2;14;Gemeindeteil Oberbolheim;02.2;;;90
+52388;Auf dem Dom;1;7;2;16;Eschweiler Über Feld;10.0;;;90
+52388;Auf dem Driesch;7;15;4;16;Gemeindeteil Rath;07.0;;;90
+52388;Auf dem Kleinen Berge;1;1;4;6;Nörvenich;02.1;;;90
+52388;Bachstraße;1;25;2;10;Gemeindeteil Eggersheim;09.3;;;90
+52388;Bahnhofstraße;1;59;6;66;Nörvenich;01.0;;;90
+52388;Bahnposten;5;5;;;Gemeindeteil Rommelsheim;12.0;;;90
+52388;Barbaraweg;1;7;2;8;Nörvenich;03.0;;;90
+52388;Barrensteinstraße;;;8;8;Nörvenich;03.0;;;90
+52388;Beethovenweg;1;27;2;12;Gemeindeteil Hochkirchen;04.2;;;90
+52388;Binsfelder Burg;;;0;0;Gemeindeteil Binsfeld;13.0;;;90
+52388;Binsfelder Straße;1;9;8;12;Frauwüllesheim;11.0;;;90
+52388;Birkenhof;3;3;0;0;Nörvenich;01.0;;;90
+52388;Birkenweg;1;7;2;12;Nörvenich;01.0;;;90
+52388;Boelckestraße;1;11;2;4;Nörvenich;05.0;;;90
+52388;Borromäerinnenstraße;1;3;2;14;Nörvenich;02.1;;;90
+52388;Breslauer Straße;1;17;2;14;Nörvenich;05.0;;;90
+52388;Brigidastraße;1;1;2;10;Frauwüllesheim;11.0;;;90
+52388;Brunnenplatz;1;7;2;4;Gemeindeteil Irresheim;04.3;;;90
+52388;Buntwolfstraße;3;43;2;70;Eschweiler Über Feld;10.0;;;90
+52388;Burg Bubenheim;;;0;0;Gemeindeteil Rommelsheim;12.0;;;90
+52388;Burgstraße;1;9;4;34;Nörvenich;02.1;;;90
+52388;Buschweg;3;5;4;6;Eschweiler Über Feld;10.0;;;90
+52388;Chlodwigstraße;;;2;2;Nörvenich;05.0;;;90
+52388;Dauzenbergstraße;1;3;2;24;Nörvenich;02.1;;;90
+52388;Dechant-Flocken-Straße;1;7;2;24;Nörvenich;02.1;;;90
+52388;Distelrather Straße;1;5;6;10;Gemeindeteil Binsfeld;13.0;;;90
+52388;Doktorweg;;;2;12;Gemeindeteil Wissersheim;08.0;;;90
+52388;Dorfstraße;1;17;2;12;Gemeindeteil Poll;09.1;;;90
+52388;Dorweilerstraße;1;29;2;22;Gemeindeteil Hochkirchen;04.2;;;90
+52388;Dr.-Breuer-Straße;;;2;18;Gemeindeteil Binsfeld;13.0;;;90
+52388;Dr.-Habicht-Straße;1;17;2;18;Nörvenich;02.1;;;90
+52388;Dreikönigenstraße;1;21;2;24;Frauwüllesheim;11.0;;;90
+52388;Dresdener Straße;1;15;4;22;Nörvenich;01.0;;;90
+52388;Duventhaler Weg;1;17;2;6;Gemeindeteil Pingsheim;06.0;;;90
+52388;Dürener Straße;5;33;2;74;Gemeindeteil Binsfeld;13.0;;;90
+52388;Eggersheimer Straße;1;1;2;6;Gemeindeteil Irresheim;04.3;;;90
+52388;Eifelstraße;3;7;4;6;Gemeindeteil Irresheim;04.3;;;90
+52388;Eintrachtstraße;3;27;2;34;Frauwüllesheim;11.0;;;90
+52388;Eisenbahnstraße;1;3;;;Gemeindeteil Rath;07.0;;;90
+52388;Elbinger Straße;1;19;2;16;Nörvenich;01.0;;;90
+52388;Ellbachstraße;1;27;2;16;Gemeindeteil Rommelsheim;12.0;;;90
+52388;Engelshof;;;0;0;Eschweiler Über Feld;10.0;;;90
+52388;Erper Straße;1;21;2;20;Gemeindeteil Poll;09.1;;;90
+52388;Eulengasse;5;23;4;4;Eschweiler Über Feld;10.0;;;90
+52388;Fichtestraße;1;15;4;12;Gemeindeteil Rommelsheim;12.0;;;90
+52388;Finkenweg;1;15;6;14;Gemeindeteil Hochkirchen;04.2;;;90
+52388;Frankenstraße;1;5;2;12;Nörvenich;05.0;;;90
+52388;Frauwüllesheimer Straße;1;1;2;12;Gemeindeteil Binsfeld;13.0;;;90
+52388;Friedensstraße;5;19;2;32;Gemeindeteil Wissersheim;08.0;;;90
+52388;Fritz-Rey-Straße;1;11;2;16;Gemeindeteil Irresheim;04.3;;;90
+52388;Frongasse;3;17;6;14;Gemeindeteil Wissersheim;08.0;;;90
+52388;Fuchsgasse;1;13;2;16;Gemeindeteil Oberbolheim;02.2;;;90
+52388;Gartenweg;5;7;2;36;Nörvenich;01.0;;;90
+52388;Gertrudisstraße;1;23;2;12;Gemeindeteil Rommelsheim;12.0;;;90
+52388;Gewerbepark;3;35;14;44;Nörvenich;02.1;;;90
+52388;Girbelsrather Straße;1;21;4;24;Gemeindeteil Binsfeld;13.0;;;90
+52388;Gladbacher Straße;1;13;14;16;Gemeindeteil Poll;09.1;;;90
+52388;Goethestraße;1;7;2;12;Nörvenich;01.0;;;90
+52388;Graf-Hermann-Straße;3;5;2;10;Nörvenich;05.0;;;90
+52388;Gregor-Platten-Straße;1;3;2;16;Gemeindeteil Pingsheim;06.0;;;90
+52388;Grünstraße;1;5;;;Frauwüllesheim;11.0;;;90
+52388;Gut Bubenheim;;;0;0;Gemeindeteil Rommelsheim;12.0;;;90
+52388;Gut Gypenbusch;;;0;0;Nörvenich;02.1;;;90
+52388;Gut Hommelsheim;3;3;0;0;Eschweiler Über Feld;10.0;;;90
+52388;Gut Kauweiler;;;0;0;Eschweiler Über Feld;10.0;;;90
+52388;Gut Ollesheim;;;0;0;Eschweiler Über Feld;10.0;;;90
+52388;Gutenbergstraße;13;19;6;16;Gemeindeteil Rommelsheim;12.0;;;90
+52388;Gymnicher Straße;1;37;2;20;Gemeindeteil Wissersheim;08.0;;;90
+52388;Hardtstraße;1;39;2;34;Nörvenich;02.1;;;90
+52388;Hardtweg;1;15;2;8;Gemeindeteil Hochkirchen;04.2;;;90
+52388;Haus Hardt;;;0;0;Haus Hardt;02.1;;;90
+52388;Heidefelderhof;;;0;0;Gemeindeteil Oberbolheim;02.2;;;90
+52388;Heimbacher Straße;1;11;8;8;Gemeindeteil Pingsheim;06.0;;;90
+52388;Heimstraße;1;7;2;16;Gemeindeteil Binsfeld;13.0;;;90
+52388;Heinestraße;9;19;2;18;Gemeindeteil Rommelsheim;12.0;;;90
+52388;Heinrich-Kuß-Ring;1;55;2;102;Nörvenich;04.1;;;90
+52388;Heinrich-Veith-Straße;;;4;10;Eschweiler Über Feld;10.0;;;90
+52388;Henri-Dunant-Weg;;;4;4;Gemeindeteil Binsfeld;13.0;;;90
+52388;Heribertstraße;3;35;2;78;Eschweiler Über Feld;10.0;;;90
+52388;Hermannshof;;;0;0;Eschweiler Über Feld;10.0;;;90
+52388;Heuserhof;;;0;0;Nörvenich;01.0;;;90
+52388;Hinter den Gärten;1;39;2;34;Frauwüllesheim;11.0;;;90
+52388;Hinter den Hagen;1;21;2;14;Nörvenich;03.0;;;90
+52388;Hirtstraße;1;27;2;26;Nörvenich;02.1;;;90
+52388;Hochkirchener Straße;5;19;2;14;Gemeindeteil Irresheim;04.3;;;90
+52388;Hohenstaufenstraße;1;3;2;16;Nörvenich;05.0;;;90
+52388;Hohenzollernstraße;1;9;2;20;Nörvenich;05.0;;;90
+52388;Hombergerhof;;;0;0;Gemeindeteil Rath;07.0;;;90
+52388;Hommelsheimer Weg;1;11;4;4;Nörvenich;05.0;;;90
+52388;Hubertushof;;;0;0;Gemeindeteil Binsfeld;13.0;;;90
+52388;Hubertusstraße;3;31;4;24;Gemeindeteil Rath;07.0;;;90
+52388;Im Bayer;1;5;2;14;Frauwüllesheim;11.0;;;90
+52388;Im Bongert;1;3;;;Eschweiler Über Feld;10.0;;;90
+52388;Im Heidkamp;1;5;;;Gemeindeteil Binsfeld;13.0;;;90
+52388;Im Kleinefeldchen;3;17;2;24;Gemeindeteil Rath;07.0;;;90
+52388;Im Wiesengrund;1;21;;;Gemeindeteil Eggersheim;09.3;;;90
+52388;Im Winkel;1;3;2;4;Gemeindeteil Binsfeld;13.0;;;90
+52388;Immelmannstraße;1;5;;;Nörvenich;05.0;;;90
+52388;In der Mühle;;;0;0;Gemeindeteil Eggersheim;09.3;;;90
+52388;In der Quecke;3;9;6;8;Gemeindeteil Pingsheim;06.0;;;90
+52388;Isweiler;13;13;2;28;Frauwüllesheim;11.0;;;90
+52388;Jahnstraße;1;19;2;2;Gemeindeteil Rommelsheim;12.0;;;90
+52388;Jakob-Breidkopff-Straße;23;47;8;16;Nörvenich;03.0;;;90
+52388;Jan-Wellem-Straße;3;17;2;10;Nörvenich;03.0;;;90
+52388;Johann-Kindgen-Weg;5;11;;;Gemeindeteil Wissersheim;08.0;;;90
+52388;Josef-Kirchhartz-Weg;3;11;;;Gemeindeteil Binsfeld;13.0;;;90
+52388;Josef-Pütz-Straße;1;25;4;36;Nörvenich;03.0;;;90
+52388;Josef-Steffens-Weg;3;3;;;Gemeindeteil Rath;07.0;;;90
+52388;Josefstraße;1;9;6;32;Eschweiler Über Feld;10.0;;;90
+52388;Jupiterstraße;1;9;2;12;Gemeindeteil Wissersheim;08.0;;;90
+52388;Jülicher Ring;1;75;2;64;Nörvenich;03.0;;;90
+52388;Kanisstraße;5;13;6;28;Gemeindeteil Wissersheim;08.0;;;90
+52388;Kantweg;1;13;2;10;Gemeindeteil Rommelsheim;12.0;;;90
+52388;Kapellenstraße;5;33;4;28;Gemeindeteil Eggersheim;09.3;;;90
+52388;Karlstraße;3;7;4;8;Gemeindeteil Poll;09.1;;;90
+52388;Karolingerstraße;1;7;4;18;Nörvenich;05.0;;;90
+52388;Katharinenstraße;1;7;2;10;Nörvenich;02.1;;;90
+52388;Kelzer Weg;1;13;2;14;Eschweiler Über Feld;10.0;;;90
+52388;Kerpener Straße;7;19;4;12;Gemeindeteil Rath;07.0;;;90
+52388;Kettelerstraße;1;5;4;6;Gemeindeteil Rommelsheim;12.0;;;90
+52388;Kirchgasse;3;3;;;Nörvenich;01.0;;;90
+52388;Kirchstraße;1;5;2;18;Gemeindeteil Hochkirchen;04.2;;;90
+52388;Kolpingstraße;1;21;4;8;Gemeindeteil Wissersheim;08.0;;;90
+52388;Kompstraße;1;17;2;40;Gemeindeteil Pingsheim;06.0;;;90
+52388;Kreuzauer Straße;1;5;2;4;Gemeindeteil Pingsheim;06.0;;;90
+52388;Kreuzstraße;1;35;2;36;Frauwüllesheim;11.0;;;90
+52388;Kurfürstenstraße;1;17;2;22;Gemeindeteil Eggersheim;09.3;;;90
+52388;Landwehrstraße;1;11;;;Eschweiler Über Feld;10.0;;;90
+52388;Lehrer-Geßner-Straße;1;1;2;8;Gemeindeteil Dorweiler;09.2;;;90
+52388;Lehrer-Mehlkop-Straße;1;5;2;20;Gemeindeteil Binsfeld;13.0;;;90
+52388;Lindenhof;;;0;0;Gemeindeteil Wissersheim;08.0;;;90
+52388;Lindenstraße;1;15;2;6;Gemeindeteil Rommelsheim;12.0;;;90
+52388;Lüxheimer Straße;1;7;2;6;Nörvenich;05.0;;;90
+52388;Margaretenhof;;;0;0;Nörvenich;07.0;;;90
+52388;Margarethastraße;1;61;6;68;Gemeindeteil Dorweiler;09.2;;;90
+52388;Marienstraße;5;39;2;16;Frauwüllesheim;11.0;;;90
+52388;Marktplatz;1;9;2;10;Nörvenich;01.0;;;90
+52388;Martinstraße;3;9;2;12;Gemeindeteil Rath;07.0;;;90
+52388;Matthias-Kesseler-Straße;1;5;2;20;Frauwüllesheim;11.0;;;90
+52388;Medardusstraße;3;21;6;16;Nörvenich;01.0;;;90
+52388;Merzenicher Weg;1;11;4;4;Gemeindeteil Binsfeld;13.0;;;90
+52388;Minervastraße;3;3;2;4;Gemeindeteil Wissersheim;08.0;;;90
+52388;Mittelstraße;3;23;2;24;Frauwüllesheim;11.0;;;90
+52388;Mollsgasse;3;11;;;Eschweiler Über Feld;10.0;;;90
+52388;Monschauer Straße;1;13;2;12;Gemeindeteil Pingsheim;06.0;;;90
+52388;Mozartweg;5;5;8;10;Gemeindeteil Hochkirchen;04.2;;;90
+52388;Mühlenweg;1;13;2;12;Gemeindeteil Binsfeld;13.0;;;90
+52388;Nachtigallenweg;1;11;2;16;Gemeindeteil Hochkirchen;04.2;;;90
+52388;Neffeltalstraße;1;23;4;22;Gemeindeteil Hochkirchen;04.2;;;90
+52388;Nelkenweg;1;1;2;2;Gemeindeteil Rath;07.0;;;90
+52388;Neustraße;1;15;10;16;Gemeindeteil Poll;09.1;;;90
+52388;Nideggener Straße;1;21;2;16;Gemeindeteil Pingsheim;06.0;;;90
+52388;Nievenheimer Straße;1;9;2;6;Gemeindeteil Wissersheim;08.0;;;90
+52388;Nikolausstraße;3;25;2;32;Gemeindeteil Rath;07.0;;;90
+52388;Nordstraße;1;3;2;2;Gemeindeteil Poll;09.1;;;90
+52388;Oberbolheimer Straße;;;2;18;Nörvenich;02.1;;;90
+52388;Oberstraße;3;39;2;38;Gemeindeteil Wissersheim;08.0;;;90
+52388;Petrusstraße;1;15;2;10;Gemeindeteil Poll;09.1;;;90
+52388;Pfarrer-Ahrens-Straße;1;27;2;26;Eschweiler Über Feld;10.0;;;90
+52388;Pfarrer-Forst-Straße;1;31;4;18;Gemeindeteil Binsfeld;13.0;;;90
+52388;Pfarrer-Legemann-Straße;1;37;2;32;Eschweiler Über Feld;10.0;;;90
+52388;Pfarrer-Linzbach-Straße;1;9;2;20;Nörvenich;03.0;;;90
+52388;Piethanstraße;1;19;;;Gemeindeteil Oberbolheim;02.2;;;90
+52388;Plessastraße;1;11;2;18;Nörvenich;04.1;;;90
+52388;Poller Straße;1;25;2;22;Gemeindeteil Hochkirchen;04.2;;;90
+52388;Prisselstraße;1;13;;;Gemeindeteil Irresheim;04.3;;;90
+52388;Promenadenweg;;;10;10;Nörvenich;02.1;;;90
+52388;Pützstraße;1;1;2;2;Gemeindeteil Dorweiler;09.2;;;90
+52388;Rathausstraße;;;12;44;Nörvenich;03.0;;;90
+52388;Richthofenstraße;1;7;8;14;Nörvenich;03.0;;;90
+52388;Ringstraße;1;15;;;Gemeindeteil Binsfeld;13.0;;;90
+52388;Rommelsheimer Straße;1;11;2;38;Gemeindeteil Binsfeld;13.0;;;90
+52388;Rosenweg;;;2;2;Gemeindeteil Eggersheim;09.3;;;90
+52388;Rote Erde;3;53;2;48;Eschweiler Über Feld;10.0;;;90
+52388;Rurstraße;1;1;;;Gemeindeteil Rommelsheim;12.0;;;90
+52388;Römerstraße;1;51;2;44;Gemeindeteil Rommelsheim;12.0;;;90
+52388;Salierstraße;1;9;2;10;Nörvenich;03.0;;;90
+52388;Sandkaulenweg;1;23;2;12;Gemeindeteil Rath;07.0;;;90
+52388;Scheidtweilerhof;;;0;0;Gemeindeteil Rommelsheim;12.0;;;90
+52388;Schillerplatz;1;11;2;6;Gemeindeteil Wissersheim;08.0;;;90
+52388;Schillerstraße;1;15;2;24;Nörvenich;01.0;;;90
+52388;Schloß Nörvenich;;;0;0;Nörvenich;01.0;;;90
+52388;Schmiedegasse;1;21;2;18;Eschweiler Über Feld;10.0;;;90
+52388;Schreberstraße;1;1;4;12;Gemeindeteil Rommelsheim;12.0;;;90
+52388;Schubertweg;3;19;2;30;Gemeindeteil Hochkirchen;04.2;;;90
+52388;Schwalbenweg;1;1;2;4;Gemeindeteil Rath;07.0;;;90
+52388;Schwester-Blanka-Straße;1;13;2;22;Nörvenich;02.1;;;90
+52388;Schützenstraße;3;25;2;30;Gemeindeteil Rath;07.0;;;90
+52388;Sebastianusstraße;1;15;2;16;Nörvenich;04.1;;;90
+52388;Steinfelderhof;1;1;;;Gemeindeteil Hochkirchen;04.2;;;90
+52388;Steinweg;1;13;2;12;Gemeindeteil Wissersheim;08.0;;;90
+52388;Stettiner Straße;1;13;2;16;Nörvenich;05.0;;;90
+52388;Tannenweg;;;6;8;Nörvenich;05.0;;;90
+52388;Termelinesweg;;;2;26;Gemeindeteil Oberbolheim;02.2;;;90
+52388;Tilsiter Straße;1;11;;;Nörvenich;05.0;;;90
+52388;Triftstraße;3;11;2;2;Gemeindeteil Oberbolheim;02.2;;;90
+52388;Tulpenstraße;3;17;2;8;Eschweiler Über Feld;10.0;;;90
+52388;Ubierstraße;1;13;2;10;Nörvenich;05.0;;;90
+52388;Unter den Weiden;;;2;12;Gemeindeteil Eggersheim;09.3;;;90
+52388;Vettweißer Straße;3;3;2;8;Nörvenich;05.0;;;90
+52388;Vinger Straße;3;19;4;16;Gemeindeteil Wissersheim;08.0;;;90
+52388;Vogelgasse;1;3;;;Nörvenich;02.1;;;90
+52388;Von-Limburg-Straße;1;5;2;8;Gemeindeteil Pingsheim;06.0;;;90
+52388;Von-Westerburg-Straße;1;5;2;8;Gemeindeteil Pingsheim;06.0;;;90
+52388;Völlerstraße;1;21;6;18;Gemeindeteil Wissersheim;08.0;;;90
+52388;Waldstraße;1;17;2;30;Gemeindeteil Rath;07.0;;;90
+52388;Wasserturmstraße;1;15;2;18;Gemeindeteil Wissersheim;08.0;;;90
+52388;Weidbergstraße;3;15;6;24;Gemeindeteil Hochkirchen;04.2;;;90
+52388;Weiherstraße;1;1;2;10;Gemeindeteil Poll;09.1;;;90
+52388;Weißfrauenhofstraße;3;33;4;34;Frauwüllesheim;11.0;;;90
+52388;Weststraße;1;7;2;16;Gemeindeteil Eggersheim;09.3;;;90
+52388;Wilhelm-Klein-Straße;;;2;2;Frauwüllesheim;11.0;;;90
+52388;Wohnpark;1;21;2;12;Gemeindeteil Wissersheim;08.0;;;90
+52388;Wolfsgasse;1;1;;;Gemeindeteil Pingsheim;06.0;;;90
+52388;Zeelmaarerhof;;;;;Frauwüllesheim;11.0;;;90
+52388;Zehnthofstraße;;;2;6;Eschweiler Über Feld;10.0;;;90
+52388;Zum Bärental;;;4;16;Frauwüllesheim;11.0;;;90
+52388;Zum Heidefeld;;;2;10;Gemeindeteil Oberbolheim;02.2;;;90
+52388;Zum Schützenhaus;1;3;;;Gemeindeteil Dorweiler;09.2;;;90
+52388;Zülpicher Straße;3;71;2;100;Nörvenich;01.0;;;90
