@@ -105,14 +105,15 @@ h2
   #logo
     margin-top: 50px
     background-color: transparent
-
 #footer
   text-align: center
   color: white
   z-index: 1000
   position: fixed
   bottom: 0px
+  width: 240px
   right: 20px
+  +transition(right 0.5s ease)
   background-color: $transparent-bg
   img
     padding: 10px
@@ -123,6 +124,8 @@ h2
     text-decoration: none
   .smaller
     width: 80px
+.hidden-footer
+  right: -240px !important
 .leaflet-control-zoom-in, .leaflet-control-zoom-out
   background-color: $transparent-bg !important
   color: #aaa !important

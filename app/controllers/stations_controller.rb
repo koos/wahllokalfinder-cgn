@@ -2,7 +2,7 @@ class StationsController < ApplicationController
   before_action :cities, only: [:city, :index]
   layout 'city', only: [:city]
   def index
-    @cities = City.all
+    @cities = City.all.order(:name)
   end
 
   def city
