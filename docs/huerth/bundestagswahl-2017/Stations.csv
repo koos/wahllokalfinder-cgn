@@ -21,10 +21,10 @@ vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_ad
 16.2;Geschwister-Scholl-Schule;Im Wiesengrund;30;;;50354;Hürth;;J
 19.1;Geschwister-Scholl-Schule;Im Wiesengrund;30;;;50354;Hürth;;J
 19.2;Geschwister-Scholl-Schule;Im Wiesengrund;30;;;50354;Hürth;;J
-17.1;"VHS-Gebäude 'Ahl Schull'";Bachstraße;95-97;;;50354;Hürth;;J
-17.2;"VHS-Gebäude 'Ahl Schull'";Bachstraße;95-97;;;50354;Hürth;;J
-18.2;"VHS-Gebäude 'Ahl Schull'";Bachstraße;95-97;;;50354;Hürth;;J
-18.1;"VHS-Gebäude 'Ahl Schull'";Bachstraße;95-97;;;50354;Hürth;;J
+17.1;VHS-Gebäude 'Ahl Schull';Bachstraße;95-97;;;50354;Hürth;;J
+17.2;VHS-Gebäude 'Ahl Schull';Bachstraße;95-97;;;50354;Hürth;;J
+18.2;VHS-Gebäude 'Ahl Schull';Bachstraße;95-97;;;50354;Hürth;;J
+18.1;VHS-Gebäude 'Ahl Schull';Bachstraße;95-97;;;50354;Hürth;;J
 20.1;Hauptschule Kendenich;Steinackerstraße;6;;;50354;Hürth;;J
 20.2;Hauptschule Kendenich;Steinackerstraße;6;;;50354;Hürth;;J
 21.0;Martinusschule;Am Druvendriesch;19;;;50354;Hürth;;J

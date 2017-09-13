@@ -27,8 +27,8 @@ vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_ad
 01.1;Albertus-Magnus-Schule Mödrath;Albertus-Magnus-Straße;5;;;50171;Kerpen;;J
 06.1;Elisabeth-Schule Blatzheim;Kunibertusstraße;51;;;50171;Kerpen;;J
 06.2;Elisabeth-Schule Blatzheim;Kunibertusstraße;51;;;50171;Kerpen;;J
-10.1;"Kindergarten 'Wibbelstätz'";Am Keuschenend;34;;;50170;Kerpen;;J
-10.2;"Kindergarten 'Wibbelstätz'";Am Keuschenend;34;;;50170;Kerpen;;J
+10.1;Kindergarten 'Wibbelstätz';Am Keuschenend;34;;;50170;Kerpen;;J
+10.2;Kindergarten 'Wibbelstätz';Am Keuschenend;34;;;50170;Kerpen;;J
 16.1;Jugendheim Neu-Bottenbroich;Habbelrather Straße;1;;;50169;Kerpen;;J
 16.2;Jugendheim Neu-Bottenbroich;Habbelrather Straße;1;;;50169;Kerpen;;J
 20.0;Grundschule Türnich;Rosentalstraße;14;;;50169;Kerpen;;J

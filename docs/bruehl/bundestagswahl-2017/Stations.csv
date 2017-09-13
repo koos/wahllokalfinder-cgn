@@ -15,11 +15,11 @@ vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_ad
 21.0;Clemens-August-Schule Mensa Gebäude Ganztagsschule;Clemens-August-Straße;33;;;50321;Brühl;;J
 14.0;Kath. Grundschule Vochem b;St. Albert-Straße;2;;;50321;Brühl;;J
 15.0;Kath. Grundschule Vochem c;St. Albert-Straße;2;;;50321;Brühl;;J
-04.0;"KITA ""An der Eckdorfer Mühle""";Eckdorfer Straße;37;;;50321;Brühl;;J
-05.1;"KITA ""An der Eckdorfer Mühle""";Eckdorfer Straße;37;;;50321;Brühl;;J
-02.0;"KITA ""An der alten Zuckerfabrik""";Sophie-Scholl-Straße;2;;;50321;Brühl;;J
+04.0;KITA An der Eckdorfer Mühle;Eckdorfer Straße;37;;;50321;Brühl;;J
+05.1;KITA An der Eckdorfer Mühle;Eckdorfer Straße;37;;;50321;Brühl;;J
+02.0;KITA An der alten Zuckerfabrik;Sophie-Scholl-Straße;2;;;50321;Brühl;;J
 07.0;Johannesstift Altenzentrum;An der Ziegelei;1-5;;;50321;Brühl;;J
-22.0;"Kindertagesstätte ""Auf der Pehle""";Auf der Pehle;27;;;50321;Brühl;;J
+22.0;Kindertagesstätte Auf der Pehle;Auf der Pehle;27;;;50321;Brühl;;J
 08.0;Max-Ernst-Gymnasium - Mensa;Rodderweg;66;;;50321;Brühl;;J
 10.0;Pfarrheim Brühl-Heide;Bergstraße;35;;;50321;Brühl;;J
 04.1;Turnhalle Badorf;Auf dem Gallberg;30;;;50321;Brühl;;J
