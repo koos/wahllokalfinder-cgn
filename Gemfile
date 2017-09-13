@@ -21,7 +21,6 @@ gem 'dalli'
 
 gem 'jquery-rails'
 gem 'compass-rails'
-gem 'rails_12factor', group: :production
 
 gem 'geocoder'
 gem 'smarter_csv'
