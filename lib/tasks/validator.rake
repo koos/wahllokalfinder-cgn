@@ -24,4 +24,23 @@ namespace :validator do
     puts "----------------------------------\n\n"
     puts "[ #{zip_codes_string} ] \n\n"
   end
+
+  task remove_stations_quotes: :environment do
+    # this task removes double quotes from csv stations files
+    filtered_content_count = 0
+    year = RakeHelper::input_year
+    folders_list = RakeHelper::folders_list
+    folders_list.each do |folder|
+      selected_csv_file = "#{folder}/bundestagswahl-#{year}/Stations.csv"
+      prefiltered_content = File.read(selected_csv_file)
+      filtered_content = prefiltered_content.gsub('"', '')
+      filtered_content_count += 1 unless (prefiltered_content == filtered_content)
+      File.open(selected_csv_file, 'w') do |f|
+        f.puts filtered_content
+      end
+    end
+
+    puts "\n #{filtered_content_count} filtered from #{folders_list.length} files were scanned.\n "
+
+  end
 end

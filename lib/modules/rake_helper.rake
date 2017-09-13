@@ -1,6 +1,6 @@
 class RakeHelper
 
-  def self.files_list
+  def self.folders_list
     FileList.new("docs/*").exclude(/.csv/)
   end
 
@@ -9,20 +9,23 @@ class RakeHelper
     exit(1)
   end
 
+  def self.input_year
+    STDOUT.print "Which year to load? (For example: 2017): "
+    STDIN.gets.chomp
+  end
+
   def self.select_csv_file(csv_type)
     directory_to_load = ''
     STDOUT.puts "\nWhich directory is targeted?\n\n "
-    files_list.each_with_index do |file, i|
+    folders_list.each_with_index do |file, i|
       STDOUT.puts " #{i + 1} => #{file}"
     end
     STDOUT.print "\nSelect a number: "
     selected_index = STDIN.gets.chomp
-    self.terminate_rake_task unless selected_index.to_i.between?(1, files_list.length)
-    directory_to_load = files_list[selected_index.to_i - 1]
+    self.terminate_rake_task unless selected_index.to_i.between?(1, folders_list.length)
+    directory_to_load = folders_list[selected_index.to_i - 1]
 
-    year_to_load = ''
-    STDOUT.print "Which year to load? (For example: 2017): "
-    year_to_load = STDIN.gets.chomp
+    year_to_load = self.input_year
 
     selected_csv_file = "#{directory_to_load}/bundestagswahl-#{year_to_load}/#{csv_type}.csv"
     STDOUT.puts selected_csv_file
