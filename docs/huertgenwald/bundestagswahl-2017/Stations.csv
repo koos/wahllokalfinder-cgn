@@ -1,0 +1,11 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+01.0;Grundschulstandort Bergstein;Burgstraße;48;;;52393;Hürtgenwald;;J
+02.0;Kindergarten Brandenberg;Brandenberger Straße;64;;;52393;Hürtgenwald;;N
+03.0;Kindergarten/ Familienzentrum;Friedhofstraße;15;;;52393;Hürtgenwald;;J
+04.0;Kindergarten/ Familienzentrum;Friedhofstraße;15;;;52393;Hürtgenwald;;J
+05.0;Dorfgemeinschaftshaus Großhau;Auf dem Hau;14;;;52393;Hürtgenwald;;J
+06.0;Gemeindehaus Hürtgen;Höhenstraße;62;;;52393;Hürtgenwald;;N
+07.0;Rathaus Gemeinde Hürtgenwald;August-Scholl-Straße;5;;;52393;Hürtgenwald;;J
+08.0;Grundschule Straß;Hormer Straße;5;;;52393;Hürtgenwald;;J
+09.0;Grundschule Vossenack;Im Oberdorf;16;;;52393;Hürtgenwald;;J
+10.0;Grundschule Vossenack;Im Oberdorf;16;;;52393;Hürtgenwald;;J
