@@ -1,0 +1,523 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+57319;Adelsbachweg;1;9;2;8;Aue;024.1;;;148
+57319;Adolf-Böhl-Straße;;;2;2;Berghausen;023.1;;;148
+57319;Ahornstraße;1;17;2;12;Berghausen;023.1;;;148
+57319;Ahornweg;3;11;2;12;Bad Berleburg;001.1;;;148
+57319;Alexander-Mack-Straße;3;19;2;18;Schwarzenau;013.1;;;148
+57319;Alte Dorfstraße;1;9;2;14;Aue;024.1;;;148
+57319;Alte Feld;1;3;2;4;Arfeld;014.1;;;148
+57319;Alte Landstraße;1;43;2;48;Wingeshausen;025.1;;;148
+57319;Alte Schulstraße;1;9;2;14;Sassenhausen;017.1;;;148
+57319;Alte Warte;1;41;2;54;Bad Berleburg;002.1;;;148
+57319;Altenberg;1;1;;;Hemschlar;020.1;;;148
+57319;Altengraben;1;1;2;2;Bad Berleburg;003.1;;;148
+57319;Altmühlbachtal;1;3;2;20;Berghausen;023.1;;;148
+57319;Am Afflerbach;1;1;;;Wemlighausen;006.1;;;148
+57319;Am Baldenberg;1;1;2;2;Rinthe;021.1;;;148
+57319;Am Baumrain;3;31;6;24;Bad Berleburg;001.1;;;148
+57319;Am Bergelchen;1;5;4;10;Girkhausen;007.1;;;148
+57319;Am Bergesweg;1;17;2;14;Schüllar;006.1;;;148
+57319;Am Biel;1;9;2;28;Berghausen;023.1;;;148
+57319;Am Bilzacker;1;5;2;8;Wingeshausen;025.1;;;148
+57319;Am Bockshorn;1;79;4;76;Wemlighausen;006.1;;;148
+57319;Am Breitenbach;1;11;;;Bad Berleburg;003.1;;;148
+57319;Am Bruch;1;21;2;22;Girkhausen;007.1;;;148
+57319;Am Brückenacker;5;13;;;Weidenhausen;019.1;;;148
+57319;Am Buchholz;1;1;;;Rinthe;021.1;;;148
+57319;Am Burgfeld;1;27;2;22;Bad Berleburg;002.1;;;148
+57319;Am Böhl;1;7;2;10;Raumland;018.1;;;148
+57319;Am Damm;1;3;2;4;Schwarzenau;013.1;;;148
+57319;Am Dreieck;3;3;;;Weidenhausen;019.1;;;148
+57319;Am Eisenstein;1;1;;;Dotzlar;016.1;;;148
+57319;Am Erlen;1;1;;;Hemschlar;020.1;;;148
+57319;Am Gefälle;1;1;;;Wunderthausen;008.1;;;148
+57319;Am Gehre;3;13;4;14;Bad Berleburg;003.1;;;148
+57319;Am Grünen;1;37;2;12;Raumland;018.1;;;148
+57319;Am Hahlacker;1;3;2;8;Beddelhausen;012.1;;;148
+57319;Am Hain;1;19;4;6;Elsoff;011.1;;;148
+57319;Am Heiligenstock;1;3;4;10;Girkhausen;007.1;;;148
+57319;Am Heller;1;1;;;Arfeld;014.1;;;148
+57319;Am Herrenacker;1;13;2;20;Bad Berleburg;002.1;;;148
+57319;Am Heßlar;1;15;2;20;Raumland;018.1;;;148
+57319;Am Hilgenacker;1;25;4;44;Bad Berleburg;005.1;;;148
+57319;Am Hillerbach;1;21;2;22;Wemlighausen;006.1;;;148
+57319;Am Hinterrain;3;9;;;Bad Berleburg;002.1;;;148
+57319;Am Homberg;5;17;2;16;Wingeshausen;025.1;;;148
+57319;Am Höfchen;1;5;2;18;Diedenshausen;009.1;;;148
+57319;Am Jägerhof;1;7;6;8;Aue;024.1;;;148
+57319;Am Kapplerstein;1;81;2;110;Aue;024.1;;;148
+57319;Am Kerstall;;;2;2;Weidenhausen;019.1;;;148
+57319;Am Kilbe;1;1;;;Berghausen;023.1;;;148
+57319;Am Kirchweg;1;5;;;Arfeld;014.1;;;148
+57319;Am Klingelbach;7;33;6;32;Bad Berleburg;001.1;;;148
+57319;Am Kohlrücken;1;41;2;38;Schwarzenau;013.1;;;148
+57319;Am Kreuz;1;5;2;8;Dotzlar;016.1;;;148
+57319;Am Köpfchen;1;19;2;28;Wingeshausen;025.1;;;148
+57319;Am Loh;1;11;2;18;Raumland;018.1;;;148
+57319;Am Lotzenberg;1;5;2;4;Wunderthausen;008.1;;;148
+57319;Am Mühlgraben;3;7;2;6;Schwarzenau;013.1;;;148
+57319;Am Ohrenrain;3;9;4;4;Sassenhausen;017.1;;;148
+57319;Am Polizeiweg;1;15;2;18;Schüllar;006.1;;;148
+57319;Am Reitelsberg;1;5;2;4;Elsoff;011.1;;;148
+57319;Am Rundweg;1;19;2;30;Hemschlar;020.1;;;148
+57319;Am Röllchen;1;9;2;10;Wingeshausen;025.1;;;148
+57319;Am Scheid;1;1;;;Girkhausen;007.1;;;148
+57319;Am Schulweg;1;21;2;20;Wemlighausen;006.1;;;148
+57319;Am Schützenplatz;1;37;2;28;Wunderthausen;008.1;;;148
+57319;Am Seifchen;23;43;6;38;Bad Berleburg;003.1;;;148
+57319;Am Sengelsberg;9;57;2;50;Bad Berleburg;001.1;;;148
+57319;Am Sohl;1;1;;;Diedenshausen;009.1;;;148
+57319;Am Spielacker;1;1;2;2;Bad Berleburg;002.1;;;148
+57319;Am Stein;1;9;2;10;Schüllar;006.1;;;148
+57319;Am Steinacker;1;1;;;Weidenhausen;019.1;;;148
+57319;Am Steinböhl;1;13;4;4;Wingeshausen;025.1;;;148
+57319;Am Steinchen;1;11;6;12;Raumland;018.1;;;148
+57319;Am Stöppelsbach;;;4;10;Bad Berleburg;001.1;;;148
+57319;Am Stünzel;3;21;2;10;Weidenhausen;019.1;;;148
+57319;Am Windhof;1;9;2;12;Stünzel;022.1;;;148
+57319;Am Winterscheid;1;17;2;10;Berghausen;023.1;;;148
+57319;Am alten Backhaus;3;3;;;Wemlighausen;006.1;;;148
+57319;Am alten Weinberg;5;11;2;8;Bad Berleburg;001.1;;;148
+57319;Amselweg;1;5;20;20;Weidenhausen;019.1;;;148
+57319;An der Bracht;1;15;2;100;Wingeshausen;025.1;;;148
+57319;An der Eder;1;11;2;10;Schwarzenau;013.1;;;148
+57319;An der Flachsbreche;1;21;8;14;Bad Berleburg;001.1;;;148
+57319;An der Gontardslust;9;17;2;26;Bad Berleburg;003.1;;;148
+57319;An der Helle;1;11;4;10;Wingeshausen;025.1;;;148
+57319;An der Hohle;1;5;4;4;Wemlighausen;006.1;;;148
+57319;An der Hude;1;13;2;10;Wunderthausen;008.1;;;148
+57319;An der Kegelbahn;1;3;2;8;Richstein;015.1;;;148
+57319;An der Kreuzebach;1;9;2;10;Wingeshausen;025.1;;;148
+57319;An der Lause;1;17;2;16;Bad Berleburg;002.1;;;148
+57319;An der Lindenstraße;9;33;8;40;Wemlighausen;006.1;;;148
+57319;An der Odebornskirche;1;39;6;40;Bad Berleburg;003.1;;;148
+57319;An der Rodche;1;3;2;2;Richstein;015.1;;;148
+57319;An der Schule;1;5;2;6;Wingeshausen;025.1;;;148
+57319;An der Sprungschanze;1;23;2;22;Girkhausen;007.1;;;148
+57319;An der Struth;1;21;4;26;Berghausen;023.1;;;148
+57319;An der Struthwiese;1;19;14;16;Schwarzenau;013.1;;;148
+57319;An der Viehtrift;1;9;4;20;Sassenhausen;017.1;;;148
+57319;An der Warthe;1;23;2;22;Berghausen;023.1;;;148
+57319;Arfelder Berg;1;5;2;2;Elsoff;011.1;;;148
+57319;Arfelder Hammer;1;1;;;Arfeld;014.1;;;148
+57319;Arfelder Hauptstraße;1;51;2;36;Arfeld;014.1;;;148
+57319;Arfetalstraße;1;43;2;56;Arfeld;014.1;;;148
+57319;Astenbergstraße;3;9;2;14;Bad Berleburg;002.1;;;148
+57319;Auf dem Brunkel;1;11;4;10;Berghausen;023.1;;;148
+57319;Auf dem Heller;1;1;2;2;Schwarzenau;013.1;;;148
+57319;Auf dem Laibach;1;1;2;2;Wemlighausen;006.1;;;148
+57319;Auf dem Liedrain;3;7;2;6;Wingeshausen;025.1;;;148
+57319;Auf dem Rain;1;1;4;4;Wemlighausen;006.1;;;148
+57319;Auf dem Sand;1;7;2;4;Wemlighausen;006.1;;;148
+57319;Auf der Gemeinde;3;11;2;10;Wunderthausen;008.1;;;148
+57319;Auf der Heide;3;21;4;32;Wemlighausen;006.1;;;148
+57319;Auf der Kirchwiese;7;7;2;8;Wunderthausen;008.1;;;148
+57319;Auf der Leie;1;5;2;6;Wunderthausen;008.1;;;148
+57319;Auf der Osterwiese;1;7;2;8;Bad Berleburg;005.1;;;148
+57319;Auf der Zäune;1;15;2;14;Beddelhausen;012.1;;;148
+57319;August-Borsig-Weg;1;11;;;Bad Berleburg;005.1;;;148
+57319;Bachstraße;1;3;4;4;Elsoff;011.1;;;148
+57319;Bachweg;1;7;2;8;Beddelhausen;012.1;;;148
+57319;Bahnhofstraße;1;11;2;2;Bad Berleburg;003.1;;;148
+57319;Barthstraße;1;17;2;20;Bad Berleburg;002.1;;;148
+57319;Beddelhäuser Straße;1;23;2;32;Beddelhausen;012.1;;;148
+57319;Bei der Kirche;3;11;2;12;Girkhausen;007.1;;;148
+57319;Bei der alten Mühle;1;3;2;4;Raumland;018.1;;;148
+57319;Berghof;1;1;;;Wunderthausen;008.1;;;148
+57319;Berghäuser Straße;3;61;4;68;Berghausen;023.1;;;148
+57319;Bergstraße;1;5;2;4;Richstein;015.1;;;148
+57319;Berlebach;1;5;;;Bad Berleburg;002.1;;;148
+57319;Berleburger Straße;1;7;2;64;Girkhausen;007.1;;;148
+57319;Berliner Straße;1;61;2;6;Bad Berleburg;005.1;;;148
+57319;Bernauer Straße;1;17;2;66;Bad Berleburg;005.1;;;148
+57319;Bernhardtsmühle;1;1;2;2;Elsoff;011.1;;;148
+57319;Birkenhof;1;1;;;Wemlighausen;006.1;;;148
+57319;Birkenstraße;1;15;2;16;Berghausen;023.1;;;148
+57319;Birkenweg;1;5;2;4;Bad Berleburg;001.1;;;148
+57319;Bismarckstraße;1;25;2;18;Bad Berleburg;004.1;;;148
+57319;Blumenstraße;1;13;2;20;Dotzlar;016.1;;;148
+57319;Bonifatiusstraße;1;5;4;4;Raumland;018.1;;;148
+57319;Brandenburger Straße;1;61;2;50;Bad Berleburg;005.1;;;148
+57319;Brauweg;1;3;2;4;Elsoff;011.1;;;148
+57319;Breslauer Straße;3;49;2;44;Bad Berleburg;003.1;;;148
+57319;Brücher;1;1;2;2;Christianseck;011.1;;;148
+57319;Brückenstraße;1;15;2;14;Elsoff;011.1;;;148
+57319;Bubenkirche;1;1;;;Wunderthausen;008.1;;;148
+57319;Buchenstraße;1;15;6;26;Berghausen;023.1;;;148
+57319;Buchenweg;5;5;4;8;Bad Berleburg;001.1;;;148
+57319;Burbachweg;1;1;2;2;Schüllar;006.1;;;148
+57319;Burg;1;1;;;Diedenshausen;009.1;;;148
+57319;Burgstraße;1;19;2;16;Dotzlar;016.1;;;148
+57319;Casimirstal;1;1;;;Wingeshausen;025.1;;;148
+57319;Casimirstaler Weg;1;1;;;Wingeshausen;025.1;;;148
+57319;Christianseck;5;5;2;6;Christianseck;011.1;;;148
+57319;Corneliusweg;1;3;2;4;Bad Berleburg;003.1;;;148
+57319;Danziger Straße;1;23;2;24;Berghausen;023.1;;;148
+57319;Delle;1;7;2;10;Elsoff;011.1;;;148
+57319;Didoll;1;1;;;Richstein;015.1;;;148
+57319;Dorfstraße;3;31;4;44;Alertshausen;010.1;;;148
+57319;Dorfweg;1;7;2;6;Wunderthausen;008.1;;;148
+57319;Dornbrachtweg;1;7;2;10;Beddelhausen;012.1;;;148
+57319;Dotzlarer Hauptstraße;3;31;4;36;Dotzlar;016.1;;;148
+57319;Drehbach;1;1;;;Stünzel;022.1;;;148
+57319;Dreisbach;1;9;6;12;Beddelhausen;012.1;;;148
+57319;Drosselweg;3;13;;;Weidenhausen;019.1;;;148
+57319;Dödesberg;;;12;12;Schüllar;006.1;;;148
+57319;Dödesberg;1;1;2;2;Girkhausen;007.1;;;148
+57319;Dönges Hof;1;1;;;Schüllar;006.1;;;148
+57319;Eder-Lahn-Straße;1;17;2;24;Sassenhausen;017.1;;;148
+57319;Ederhöhe;3;7;4;8;Beddelhausen;012.1;;;148
+57319;Ederstraße;1;67;4;68;Bad Berleburg;001.1;;;148
+57319;Edertalstraße;1;21;4;20;Schwarzenau;013.1;;;148
+57319;Ederweg;1;5;2;12;Raumland;018.1;;;148
+57319;Eichbachweg;1;5;;;Wunderthausen;008.1;;;148
+57319;Eichendell;1;19;2;24;Arfeld;014.1;;;148
+57319;Eichendorf;1;3;2;4;Rinthe;021.1;;;148
+57319;Eichenstraße;1;1;;;Dotzlar;016.1;;;148
+57319;Eichenweg;1;11;8;14;Bad Berleburg;002.1;;;148
+57319;Eisbachstraße;1;3;2;4;Dotzlar;016.1;;;148
+57319;Emil-Wolff-Straße;1;69;30;94;Bad Berleburg;005.1;;;148
+57319;Erlenwiese;;;2;2;Weidenhausen;019.1;;;148
+57319;Ernst-Reuter-Weg;1;13;;;Bad Berleburg;005.1;;;148
+57319;Eschenweg;1;7;4;10;Weidenhausen;019.1;;;148
+57319;Espeweg;11;89;12;102;Bad Berleburg;003.1;;;148
+57319;Feldstraße;3;7;4;4;Bad Berleburg;001.1;;;148
+57319;Ferdinand-Sauerbruch-Weg;1;13;;;Bad Berleburg;005.1;;;148
+57319;Finketal;1;1;;;Richstein;015.1;;;148
+57319;Fliederstraße;1;17;2;18;Dotzlar;016.1;;;148
+57319;Fohlenweg;;;2;16;Bad Berleburg;003.1;;;148
+57319;Forsthain;1;1;2;4;Schwarzenau;013.1;;;148
+57319;Forsthaus Homrighausen;1;1;2;2;Bad Berleburg;002.1;;;148
+57319;Forsthaus Hülshof;1;1;;;Richstein;015.1;;;148
+57319;Forsthaus Trufterhain;1;1;;;Bad Berleburg;002.1;;;148
+57319;Forsthaus Weißestein;1;1;;;Beddelhausen;012.1;;;148
+57319;Franz-Von-Winckel-Weg;1;11;2;8;Bad Berleburg;003.1;;;148
+57319;Freielsbach;1;5;2;4;Elsoff;011.1;;;148
+57319;Friedhofsstraße;;;2;4;Raumland;018.1;;;148
+57319;Fritz-Krämer-Straße;1;43;2;82;Raumland;018.1;;;148
+57319;Fürst-Richard-Straße;3;27;2;26;Bad Berleburg;002.1;;;148
+57319;Gartenweg;1;3;2;6;Bad Berleburg;001.1;;;148
+57319;Gasse;1;1;2;8;Schwarzenau;013.1;;;148
+57319;Gersbachweg;1;5;2;4;Arfeld;014.1;;;148
+57319;Girkhäuser Weg;1;19;2;20;Wunderthausen;008.1;;;148
+57319;Goetheplatz;3;9;4;8;Bad Berleburg;002.1;;;148
+57319;Graf-Casimir-Straße;1;11;2;14;Bad Berleburg;004.1;;;148
+57319;Großewiese;1;1;;;Wunderthausen;008.1;;;148
+57319;Grundweg;1;1;2;22;Dotzlar;016.1;;;148
+57319;Gründchen;1;3;;;Wunderthausen;008.1;;;148
+57319;Grünewald;1;1;;;Berghausen;023.1;;;148
+57319;Hainbachweg;1;5;8;10;Arfeld;014.1;;;148
+57319;Haingraben;1;3;2;2;Christianseck;011.1;;;148
+57319;Hainhof;1;3;2;2;Christianseck;011.1;;;148
+57319;Hainstraße;1;15;2;12;Sassenhausen;017.1;;;148
+57319;Haintal;1;3;2;2;Richstein;015.1;;;148
+57319;Hallenberger Straße;1;49;2;48;Wunderthausen;008.1;;;148
+57319;Harfeld;;;2;2;Richstein;015.1;;;148
+57319;Haspelstraße;1;15;2;12;Bad Berleburg;002.1;;;148
+57319;Hauptstraße;3;77;2;50;Aue;024.1;;;148
+57319;Hauptstraße;;;58;90;Wingeshausen;024.1;;;148
+57319;Hauptstraße;;;92;92;Aue;024.1;;;148
+57319;Heide;1;1;2;2;Arfeld;014.1;;;148
+57319;Heidehof;1;1;;;Wemlighausen;006.1;;;148
+57319;Heiderbrücke;11;23;2;22;Wemlighausen;006.1;;;148
+57319;Heinrich-Zille-Weg;1;15;;;Bad Berleburg;005.1;;;148
+57319;Hellersbacher Weg;1;15;6;18;Diedenshausen;009.1;;;148
+57319;Hellewiese;;;2;6;Diedenshausen;009.1;;;148
+57319;Hellweg;1;11;2;12;Wingeshausen;025.1;;;148
+57319;Hermann-Böttger-Straße;5;5;;;Bad Berleburg;001.1;;;148
+57319;Herrenwiese;3;5;6;6;Bad Berleburg;003.1;;;148
+57319;Hillerbachweg;1;25;2;32;Bad Berleburg;003.1;;;148
+57319;Hinter der Laie;1;11;4;24;Aue;024.1;;;148
+57319;Hinter der Lenne;1;1;2;2;Bad Berleburg;005.1;;;148
+57319;Hinterstöppel;1;51;2;54;Raumland;018.1;;;148
+57319;Hirtenbuche;1;1;;;Sassenhausen;017.1;;;148
+57319;Hochstraße;1;49;2;56;Bad Berleburg;002.1;;;148
+57319;Hof Bilsterbach;1;1;;;Dotzlar;016.1;;;148
+57319;Hof Dambach;1;1;;;Girkhausen;007.1;;;148
+57319;Hof Espe;1;1;;;Bad Berleburg;003.1;;;148
+57319;Hof Hude;1;1;;;Dotzlar;016.1;;;148
+57319;Hof Lützelsbach;1;1;;;Bad Berleburg;005.1;;;148
+57319;Hof Mühlbach;1;1;;;Bad Berleburg;002.1;;;148
+57319;Hof Repprighausen;1;1;;;Girkhausen;007.1;;;148
+57319;Hof Rinthersbach;1;1;;;Hemschlar;020.1;;;148
+57319;Hof Rohrbach;1;1;;;Bad Berleburg;005.1;;;148
+57319;Hof Rudolfsgraben;1;1;;;Elsoff;011.1;;;148
+57319;Hof Steinbach;1;1;2;2;Bad Berleburg;005.1;;;148
+57319;Hof Stöppelsbach;1;1;;;Bad Berleburg;001.1;;;148
+57319;Hof Trufterhain;1;1;;;Bad Berleburg;002.1;;;148
+57319;Hof Windbrache;1;1;;;Bad Berleburg;002.1;;;148
+57319;Hof Winterbach;1;1;;;Schüllar;006.1;;;148
+57319;Hof Wolfsgraben;1;1;;;Bad Berleburg;002.1;;;148
+57319;Hommertshäuser Weg;;;8;28;Arfeld;014.1;;;148
+57319;Homrighäuser Weg;1;55;2;70;Bad Berleburg;002.1;;;148
+57319;Hudeweg;1;21;2;18;Aue;024.1;;;148
+57319;Hüttetal;1;1;;;Richstein;015.1;;;148
+57319;Im Ahlen;1;19;2;8;Arfeld;014.1;;;148
+57319;Im Bach;1;5;4;6;Schwarzenau;013.1;;;148
+57319;Im Birkelbach;1;1;;;Girkhausen;007.1;;;148
+57319;Im Bortling;5;19;6;20;Wingeshausen;025.1;;;148
+57319;Im Butschbach;1;5;6;6;Elsoff;011.1;;;148
+57319;Im Christseifen;;;2;4;Wingeshausen;025.1;;;148
+57319;Im Dorf;1;11;2;12;Rinthe;021.1;;;148
+57319;Im Edertal;7;23;4;14;Raumland;018.1;;;148
+57319;Im Ermelsbach;1;25;2;34;Girkhausen;007.1;;;148
+57319;Im Feld;1;7;2;4;Wingeshausen;024.1;;;148
+57319;Im Garsbach;1;3;2;2;Christianseck;011.1;;;148
+57319;Im Graben;1;1;2;2;Aue;024.1;;;148
+57319;Im Gunzetal;11;43;10;42;Bad Berleburg;001.1;;;148
+57319;Im Gängelchen;1;5;2;2;Wemlighausen;006.1;;;148
+57319;Im Heidebach;1;1;2;2;Wemlighausen;006.1;;;148
+57319;Im Herrengarten;1;11;2;8;Bad Berleburg;004.1;;;148
+57319;Im Hopplerbach;1;3;2;2;Berghausen;023.1;;;148
+57319;Im Hopplerbach;5;7;4;6;Raumland;018.1;;;148
+57319;Im Hüttental;1;9;2;8;Schwarzenau;013.1;;;148
+57319;Im Kloster;1;3;2;2;Wunderthausen;008.1;;;148
+57319;Im Kraftsholz;11;11;12;12;Wemlighausen;006.1;;;148
+57319;Im Kraftsholz;1;1;;;Diedenshausen;009.1;;;148
+57319;Im Krimmelsbach;3;9;2;18;Berghausen;023.1;;;148
+57319;Im Küchelbach;3;3;2;2;Girkhausen;007.1;;;148
+57319;Im Leisebach;1;1;;;Beddelhausen;012.1;;;148
+57319;Im Mühlbach;;;4;8;Bad Berleburg;002.1;;;148
+57319;Im Oberdorf;1;31;2;28;Wemlighausen;006.1;;;148
+57319;Im Opferhof;3;15;6;24;Girkhausen;007.1;;;148
+57319;Im Padersbach;3;3;4;4;Richstein;015.1;;;148
+57319;Im Radebach;1;9;6;8;Wingeshausen;025.1;;;148
+57319;Im Regel;1;1;2;2;Arfeld;014.1;;;148
+57319;Im Rosengarten;9;11;2;8;Alertshausen;010.1;;;148
+57319;Im Scharlsbach;3;3;;;Alertshausen;010.1;;;148
+57319;Im Schwarzenbach;1;17;2;20;Alertshausen;010.1;;;148
+57319;Im Sohl;1;3;;;Wunderthausen;008.1;;;148
+57319;Im Süßbach;1;1;2;2;Girkhausen;007.1;;;148
+57319;Im Tälchen;3;3;4;4;Wingeshausen;025.1;;;148
+57319;Im Wehland;1;15;2;16;Wingeshausen;025.1;;;148
+57319;Im Wiesengrund;;;4;4;Wunderthausen;008.1;;;148
+57319;Im Willstein;1;33;2;14;Berghausen;023.1;;;148
+57319;Im Winkel;1;3;2;2;Beddelhausen;012.1;;;148
+57319;Im Winterbach;1;5;2;4;Wemlighausen;006.1;;;148
+57319;Im stillen Winkel;3;3;2;6;Schwarzenau;013.1;;;148
+57319;Immenweg;1;1;4;4;Elsoff;011.1;;;148
+57319;In Sassenhausen;1;1;2;2;Sassenhausen;017.1;;;148
+57319;In den Höfen;1;17;2;16;Wingeshausen;025.1;;;148
+57319;In den Wiesen;1;5;2;6;Wingeshausen;025.1;;;148
+57319;In der Dell;1;1;4;24;Girkhausen;007.1;;;148
+57319;In der Ecke;1;5;2;4;Schwarzenau;013.1;;;148
+57319;In der Forstbach;1;1;2;2;Berghausen;023.1;;;148
+57319;In der Gasse;1;3;2;2;Raumland;018.1;;;148
+57319;In der Heuwiese;;;2;10;Weidenhausen;019.1;;;148
+57319;In der Hohle;1;1;;;Schwarzenau;013.1;;;148
+57319;In der Hude;1;3;4;4;Berghausen;023.1;;;148
+57319;In der Moose;1;21;2;22;Weidenhausen;019.1;;;148
+57319;In der Müsse;3;31;2;36;Wingeshausen;024.1;;;148
+57319;In der Müsse;33;41;38;56;Aue;024.1;;;148
+57319;In der Neustadt;1;19;2;8;Alertshausen;010.1;;;148
+57319;In der Odeborn;1;67;6;62;Girkhausen;007.1;;;148
+57319;In der Renfte;1;21;6;20;Hemschlar;020.1;;;148
+57319;In der Schlade;1;1;;;Girkhausen;007.1;;;148
+57319;In der Schlenke;1;11;6;10;Weidenhausen;019.1;;;148
+57319;In der Trufte;1;11;2;16;Berghausen;023.1;;;148
+57319;In der Wester;3;15;4;12;Wingeshausen;025.1;;;148
+57319;Industriestraße;;;14;14;Raumland;018.1;;;148
+57319;Inselweg;1;7;2;6;Wingeshausen;025.1;;;148
+57319;Jacob-Nolde-Straße;1;43;2;36;Bad Berleburg;001.1;;;148
+57319;Jakobstraße;1;7;2;6;Elsoff;011.1;;;148
+57319;Johannes-Althusius-Straße;1;23;2;22;Diedenshausen;009.1;;;148
+57319;Kanalstraße;;;2;4;Bad Berleburg;001.1;;;148
+57319;Kapellenstraße;1;7;;;Sassenhausen;017.1;;;148
+57319;Kappelstraße;;;10;10;Aue;024.1;;;148
+57319;Kastanienstraße;1;15;2;18;Berghausen;023.1;;;148
+57319;Kastanienweg;3;15;2;14;Bad Berleburg;002.1;;;148
+57319;Kellerbergstraße;1;17;2;16;Dotzlar;016.1;;;148
+57319;Kirchplatz;3;9;2;10;Wingeshausen;025.1;;;148
+57319;Kirchstraße;1;7;4;6;Elsoff;011.1;;;148
+57319;Kleine Loh;;;2;4;Arfeld;014.1;;;148
+57319;Kohl;1;3;;;Christianseck;011.1;;;148
+57319;Kraftsholz;1;3;;;Wunderthausen;008.1;;;148
+57319;Kreuzstraße;1;11;2;16;Arfeld;014.1;;;148
+57319;Königsberger Straße;1;25;2;42;Bad Berleburg;004.1;;;148
+57319;Köpfchenweg;1;7;2;14;Aue;024.1;;;148
+57319;Köppelweg;1;15;2;14;Hemschlar;020.1;;;148
+57319;Kühhude;1;3;2;4;Schüllar;006.1;;;148
+57319;Laaspher Straße;1;9;4;10;Richstein;015.1;;;148
+57319;Landebach;1;3;2;4;Wunderthausen;008.1;;;148
+57319;Lange Zaun;1;1;;;Sassenhausen;017.1;;;148
+57319;Latzbruch;1;1;2;2;Bad Berleburg;003.1;;;148
+57319;Laubrother Straße;1;23;2;22;Dotzlar;016.1;;;148
+57319;Lehmbachstraße;1;11;2;34;Berghausen;023.1;;;148
+57319;Leigarten;1;5;2;2;Arfeld;014.1;;;148
+57319;Lerchenstraße;1;37;2;30;Dotzlar;016.1;;;148
+57319;Lerchenweg;1;27;2;16;Bad Berleburg;001.1;;;148
+57319;Leyeweg;1;13;2;16;Girkhausen;007.1;;;148
+57319;Lichtenberg;1;1;;;Diedenshausen;009.1;;;148
+57319;Lilienberg;1;1;;;Christianseck;011.1;;;148
+57319;Limburgstraße;1;5;4;30;Bad Berleburg;001.1;;;148
+57319;Lindenhof;1;7;4;8;Richstein;015.1;;;148
+57319;Lindenstraße;1;23;4;28;Berghausen;023.1;;;148
+57319;Lindenweg;7;9;4;8;Bad Berleburg;001.1;;;148
+57319;Ludwigsburgstraße;1;5;2;8;Bad Berleburg;001.1;;;148
+57319;Lösser Weg;15;51;26;50;Bad Berleburg;002.1;;;148
+57319;Marienburger Straße;1;31;4;44;Bad Berleburg;003.1;;;148
+57319;Markhäuser Hof;1;13;2;10;Raumland;018.1;;;148
+57319;Marktplatz;;;2;2;Bad Berleburg;001.1;;;148
+57319;Meckhausen;;;2;6;Dotzlar;016.1;;;148
+57319;Meckhausen;1;5;;;Bad Berleburg;005.1;;;148
+57319;Mennertalstraße;1;29;2;30;Elsoff;011.1;;;148
+57319;Mittelweg;1;1;2;2;Richstein;015.1;;;148
+57319;Moltkestraße;1;41;2;46;Bad Berleburg;004.1;;;148
+57319;Moosestraße;3;7;2;22;Weidenhausen;019.1;;;148
+57319;Mühlbach;1;5;2;2;Arfeld;014.1;;;148
+57319;Mühlenweg;1;39;2;34;Wingeshausen;025.1;;;148
+57319;Mühlwiese;1;27;12;34;Bad Berleburg;003.1;;;148
+57319;Neue Straße;1;19;2;20;Hemschlar;020.1;;;148
+57319;Neuwiese;1;3;2;2;Schwarzenau;013.1;;;148
+57319;Nordstraße;1;7;2;4;Elsoff;011.1;;;148
+57319;Oberdorfstraße;1;29;2;28;Wingeshausen;025.1;;;148
+57319;Obere Dell;1;7;2;2;Girkhausen;007.1;;;148
+57319;Obere Hardtstraße;1;27;6;14;Beddelhausen;012.1;;;148
+57319;Obere Moltkestraße;1;1;2;8;Bad Berleburg;004.1;;;148
+57319;Obereiche;1;9;4;4;Beddelhausen;012.1;;;148
+57319;Oberes Loh;1;49;2;58;Arfeld;014.1;;;148
+57319;Odebornsweg;3;3;2;8;Bad Berleburg;003.1;;;148
+57319;Osterweg;7;21;2;26;Girkhausen;007.1;;;148
+57319;Ostpreußenstraße;5;19;6;8;Berghausen;023.1;;;148
+57319;Oststraße;;;2;10;Weidenhausen;019.1;;;148
+57319;Parkstraße;1;11;2;16;Bad Berleburg;002.1;;;148
+57319;Paul-Lincke-Weg;1;9;;;Bad Berleburg;005.1;;;148
+57319;Paulsgrund;1;1;;;Wingeshausen;025.1;;;148
+57319;Petersgrund;1;1;;;Wunderthausen;008.1;;;148
+57319;Peteweg;3;17;;;Girkhausen;007.1;;;148
+57319;Pfaffenhude;;;2;16;Girkhausen;007.1;;;148
+57319;Pfarrwiese;1;9;2;4;Raumland;018.1;;;148
+57319;Platz;;;2;2;Diedenshausen;009.1;;;148
+57319;Plätzchen;1;1;;;Wunderthausen;008.1;;;148
+57319;Polizeyweg;3;7;4;4;Wingeshausen;025.1;;;148
+57319;Poststraße;39;65;28;48;Bad Berleburg;003.1;;;148
+57319;Poststraße;1;37;4;22;Bad Berleburg;004.1;;;148
+57319;Priesterweg;1;19;2;18;Wingeshausen;025.1;;;148
+57319;Privatweg;1;5;2;4;Richstein;015.1;;;148
+57319;Pulvermühle;3;3;2;12;Aue;024.1;;;148
+57319;Raumelsberg;1;1;2;6;Beddelhausen;012.1;;;148
+57319;Raumländer Straße;1;11;4;8;Raumland;018.1;;;148
+57319;Reifelsbach;;;2;2;Bad Berleburg;003.1;;;148
+57319;Richsteiner Mühle;1;5;2;4;Richstein;015.1;;;148
+57319;Richsteiner Straße;1;29;2;24;Richstein;015.1;;;148
+57319;Ringstraße;1;25;2;18;Raumland;018.1;;;148
+57319;Rinther Straße;3;13;2;14;Rinthe;021.1;;;148
+57319;Rohrbachstraße;1;29;2;18;Bad Berleburg;005.1;;;148
+57319;Roonstraße;1;27;2;26;Bad Berleburg;004.1;;;148
+57319;Rosenhofweg;1;3;2;2;Beddelhausen;012.1;;;148
+57319;Rosenweg;1;5;2;6;Arfeld;014.1;;;148
+57319;Rothenbachweg;5;5;2;16;Weidenhausen;019.1;;;148
+57319;Rübengrund;1;1;;;Christianseck;011.1;;;148
+57319;Sassenhäuser Straße;1;9;2;10;Dotzlar;016.1;;;148
+57319;Sassenhäuser Weg;3;3;6;6;Weidenhausen;019.1;;;148
+57319;Sauerlandstraße;1;5;2;4;Raumland;018.1;;;148
+57319;Scheidelwitzer Weg;1;3;2;6;Bad Berleburg;004.1;;;148
+57319;Schlade;1;1;;;Christianseck;011.1;;;148
+57319;Schlesienstraße;1;27;2;18;Berghausen;023.1;;;148
+57319;Schloßstraße;1;27;2;28;Bad Berleburg;001.1;;;148
+57319;Schmallenberger Haus;;;2;2;Berghausen;023.1;;;148
+57319;Schmelzhütte;1;3;;;Girkhausen;007.1;;;148
+57319;Schnells Ecke;1;9;2;8;Berghausen;023.1;;;148
+57319;Schreinersweg;1;3;;;Beddelhausen;012.1;;;148
+57319;Schulstraße;5;31;2;28;Bad Berleburg;004.1;;;148
+57319;Schulweg;1;19;2;4;Wunderthausen;008.1;;;148
+57319;Schulzehof;1;1;;;Girkhausen;007.1;;;148
+57319;Schöne Aussicht;1;7;2;4;Schwarzenau;013.1;;;148
+57319;Schüllarhammer;1;7;2;6;Schüllar;006.1;;;148
+57319;Schützenstraße;1;21;2;36;Bad Berleburg;004.1;;;148
+57319;Schützenweg;3;7;2;6;Elsoff;011.1;;;148
+57319;Sehlbergweg;3;45;10;10;Aue;024.1;;;148
+57319;Seibelsbach;1;7;2;4;Beddelhausen;012.1;;;148
+57319;Silbachweg;1;17;4;20;Wingeshausen;025.1;;;148
+57319;Sohl;1;1;;;Stünzel;022.1;;;148
+57319;Sonnenhang;1;27;2;28;Schwarzenau;013.1;;;148
+57319;Stedenhofstraße;1;55;8;34;Arfeld;014.1;;;148
+57319;Steigersbach;1;1;;;Richstein;015.1;;;148
+57319;Steinert;1;13;2;16;Diedenshausen;009.1;;;148
+57319;Steinsbachweg;1;39;4;34;Wingeshausen;024.1;;;148
+57319;Stettiner Straße;1;17;4;18;Bad Berleburg;004.1;;;148
+57319;Stockwiesenweg;1;1;4;4;Weidenhausen;019.1;;;148
+57319;Struthbach;1;1;2;2;Christianseck;011.1;;;148
+57319;Stöppelsbach;1;23;2;6;Raumland;018.1;;;148
+57319;Stöppelsweg;97;117;100;116;Raumland;018.1;;;148
+57319;Stöppelsweg;5;5;14;14;Bad Berleburg;001.1;;;148
+57319;Sudetenstraße;3;33;2;36;Bad Berleburg;004.1;;;148
+57319;Sählingstraße;19;51;4;62;Bad Berleburg;003.1;;;148
+57319;Südstraße;1;19;2;18;Raumland;018.1;;;148
+57319;Talstraße;;;2;2;Bad Berleburg;001.1;;;148
+57319;Tannenweg;1;1;;;Schwarzenau;013.1;;;148
+57319;Teiche;3;3;2;2;Christianseck;011.1;;;148
+57319;Teichstraße;7;7;2;8;Bad Berleburg;001.1;;;148
+57319;Tempelhofer Straße;1;9;12;18;Bad Berleburg;005.1;;;148
+57319;Theodor-Fontane-Weg;1;9;;;Bad Berleburg;005.1;;;148
+57319;Tiefenbacher Weg;3;11;2;12;Schwarzenau;013.1;;;148
+57319;Tiergartenstraße;1;11;2;16;Bad Berleburg;001.1;;;148
+57319;Tilsiter Straße;;;2;6;Bad Berleburg;004.1;;;148
+57319;Toresweg;1;9;2;8;Schüllar;006.1;;;148
+57319;Trift;1;1;;;Wunderthausen;008.1;;;148
+57319;Trufterhainstraße;1;37;12;26;Bad Berleburg;002.1;;;148
+57319;Ulmenstraße;5;7;2;10;Berghausen;023.1;;;148
+57319;Ulmenweg;1;9;;;Bad Berleburg;001.1;;;148
+57319;Unter der Kirche;1;5;2;4;Wemlighausen;006.1;;;148
+57319;Unter der Rose;1;7;4;8;Wingeshausen;025.1;;;148
+57319;Unter der Stehde;3;9;2;6;Wingeshausen;024.1;;;148
+57319;Unter der Weide;1;1;2;2;Rinthe;021.1;;;148
+57319;Unter der hohen Fuhr;3;17;2;16;Berghausen;023.1;;;148
+57319;Untere Hainstraße;1;3;;;Sassenhausen;017.1;;;148
+57319;Untere Hardtstraße;1;7;;;Beddelhausen;012.1;;;148
+57319;Unteres Loh;1;9;4;6;Arfeld;014.1;;;148
+57319;Unterm Bockshorn;1;5;4;6;Wemlighausen;006.1;;;148
+57319;Unterm Damberg;1;31;2;22;Girkhausen;007.1;;;148
+57319;Unterm Hain;;;2;10;Bad Berleburg;004.1;;;148
+57319;Unterm Heiligenberg;1;5;4;4;Elsoff;011.1;;;148
+57319;Unterm Höllscheid;3;11;2;6;Bad Berleburg;004.1;;;148
+57319;Unterm Kilbe;3;7;2;8;Berghausen;023.1;;;148
+57319;Unterm Köpfchen;1;9;2;6;Schwarzenau;013.1;;;148
+57319;Unterm Rain;1;19;2;20;Wemlighausen;006.1;;;148
+57319;Unterm Rüttel;1;5;2;4;Elsoff;011.1;;;148
+57319;Unterm Scheid;3;5;;;Wunderthausen;008.1;;;148
+57319;Unterm Steimel;3;15;4;14;Elsoff;011.1;;;148
+57319;Vogteistraße;1;25;2;24;Elsoff;011.1;;;148
+57319;Vor der Clewe;1;5;2;2;Richstein;015.1;;;148
+57319;Vor der Helle;1;15;2;14;Wingeshausen;025.1;;;148
+57319;Vorderstöppel;3;31;2;30;Raumland;018.1;;;148
+57319;Vorm Tor;1;5;;;Arfeld;014.1;;;148
+57319;Waldenburger Straße;1;31;2;32;Bad Berleburg;004.1;;;148
+57319;Wasserstraße;1;5;2;6;Bad Berleburg;001.1;;;148
+57319;Weidenhäuser Mühle;1;1;;;Weidenhausen;019.1;;;148
+57319;Weidenhäuser Straße;5;31;2;34;Weidenhausen;019.1;;;148
+57319;Wemlighäuser Straße;1;25;2;28;Wunderthausen;008.1;;;148
+57319;Westerfeldstraße;;;4;4;Weidenhausen;019.1;;;148
+57319;Weststraße;1;21;2;22;Raumland;018.1;;;148
+57319;Wiesenweg;1;19;2;20;Bad Berleburg;004.1;;;148
+57319;Wilhelm-Sauer-Straße;;;2;4;Bad Berleburg;003.1;;;148
+57319;Wittgensteiner Straße;1;19;2;6;Raumland;018.1;;;148
+57319;Wolpfad;1;17;2;18;Elsoff;011.1;;;148
+57319;Wörthstraße;1;3;4;4;Beddelhausen;012.1;;;148
+57319;Ziegeleiweg;3;11;6;30;Bad Berleburg;001.1;;;148
+57319;Zu den Gründen;1;23;2;20;Aue;024.1;;;148
+57319;Zum Billing;1;13;2;12;Schwarzenau;013.1;;;148
+57319;Zum Drehbach;3;3;;;Weidenhausen;019.1;;;148
+57319;Zum Ederblick;1;5;2;6;Dotzlar;016.1;;;148
+57319;Zum Ehrenmal;1;1;2;4;Diedenshausen;009.1;;;148
+57319;Zum Eichbach;1;5;2;6;Diedenshausen;009.1;;;148
+57319;Zum Festplatz;1;5;4;14;Stünzel;022.1;;;148
+57319;Zum Hambach;1;21;4;22;Schwarzenau;013.1;;;148
+57319;Zum Heidebach;1;1;2;6;Wemlighausen;006.1;;;148
+57319;Zum Heilbach;7;7;2;2;Aue;024.1;;;148
+57319;Zum Heiligenholz;1;1;2;2;Diedenshausen;009.1;;;148
+57319;Zum Katzensturz;5;5;2;6;Alertshausen;010.1;;;148
+57319;Zum Kinderzentrum;1;1;;;Berghausen;023.1;;;148
+57319;Zum Köppel;1;1;2;2;Arfeld;014.1;;;148
+57319;Zum Seibelsbach;1;1;2;2;Diedenshausen;009.1;;;148
+57319;Zum Sportplatz;;;2;10;Schwarzenau;013.1;;;148
+57319;Zur Aussicht;1;1;2;4;Sassenhausen;017.1;;;148
+57319;Zur Burg;1;5;4;4;Richstein;015.1;;;148
+57319;Zur Carlsburg;1;1;;;Alertshausen;010.1;;;148
+57319;Zur Delle;1;5;2;6;Arfeld;014.1;;;148
+57319;Zur Ecke;3;15;2;24;Berghausen;023.1;;;148
+57319;Zur Eiche;1;7;2;6;Schwarzenau;013.1;;;148
+57319;Zur Saale;1;7;2;8;Diedenshausen;009.1;;;148
+57319;Zur Turnhalle;5;5;4;4;Schwarzenau;013.1;;;148
+57319;Zur alten Kirche;1;1;2;2;Richstein;015.1;;;148
+57319;Zwischenweg;;;2;2;Weidenhausen;019.1;;;148
