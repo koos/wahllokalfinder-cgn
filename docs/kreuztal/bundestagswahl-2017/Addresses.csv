@@ -1,0 +1,548 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+57223;Achenbachstr.;1;61;2;34;Buschhütten;002.1;;;148
+57223;Adolf-Sänger-Weg;3;13;4;16;Fellinghausen;012.1;;;148
+57223;Adolf-Wurmbach-Str.;5;61;2;56;Littfeld;019.1;;;148
+57223;Adolph-Kolping-Str.;1;31;4;30;Kredenbach;011.1;;;148
+57223;Aherhammer;7;11;;;Ferndorf;009.1;;;148
+57223;Ahornweg;3;19;2;12;Littfeld;018.1;;;148
+57223;Alte Landstr.;9;29;14;26;Krombach;016.2;;;148
+57223;Alte Schulstr.;5;9;10;12;Buschhütten;002.1;;;148
+57223;Alte Wiese;3;17;2;10;Littfeld;018.1;;;148
+57223;Altenberger Str.;1;39;2;36;Littfeld;019.1;;;148
+57223;Alter Bruch;1;7;2;12;Ferndorf;010.1;;;148
+57223;Alter Fuhrweg;;;12;12;Buschhütten;002.1;;;148
+57223;Alter Weg;1;61;4;66;Osthelden;013.2;;;148
+57223;Altlohe;1;11;8;12;Kredenbach;011.1;;;148
+57223;Am Alten Hahn;1;17;4;36;Eichen;016.1;;;148
+57223;Am Alten Heck;1;71;4;44;Krombach;017.1;;;148
+57223;Am Büll;5;25;2;20;Buschhütten;001.1;;;148
+57223;Am Eichenwäldchen;1;9;;;Fellinghausen;013.1;;;148
+57223;Am Eichhagen;3;7;2;14;Osthelden;013.2;;;148
+57223;Am Eichhardt;3;5;2;6;Bockenbach;015.1;;;148
+57223;Am Ernsdorfbach;;;2;14;Kreuztal;008.1;;;148
+57223;Am Fischteich;1;15;4;6;Eichen;016.1;;;148
+57223;Am Freibad;1;31;4;42;Kredenbach;011.1;;;148
+57223;Am Graben;1;3;2;6;Krombach;017.1;;;148
+57223;Am Hang;1;7;2;6;Kreuztal;004.1;;;148
+57223;Am Hasenrain;3;3;;;Krombach;017.1;;;148
+57223;Am Heckstück;1;27;2;10;Buschhütten;002.1;;;148
+57223;Am Heesbach;1;7;2;8;Kreuztal;012.1;;;148
+57223;Am Kampen;3;5;2;6;Kreuztal;005.1;;;148
+57223;Am Kellenhagen;1;9;2;12;Osthelden;013.2;;;148
+57223;Am Klingelborn;1;17;2;22;Ferndorf;009.1;;;148
+57223;Am Lindenhof;1;15;2;12;Kredenbach;011.1;;;148
+57223;Am Mühlengraben;1;15;2;14;Stendenbach;016.1;;;148
+57223;Am Nöchel;5;13;2;20;Ferndorf;009.1;;;148
+57223;Am Park;;;2;10;Kreuztal;006.1;;;148
+57223;Am Parkplatz;;;4;4;Eichen;014.1;;;148
+57223;Am Pfantstiehl;1;7;2;10;Fellinghausen;013.1;;;148
+57223;Am Rain;1;7;2;2;Kredenbach;011.1;;;148
+57223;Am Rosenkamm;3;23;2;22;Ferndorf;009.1;;;148
+57223;Am Schiefen Weg;5;15;;;Littfeld;018.1;;;148
+57223;Am Siegerberg;1;27;2;20;Kredenbach;011.1;;;148
+57223;Am Sonnenhang;1;23;2;32;Eichen;014.1;;;148
+57223;Am Sportplatz;;;2;28;Stendenbach;016.1;;;148
+57223;Am Steinbruch;1;1;2;2;Osthelden;013.2;;;148
+57223;Am Streffel;1;37;2;22;Eichen;015.1;;;148
+57223;Am Sträßchen;1;3;4;8;Osthelden;013.2;;;148
+57223;Am Webersfeld;1;1;4;8;Kredenbach;011.1;;;148
+57223;Am Weinberg;3;19;4;38;Kredenbach;011.1;;;148
+57223;Amselweg;5;19;6;16;Kredenbach;011.1;;;148
+57223;An der Bahn;3;65;2;36;Kredenbach;011.1;;;148
+57223;An der Hofwiese;;;2;2;Stendenbach;016.1;;;148
+57223;An der Stetze;3;37;2;22;Eichen;014.1;;;148
+57223;Anemonenweg;1;7;;;Kreuztal;007.1;;;148
+57223;Annaweg;;;34;34;Burgholdinghausen;019.1;;;148
+57223;Annaweg;1;27;2;32;Littfeld;019.1;;;148
+57223;Aspenstr.;3;19;2;20;Littfeld;018.1;;;148
+57223;Asternweg;1;19;;;Kreuztal;007.1;;;148
+57223;Attenbach;1;13;2;26;Bockenbach;015.1;;;148
+57223;Auf dem Damm;1;19;4;14;Buschhütten;002.1;;;148
+57223;Auf dem Hainchen;3;29;2;38;Fellinghausen;012.1;;;148
+57223;Auf dem Hammer;5;5;2;16;Eichen;014.1;;;148
+57223;Auf dem Lürenfeld;;;2;4;Buschhütten;002.1;;;148
+57223;Auf dem Stück;1;27;4;34;Krombach;017.1;;;148
+57223;Auf der Aue;1;23;2;20;Krombach;016.2;;;148
+57223;Auf der Birke;1;27;6;14;Eichen;015.1;;;148
+57223;Auf der Buchdahl;1;13;2;8;Osthelden;013.2;;;148
+57223;Auf der Hube;3;43;12;60;Buschhütten;001.1;;;148
+57223;Auf der Pferdeweide;3;21;24;24;Buschhütten;001.1;;;148
+57223;Auf der Rennwiese;1;17;2;36;Ferndorf;008.2;;;148
+57223;Auf der Schlenke;1;27;2;22;Kreuztal;008.1;;;148
+57223;Austr.;;;2;40;Ferndorf;009.1;;;148
+57223;Außer dem Schlag;1;9;2;14;Eichen;014.1;;;148
+57223;Außer dem Schlag;11;23;;;Kreuztal;014.1;;;148
+57223;Azaleenweg;1;3;;;Kreuztal;005.1;;;148
+57223;Bachstelzenweg;3;3;6;8;Kredenbach;011.1;;;148
+57223;Backeswiese;11;27;;;Buschhütten;002.1;;;148
+57223;Backhausweg;1;19;2;8;Ferndorf;008.2;;;148
+57223;Bahnhofstr.;7;7;4;8;Kreuztal;004.1;;;148
+57223;Baumschulweg;3;23;4;30;Buschhütten;001.1;;;148
+57223;Beethovenweg;1;3;;;Eichen;014.1;;;148
+57223;Begonienweg;1;29;;;Kreuztal;007.1;;;148
+57223;Berghof;1;1;;;Stendenbach;016.1;;;148
+57223;Berghäuser Weg;;;10;10;Junkernhees;013.2;;;148
+57223;Berghäuser Weg;;;96;96;Mittelhees;013.2;;;148
+57223;Bergstr.;3;47;2;44;Ferndorf;010.1;;;148
+57223;Berliner Str.;1;77;2;70;Buschhütten;001.1;;;148
+57223;Birkenhof;1;1;;;Littfeld;018.1;;;148
+57223;Birkenweg;1;19;6;34;Buschhütten;003.1;;;148
+57223;Blashütte;3;13;2;10;Osthelden;013.2;;;148
+57223;Blauregenweg;1;9;4;12;Ferndorf;010.1;;;148
+57223;Bockenbachstr.;1;45;2;38;Eichen;015.1;;;148
+57223;Bockenbachstr.;;;54;54;Eichen;015.1;;;148
+57223;Bockenbachstr.;;;58;58;Eichen;015.1;;;148
+57223;Bockenbachstr.;;;56;56;Bockenbach;015.1;;;148
+57223;Bockenbachstr.;47;103;40;50;Bockenbach;015.1;;;148
+57223;Bockenbachstr.;45A;45A;;;Bockenbach;015.1;;;148
+57223;Bockenbachstr.;;;60;92;Bockenbach;015.1;;;148
+57223;Bogenstr.;5;33;2;26;Fellinghausen;012.1;;;148
+57223;Bottenbacher Gasse;;;4;8;Buschhütten;001.1;;;148
+57223;Bottenbacher Str.;3;83;2;84;Buschhütten;002.1;;;148
+57223;Brachestr.;1;7;2;18;Fellinghausen;012.1;;;148
+57223;Brandenburger Weg;3;5;4;12;Kreuztal;004.1;;;148
+57223;Brandhecke;3;5;2;18;Krombach;017.1;;;148
+57223;Brauereistr.;33;49;36;52;Krombach;017.1;;;148
+57223;Brauhausweg;1;7;2;6;Eichen;014.1;;;148
+57223;Bredower Weg;3;5;4;12;Kreuztal;004.1;;;148
+57223;Breslauer Str.;1;13;2;8;Kreuztal;006.1;;;148
+57223;Brücher Weg;1;43;;;Kredenbach;011.1;;;148
+57223;Brückenstr.;3;15;2;12;Kreuztal;003.1;;;148
+57223;Brüderweg;1;13;2;12;Osthelden;013.2;;;148
+57223;Buchener Weg;7;9;2;36;Buschhütten;003.1;;;148
+57223;Buchsbaumweg;;;2;8;Ferndorf;008.2;;;148
+57223;Burgholdinghausen;1;1;4;6;Burgholdinghausen;019.1;;;148
+57223;Burgholdinghauser Weg;1;45;6;42;Littfeld;019.1;;;148
+57223;Burgseifen;9;25;2;2;Krombach;017.1;;;148
+57223;Buschhüttener Str.;11;105;14;110;Buschhütten;002.1;;;148
+57223;Bussardweg;5;51;2;10;Kredenbach;011.1;;;148
+57223;Charlottenstr.;7;31;2;28;Buschhütten;001.1;;;148
+57223;Dachsweg;1;23;2;20;Stendenbach;016.1;;;148
+57223;Dahlienweg;1;23;;;Kreuztal;007.1;;;148
+57223;Dallnstr.;1;105;4;38;Ferndorf;009.1;;;148
+57223;Danziger Str.;1;11;;;Kreuztal;007.1;;;148
+57223;Deichwaldstr.;3;7;2;6;Buschhütten;003.1;;;148
+57223;Dicke Buche;1;29;6;26;Krombach;017.1;;;148
+57223;Distelweg;3;9;4;10;Kreuztal;006.1;;;148
+57223;Dornseifer Str.;1;69;4;68;Fellinghausen;013.1;;;148
+57223;Dr.-Erich-Moning-Str.;3;15;2;24;Kreuztal;004.1;;;148
+57223;Dr.-Menne-Str.;1;11;4;8;Kreuztal;004.1;;;148
+57223;Dr.-Stelbrink-Str.;1;11;2;12;Kredenbach;011.1;;;148
+57223;Dörnbergstr.;5;19;2;16;Kreuztal;004.1;;;148
+57223;Dörrwiesenstr.;1;19;2;18;Kreuztal;008.1;;;148
+57223;Ebertshahnstr.;1;27;2;36;Ferndorf;010.1;;;148
+57223;Eckertswehr;5;35;2;24;Kredenbach;011.1;;;148
+57223;Edelweißweg;1;3;2;2;Krombach;017.1;;;148
+57223;Eggersten Ring;;;34;54;Kreuztal;006.1;;;148
+57223;Eggersten Ring;1;19;6;32;Kreuztal;007.1;;;148
+57223;Eiche Wende;1;5;4;6;Kredenbach;011.1;;;148
+57223;Eichendorffweg;1;7;2;20;Fellinghausen;013.1;;;148
+57223;Eichener Str.;3;125;4;116;Eichen;014.1;;;148
+57223;Eichenhof;1;1;;;Stendenbach;016.1;;;148
+57223;Eichenweg;1;9;4;4;Stendenbach;014.1;;;148
+57223;Eichholzstr.;1;13;2;10;Kreuztal;004.1;;;148
+57223;Enzianweg;1;7;;;Krombach;017.1;;;148
+57223;Erfurter Str.;1;37;2;30;Krombach;016.2;;;148
+57223;Ernsdorfstr.;3;113;4;116;Kreuztal;008.1;;;148
+57223;Erzebachstr.;1;17;2;26;Fellinghausen;012.1;;;148
+57223;Feldhof;1;7;2;4;Ferndorf;008.2;;;148
+57223;Feldmannshof;1;1;;;Stendenbach;016.1;;;148
+57223;Feldstr.;1;29;2;32;Ferndorf;010.1;;;148
+57223;Fellenbachstr.;1;27;2;38;Fellinghausen;012.1;;;148
+57223;Fellinghausener Str.;1;37;2;40;Fellinghausen;012.1;;;148
+57223;Fellinghausener Str.;39;81;42;78;Fellinghausen;013.1;;;148
+57223;Ferndorfer Str.;1;19;2;26;Kreuztal;008.1;;;148
+57223;Ferndorfer Str.;23;47;28;58;Ferndorf;008.2;;;148
+57223;Ferndorfer Str.;49;107;72;116;Ferndorf;009.1;;;148
+57223;Feuerdornweg;3;11;2;10;Ferndorf;010.1;;;148
+57223;Fichtenweg;1;9;2;4;Kreuztal;004.1;;;148
+57223;Finkenweg;3;13;2;8;Kredenbach;011.1;;;148
+57223;Fliederweg;3;25;;;Kreuztal;007.1;;;148
+57223;Flurenwende;3;19;6;18;Kreuztal;008.1;;;148
+57223;Forstweg;11;11;12;24;Buschhütten;003.1;;;148
+57223;Forstweg;1;1;2;10;Kreuztal;003.1;;;148
+57223;Freesienweg;;;2;12;Kreuztal;007.1;;;148
+57223;Frh.-Vom-Stein-Str.;1;31;2;48;Kreuztal;004.1;;;148
+57223;Friedhofsweg;1;7;2;34;Ferndorf;009.1;;;148
+57223;Friedrich-Ebert-Str.;15;21;10;24;Buschhütten;003.1;;;148
+57223;Friedrich-Grieb-Weg;;;2;12;Littfeld;019.1;;;148
+57223;Fuchsweg;1;9;2;16;Stendenbach;014.1;;;148
+57223;Föhrenweg;1;9;2;10;Littfeld;018.1;;;148
+57223;Gartenstr.;13;27;12;36;Ferndorf;008.2;;;148
+57223;Gartenstr.;3;9;2;10;Kreuztal;008.1;;;148
+57223;Gasser Weg;1;5;2;12;Ferndorf;009.1;;;148
+57223;Geranienweg;1;1;2;18;Kreuztal;005.1;;;148
+57223;Gerberstr.;1;35;2;26;Littfeld;018.1;;;148
+57223;Gerh.-Hauptmann-Weg;1;27;2;14;Buschhütten;001.1;;;148
+57223;Gewendtweg;1;5;2;16;Osthelden;013.2;;;148
+57223;Ginsterweg;1;11;4;8;Kreuztal;008.1;;;148
+57223;Gladiolenweg;;;2;20;Kreuztal;007.1;;;148
+57223;Glogauer Str.;3;7;2;6;Osthelden;013.2;;;148
+57223;Glück-Auf-Str.;3;33;2;36;Kreuztal;008.1;;;148
+57223;Glück-Auf-Str.;35;35;38;38;Ferndorf;008.2;;;148
+57223;Goetheweg;1;39;24;28;Buschhütten;001.1;;;148
+57223;Goldregenweg;1;9;2;12;Ferndorf;010.1;;;148
+57223;Grabenstr.;3;5;2;6;Kreuztal;005.1;;;148
+57223;Grenzweg;5;9;2;8;Eichen;016.1;;;148
+57223;Grubenstr.;1;83;2;72;Littfeld;019.1;;;148
+57223;Gute Zeit;1;1;;;Ferndorf;009.1;;;148
+57223;Gutshofstr.;1;11;2;18;Fellinghausen;013.1;;;148
+57223;Görlitzer Str.;1;5;4;12;Krombach;017.1;;;148
+57223;Gülshof;1;3;;;Fellinghausen;013.1;;;148
+57223;Hagener Str.;123;141;100;158;Eichen;014.1;;;148
+57223;Hagener Str.;145;185;160;200;Eichen;016.1;;;148
+57223;Hagener Str.;197;227;202;246;Krombach;016.2;;;148
+57223;Hagener Str.;251;303;252;336;Krombach;017.1;;;148
+57223;Hagener Str.;27;119;34;96;Kreuztal;006.1;;;148
+57223;Hagener Str.;349;467;380;476;Littfeld;018.1;;;148
+57223;Hagener Str.;3;15;4;4;Kreuztal;005.1;;;148
+57223;Hammerstr.;1;17;16;20;Eichen;014.1;;;148
+57223;Hangstr.;1;11;4;10;Littfeld;018.1;;;148
+57223;Hankerstr.;1;7;2;36;Eichen;014.1;;;148
+57223;Hanna-Achenbach-Weg;1;3;2;12;Fellinghausen;012.1;;;148
+57223;Hans-Böckler-Str.;1;27;4;26;Buschhütten;002.1;;;148
+57223;Haselnußweg;1;11;2;8;Ferndorf;010.1;;;148
+57223;Hasenweg;1;15;2;6;Stendenbach;016.1;;;148
+57223;Havelweg;3;3;2;6;Kreuztal;004.1;;;148
+57223;Heeserhofstr.;1;17;2;20;Littfeld;018.1;;;148
+57223;Heesstr.;1;17;4;10;Kreuztal;005.1;;;148
+57223;Heesstr.;23;97;16;68;Fellinghausen;012.1;;;148
+57223;Heesstr.;99;161;72;144;Fellinghausen;013.1;;;148
+57223;Heesstr.;177;377;168;334;Junkernhees;013.2;;;148
+57223;Heestalhof;1;1;;;Mittelhees;013.2;;;148
+57223;Heidfeldstr.;7;21;2;20;Littfeld;018.1;;;148
+57223;Heimkäuserstr.;1;1;2;14;Littfeld;019.1;;;148
+57223;Helenenhof;1;1;;;Littfeld;018.1;;;148
+57223;Herderweg;1;9;2;10;Buschhütten;003.1;;;148
+57223;Hergeswald;1;29;2;24;Eichen;016.1;;;148
+57223;Hermann-Ehlers-Weg;1;11;2;6;Buschhütten;001.1;;;148
+57223;Hermann-Kuhmichel-Weg;1;7;2;8;Fellinghausen;012.1;;;148
+57223;Hermann-Löns-Str.;1;7;2;26;Krombach;017.1;;;148
+57223;Hermann-Manskopf-Weg;1;3;2;12;Fellinghausen;012.1;;;148
+57223;Herrenwiese;1;39;;;Krombach;017.1;;;148
+57223;Hessengarten;3;9;2;26;Kreuztal;005.1;;;148
+57223;Hirtengarten;1;13;2;12;Ferndorf;008.2;;;148
+57223;Hochstr.;1;97;4;82;Kreuztal;006.1;;;148
+57223;Hof Berghaus;1;1;;;Mittelhees;013.2;;;148
+57223;Hof Epchenbach;1;1;;;Oberhees;013.2;;;148
+57223;Hof Kindelsberg;1;1;;;Eichen;014.1;;;148
+57223;Hof Wurmbach;;;14;20;Mittelhees;013.2;;;148
+57223;Hofacker;5;5;2;2;Ferndorf;009.1;;;148
+57223;Hofweg;7;7;;;Mittelhees;013.2;;;148
+57223;Hofwiesenstr.;1;25;2;24;Fellinghausen;013.1;;;148
+57223;Hohler Weg;3;9;6;16;Buschhütten;002.1;;;148
+57223;Holunderweg;1;1;4;6;Kreuztal;006.1;;;148
+57223;Horbachstr.;1;49;6;50;Kredenbach;011.1;;;148
+57223;Höhbergstr.;5;9;6;6;Kreuztal;006.1;;;148
+57223;Höhenweg;1;5;2;8;Fellinghausen;012.1;;;148
+57223;Höhstr.;17;21;4;16;Ferndorf;010.1;;;148
+57223;Höhstr.;3;13;;;Ferndorf;009.1;;;148
+57223;Hölzenbergstr.;1;35;2;14;Littfeld;018.1;;;148
+57223;Hüttenrain;1;13;2;6;Krombach;016.2;;;148
+57223;Hüttenstr.;9;35;4;18;Buschhütten;003.1;;;148
+57223;Hüttenwiese;1;19;2;20;Littfeld;019.1;;;148
+57223;Im Breiten Feld;1;29;2;22;Kredenbach;011.1;;;148
+57223;Im Bühlsgarten;3;3;2;6;Littfeld;018.1;;;148
+57223;Im Feld;3;13;10;12;Littfeld;018.1;;;148
+57223;Im Großen Garten;5;9;4;12;Krombach;017.1;;;148
+57223;Im Heiligen Seifen;7;25;2;22;Littfeld;018.1;;;148
+57223;Im Hölzenbergsgarten;1;3;2;8;Littfeld;018.1;;;148
+57223;Im Kiel;1;31;2;36;Ferndorf;010.1;;;148
+57223;Im Kölsbachgrund;;;2;18;Buschhütten;001.1;;;148
+57223;Im Neuen Feld;1;7;2;8;Osthelden;013.2;;;148
+57223;Im Plan;1;9;4;14;Kreuztal;004.1;;;148
+57223;Im Postgarten;5;7;6;6;Buschhütten;002.1;;;148
+57223;Im Schloos;1;29;4;26;Littfeld;019.1;;;148
+57223;Im Weiher;7;19;2;10;Buschhütten;002.1;;;148
+57223;Im Wenigen Bruch;1;27;4;24;Eichen;015.1;;;148
+57223;Im Wiesental;1;5;2;12;Eichen;016.1;;;148
+57223;Im Winkel;3;9;2;10;Kreuztal;006.1;;;148
+57223;In den Büschen;3;11;2;10;Bockenbach;015.1;;;148
+57223;In den Eichen;7;11;4;6;Littfeld;019.1;;;148
+57223;In den Erlen;3;29;22;28;Littfeld;019.1;;;148
+57223;In der Bockelbach;1;49;10;42;Eichen;015.1;;;148
+57223;In der Breitenbach;1;5;4;6;Krombach;017.1;;;148
+57223;In der Burbach;1;15;4;20;Kreuztal;006.1;;;148
+57223;In der Ecke;1;21;6;24;Fellinghausen;012.1;;;148
+57223;In der Enke;3;5;8;14;Krombach;017.1;;;148
+57223;In der Försterwiese;3;15;8;22;Buschhütten;003.1;;;148
+57223;In der Heeg;3;9;2;16;Ferndorf;009.1;;;148
+57223;In der Höllenbach;1;23;2;30;Krombach;016.2;;;148
+57223;In der Ickenbach;3;25;4;8;Bockenbach;015.1;;;148
+57223;In der Kredenbach;1;15;2;6;Kredenbach;011.1;;;148
+57223;In der Lehmkuhle;1;5;2;2;Littfeld;019.1;;;148
+57223;In der Molzkaute;3;35;4;36;Buschhütten;003.1;;;148
+57223;In der Stockwiese;5;15;2;6;Buschhütten;003.1;;;148
+57223;In der Thal;;;2;8;Fellinghausen;012.1;;;148
+57223;In der Wacholder;1;11;2;12;Littfeld;019.1;;;148
+57223;In der Zitzenbach;1;1;;;Ferndorf;010.1;;;148
+57223;In der alten Straße;1;23;2;16;Eichen;014.1;;;148
+57223;Irisweg;1;13;4;14;Kreuztal;006.1;;;148
+57223;Irlenweg;1;3;2;16;Ferndorf;008.2;;;148
+57223;Irlenweg;13;17;20;22;Ferndorf;009.1;;;148
+57223;Jahnstr.;3;57;6;70;Eichen;016.1;;;148
+57223;Jakob-Henrich-Str.;9;55;18;44;Krombach;017.1;;;148
+57223;Jasminweg;3;7;;;Krombach;017.1;;;148
+57223;Joh.-Heinrich-Jung-Str.;1;1;2;12;Littfeld;019.1;;;148
+57223;Johannespfad;1;13;14;38;Kredenbach;011.1;;;148
+57223;Joseph-Haydn-Weg;3;5;10;12;Eichen;014.1;;;148
+57223;Juliusstr.;1;11;2;10;Eichen;016.1;;;148
+57223;Jung-Stilling-Str.;3;15;4;10;Kredenbach;011.1;;;148
+57223;Junkernweg;1;25;12;22;Junkernhees;013.2;;;148
+57223;Kantstr.;3;19;2;12;Buschhütten;001.1;;;148
+57223;Karl-Carstens-Weg;1;5;2;10;Buschhütten;002.1;;;148
+57223;Karl-Krämer-Str.;;;16;16;Kredenbach;011.1;;;148
+57223;Kastanienweg;3;25;2;2;Littfeld;018.1;;;148
+57223;Kattowitzer Str.;1;3;2;12;Kreuztal;007.1;;;148
+57223;Kellershain;9;37;4;22;Kredenbach;011.1;;;148
+57223;Ketziner Weg;1;3;2;4;Kreuztal;004.1;;;148
+57223;Kindelsbergstr.;1;49;2;132;Ferndorf;008.2;;;148
+57223;Kirbergstr.;5;79;4;78;Eichen;015.1;;;148
+57223;Kirchhofweg;1;17;2;10;Bockenbach;015.1;;;148
+57223;Kirchhofweg;21;21;12;40;Eichen;015.1;;;148
+57223;Kirchweg;3;31;2;16;Krombach;017.1;;;148
+57223;Kirchwiese;1;27;4;6;Kreuztal;005.1;;;148
+57223;Klafelders Garten;1;1;4;6;Fellinghausen;012.1;;;148
+57223;Kleistweg;1;9;4;6;Buschhütten;001.1;;;148
+57223;Kolberger Str.;1;5;2;10;Kreuztal;004.1;;;148
+57223;Konrad-Adenauer-Weg;3;9;2;6;Buschhütten;001.1;;;148
+57223;Kredenbacher Str.;11;67;12;54;Kredenbach;011.1;;;148
+57223;Krokusweg;1;5;;;Kreuztal;007.1;;;148
+57223;Krombacher Str.;19;25;14;28;Krombach;016.2;;;148
+57223;Krombacher Str.;51;57;64;76;Krombach;017.1;;;148
+57223;Krähenbergstr.;3;35;6;60;Littfeld;019.1;;;148
+57223;Kuhlstr.;1;21;4;16;Ferndorf;008.2;;;148
+57223;Kurt-Schumacher-Weg;1;9;2;8;Buschhütten;001.1;;;148
+57223;Kärntner Str.;3;41;4;26;Ferndorf;009.1;;;148
+57223;Kölsbachstr.;1;1;4;14;Buschhütten;001.1;;;148
+57223;Königsberger Str.;;;8;26;Buschhütten;001.1;;;148
+57223;Köpfchenstr.;1;21;8;8;Kreuztal;006.1;;;148
+57223;Landstr.;13;101;14;72;Fellinghausen;012.1;;;148
+57223;Landstr.;;;2;12;Kreuztal;012.1;;;148
+57223;Lange Wiese;;;8;40;Krombach;017.1;;;148
+57223;Langenauer Str.;1;45;28;42;Buschhütten;003.1;;;148
+57223;Leipziger Str.;;;8;10;Kreuztal;007.1;;;148
+57223;Lessingstr.;3;11;6;8;Buschhütten;002.1;;;148
+57223;Leystr.;;;6;10;Kreuztal;004.1;;;148
+57223;Liesewaldstr.;45;49;40;48;Kreuztal;003.1;;;148
+57223;Liesewaldstr.;51;115;50;96;Buschhütten;003.1;;;148
+57223;Liesewaldstr.;1;43;6;36;Kreuztal;004.1;;;148
+57223;Ligno Park;1;1;2;20;Ferndorf;009.1;;;148
+57223;Lilienweg;1;9;;;Kreuztal;007.1;;;148
+57223;Limbachstr.;1;23;2;28;Littfeld;018.1;;;148
+57223;Lindenhof;1;1;;;Bockenbach;015.1;;;148
+57223;Lindenweg;1;3;4;8;Littfeld;019.1;;;148
+57223;Littfelder Ecke;1;13;2;24;Littfeld;018.1;;;148
+57223;Loher Weg;1;61;2;62;Ferndorf;010.1;;;148
+57223;Lohstr.;1;27;2;26;Kreuztal;008.1;;;148
+57223;Luisenstr.;5;9;;;Fellinghausen;012.1;;;148
+57223;Lärchenhof;1;11;2;4;Kredenbach;011.1;;;148
+57223;Löhrstr.;1;15;2;2;Littfeld;018.1;;;148
+57223;Magnolienweg;1;15;2;14;Ferndorf;010.1;;;148
+57223;Malvenweg;3;11;2;20;Kreuztal;005.1;;;148
+57223;Mandelbaumweg;1;15;2;10;Ferndorf;010.1;;;148
+57223;Marburger Str.;127;173;102;158;Ferndorf;008.2;;;148
+57223;Marburger Str.;181;291;160;248;Ferndorf;009.1;;;148
+57223;Marburger Str.;349;413;396;412;Kredenbach;011.1;;;148
+57223;Marburger Str.;1;125;8;96;Kreuztal;005.1;;;148
+57223;Margeritenweg;3;5;2;2;Krombach;017.1;;;148
+57223;Martin-Luther-Str.;1;5;2;4;Kreuztal;005.1;;;148
+57223;Martinshardtstr.;5;23;10;14;Kredenbach;011.1;;;148
+57223;Mattenbachstr.;1;29;2;16;Buschhütten;002.1;;;148
+57223;Meisterstr.;1;7;2;8;Littfeld;019.1;;;148
+57223;Mittelschlenke;1;11;4;10;Kreuztal;008.1;;;148
+57223;Mittelstr.;3;5;2;10;Krombach;017.1;;;148
+57223;Moltkestr.;3;21;2;22;Kreuztal;004.1;;;148
+57223;Moltkestr.;27;29;26;52;Kreuztal;005.1;;;148
+57223;Mozartstr.;1;3;;;Eichen;014.1;;;148
+57223;Mühlbergstr.;17;53;12;42;Buschhütten;003.1;;;148
+57223;Mühlbergstr.;1;13;2;8;Kreuztal;012.1;;;148
+57223;Mühlenanger;1;11;2;2;Eichen;014.1;;;148
+57223;Mühlenwaldstr.;1;5;2;4;Eichen;014.1;;;148
+57223;Mühlenweg;;;4;4;Ferndorf;009.1;;;148
+57223;Müsener Str.;;;2;6;Littfeld;019.1;;;148
+57223;Müsener Str.;;;26;28;Littfeld;019.1;;;148
+57223;Müsener Str.;;;16;20;Burgholdinghausen;019.1;;;148
+57223;Müsener Str.;17;57;30;60;Burgholdinghausen;019.1;;;148
+57223;Narzissenweg;1;7;2;22;Kreuztal;007.1;;;148
+57223;Nauener Str.;5;47;6;38;Kreuztal;004.1;;;148
+57223;Nelkenweg;;;2;12;Kreuztal;007.1;;;148
+57223;Neuer Weg;5;9;2;18;Fellinghausen;013.1;;;148
+57223;Nordoststr.;1;7;2;6;Ferndorf;009.1;;;148
+57223;Nordoststr.;9;31;8;30;Ferndorf;010.1;;;148
+57223;Nordstr.;1;21;2;32;Kredenbach;011.1;;;148
+57223;Numbacher Hof;1;1;;;Junkernhees;013.2;;;148
+57223;Numbachstr.;1;37;2;36;Fellinghausen;013.1;;;148
+57223;Nußbaumweg;1;3;2;2;Ferndorf;010.1;;;148
+57223;Obere Erzenbach;1;3;2;10;Fellinghausen;013.1;;;148
+57223;Obere Mühlbergstr.;1;17;2;24;Buschhütten;003.1;;;148
+57223;Oberseifen;3;35;6;34;Krombach;017.1;;;148
+57223;Oberstr.;;;12;12;Kreuztal;007.1;;;148
+57223;Oberstr.;1;23;2;10;Kreuztal;005.1;;;148
+57223;Olper Str.;1;23;6;40;Krombach;017.1;;;148
+57223;Ostheldener Str.;29;63;12;64;Osthelden;013.2;;;148
+57223;Ostheldener Str.;1;9;;;Junkernhees;013.2;;;148
+57223;Pappelweg;;;2;2;Littfeld;018.1;;;148
+57223;Parkstr.;1;1;4;6;Buschhütten;001.1;;;148
+57223;Pastor-Stein-Str.;5;5;4;18;Krombach;017.1;;;148
+57223;Pfarrstr.;3;21;6;10;Kreuztal;004.1;;;148
+57223;Platzwiese;1;9;2;8;Littfeld;018.1;;;148
+57223;Poststr.;25;25;20;36;Krombach;017.1;;;148
+57223;Potsdamer Weg;3;3;2;10;Kreuztal;004.1;;;148
+57223;Prignitzer Weg;3;5;4;8;Littfeld;019.1;;;148
+57223;Querstr.;1;5;2;14;Ferndorf;010.1;;;148
+57223;Rahlsbach;1;5;4;6;Littfeld;019.1;;;148
+57223;Rasthaus Kindelsberg;1;1;;;Littfeld;019.1;;;148
+57223;Rathenower Weg;1;11;2;4;Kreuztal;004.1;;;148
+57223;Ratzebuschstr.;1;69;2;70;Kreuztal;006.1;;;148
+57223;Rehweg;3;7;4;6;Stendenbach;016.1;;;148
+57223;Rembrandtweg;3;5;4;12;Fellinghausen;013.1;;;148
+57223;Rheinsberger Weg;1;5;4;6;Kreuztal;004.1;;;148
+57223;Ribbecker Weg;5;7;2;14;Kreuztal;004.1;;;148
+57223;Richard-Schmidt-Str.;1;9;2;12;Eichen;016.1;;;148
+57223;Richard-Wagner-Weg;1;7;4;8;Bockenbach;015.1;;;148
+57223;Rohrbachweg;1;7;;;Osthelden;013.2;;;148
+57223;Roonstr.;7;17;2;22;Kreuztal;004.1;;;148
+57223;Rosenweg;;;2;18;Kreuztal;007.1;;;148
+57223;Rotdornweg;1;11;2;10;Ferndorf;008.2;;;148
+57223;Rothwiese;3;3;4;4;Fellinghausen;012.1;;;148
+57223;Rubensweg;3;13;4;16;Fellinghausen;013.1;;;148
+57223;Rüttingweg;5;5;;;Krombach;017.1;;;148
+57223;Sanddornweg;1;13;4;14;Ferndorf;010.1;;;148
+57223;Scheidtstr.;5;21;2;20;Kredenbach;011.1;;;148
+57223;Scheinerstr.;3;17;4;12;Littfeld;019.1;;;148
+57223;Schlehdornstr.;1;47;2;46;Ferndorf;008.2;;;148
+57223;Schlehenweg;1;5;2;6;Littfeld;018.1;;;148
+57223;Schlenkestr.;1;19;4;24;Ferndorf;008.2;;;148
+57223;Schlesische Str.;1;13;2;18;Ferndorf;010.1;;;148
+57223;Schneeweißdornstr.;1;7;4;14;Eichen;014.1;;;148
+57223;Schubertstr.;1;45;;;Eichen;014.1;;;148
+57223;Schulstr.;9;87;4;62;Eichen;015.1;;;148
+57223;Schulweg;3;5;;;Fellinghausen;012.1;;;148
+57223;Schwalbenweg;1;9;6;10;Kredenbach;011.1;;;148
+57223;Schwarzdornweg;1;3;4;6;Ferndorf;008.2;;;148
+57223;Schützenstr.;3;35;4;20;Littfeld;018.1;;;148
+57223;Setzer Str.;31;63;12;50;Buschhütten;001.1;;;148
+57223;Siegener Str.;211;301;156;196;Buschhütten;001.1;;;148
+57223;Siegener Str.;1;3;2;6;Kreuztal;005.1;;;148
+57223;Siegener Str.;11;33;20;26;Kreuztal;004.1;;;148
+57223;Siegener Str.;59;59;36;48;Buschhütten;003.1;;;148
+57223;Siegener Str.;81;189;64;180;Buschhütten;002.1;;;148
+57223;Siepenstr.;1;21;2;48;Ferndorf;009.1;;;148
+57223;Sonnenhof;1;1;;;Littfeld;018.1;;;148
+57223;Sonnenweg;1;5;;;Fellinghausen;012.1;;;148
+57223;Spandauer Weg;1;7;2;6;Kreuztal;004.1;;;148
+57223;Spechtweg;;;8;8;Kredenbach;011.1;;;148
+57223;Spielweg;;;2;6;Littfeld;018.1;;;148
+57223;Starenweg;3;13;6;14;Kredenbach;011.1;;;148
+57223;Steiler Weg;;;2;2;Kreuztal;006.1;;;148
+57223;Stendenbacher Weg;1;1;;;Eichen;016.1;;;148
+57223;Stendenbacher Weg;31;31;;;Eichen;016.1;;;148
+57223;Stendenbacher Weg;37;37;;;Eichen;016.1;;;148
+57223;Stendenbacher Weg;;;4;50;Stendenbach;016.1;;;148
+57223;Stendenbacher Weg;7;17;;;Stendenbach;016.1;;;148
+57223;Stendenbacher Weg;23;29;;;Stendenbach;016.1;;;148
+57223;Stendenbacher Weg;33;35;;;Stendenbach;016.1;;;148
+57223;Stendenbacher Weg;39;47;;;Stendenbach;016.1;;;148
+57223;Stendenbacher Weg;21;21;;;Stendenbach;014.1;;;148
+57223;Stephanstr.;3;31;2;46;Kreuztal;004.1;;;148
+57223;Stettiner Str.;1;7;2;6;Krombach;016.2;;;148
+57223;Stockbornstr.;1;25;6;14;Buschhütten;002.1;;;148
+57223;Stormstr.;1;25;2;16;Fellinghausen;012.1;;;148
+57223;Struthbornweg;1;29;2;34;Stendenbach;014.1;;;148
+57223;Struthweg;3;9;4;10;Littfeld;019.1;;;148
+57223;Stutte Weiher;;;2;6;Krombach;016.2;;;148
+57223;Stählerwiese;1;21;4;28;Kreuztal;005.1;;;148
+57223;Sybergstr.;7;29;24;24;Junkernhees;013.2;;;148
+57223;Südhang;3;25;10;;Eichen;015.1;;;148
+57223;Südhang;23;25;;;Bockenbach;015.1;;;148
+57223;Südstr.;3;9;2;14;Eichen;014.1;;;148
+57223;Südstr.;11;13;16;30;Kreuztal;014.1;;;148
+57223;Talenwäldchen;;;4;4;Osthelden;013.2;;;148
+57223;Talstr.;5;21;4;16;Krombach;017.1;;;148
+57223;Teichweg;;;2;8;Littfeld;019.1;;;148
+57223;Theodor-Heuss-Weg;1;9;2;10;Buschhütten;001.1;;;148
+57223;Tiefenwiese;3;3;2;4;Krombach;016.2;;;148
+57223;Tilsiter Str.;1;7;4;8;Buschhütten;001.1;;;148
+57223;Treuburger Str.;;;2;2;Krombach;016.2;;;148
+57223;Tulpenweg;;;2;20;Kreuztal;007.1;;;148
+57223;Uhlandweg;1;9;2;6;Buschhütten;001.1;;;148
+57223;Ulmenweg;1;7;2;6;Kreuztal;006.1;;;148
+57223;Unter dem Wolfshagen;1;1;;;Osthelden;013.2;;;148
+57223;Unter der Hohen Fuhr;1;29;2;18;Krombach;017.1;;;148
+57223;Unter der Kaiserhöhe;3;25;4;22;Krombach;017.1;;;148
+57223;Untere Bockelbach;1;9;;;Eichen;016.1;;;148
+57223;Untere Wiesenstr.;1;3;4;4;Buschhütten;002.1;;;148
+57223;Unterm Knapp;1;5;4;10;Stendenbach;016.1;;;148
+57223;Veilchenweg;1;3;;;Kreuztal;007.1;;;148
+57223;Vinsterhof;1;1;2;2;Ferndorf;008.2;;;148
+57223;Vor dem Seifen;1;13;4;14;Kreuztal;005.1;;;148
+57223;Vorm Berge;1;13;2;32;Ferndorf;009.1;;;148
+57223;Vorm Buchholz;3;5;4;10;Krombach;016.2;;;148
+57223;Vorm Mühlberg;1;11;;;Fellinghausen;012.1;;;148
+57223;Wacholderweg;1;11;;;Krombach;017.1;;;148
+57223;Wachsbaumstr.;1;19;8;28;Buschhütten;002.1;;;148
+57223;Waldenburger Str.;7;11;2;14;Buschhütten;003.1;;;148
+57223;Waldheimstr.;3;43;2;30;Fellinghausen;012.1;;;148
+57223;Waldstr.;3;55;8;48;Kreuztal;006.1;;;148
+57223;Waldwiesenstr.;1;29;2;4;Littfeld;019.1;;;148
+57223;Walter-Thomas-Weg;3;19;2;10;Eichen;015.1;;;148
+57223;Weidener Str.;;;2;8;Fellinghausen;012.1;;;148
+57223;Weidenfohr;1;45;2;44;Stendenbach;016.1;;;148
+57223;Weidenfohr;47;55;46;58;Krombach;016.2;;;148
+57223;Weiherstr.;1;43;2;38;Ferndorf;009.1;;;148
+57223;Weiherstr.;49;51;42;50;Ferndorf;010.1;;;148
+57223;Weimarer Str.;1;25;;;Kreuztal;006.1;;;148
+57223;Weißdornweg;1;9;2;4;Ferndorf;008.2;;;148
+57223;Wendener Str.;3;13;2;6;Bockenbach;015.1;;;148
+57223;Wendenhof;3;41;;;Eichen;014.1;;;148
+57223;Wendenhof;;;4;12;Eichen;014.1;;;148
+57223;Wendenhof;;;24;24;Eichen;014.1;;;148
+57223;Wendenhof;;;14;14;Stendenbach;014.1;;;148
+57223;Wendenhof;43;59;14;14;Stendenbach;014.1;;;148
+57223;Werderweg;5;5;;;Kreuztal;004.1;;;148
+57223;Wiesenstr.;5;7;2;2;Kreuztal;006.1;;;148
+57223;Wiesenweg;1;17;4;18;Littfeld;019.1;;;148
+57223;Wildenburger Str.;3;31;10;26;Krombach;017.1;;;148
+57223;Wilhelmstr.;;;2;10;Osthelden;013.2;;;148
+57223;Ziegeleifeld;1;11;6;8;Kreuztal;005.1;;;148
+57223;Ziegeleistr.;3;31;2;28;Ferndorf;009.1;;;148
+57223;Ziegeleistr.;39;59;30;56;Ferndorf;010.1;;;148
+57223;Zimbergweg;5;5;2;18;Krombach;017.1;;;148
+57223;Zimmerstr.;3;7;4;4;Eichen;016.1;;;148
+57223;Zitzenbachstr.;15;51;6;80;Ferndorf;010.1;;;148
+57223;Zu den Ferndorfwiesen;;;2;2;Ferndorf;009.1;;;148
+57223;Zum Ameisenberg;1;25;2;32;Kreuztal;008.1;;;148
+57223;Zum Bergelchen;;;2;2;Buschhütten;002.1;;;148
+57223;Zum Berger Hammer;1;11;2;8;Ferndorf;009.1;;;148
+57223;Zum Burberg;1;49;2;36;Littfeld;018.1;;;148
+57223;Zum Bühl;11;23;2;18;Littfeld;018.1;;;148
+57223;Zum Erbsenstück;1;17;2;14;Ferndorf;009.1;;;148
+57223;Zum Erbstollen;15;19;22;36;Kreuztal;005.1;;;148
+57223;Zum Erbstollen;25;43;38;58;Kreuztal;006.1;;;148
+57223;Zum Großen Wald;17;19;2;16;Stendenbach;016.1;;;148
+57223;Zum Hammerseifen;17;53;16;54;Kreuztal;006.1;;;148
+57223;Zum Hammerseifen;1;15;8;12;Kreuztal;005.1;;;148
+57223;Zum Hasenwäldchen;3;5;;;Littfeld;019.1;;;148
+57223;Zum Hohlen Stein;3;35;2;40;Fellinghausen;012.1;;;148
+57223;Zum Hubensgut;;;8;16;Buschhütten;003.1;;;148
+57223;Zum Kohlenberg;7;7;4;8;Fellinghausen;012.1;;;148
+57223;Zum Küchenwald;1;29;2;20;Buschhütten;003.1;;;148
+57223;Zum Leyberg;1;7;2;8;Kreuztal;008.1;;;148
+57223;Zum Möhnerschen;1;7;;;Stendenbach;014.1;;;148
+57223;Zum Möhnerschen;11;15;2;22;Eichen;014.1;;;148
+57223;Zum Reckhammer;1;17;;;Littfeld;019.1;;;148
+57223;Zum Roten Seifen;1;9;4;10;Littfeld;018.1;;;148
+57223;Zum Sonnenwinkel;1;27;4;20;Eichen;015.1;;;148
+57223;Zum Stadtwald;;;2;12;Eichen;014.1;;;148
+57223;Zum Wehr;1;15;2;10;Buschhütten;003.1;;;148
+57223;Zum Wiesenfleck;1;11;2;14;Stendenbach;016.1;;;148
+57223;Zum Wolfsloch;13;55;18;58;Kreuztal;005.1;;;148
+57223;Zum Wäldchen;1;1;2;6;Kreuztal;003.1;;;148
+57223;Zum Wüstenhof;1;7;2;6;Kredenbach;011.1;;;148
+57223;Zur Brüche;1;45;26;50;Ferndorf;010.1;;;148
+57223;Zur Buchtal;5;47;2;46;Kredenbach;011.1;;;148
+57223;Zur Höh;1;21;;;Kreuztal;005.1;;;148
+57223;Zur Lichtenhardt;1;11;2;10;Kredenbach;011.1;;;148
+57223;Über dem Garten;;;8;18;Junkernhees;013.2;;;148
+57223;Über den Irlen;3;3;;;Ferndorf;009.1;;;148
