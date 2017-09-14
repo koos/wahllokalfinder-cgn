@@ -78,6 +78,7 @@ $(window).bind('resize', function() {
   doResizeMap()
 });
 
+<<<<<<< Updated upstream
 if (typeof map === 'object'){
   map.on('load', function () {
     doResizeMap()
@@ -85,4 +86,8 @@ if (typeof map === 'object'){
   map.on('zoom', function () {
     mapZoomEdge()
   });
+=======
+if (typeof map === 'object'){ map.on('load', function () {doResizeMap() });
+map.on('zoom', function () { mapZoomEdge() });
+>>>>>>> Stashed changes
 }
