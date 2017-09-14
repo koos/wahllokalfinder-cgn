@@ -1,0 +1,380 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+57234;Ackerstraße;1;19;4;16;Niederdielfen;004.1;;;148
+57234;Adolf-Saenger-Weg;1;11;4;12;Niederdielfen;004.1;;;148
+57234;Ahornstraße;1;9;2;8;Niederdielfen;004.1;;;148
+57234;Albert-Schweitzer-Straße;1;11;2;14;Wilnsdorf;014.1;;;148
+57234;Alleestraße;1;19;2;42;Wilgersdorf;012.1;;;148
+57234;Alte Dorfstraße;1;3;2;18;Rinsdorf;008.1;;;148
+57234;Alter Prozessionsweg;;;4;4;Rudersdorf;010.1;;;148
+57234;Am Aelkerswald;1;9;6;6;Rinsdorf;008.1;;;148
+57234;Am Anschenkel;1;17;2;6;Rinsdorf;008.1;;;148
+57234;Am Aspenrain;3;3;2;6;Wilden;011.1;;;148
+57234;Am Backhaus;3;3;;;Rudersdorf;010.1;;;148
+57234;Am Bahndamm;3;3;2;2;Flammersbach;002.1;;;148
+57234;Am Bahndamm;11;17;;;Anzhausen;001.1;;;148
+57234;Am Biehl;1;9;;;Rudersdorf;009.1;;;148
+57234;Am Brennerfeld;1;5;2;8;Obersdorf;007.1;;;148
+57234;Am Buchen;1;27;2;34;Niederdielfen;004.1;;;148
+57234;Am Bösenberg;1;5;4;18;Niederdielfen;004.1;;;148
+57234;Am Dillberg;1;17;2;18;Oberdielfen;006.1;;;148
+57234;Am Eichborn;1;15;2;18;Wilgersdorf;013.1;;;148
+57234;Am Eisenacker;1;29;2;16;Wilgersdorf;012.1;;;148
+57234;Am Gorn;1;9;2;16;Obersdorf;007.1;;;148
+57234;Am Grimberg;1;17;2;30;Niederdielfen;005.1;;;148
+57234;Am Gräbenwald;1;19;6;8;Obersdorf;007.1;;;148
+57234;Am Haardtchen;1;5;2;8;Wilnsdorf;015.1;;;148
+57234;Am Haardtchen;;;8;14;Wilnsdorf;016.1;;;148
+57234;Am Hainchen;1;17;2;2;Wilnsdorf;015.1;;;148
+57234;Am Hang;1;9;2;8;Rudersdorf;009.1;;;148
+57234;Am Hilchenbach;;;2;4;Wilden;011.1;;;148
+57234;Am Hofacker;3;11;2;18;Wilgersdorf;012.1;;;148
+57234;Am Hundsberg;1;25;4;6;Wilgersdorf;012.1;;;148
+57234;Am Hunscheid;13;15;2;12;Rudersdorf;010.1;;;148
+57234;Am Hönig;1;21;2;28;Anzhausen;001.1;;;148
+57234;Am Immelsbach;1;7;2;12;Wilgersdorf;012.1;;;148
+57234;Am Jägeracker;1;9;2;10;Wilnsdorf;015.1;;;148
+57234;Am Kirchweg;1;1;2;14;Oberdielfen;006.1;;;148
+57234;Am Kritzelgarten;1;7;2;6;Wilnsdorf;015.1;;;148
+57234;Am Kröken;1;21;6;20;Anzhausen;001.1;;;148
+57234;Am Lehnstück;1;33;2;22;Wilgersdorf;013.1;;;148
+57234;Am Marienhain;1;41;2;42;Obersdorf;007.1;;;148
+57234;Am Mathildenhof;1;1;2;6;Obersdorf;007.1;;;148
+57234;Am Mühlenberg;1;41;8;34;Rudersdorf;010.1;;;148
+57234;Am Oberen Johannes;3;19;2;12;Obersdorf;007.1;;;148
+57234;Am Obstgarten;1;9;2;16;Anzhausen;001.1;;;148
+57234;Am Raborn;3;31;2;22;Wilgersdorf;013.1;;;148
+57234;Am Rain;;;2;6;Niederdielfen;004.1;;;148
+57234;Am Rennche;1;33;2;26;Wilgersdorf;012.1;;;148
+57234;Am Rex;1;17;2;36;Obersdorf;007.1;;;148
+57234;Am Rindsberg;1;1;;;Wilnsdorf;014.1;;;148
+57234;Am Rosenwald;1;53;2;58;Obersdorf;007.1;;;148
+57234;Am Röschen;1;31;4;22;Niederdielfen;004.1;;;148
+57234;Am Sammelshain;1;5;2;4;Oberdielfen;006.1;;;148
+57234;Am Sonnenberg;3;37;8;58;Niederdielfen;004.1;;;148
+57234;Am Sonnenhang;1;9;2;8;Flammersbach;002.1;;;148
+57234;Am Sportplatz;1;3;6;8;Gernsdorf;003.1;;;148
+57234;Am Stein;1;1;;;Flammersbach;002.1;;;148
+57234;Am Steinblick;3;5;2;8;Niederdielfen;004.1;;;148
+57234;Am Stoß;1;9;2;36;Obersdorf;007.1;;;148
+57234;Am Struthwald;1;13;2;14;Obersdorf;007.1;;;148
+57234;Am Weiher;1;27;2;26;Obersdorf;007.1;;;148
+57234;Am Weisterberg;1;25;6;10;Rudersdorf;009.1;;;148
+57234;Am Wildebach;1;5;2;4;Wilden;011.1;;;148
+57234;Amselweg;1;7;2;2;Wilnsdorf;014.1;;;148
+57234;An der Bilze;1;7;2;16;Obersdorf;007.1;;;148
+57234;An der Hager;1;37;2;34;Anzhausen;001.1;;;148
+57234;An der Hainbuche;1;9;4;4;Oberdielfen;006.1;;;148
+57234;An der Hecke;1;7;2;12;Oberdielfen;006.1;;;148
+57234;An der Holler;1;21;2;30;Rinsdorf;008.1;;;148
+57234;An der Höh;1;1;;;Wilnsdorf;016.1;;;148
+57234;An der Trift;1;5;;;Oberdielfen;006.1;;;148
+57234;An der Waseiche;1;11;2;10;Rudersdorf;010.1;;;148
+57234;Antoniusstraße;1;7;4;4;Anzhausen;001.1;;;148
+57234;Anzhausener Straße;9;47;2;38;Anzhausen;001.1;;;148
+57234;Anzhäuser Mühle;1;1;;;Anzhausen;001.1;;;148
+57234;Auf dem Bruch;1;19;2;10;Wilden;011.1;;;148
+57234;Auf dem Bühl;1;15;2;20;Flammersbach;002.1;;;148
+57234;Auf dem Eckert;1;5;2;8;Niederdielfen;004.1;;;148
+57234;Auf dem Haaren;1;19;;;Rudersdorf;009.1;;;148
+57234;Auf dem Hundsborn;1;1;2;10;Oberdielfen;006.1;;;148
+57234;Auf dem Kalbfeld;1;1;2;2;Wilgersdorf;013.1;;;148
+57234;Auf den Höfen;3;7;2;6;Oberdielfen;006.1;;;148
+57234;Auf der Heipel;3;15;2;16;Rinsdorf;008.1;;;148
+57234;Auf der Hühnerbalz;1;57;4;36;Obersdorf;007.1;;;148
+57234;Auf der Nerr;5;5;4;4;Obersdorf;007.1;;;148
+57234;Auf'm Fußbaum;1;15;2;28;Wilnsdorf;014.1;;;148
+57234;Augraben;15;15;4;4;Niederdielfen;005.1;;;148
+57234;Austraße;1;9;2;10;Wilgersdorf;012.1;;;148
+57234;Bahnhofstraße;1;25;6;24;Rudersdorf;009.1;;;148
+57234;Bauhofstraße;5;5;;;Wilnsdorf;014.1;;;148
+57234;Bautenberger Straße;1;39;2;40;Wilden;011.1;;;148
+57234;Bergmannsweg;1;3;2;6;Wilgersdorf;013.1;;;148
+57234;Bergstraße;1;41;4;62;Wilnsdorf;015.1;;;148
+57234;Bergwende;1;5;2;16;Wilnsdorf;016.1;;;148
+57234;Billstraße;1;3;2;4;Rudersdorf;009.1;;;148
+57234;Birkenhof;1;1;2;2;Wilgersdorf;012.1;;;148
+57234;Birkenhof;3;3;;;Rudersdorf;009.1;;;148
+57234;Birkenweg;11;17;18;26;Niederdielfen;004.1;;;148
+57234;Birkenweg;1;9;2;16;Oberdielfen;006.1;;;148
+57234;Bitzenweg;1;21;2;26;Wilnsdorf;014.1;;;148
+57234;Blumenweg;1;19;;;Wilgersdorf;012.1;;;148
+57234;Bochumer Straße;;;16;16;Rinsdorf;008.1;;;148
+57234;Bodelschwinghstraße;1;3;2;4;Flammersbach;002.1;;;148
+57234;Bogenstraße;1;5;2;18;Obersdorf;007.1;;;148
+57234;Bollenberg;3;21;2;12;Anzhausen;001.1;;;148
+57234;Bornweg;1;1;2;6;Wilden;011.1;;;148
+57234;Braache;3;5;2;10;Niederdielfen;005.1;;;148
+57234;Brechtstraße;1;11;8;8;Flammersbach;002.1;;;148
+57234;Breitenbachsfeld;1;19;4;10;Obersdorf;007.1;;;148
+57234;Breslauer Straße;1;15;2;14;Obersdorf;007.1;;;148
+57234;Brunkelpfad;;;2;6;Rudersdorf;010.1;;;148
+57234;Brunnenstraße;1;7;2;4;Wilgersdorf;012.1;;;148
+57234;Brückenplatz;1;1;2;4;Rudersdorf;009.1;;;148
+57234;Brüderweg;1;11;2;12;Wilgersdorf;012.1;;;148
+57234;Burbacher Straße;1;19;2;30;Wilden;011.1;;;148
+57234;Burgstraße;1;29;2;22;Wilnsdorf;015.1;;;148
+57234;Bösselbach;3;53;2;44;Anzhausen;001.1;;;148
+57234;Bürgerstraße;1;55;6;72;Rudersdorf;010.1;;;148
+57234;Concordiastraße;1;25;2;24;Anzhausen;001.1;;;148
+57234;Cäcilienstraße;3;15;2;20;Niederdielfen;005.1;;;148
+57234;Deuzer Straße;1;13;10;12;Anzhausen;001.1;;;148
+57234;Dielfestraße;1;53;2;42;Niederdielfen;004.1;;;148
+57234;Dillenburger Straße;1;71;2;46;Rudersdorf;010.1;;;148
+57234;Dorfplatz;3;13;4;10;Rudersdorf;010.1;;;148
+57234;Dornhecke;3;15;2;48;Wilgersdorf;012.1;;;148
+57234;Dortmunder Straße;9;9;;;Wilnsdorf;016.1;;;148
+57234;Drei-Eichen-Straße;1;25;2;8;Gernsdorf;003.1;;;148
+57234;Drosselweg;1;15;2;10;Wilnsdorf;014.1;;;148
+57234;Eibachstraße;1;13;2;18;Gernsdorf;003.1;;;148
+57234;Eichendorffstraße;1;5;2;6;Rudersdorf;009.1;;;148
+57234;Eichenweg;3;3;2;12;Wilnsdorf;014.1;;;148
+57234;Eichertshain;5;13;2;12;Wilden;011.1;;;148
+57234;Eichertshecke;1;13;2;10;Rudersdorf;009.1;;;148
+57234;Eichwiese;3;13;2;24;Wilgersdorf;013.1;;;148
+57234;Eickhoffstraße;1;15;2;6;Rudersdorf;009.1;;;148
+57234;Einsiedelstraße;1;5;2;6;Wilnsdorf;016.1;;;148
+57234;Eiserfelder Straße;1;63;4;60;Rinsdorf;008.1;;;148
+57234;Eiserner Weg;1;19;2;16;Wilden;011.1;;;148
+57234;Elkersberg;11;11;;;Wilden;011.1;;;148
+57234;Emilienhof;1;3;;;Anzhausen;001.1;;;148
+57234;Erbachweg;5;13;2;24;Wilgersdorf;013.1;;;148
+57234;Eremitage;1;1;2;2;Niederdielfen;005.1;;;148
+57234;Erlenstraße;1;57;2;68;Oberdielfen;006.1;;;148
+57234;Essener Straße;33;33;8;20;Rinsdorf;008.1;;;148
+57234;Essener Straße;3;3;;;Wilnsdorf;016.1;;;148
+57234;Falkenstraße;1;1;2;6;Flammersbach;002.1;;;148
+57234;Feldstraße;3;11;2;44;Flammersbach;002.1;;;148
+57234;Feuersbacher Straße;1;3;2;10;Flammersbach;002.1;;;148
+57234;Finkenweg;1;9;2;16;Wilnsdorf;014.1;;;148
+57234;Flammersbacher Straße;1;35;2;68;Flammersbach;002.1;;;148
+57234;Flurweg;1;19;2;26;Anzhausen;001.1;;;148
+57234;Forstweg;1;15;2;6;Wilgersdorf;013.1;;;148
+57234;Fortunastraße;1;23;4;12;Wilnsdorf;014.1;;;148
+57234;Frankfurter Straße;33;65;14;30;Wilnsdorf;014.1;;;148
+57234;Frankfurter Straße;1;31;2;12;Wilnsdorf;015.1;;;148
+57234;Franz-Dango-Straße;1;25;2;16;Wilnsdorf;014.1;;;148
+57234;Freier Grunder Straße;13;139;8;110;Wilden;011.1;;;148
+57234;Friedhofstraße;1;23;2;16;Wilgersdorf;012.1;;;148
+57234;Fränzersgarten;1;11;4;12;Oberdielfen;006.1;;;148
+57234;Frühlingswiese;;;2;6;Wilden;011.1;;;148
+57234;Gartenstraße;1;91;2;80;Niederdielfen;005.1;;;148
+57234;Gernsdorfer Straße;1;39;4;20;Gernsdorf;003.1;;;148
+57234;Gewannweg;7;21;2;16;Obersdorf;007.1;;;148
+57234;Glockenwiese;1;9;2;12;Niederdielfen;005.1;;;148
+57234;Gläserstraße;;;2;8;Niederdielfen;004.1;;;148
+57234;Glück-Auf-Straße;1;15;2;32;Obersdorf;007.1;;;148
+57234;Goldschmiedsborn;1;7;;;Wilgersdorf;013.1;;;148
+57234;Grimbergstraße;1;25;2;24;Niederdielfen;005.1;;;148
+57234;Grubenweg;1;1;2;8;Rudersdorf;009.1;;;148
+57234;Grüner Baum;7;31;12;56;Wilnsdorf;014.1;;;148
+57234;Habornweg;1;5;2;4;Niederdielfen;004.1;;;148
+57234;Haegerstraße;1;23;2;26;Anzhausen;001.1;;;148
+57234;Hagener Straße;9;63;20;44;Wilnsdorf;016.1;;;148
+57234;Hagener Straße;1;7;4;6;Wilnsdorf;015.1;;;148
+57234;Halmbergstraße;5;15;2;16;Gernsdorf;003.1;;;148
+57234;Hangstraße;1;33;2;62;Gernsdorf;003.1;;;148
+57234;Haroldweg;3;15;4;12;Wilnsdorf;015.1;;;148
+57234;Hasenbergstraße;1;17;2;20;Gernsdorf;003.1;;;148
+57234;Haubergweg;1;1;2;12;Anzhausen;001.1;;;148
+57234;Hauptstraße;1;61;2;50;Wilgersdorf;012.1;;;148
+57234;Heckenbachweg;1;17;;;Wilnsdorf;015.1;;;148
+57234;Hedwig-Danielewicz-Platz;1;5;2;4;Obersdorf;007.1;;;148
+57234;Heidenbachswald;1;35;2;50;Obersdorf;007.1;;;148
+57234;Heideweg;1;21;2;20;Wilgersdorf;013.1;;;148
+57234;Heiersche Straße;3;27;2;28;Flammersbach;002.1;;;148
+57234;Helenenhof;1;1;;;Oberdielfen;006.1;;;148
+57234;Herderstraße;1;7;2;8;Flammersbach;002.1;;;148
+57234;Hermann-Löns-Straße;1;33;6;38;Wilden;011.1;;;148
+57234;Herrengarten;3;11;2;6;Wilnsdorf;015.1;;;148
+57234;Hirte-Böcking-Weg;1;29;2;28;Wilgersdorf;013.1;;;148
+57234;Hirtenwiese;1;7;4;14;Wilnsdorf;016.1;;;148
+57234;Hochwaldstraße;;;2;10;Gernsdorf;003.1;;;148
+57234;Hof Hohenroth;1;1;;;Wilnsdorf;016.1;;;148
+57234;Hof Weiß;1;1;;;Wilnsdorf;016.1;;;148
+57234;Hofstädtstraße;1;29;6;16;Rudersdorf;009.1;;;148
+57234;Hofweg;1;5;;;Anzhausen;001.1;;;148
+57234;Hofwiese;1;5;;;Obersdorf;007.1;;;148
+57234;Hohe Straße;7;21;2;38;Wilnsdorf;014.1;;;148
+57234;Hoheroth;3;31;4;90;Wilnsdorf;016.1;;;148
+57234;Hohler Weg;1;23;2;22;Wilgersdorf;012.1;;;148
+57234;Hombergstraße;1;27;2;22;Oberdielfen;006.1;;;148
+57234;Hubertusstraße;1;17;2;24;Wilnsdorf;014.1;;;148
+57234;Huvenweg;1;27;2;14;Rudersdorf;009.1;;;148
+57234;Häbenerstraße;3;21;2;24;Rudersdorf;009.1;;;148
+57234;Höfenstraße;1;11;2;8;Gernsdorf;003.1;;;148
+57234;Höhenweg;3;37;2;16;Obersdorf;007.1;;;148
+57234;Höhstraße;3;27;2;20;Wilgersdorf;012.1;;;148
+57234;Höhwäldchen;3;9;2;2;Wilnsdorf;016.1;;;148
+57234;Im Altenbach;1;7;2;6;Rinsdorf;008.1;;;148
+57234;Im Baumhof;1;3;2;2;Rinsdorf;008.1;;;148
+57234;Im Borngarten;;;2;8;Flammersbach;002.1;;;148
+57234;Im Dudenbach;3;31;2;40;Rinsdorf;008.1;;;148
+57234;Im Dörfchen;1;11;2;14;Wilden;011.1;;;148
+57234;Im Elzgarten;1;23;2;38;Oberdielfen;006.1;;;148
+57234;Im Gießenbach;1;67;2;60;Rinsdorf;008.1;;;148
+57234;Im Grund;1;9;;;Gernsdorf;003.1;;;148
+57234;Im Hainchen;1;9;4;18;Wilden;011.1;;;148
+57234;Im Rälsbach;1;7;2;12;Rinsdorf;008.1;;;148
+57234;Im Scholfeld;1;11;2;14;Rudersdorf;009.1;;;148
+57234;Im Seifen;1;27;2;6;Oberdielfen;006.1;;;148
+57234;Im Strüthchen;1;11;2;12;Wilden;011.1;;;148
+57234;In den Eichen;1;11;6;6;Wilgersdorf;012.1;;;148
+57234;In den Weiden;3;9;4;14;Rudersdorf;009.1;;;148
+57234;In der Bleielsbach;1;11;2;10;Wilgersdorf;012.1;;;148
+57234;In der Dahl;1;29;2;20;Rudersdorf;010.1;;;148
+57234;In der Dell;1;9;2;14;Wilden;011.1;;;148
+57234;In der Gasse;1;3;2;10;Wilgersdorf;012.1;;;148
+57234;In der Grobe;1;29;2;48;Wilgersdorf;013.1;;;148
+57234;In der Hohl;1;7;4;20;Obersdorf;007.1;;;148
+57234;In der Humbach;3;21;2;24;Niederdielfen;004.1;;;148
+57234;In der Lehmkaute;3;3;4;6;Obersdorf;007.1;;;148
+57234;In der Mehrenbach;1;11;4;38;Flammersbach;002.1;;;148
+57234;In der Neuwiese;1;11;4;14;Wilnsdorf;014.1;;;148
+57234;In der Steinkaute;3;13;2;22;Wilnsdorf;015.1;;;148
+57234;In der Ziegelei;1;11;4;4;Niederdielfen;005.1;;;148
+57234;Industriestraße;5;17;4;14;Niederdielfen;005.1;;;148
+57234;Inselweg;1;9;6;18;Obersdorf;007.1;;;148
+57234;Jagdhütte Am Köhlerborn;1;1;;;Wilgersdorf;012.1;;;148
+57234;Jahnstraße;1;29;4;22;Wilgersdorf;013.1;;;148
+57234;Johannlandstraße;1;17;2;32;Rudersdorf;010.1;;;148
+57234;Jung-Dörfler-Straße;1;19;2;18;Obersdorf;007.1;;;148
+57234;Jung-Stilling-Straße;1;27;2;30;Flammersbach;002.1;;;148
+57234;Kaan-Marienborner Straße;3;43;2;32;Flammersbach;002.1;;;148
+57234;Kalkhain;9;23;;;Wilgersdorf;013.1;;;148
+57234;Kalteicher Straße;1;17;8;14;Rudersdorf;009.1;;;148
+57234;Kampenstraße;1;15;2;14;Wilgersdorf;013.1;;;148
+57234;Kellergarten;1;7;;;Obersdorf;007.1;;;148
+57234;Klosterstraße;1;11;2;16;Niederdielfen;005.1;;;148
+57234;Kohlenweg;5;13;;;Oberdielfen;006.1;;;148
+57234;Kolbestraße;1;21;2;22;Wilnsdorf;015.1;;;148
+57234;Kolpingstraße;1;21;2;16;Wilnsdorf;014.1;;;148
+57234;Konradweg;1;7;;;Wilnsdorf;016.1;;;148
+57234;Kornstraße;1;17;2;34;Gernsdorf;003.1;;;148
+57234;Kreuzstraße;3;3;2;4;Rudersdorf;010.1;;;148
+57234;Krombachstraße;3;11;2;12;Wilnsdorf;015.1;;;148
+57234;Kunzestraße;1;3;2;4;Flammersbach;002.1;;;148
+57234;Kurze Straße;1;7;2;10;Niederdielfen;004.1;;;148
+57234;Köhlerweg;1;33;2;26;Wilden;011.1;;;148
+57234;Kölner Straße;1;1;;;Rudersdorf;010.1;;;148
+57234;Laurentiusstraße;1;15;2;26;Rudersdorf;009.1;;;148
+57234;Leiweg;1;5;;;Gernsdorf;003.1;;;148
+57234;Lerchenweg;1;7;2;18;Niederdielfen;005.1;;;148
+57234;Limbachstraße;1;7;2;6;Niederdielfen;005.1;;;148
+57234;Lindenplatz;1;13;;;Niederdielfen;004.1;;;148
+57234;Lindestraße;;;4;4;Rudersdorf;009.1;;;148
+57234;Lisebaum;1;5;4;8;Rudersdorf;009.1;;;148
+57234;Mainzer Straße;3;21;6;16;Wilnsdorf;014.1;;;148
+57234;Marburger Straße;1;75;2;44;Gernsdorf;003.1;;;148
+57234;Marienburg;1;15;2;18;Oberdielfen;006.1;;;148
+57234;Marienkamer Straße;3;11;4;12;Gernsdorf;003.1;;;148
+57234;Marienkircher Feld;1;7;4;16;Obersdorf;007.1;;;148
+57234;Marienweg;1;47;2;32;Niederdielfen;004.1;;;148
+57234;Marktplatz;;;2;4;Wilnsdorf;016.1;;;148
+57234;Martin-Luther-Straße;1;3;2;8;Wilgersdorf;012.1;;;148
+57234;Meilerweg;3;5;2;10;Obersdorf;007.1;;;148
+57234;Mittelstraße;1;9;;;Niederdielfen;004.1;;;148
+57234;Morgenröte;1;49;2;36;Wilnsdorf;016.1;;;148
+57234;Mühle;1;1;;;Wilgersdorf;012.1;;;148
+57234;Mühlenstraße;1;33;2;30;Wilnsdorf;015.1;;;148
+57234;Nassauer Straße;1;43;2;58;Rudersdorf;009.1;;;148
+57234;Nerrweg;3;21;2;20;Wilgersdorf;013.1;;;148
+57234;Netphener Straße;1;13;;;Flammersbach;002.1;;;148
+57234;Neue Hoffnung;1;3;;;Wilgersdorf;013.1;;;148
+57234;Nordstraße;1;1;4;6;Gernsdorf;003.1;;;148
+57234;Oberdielfener Straße;1;55;2;48;Oberdielfen;006.1;;;148
+57234;Obere Breitenbach;1;17;2;18;Wilgersdorf;012.1;;;148
+57234;Oberhausener Straße;1;1;;;Rinsdorf;008.1;;;148
+57234;Oranienstraße;1;31;2;22;Oberdielfen;006.1;;;148
+57234;Ostlandstraße;1;11;2;16;Flammersbach;002.1;;;148
+57234;Oststraße;1;15;2;30;Rudersdorf;010.1;;;148
+57234;Pastor-Stenger-Straße;3;7;2;18;Obersdorf;007.1;;;148
+57234;Pfarrfeld;9;47;6;36;Niederdielfen;005.1;;;148
+57234;Pfarrstraße;1;11;4;10;Gernsdorf;003.1;;;148
+57234;Pfarrwaldstraße;1;31;2;32;Obersdorf;007.1;;;148
+57234;Pfarrwiese;1;19;4;14;Niederdielfen;005.1;;;148
+57234;Querstraße;1;9;2;4;Niederdielfen;005.1;;;148
+57234;Rathausstraße;1;41;4;42;Wilnsdorf;016.1;;;148
+57234;Rathausstraße;43;55;46;54;Wilnsdorf;015.1;;;148
+57234;Reiterweg;1;9;6;6;Anzhausen;001.1;;;148
+57234;Ringstraße;1;27;2;28;Wilnsdorf;016.1;;;148
+57234;Ringstraße;29;81;30;68;Wilnsdorf;015.1;;;148
+57234;Rubertshof;1;13;2;16;Wilgersdorf;012.1;;;148
+57234;Rödgener Straße;11;111;2;102;Obersdorf;007.1;;;148
+57234;Rübezahlstraße;1;19;;;Rudersdorf;010.1;;;148
+57234;Salchendorfer Straße;1;15;2;4;Rudersdorf;010.1;;;148
+57234;Sangstraße;3;27;4;36;Rudersdorf;010.1;;;148
+57234;Sangweg;3;19;2;20;Wilgersdorf;012.1;;;148
+57234;Schalweg;1;5;2;4;Niederdielfen;004.1;;;148
+57234;Scheidweg;1;11;4;8;Oberdielfen;006.1;;;148
+57234;Schillbergstraße;1;27;2;32;Gernsdorf;003.1;;;148
+57234;Schillerstraße;3;29;2;24;Flammersbach;002.1;;;148
+57234;Schlagmühlstraße;1;41;2;38;Gernsdorf;003.1;;;148
+57234;Schlesierstraße;1;7;2;6;Wilnsdorf;014.1;;;148
+57234;Schlosserstraße;5;5;;;Rudersdorf;009.1;;;148
+57234;Schneidersbäumen;1;27;2;28;Rudersdorf;009.1;;;148
+57234;Schulstraße;1;33;2;30;Rudersdorf;010.1;;;148
+57234;Schönebachsweg;1;1;8;12;Wilgersdorf;012.1;;;148
+57234;Schürscheid;1;45;2;36;Anzhausen;001.1;;;148
+57234;Schützenstraße;3;23;2;16;Rudersdorf;009.1;;;148
+57234;Seilbachstraße;3;19;2;26;Gernsdorf;003.1;;;148
+57234;Seitenkopfstraße;3;37;4;44;Gernsdorf;003.1;;;148
+57234;Sennerborn;5;11;2;10;Wilgersdorf;012.1;;;148
+57234;Siegener Straße;1;81;2;70;Niederdielfen;005.1;;;148
+57234;Sonnenweg;1;7;2;6;Obersdorf;007.1;;;148
+57234;St.-Johann-Straße;1;11;2;16;Gernsdorf;003.1;;;148
+57234;St.-Josef-Weg;3;13;4;8;Wilgersdorf;013.1;;;148
+57234;St.-Martin-Straße;3;3;2;14;Wilnsdorf;014.1;;;148
+57234;Steilstraße;1;5;2;6;Gernsdorf;003.1;;;148
+57234;Steinacker;1;27;4;16;Oberdielfen;006.1;;;148
+57234;Steinmetzstraße;3;17;2;14;Rudersdorf;009.1;;;148
+57234;Sterzenbachstraße;1;3;2;14;Wilden;011.1;;;148
+57234;Stockstraße;5;5;4;10;Wilden;011.1;;;148
+57234;Struthstraße;1;73;2;58;Wilden;011.1;;;148
+57234;Struthwiese;1;7;4;12;Wilden;011.1;;;148
+57234;Stöckerstraße;1;23;2;26;Flammersbach;002.1;;;148
+57234;Sängerstraße;1;9;2;12;Wilnsdorf;014.1;;;148
+57234;Südweg;1;3;6;6;Gernsdorf;003.1;;;148
+57234;Talstraße;1;3;2;6;Niederdielfen;005.1;;;148
+57234;Tannenbergstraße;1;15;2;26;Wilgersdorf;013.1;;;148
+57234;Tannenhof;1;1;;;Rudersdorf;009.1;;;148
+57234;Tannenweide;1;13;4;14;Niederdielfen;005.1;;;148
+57234;Theisgarten;1;13;2;14;Oberdielfen;006.1;;;148
+57234;Thomasstraße;1;27;2;32;Rudersdorf;009.1;;;148
+57234;Torwiesenweg;1;45;2;34;Niederdielfen;004.1;;;148
+57234;Tretenbach;1;13;2;16;Oberdielfen;006.1;;;148
+57234;Turmstraße;1;5;2;2;Rudersdorf;009.1;;;148
+57234;Turnerstraße;1;19;2;24;Wilgersdorf;013.1;;;148
+57234;Unter dem hohen Rain;23;23;2;20;Rudersdorf;009.1;;;148
+57234;Untere Breitenbach;1;13;2;10;Wilgersdorf;012.1;;;148
+57234;Unterer Johannes;;;2;12;Obersdorf;007.1;;;148
+57234;Unterm Ewer;1;7;4;14;Rinsdorf;008.1;;;148
+57234;Unterm Rotscheid;1;9;2;10;Wilnsdorf;014.1;;;148
+57234;Unterm Rödchen;3;7;2;6;Rinsdorf;008.1;;;148
+57234;Urbanstraße;1;9;2;12;Oberdielfen;006.1;;;148
+57234;Vogelsang;1;7;2;8;Rinsdorf;008.1;;;148
+57234;Vor der Brobirke;1;3;4;6;Rinsdorf;008.1;;;148
+57234;Vorm Brand;1;27;2;40;Wilnsdorf;014.1;;;148
+57234;Vorm Wald;1;3;;;Rudersdorf;009.1;;;148
+57234;Wahbach;1;13;4;58;Anzhausen;001.1;;;148
+57234;Wahlbacher Hof;1;1;;;Wilgersdorf;012.1;;;148
+57234;Waldenburger Straße;1;1;2;8;Obersdorf;007.1;;;148
+57234;Waldstraße;5;15;4;18;Wilden;011.1;;;148
+57234;Weidestraße;1;1;2;4;Gernsdorf;003.1;;;148
+57234;Weißbachstraße;3;45;2;52;Wilgersdorf;013.1;;;148
+57234;Weißtalstraße;1;43;6;16;Niederdielfen;004.1;;;148
+57234;Werkstraße;1;13;2;30;Rudersdorf;009.1;;;148
+57234;Weststraße;1;15;2;14;Gernsdorf;003.1;;;148
+57234;Wielandsweg;1;53;2;36;Oberdielfen;006.1;;;148
+57234;Wiesenrainsgarten;1;25;2;8;Obersdorf;007.1;;;148
+57234;Wiesenstraße;1;55;8;42;Rudersdorf;009.1;;;148
+57234;Wilhelmstraße;1;15;2;14;Wilnsdorf;015.1;;;148
+57234;Zollhausweg;1;9;2;6;Wilgersdorf;013.1;;;148
+57234;Zum Ehrenmal;1;7;2;6;Wilnsdorf;015.1;;;148
+57234;Zum Jugendheim;1;9;2;4;Niederdielfen;004.1;;;148
+57234;Zum Mühlenweiher;1;7;2;8;Niederdielfen;005.1;;;148
+57234;Zum Rödgen;1;23;2;6;Niederdielfen;004.1;;;148
+57234;Zum Steimel;;;2;6;Rudersdorf;009.1;;;148
+57234;Zum Weiherchen;1;7;2;2;Rinsdorf;008.1;;;148
+57234;Zur Dicken Buche;1;19;10;12;Niederdielfen;004.1;;;148
+57234;Zur Johanneswiese;3;11;2;22;Wilden;011.1;;;148
+57234;Zur Neuen Hoffnung;1;11;2;6;Wilnsdorf;015.1;;;148

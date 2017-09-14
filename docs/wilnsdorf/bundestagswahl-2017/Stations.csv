@@ -1,0 +1,17 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+001.1;Anzhausen, Turnhalle, Mehrzweckraum;Deuzer Str.;6;;;57234;Wilnsdorf;;J
+003.1;Gernsdorf, Bürgerhaus;Gernsdorfer Str.;6;;;57234;Wilnsdorf;;J
+004.1;Niederdielfen I, Realschule;Augraben;9;;;57234;Wilnsdorf;;J
+005.1;Niederdielfen II, Realschule;Augraben;9;;;57234;Wilnsdorf;;J
+006.1;Oberdielfen, Bürgerhaus;Oranienstr.;6;;;57234;Wilnsdorf;;J
+008.1;Rinsdorf, Bürgerhaus;Vogelsang;1;;;57234;Wilnsdorf;;J
+009.1;Rudersdorf I, Haus Heimat;Johannlandstr.;2;;;57234;Wilnsdorf;;J
+010.1;Rudersdorf II, Haus Heimat;Johannlandstr.;2;;;57234;Wilnsdorf;;J
+011.1;Wilden, Dorfgemeinschaftshaus;Freier Grunder Str.;33;;;57234;Wilnsdorf;;J
+012.1;Wilgersdorf I, Grundschule;Jahnstr.;2;;;57234;Wilnsdorf;;J
+013.1;Wilgersdorf II, Grundschule;Jahnstr.;2;;;57234;Wilnsdorf;;J
+014.1;Wilnsdorf I, Grundschule;Vorm Brand;30;;;57234;Wilnsdorf;;J
+015.1;Wilnsdorf II, Grundschule;Vorm Brand;30;;;57234;Wilnsdorf;;J
+016.1;Wilnsdorf III, Festhalle, Mehrzweckraum;Rathausstr.;9;;;57234;Wilnsdorf;;J
+002.1;Flammersbach, Kindergarten;Netphener Straße;6;;;57234;Wilnsdrof;;N
+007.1;Obersdorf, Turnhalle;Gewannweg;14;;;57234;Wilnsdorf;;N
