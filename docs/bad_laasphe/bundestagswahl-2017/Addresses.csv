@@ -1,0 +1,388 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+57334;Alte Eisenstraße;1;25;4;44;Fischelbach;009-1;;;148
+57334;Alte Fischelbacher Straße;1;17;4;6;Fischelbach;009-1;;;148
+57334;Alte Landstraße;7;7;;;Niederlaasphe;002-1;;;148
+57334;Alter Markt;3;3;4;4;Banfe;007-1;;;148
+57334;Am Aberg;5;7;2;6;Oberndorf;017-1;;;148
+57334;Am Bilsedorn;5;9;2;4;Feudingen;012-1;;;148
+57334;Am Birkenstrauch;1;35;2;42;Bad Laasphe;003-1;;;148
+57334;Am Bohnstein;;;2;2;Fischelbach;009-1;;;148
+57334;Am Brandweiher;3;3;2;4;Fischelbach;009-1;;;148
+57334;Am Dillstein;3;29;2;22;Bad Laasphe;005-1;;;148
+57334;Am Eichelkamp;3;29;4;20;Bad Laasphe;004-1;;;148
+57334;Am Entenberg;1;1;2;2;Niederlaasphe;002-1;;;148
+57334;Am Feldberg;1;57;2;64;Bad Laasphe;003-1;;;148
+57334;Am Galgenberg;7;25;4;28;Bad Laasphe;003-1;;;148
+57334;Am Gottelsberg;1;3;;;Bermershausen;011-1;;;148
+57334;Am Halberg;1;1;2;2;Hesselbach;008-1;;;148
+57334;Am Hang;1;7;4;4;Feudingen;013-1;;;148
+57334;Am Hesselberg;;;4;14;Rüppershausen;018-1;;;148
+57334;Am Hohlen Weg;9;9;;;Feudingen;013-1;;;148
+57334;Am Hornberg;1;9;2;26;Feudingen;012-1;;;148
+57334;Am Jägershain;21;21;;;Großenbach;014-1;;;148
+57334;Am Kalmerich;7;13;2;2;Steinbach;018-1;;;148
+57334;Am Kratzenberg;3;15;;;Bermershausen;011-1;;;148
+57334;Am Köpfchen;1;7;2;8;Feudingen;013-1;;;148
+57334;Am Langen Land;1;23;2;22;Feudingen;013-1;;;148
+57334;Am Lindenrain;1;1;2;8;Feudingen;013-1;;;148
+57334;Am Lärchenwäldchen;1;5;2;10;Bad Laasphe;005-1;;;148
+57334;Am Meisekippel;1;1;2;4;Fischelbach;009-1;;;148
+57334;Am Mühlhof;1;1;2;2;Herbertshausen;006-1;;;148
+57334;Am Naßacker;5;11;2;10;Puderbach;001-1;;;148
+57334;Am Perchacker;1;39;2;28;Hesselbach;008-1;;;148
+57334;Am Pfaffenhof;3;31;2;26;Puderbach;001-1;;;148
+57334;Am Sand;1;25;6;18;Banfe;007-1;;;148
+57334;Am Sasselberg;1;17;2;14;Feudingen;013-1;;;148
+57334;Am Schwimmel;3;3;4;8;Puderbach;001-1;;;148
+57334;Am Sonnenhang;1;1;6;24;Feudingen;012-1;;;148
+57334;Am Stollborn;1;3;2;6;Hesselbach;008-1;;;148
+57334;Am Vogelsang;3;35;4;22;Feudingen;012-1;;;148
+57334;Am Waldrand;1;5;4;8;Bad Laasphe;004-1;;;148
+57334;Am alten Rain;1;3;2;2;Oberndorf;017-1;;;148
+57334;Amselweg;1;9;2;18;Feudingen;012-1;;;148
+57334;Amtshäuser Straße;7;13;2;24;Amtshausen;018-1;;;148
+57334;An der Eichert;1;13;4;10;Fischelbach;009-1;;;148
+57334;An der Hager;1;11;2;14;Fischelbach;009-1;;;148
+57334;An der Hahler;7;9;2;20;Bad Laasphe;004-1;;;148
+57334;An der Kirche;1;1;2;10;Feudingen;013-1;;;148
+57334;An der Schmiede;1;1;2;12;Fischelbach;009-1;;;148
+57334;An der Winterseite;;;2;6;Volkholz;014-1;;;148
+57334;Auf dem Breitenacker;3;11;8;12;Feudingen;013-1;;;148
+57334;Auf dem Hainberg;1;11;4;14;Feudingen;012-1;;;148
+57334;Auf dem Steidchen;1;7;2;4;Niederlaasphe;002-1;;;148
+57334;Auf dem Stein;3;7;4;8;Feudingen;013-1;;;148
+57334;Auf den Weiherhöfen;1;37;2;10;Feudingen;013-1;;;148
+57334;Auf der Heber;1;11;2;18;Banfe;007-1;;;148
+57334;Auf der Heide;1;1;;;Feudingen;013-1;;;148
+57334;Auf der Höh;;;12;30;Großenbach;014-1;;;148
+57334;Auf der Ilgenbrach;1;23;8;32;Feudingen;013-1;;;148
+57334;Auf der Kohr;1;23;2;16;Feudingen;013-1;;;148
+57334;Auf der Ley;7;9;4;8;Feudingen;012-1;;;148
+57334;Auf der Pfingstweide;1;15;10;26;Bad Laasphe;003-1;;;148
+57334;Auf der Schlenke;;;4;18;Feudingen;013-1;;;148
+57334;Auf der Stehde;1;21;2;24;Feudingen;013-1;;;148
+57334;Augustenhofweg;1;3;2;2;Volkholz;014-1;;;148
+57334;Auweg;1;1;;;Niederlaasphe;002-1;;;148
+57334;Bachweg;;;4;4;Niederlaasphe;002-1;;;148
+57334;Backhausweg;;;2;4;Niederlaasphe;002-1;;;148
+57334;Bahnhofstraße;1;57;2;68;Bad Laasphe;004-1;;;148
+57334;Bahnhofstraße;59;81;;;Bad Laasphe;003-1;;;148
+57334;Banfetalstraße;51;137;30;104;Banfe;007-1;;;148
+57334;Banfetalstraße;1;5;;;Herbertshausen;006-1;;;148
+57334;Battenbachweg;;;2;6;Bernshausen;008-1;;;148
+57334;Bergseite;1;1;2;10;Herbertshausen;006-1;;;148
+57334;Bergstraße;1;55;2;42;Bad Laasphe;004-1;;;148
+57334;Berliner Straße;1;25;4;26;Puderbach;001-1;;;148
+57334;Bermershäuser Straße;;;2;18;Bermershausen;011-1;;;148
+57334;Bernshäuser Straße;1;19;8;12;Bernshausen;008-1;;;148
+57334;Birkenstraße;;;2;2;Niederlaasphe;002-1;;;148
+57334;Blumenweg;1;1;6;14;Feudingen;013-1;;;148
+57334;Bornstraße;5;17;2;18;Niederlaasphe;002-1;;;148
+57334;Bornweg;1;5;4;18;Feudingen;012-1;;;148
+57334;Brandenburger Weg;3;3;2;12;Bad Laasphe;003-1;;;148
+57334;Breidenbachweg;27;27;2;14;Herbertshausen;006-1;;;148
+57334;Breslauer Straße;1;15;2;28;Feudingen;013-1;;;148
+57334;Brunnenstraße;;;4;4;Bad Laasphe;004-1;;;148
+57334;Brunnenweg;3;5;4;10;Feudingen;012-1;;;148
+57334;Brückenacker;5;11;2;2;Bad Laasphe;006-1;;;148
+57334;Brückenplatz;5;5;2;6;Niederlaasphe;002-1;;;148
+57334;Brückenstraße;11;23;4;12;Bad Laasphe;005-1;;;148
+57334;Buchwiesenstraße;9;27;6;40;Bad Laasphe;005-1;;;148
+57334;Burgfeld;1;17;2;4;Saßmannshausen;010-1;;;148
+57334;Butzebach;3;3;2;2;Bad Laasphe;004-1;;;148
+57334;Bäderborn;1;43;2;58;Bad Laasphe;003-1;;;148
+57334;Bärwingweg;;;2;4;Amtshausen;018-1;;;148
+57334;Dammstraße;3;35;;;Bad Laasphe;005-1;;;148
+57334;Ditzroder Weg;1;41;2;44;Bad Laasphe;005-1;;;148
+57334;Dorbach;3;3;4;6;Herbertshausen;006-1;;;148
+57334;Dornhof;1;15;6;10;Saßmannshausen;010-1;;;148
+57334;Eichwaldstraße;1;35;2;76;Rückershausen;016-1;;;148
+57334;Eichwaldstraße;35A;35A;;;Weide;015-1;;;148
+57334;Eichwaldstraße;37;49;;;Weide;015-1;;;148
+57334;Eichwaldstraße;57;71;;;Rückershausen;016-1;;;148
+57334;Enderbach;1;13;2;18;Saßmannshausen;010-1;;;148
+57334;Entenbergstraße;1;1;2;2;Niederlaasphe;002-1;;;148
+57334;Erbergweg;3;11;4;12;Amtshausen;018-1;;;148
+57334;Erlenweg;;;2;2;Hesselbach;008-1;;;148
+57334;Erlenwiese;;;2;2;Hesselbach;008-1;;;148
+57334;Erndtebrücker Straße;1;23;4;22;Oberndorf;017-1;;;148
+57334;Eschenstraße;;;4;12;Puderbach;001-1;;;148
+57334;Falkenweg;3;7;2;4;Niederlaasphe;002-1;;;148
+57334;Feldstraße;1;15;8;22;Bad Laasphe;004-1;;;148
+57334;Felsenweg;1;3;2;6;Niederlaasphe;002-1;;;148
+57334;Finkenweg;1;1;;;Niederlaasphe;002-1;;;148
+57334;Fischelbacher Straße;1;53;2;24;Fischelbach;009-1;;;148
+57334;Forsthaus Ditzrod;1;1;;;Hesselbach;008-1;;;148
+57334;Forsthaus Hirtsgrund;;;2;2;Bad Laasphe;003-1;;;148
+57334;Forsthaus Litzelbach;1;1;;;Bad Laasphe;003-1;;;148
+57334;Friedenfelder Weg;9;27;2;18;Banfe;007-1;;;148
+57334;Friedhofstraße;3;5;2;10;Niederlaasphe;002-1;;;148
+57334;Friedhofsweg;1;41;34;36;Feudingen;013-1;;;148
+57334;Friedrich-Kiel-Straße;1;7;2;4;Puderbach;001-1;;;148
+57334;Friedrichshammer;5;5;;;Kunst-Wittgenstein;005-1;;;148
+57334;Friedrichshütte;;;2;16;Kunst-Wittgenstein;005-1;;;148
+57334;Friedrichshütte;13;31;20;20;Bad Laasphe;005-1;;;148
+57334;Friedrichstraße;3;11;2;18;Bad Laasphe;004-1;;;148
+57334;Gartenstraße;1;21;6;32;Bad Laasphe;005-1;;;148
+57334;Gennernbach;5;43;8;50;Bad Laasphe;005-1;;;148
+57334;Glashütter Straße;5;61;2;62;Volkholz;014-1;;;148
+57334;Goldkaute;1;19;2;14;Saßmannshausen;010-1;;;148
+57334;Grenzweg;9;13;2;4;Niederlaasphe;002-1;;;148
+57334;Großenbacher Straße;11;11;2;32;Großenbach;014-1;;;148
+57334;Großer Hof;1;11;2;2;Niederlaasphe;002-1;;;148
+57334;Grubenstraße;1;13;6;6;Fischelbach;009-1;;;148
+57334;Haardtstraße;1;11;8;16;Niederlaasphe;002-1;;;148
+57334;Hahlerweg;1;3;2;6;Bad Laasphe;004-1;;;148
+57334;Hainstraße;1;17;4;22;Banfe;007-1;;;148
+57334;Hainweg;1;3;2;4;Niederlaasphe;002-1;;;148
+57334;Hasselbergstraße;1;15;2;6;Niederlaasphe;002-1;;;148
+57334;Hauptstraße;1;9;4;16;Niederlaasphe;002-1;;;148
+57334;Heckenweg;3;7;2;10;Volkholz;014-1;;;148
+57334;Heidebergstraße;1;23;2;30;Niederlaasphe;002-1;;;148
+57334;Heiligenborn;1;3;2;2;Heiligenborn;007-1;;;148
+57334;Herbertshäuser Straße;7;21;12;18;Herbertshausen;006-1;;;148
+57334;Hesselbacher Straße;1;57;2;52;Hesselbach;008-1;;;148
+57334;Heuweg;1;3;;;Feudingen;013-1;;;148
+57334;Hinter der Heber;1;7;;;Banfe;007-1;;;148
+57334;Hinterfang;1;31;2;38;Bad Laasphe;004-1;;;148
+57334;Hinterfeldweg;1;3;;;Bernshausen;008-1;;;148
+57334;Hinterm Eisenstein;7;11;2;10;Hesselbach;008-1;;;148
+57334;Hinterm Hainberg;5;35;10;48;Rückershausen;016-1;;;148
+57334;Hinterm Holler;1;15;2;22;Banfe;007-1;;;148
+57334;Hinterm Tannenwald;;;2;4;Feudingen;013-1;;;148
+57334;Hirtenweg;1;3;2;4;Feudingen;012-1;;;148
+57334;Hirtsgrund;1;9;2;10;Bad Laasphe;003-1;;;148
+57334;Hirtsgrunder Weg;5;33;2;34;Bad Laasphe;003-1;;;148
+57334;Hochstraße;1;45;6;40;Banfe;007-1;;;148
+57334;Hof Breitenbach;;;2;2;Herbertshausen;006-1;;;148
+57334;Hof Breitenbach;1;1;;;Bad Laasphe;006-1;;;148
+57334;Hofäcker;;;2;2;Hesselbach;008-1;;;148
+57334;Hohler Weg;;;2;12;Feudingen;013-1;;;148
+57334;Holderweg;1;17;2;22;Hesselbach;008-1;;;148
+57334;Holzhausen;3;13;2;14;Holzhausen;010-1;;;148
+57334;Hopfengarten;1;15;2;12;Saßmannshausen;010-1;;;148
+57334;Hubertusweg;1;5;2;2;Bad Laasphe;003-1;;;148
+57334;Höhenweg;;;2;32;Bad Laasphe;004-1;;;148
+57334;Hülsbachweg;;;6;10;Amtshausen;018-1;;;148
+57334;Hünenweg;1;1;2;2;Steinbach;018-1;;;148
+57334;Hüttenstraße;1;29;2;32;Feudingen;012-1;;;148
+57334;Im Auerbach;3;23;4;22;Feudingen;013-1;;;148
+57334;Im Baumhof;1;5;8;8;Fischelbach;009-1;;;148
+57334;Im Boden;;;20;20;Feudingen;016-1;;;148
+57334;Im Boden;9;15;6;10;Rückershausen;016-1;;;148
+57334;Im Bodengarten;;;2;2;Fischelbach;009-1;;;148
+57334;Im Brühl;11;11;4;16;Feudingen;012-1;;;148
+57334;Im Dernbach;1;13;6;6;Feudingen;013-1;;;148
+57334;Im Eichhof;1;5;2;6;Hesselbach;008-1;;;148
+57334;Im Einöd;1;17;18;18;Feudingen;012-1;;;148
+57334;Im Flachsgarten;3;19;;;Fischelbach;009-1;;;148
+57334;Im Großen Hof;1;9;;;Feudingen;013-1;;;148
+57334;Im Gründchen;5;5;;;Feudingen;012-1;;;148
+57334;Im Holzbach;1;15;2;22;Fischelbach;009-1;;;148
+57334;Im Hüttenhof;1;5;2;2;Feudingen;012-1;;;148
+57334;Im Kalterbach;1;1;2;14;Feudingen;013-1;;;148
+57334;Im Laasphetal;1;23;2;20;Bad Laasphe;004-1;;;148
+57334;Im Langen Door;3;3;2;6;Hesselbach;008-1;;;148
+57334;Im Riegenbach;3;7;;;Banfe;007-1;;;148
+57334;Im Rohrbach;1;5;2;18;Feudingen;012-1;;;148
+57334;Im Wabach;1;17;6;18;Bad Laasphe;005-1;;;148
+57334;Im Welsenbach;1;21;2;26;Feudingen;012-1;;;148
+57334;Im alten Gewanne;1;27;2;26;Banfe;007-1;;;148
+57334;Immenseifen;1;5;6;6;Banfe;007-1;;;148
+57334;Immergrün;;;2;2;Amtshausen;018-1;;;148
+57334;In den Baumwiesen;9;9;;;Hesselbach;008-1;;;148
+57334;In den Höfen;1;9;;;Rückershausen;016-1;;;148
+57334;In der Aue;;;34;36;Bad Laasphe;003-1;;;148
+57334;In der Feudinge;3;3;;;Feudingen;012-1;;;148
+57334;In der Gasse;1;7;2;6;Feudingen;012-1;;;148
+57334;In der Grube;1;59;2;54;Bad Laasphe;003-1;;;148
+57334;In der Hege;1;1;2;6;Banfe;007-1;;;148
+57334;In der Hohl;3;5;2;14;Bad Laasphe;005-1;;;148
+57334;In der Stockwiese;27;45;18;18;Bad Laasphe;003-1;;;148
+57334;In der Trift;1;5;;;Feudingen;013-1;;;148
+57334;In der Zeun;5;5;2;4;Banfe;007-1;;;148
+57334;Industriestraße;3;3;;;Bad Laasphe;003-1;;;148
+57334;Inselweg;;;2;6;Hesselbach;008-1;;;148
+57334;Irleweg;;;4;10;Großenbach;014-1;;;148
+57334;Jahnstraße;1;3;2;4;Niederlaasphe;002-1;;;148
+57334;Kalteborn;3;27;2;34;Bad Laasphe;004-1;;;148
+57334;Kanarienweg;;;6;6;Bad Laasphe;003-1;;;148
+57334;Kastanienweg;3;11;;;Bad Laasphe;005-1;;;148
+57334;Kiefernweg;5;5;;;Volkholz;014-1;;;148
+57334;Kirchplatz;;;2;20;Bad Laasphe;004-1;;;148
+57334;Kirchstraße;3;13;2;24;Niederlaasphe;002-1;;;148
+57334;Kirchweg;1;9;2;8;Banfe;007-1;;;148
+57334;Kirschwiesenweg;5;31;6;30;Puderbach;001-1;;;148
+57334;Kisselsdell;1;5;;;Saßmannshausen;010-1;;;148
+57334;Kleine Aue;5;11;6;8;Hesselbach;008-1;;;148
+57334;Kneebuschweg;1;1;2;8;Bad Laasphe;005-1;;;148
+57334;Kreuzstraße;1;15;2;14;Hesselbach;008-1;;;148
+57334;Kunster Weg;;;4;14;Kunst-Wittgenstein;005-1;;;148
+57334;Kurstraße;11;41;2;42;Bad Laasphe;004-1;;;148
+57334;Kurzer Weg;;;2;4;Bernshausen;008-1;;;148
+57334;Kölscher Weg;;;2;4;Feudingen;012-1;;;148
+57334;Königsberger Straße;9;17;2;22;Puderbach;001-1;;;148
+57334;Königstraße;1;49;2;64;Bad Laasphe;004-1;;;148
+57334;Laaspherhütte;1;39;6;26;Bad Laasphe;006-1;;;148
+57334;Lahn-Eder-Straße;3;45;12;72;Puderbach;001-1;;;148
+57334;Lahnhofweg;1;27;4;24;Volkholz;014-1;;;148
+57334;Lahnstraße;1;55;6;32;Bad Laasphe;005-1;;;148
+57334;Lahnuferstraße;1;11;;;Bad Laasphe;003-1;;;148
+57334;Langenbach;1;1;2;10;Oberndorf;017-1;;;148
+57334;Langgasse;1;3;2;2;Niederlaasphe;002-1;;;148
+57334;Langäcker;5;7;4;10;Bernshausen;008-1;;;148
+57334;Laubach;3;3;2;8;Oberndorf;017-1;;;148
+57334;Lerchenweg;1;3;2;6;Feudingen;012-1;;;148
+57334;Lindenfeld;1;7;2;6;Banfe;007-1;;;148
+57334;Lindenfelder Weg;1;43;2;26;Banfe;007-1;;;148
+57334;Lindenstraße;1;1;2;26;Kunst-Wittgenstein;005-1;;;148
+57334;Lohweg;1;1;2;8;Puderbach;001-1;;;148
+57334;Lutherstraße;1;5;2;12;Fischelbach;009-1;;;148
+57334;Lückewiese;;;2;2;Hesselbach;008-1;;;148
+57334;Marburger Straße;1;35;2;52;Niederlaasphe;002-1;;;148
+57334;Mauerstraße;;;10;42;Bad Laasphe;004-1;;;148
+57334;Max-Präger-Weg;11;17;2;16;Bad Laasphe;005-1;;;148
+57334;Mecklenburger Weg;1;15;2;8;Bad Laasphe;003-1;;;148
+57334;Mittelstraße;1;31;2;54;Niederlaasphe;002-1;;;148
+57334;Mittelweg;1;9;4;24;Volkholz;014-1;;;148
+57334;Mozartweg;7;15;2;8;Bad Laasphe;003-1;;;148
+57334;Mühlenstraße;5;19;24;34;Bad Laasphe;005-1;;;148
+57334;Mühlfeld;1;11;2;14;Bad Laasphe;005-1;;;148
+57334;Neuer Weg;1;19;2;16;Banfe;007-1;;;148
+57334;Niederlaaspher Weg;3;11;8;8;Bad Laasphe;003-1;;;148
+57334;Nixenfeld;1;1;2;2;Weide;015-1;;;148
+57334;Obere Bienhecke;1;19;4;22;Bad Laasphe;005-1;;;148
+57334;Obere Espen;3;3;;;Feudingen;013-1;;;148
+57334;Obere Flurstraße;1;11;8;10;Feudingen;012-1;;;148
+57334;Obere Mühlhelle;;;2;18;Fischelbach;009-1;;;148
+57334;Obere Rote Hardt;1;29;2;36;Bad Laasphe;003-1;;;148
+57334;Obere Wallachei;1;5;2;4;Bad Laasphe;005-1;;;148
+57334;Obere Weide;7;11;12;18;Weide;015-1;;;148
+57334;Obere Weide;;;2;6;Rückershausen;016-1;;;148
+57334;Oberer Buhlschlag;;;2;22;Bad Laasphe;005-1;;;148
+57334;Oberer Feldhain;1;13;4;4;Banfe;007-1;;;148
+57334;Oberer Hainberg;1;23;2;16;Feudingen;012-1;;;148
+57334;Oberer Krautgarten;1;31;2;30;Herbertshausen;006-1;;;148
+57334;Oberer Laibach;;;8;8;Banfe;007-1;;;148
+57334;Oberer Schuleborn;1;31;;;Bad Laasphe;005-1;;;148
+57334;Oberndorfer Straße;9;59;10;64;Oberndorf;017-1;;;148
+57334;Oranienstraße;9;19;6;14;Fischelbach;009-1;;;148
+57334;Ortsstraße;;;2;10;Fischelbach;009-1;;;148
+57334;Ostplatz;3;31;4;22;Bad Laasphe;003-1;;;148
+57334;Ostpreußenstraße;25;39;2;28;Bad Laasphe;003-1;;;148
+57334;Oststraße;3;7;2;6;Niederlaasphe;002-1;;;148
+57334;Pommernweg;1;5;2;2;Bad Laasphe;003-1;;;148
+57334;Poststraße;1;17;10;10;Banfe;007-1;;;148
+57334;Puderbacher Weg;21;51;18;76;Bad Laasphe;003-1;;;148
+57334;Puderbacher Weg;3;17;2;16;Bad Laasphe;004-1;;;148
+57334;Rainstraße;1;67;2;30;Niederlaasphe;002-1;;;148
+57334;Rauschet;3;11;2;12;Herbertshausen;006-1;;;148
+57334;Riedhecke;;;2;4;Volkholz;014-1;;;148
+57334;Ringstraße;1;15;2;12;Niederlaasphe;002-1;;;148
+57334;Rosenstraße;1;19;4;24;Puderbach;001-1;;;148
+57334;Rosenweg;1;7;;;Feudingen;013-1;;;148
+57334;Roßbergstraße;3;15;;;Niederlaasphe;002-1;;;148
+57334;Römerseifen;;;2;2;Hesselbach;008-1;;;148
+57334;Rückershäuser Straße;1;81;4;62;Rückershausen;016-1;;;148
+57334;Rüppershäuser Straße;1;39;2;36;Rüppershausen;018-1;;;148
+57334;Sachsenweg;7;21;6;24;Bad Laasphe;003-1;;;148
+57334;Schlehenweg;1;9;2;14;Feudingen;012-1;;;148
+57334;Schlesierweg;5;15;2;6;Niederlaasphe;002-1;;;148
+57334;Schlesische Straße;1;17;2;14;Bad Laasphe;003-1;;;148
+57334;Schloß Wittgenstein;1;7;6;6;Bad Laasphe;005-1;;;148
+57334;Schloßberg;9;13;12;12;Bad Laasphe;005-1;;;148
+57334;Schloßstraße;3;43;2;32;Bad Laasphe;005-1;;;148
+57334;Schmaler Weg;;;6;6;Oberndorf;017-1;;;148
+57334;Schorrweg;5;5;;;Puderbach;001-1;;;148
+57334;Schulstraße;5;23;2;28;Banfe;007-1;;;148
+57334;Schulweg;1;5;2;2;Feudingen;012-1;;;148
+57334;Schwalbenweg;1;1;2;4;Niederlaasphe;002-1;;;148
+57334;Schwarzacker Straße;1;13;2;14;Rüppershausen;018-1;;;148
+57334;Schützenstraße;1;3;2;6;Fischelbach;009-1;;;148
+57334;Sebastian-Kneipp-Straße;5;15;4;10;Bad Laasphe;004-1;;;148
+57334;Seifenackerstraße;1;21;6;18;Herbertshausen;006-1;;;148
+57334;Sieg-Lahn-Straße;23;97;28;70;Feudingen;013-1;;;148
+57334;Sieg-Lahn-Straße;5;19;4;26;Feudingen;012-1;;;148
+57334;Siegener Straße;9;49;2;48;Oberndorf;017-1;;;148
+57334;Siegener Straße;;;52;54;Oberndorf;017-1;;;148
+57334;Siegener Straße;51;81;58;92;Rückershausen;016-1;;;148
+57334;Siegener Straße;;;50;50;Rückershausen;016-1;;;148
+57334;Siegener Straße;131;131;150;150;Feudingen;013-1;;;148
+57334;Sohl;1;7;2;8;Fischelbach;009-1;;;148
+57334;Sohler Weg;3;3;2;4;Fischelbach;009-1;;;148
+57334;Sportplatzstraße;1;7;;;Banfe;007-1;;;148
+57334;St.Michael Weg;1;1;2;6;Feudingen;013-1;;;148
+57334;Starenweg;1;3;2;2;Niederlaasphe;002-1;;;148
+57334;Steinackerstraße;1;27;2;22;Bad Laasphe;004-1;;;148
+57334;Steinbacher Weg;1;7;;;Steinbach;018-1;;;148
+57334;Steinweg;1;19;2;14;Bad Laasphe;004-1;;;148
+57334;Sternstraße;1;13;2;10;Rüppershausen;018-1;;;148
+57334;Sudetenweg;1;1;14;14;Bad Laasphe;003-1;;;148
+57334;Talstraße;1;25;2;22;Banfe;007-1;;;148
+57334;Talweg;3;5;;;Niederlaasphe;002-1;;;148
+57334;Tannenwald;9;9;;;Feudingen;013-1;;;148
+57334;Taubenweg;1;3;4;6;Niederlaasphe;002-1;;;148
+57334;Thüringer Weg;1;1;;;Bad Laasphe;003-1;;;148
+57334;Tobach;1;1;2;2;Volkholz;014-1;;;148
+57334;Turnerstraße;1;9;2;8;Bad Laasphe;004-1;;;148
+57334;Umweg;;;2;4;Feudingen;012-1;;;148
+57334;Untere Bienhecke;1;15;6;12;Bad Laasphe;005-1;;;148
+57334;Untere Flurstraße;1;11;8;10;Feudingen;012-1;;;148
+57334;Untere Kohr;1;13;2;4;Feudingen;013-1;;;148
+57334;Untere Mühlhelle;1;1;2;20;Fischelbach;009-1;;;148
+57334;Untere Rote Hardt;7;11;6;18;Bad Laasphe;003-1;;;148
+57334;Untere Weide;1;29;4;28;Weide;015-1;;;148
+57334;Unterer Buhlschlag;1;15;;;Bad Laasphe;005-1;;;148
+57334;Unterer Feldhain;9;29;2;8;Banfe;007-1;;;148
+57334;Unterer Krautgarten;1;1;2;12;Herbertshausen;006-1;;;148
+57334;Unterer Laibach;7;13;8;8;Banfe;007-1;;;148
+57334;Unterer Schuleborn;3;25;2;8;Bad Laasphe;005-1;;;148
+57334;Unterm Katzenstein;1;1;;;Niederlaasphe;002-1;;;148
+57334;Unterm Köpfchen;3;13;6;8;Feudingen;013-1;;;148
+57334;Unterm Rain;1;3;2;2;Feudingen;012-1;;;148
+57334;Volkholzer Straße;1;53;2;34;Volkholz;014-1;;;148
+57334;Vor dem Fang;1;33;2;34;Bad Laasphe;004-1;;;148
+57334;Vor den Hasseln;3;17;2;10;Bad Laasphe;005-1;;;148
+57334;Vor der Höhstadt;3;17;;;Puderbach;001-1;;;148
+57334;Vor der Richtel;9;9;10;10;Puderbach;001-1;;;148
+57334;Wahlbachsmühle;1;1;;;Bermershausen;011-1;;;148
+57334;Waldweg;1;19;2;24;Bad Laasphe;004-1;;;148
+57334;Wallauer Straße;1;1;2;28;Niederlaasphe;002-1;;;148
+57334;Wallstraße;1;63;;;Bad Laasphe;004-1;;;148
+57334;Wasserstraße;1;43;2;84;Bad Laasphe;004-1;;;148
+57334;Wasserstraße/Bracht;1;3;2;4;Bad Laasphe;004-1;;;148
+57334;Wehrstraße;3;5;2;10;Bad Laasphe;004-1;;;148
+57334;Weihergasse;1;1;2;4;Feudingen;013-1;;;148
+57334;Weststraße;1;5;2;8;Niederlaasphe;002-1;;;148
+57334;Wiesenbacher Weg;;;2;28;Bad Laasphe;005-1;;;148
+57334;Wiesenstraße;1;17;12;22;Banfe;007-1;;;148
+57334;Wiesenweg;1;17;10;16;Feudingen;013-1;;;148
+57334;Wilhelmsplatz;1;9;;;Bad Laasphe;005-1;;;148
+57334;Wilhelmstraße;3;13;2;12;Bad Laasphe;005-1;;;148
+57334;Wittgenst. Straße;1;1;4;14;Kunst-Wittgenstein;005-1;;;148
+57334;Zeiweg;;;2;2;Herbertshausen;006-1;;;148
+57334;Zum Alertsberg;1;37;2;60;Banfe;007-1;;;148
+57334;Zum Boden;1;1;2;4;Feudingen;013-1;;;148
+57334;Zum Breitenbach;;;2;4;Bad Laasphe;006-1;;;148
+57334;Zum Dille;3;7;2;6;Rüppershausen;018-1;;;148
+57334;Zum Ebsch;1;29;2;32;Hesselbach;008-1;;;148
+57334;Zum Eichholz;5;17;2;32;Feudingen;013-1;;;148
+57334;Zum Grimmseifen;;;4;8;Bad Laasphe;006-1;;;148
+57334;Zum Hainberg;1;19;6;30;Feudingen;012-1;;;148
+57334;Zum Hardtchen;1;7;2;10;Feudingen;013-1;;;148
+57334;Zum Hermannsteg;;;2;14;Feudingen;012-1;;;148
+57334;Zum Hollernstrauch;1;7;2;8;Oberndorf;017-1;;;148
+57334;Zum Holschenrain;1;51;2;44;Feudingen;012-1;;;148
+57334;Zum Ilsetal;5;53;4;36;Feudingen;012-1;;;148
+57334;Zum Kalkberg;3;5;10;12;Bad Laasphe;006-1;;;148
+57334;Zum Lehrberg;1;23;6;30;Bad Laasphe;003-1;;;148
+57334;Zum Litzelbach;5;7;;;Bad Laasphe;003-1;;;148
+57334;Zum Sassenborn;;;4;6;Fischelbach;009-1;;;148
+57334;Zum Spreit;1;21;2;22;Hesselbach;008-1;;;148
+57334;Zum Trauberg;9;19;2;2;Feudingen;012-1;;;148
+57334;Zum Winterkasten;3;7;2;4;Bad Laasphe;005-1;;;148
+57334;Zum hohen Roth;1;5;2;2;Bermershausen;011-1;;;148
+57334;Zur Ammelshelle;1;9;2;24;Feudingen;012-1;;;148
+57334;Zur Grundwiese;3;5;2;2;Oberndorf;017-1;;;148
+57334;Zur Talwiese;1;25;10;38;Bermershausen;011-1;;;148
+57334;Zwischen Landwehr;1;29;2;46;Bad Laasphe;003-1;;;148
