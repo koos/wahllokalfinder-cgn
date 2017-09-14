@@ -1,0 +1,453 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+57482;Abt-Luke-Straße;1;5;2;4;Schönau;012.1;;;149
+57482;Abt-Maurus-Kaufmann-Weg;3;5;2;4;Elben;006.2;;;149
+57482;Adenauerstraße;1;29;2;36;Altenhof;011.1;;;149
+57482;Adlerweg;1;15;2;28;Hünsborn;008.1;;;149
+57482;Agathastraße;1;15;2;16;Möllmicke;004.1;;;149
+57482;Ahornweg;1;9;2;10;Gerlingen;006.1;;;149
+57482;Alte Feld;1;1;;;Altenhof;011.1;;;149
+57482;Alte Gartenstraße;1;13;4;8;Dörnscheid;014.2;;;149
+57482;Alte Schulstraße;1;3;2;4;Hillmicke;007.1;;;149
+57482;Altenhofer Weg;1;1;6;6;Wenden;003.1;;;149
+57482;Alter Amtsweg;;;8;16;Wenden;003.1;;;149
+57482;Alter Amtsweg;1;7;;;Wenden;001.1;;;149
+57482;Alter Kirchweg;1;13;4;12;Wenden;002.1;;;149
+57482;Alter Schützenplatz;1;9;2;24;Wenden;002.1;;;149
+57482;Alter Weg;19;37;8;38;Hillmicke;007.1;;;149
+57482;Am Backes;1;13;2;14;Heid;013.2;;;149
+57482;Am Baumhof;1;13;4;8;Gerlingen;005.1;;;149
+57482;Am Berge;1;23;2;6;Wenden;002.1;;;149
+57482;Am Bruch;1;5;2;6;Ottfingen;016.1;;;149
+57482;Am Buchhagen;9;35;2;42;Möllmicke;004.1;;;149
+57482;Am Daßenborn;3;13;20;20;Hünsborn;008.1;;;149
+57482;Am Ehrenmal;1;5;2;2;Ottfingen;016.1;;;149
+57482;Am Elsenfeld;1;11;4;10;Möllmicke;004.1;;;149
+57482;Am Fockenberg;3;7;4;6;Hillmicke;007.1;;;149
+57482;Am Friedhof;;;2;4;Hünsborn;008.1;;;149
+57482;Am Hammer;1;9;2;8;Hünsborn;008.1;;;149
+57482;Am Hammergraben;5;5;;;Gerlingen;005.1;;;149
+57482;Am Hammerwäldchen;7;23;8;8;Wenden;002.1;;;149
+57482;Am Hossenhan;1;9;2;8;Hünsborn;008.1;;;149
+57482;Am Härdtchen;1;3;;;Wenden;003.1;;;149
+57482;Am Kattenzahl;3;3;2;20;Wenden;003.1;;;149
+57482;Am Kindergarten;1;5;4;14;Schönau;012.1;;;149
+57482;Am Kirchplatz;1;9;2;6;Wenden;003.1;;;149
+57482;Am Knippchen;15;23;2;16;Heid;013.2;;;149
+57482;Am Knippstein;1;15;8;14;Ottfingen;016.1;;;149
+57482;Am Löhkopf;1;71;4;58;Ottfingen;015.1;;;149
+57482;Am Nocken;1;5;4;28;Hillmicke;007.1;;;149
+57482;Am Rehberg;3;25;2;16;Möllmicke;004.1;;;149
+57482;Am Schlegelsberg;23;23;12;12;Wenden;001.1;;;149
+57482;Am Schützenplatz;15;15;;;Heid;013.2;;;149
+57482;Am Sonnenhang;1;27;2;28;Schönau;012.1;;;149
+57482;Am Umpern;1;9;4;18;Altenhof;011.1;;;149
+57482;Am Walde;1;7;2;8;Rothenborn;013.1;;;149
+57482;Am Weiher;11;11;2;14;Altenhof;011.1;;;149
+57482;Am Winterhagen;3;13;2;12;Altenhof;011.1;;;149
+57482;Am alten Steinbruch;1;7;4;6;Wenden;003.1;;;149
+57482;Amselweg;1;7;2;14;Wenden;001.1;;;149
+57482;An der Broke;1;7;;;Heid;013.2;;;149
+57482;An der Haardt;3;7;2;4;Altenhof;011.1;;;149
+57482;An der Helle;1;3;20;22;Altenwenden;012.1;;;149
+57482;An der Hude;1;3;10;10;Wenden;003.1;;;149
+57482;An der Onsel;1;25;2;44;Ottfingen;015.1;;;149
+57482;An der Schmette;1;3;2;2;Heid;013.2;;;149
+57482;An der Schrötel;;;2;10;Elben;006.2;;;149
+57482;An der Steinkuhle;5;5;4;8;Hünsborn;009.1;;;149
+57482;An der Waare;1;11;2;10;Ottfingen;016.1;;;149
+57482;Anne-Frank-Straße;7;9;2;10;Schönau;012.1;;;149
+57482;Arnoldistraße;1;31;2;36;Wenden;001.1;;;149
+57482;Auf dem Hang;3;25;6;10;Brün;014.4;;;149
+57482;Auf dem Kreuz;3;11;2;12;Ottfingen;015.1;;;149
+57482;Auf dem Ohl;21;21;;;Gerlingen;005.1;;;149
+57482;Auf dem Stein;1;21;2;10;Gerlingen;005.1;;;149
+57482;Auf den Wieden;1;13;4;16;Hillmicke;007.1;;;149
+57482;Auf der Burg;13;33;12;22;Schönau;012.1;;;149
+57482;Auf der Heide;5;15;2;16;Ottfingen;016.1;;;149
+57482;Auf der Hütte;1;1;;;Elben;006.2;;;149
+57482;Auf'm Kinderheid;11;43;2;42;Möllmicke;004.1;;;149
+57482;Bachstraße;1;43;6;48;Ottfingen;016.1;;;149
+57482;Bahnhofstraße;1;5;2;2;Gerlingen;005.1;;;149
+57482;Balzenbergstraße;11;27;2;34;Wenden;001.1;;;149
+57482;Bartoldusstraße;;;4;6;Gerlingen;005.1;;;149
+57482;Baustraße;1;9;2;8;Ottfingen;016.1;;;149
+57482;Bebbingen;1;5;2;6;Bebbingen;014.5;;;149
+57482;Bebbinger Straße;3;15;6;12;Heid;013.2;;;149
+57482;Benzenbergstraße;1;61;2;50;Rothemühle;013.1;;;149
+57482;Berghof;1;3;2;2;Wenden;003.1;;;149
+57482;Bergische Straße;11;15;2;14;Heid;013.2;;;149
+57482;Bergkamm;;;2;4;Möllmicke;004.1;;;149
+57482;Bergstraße;3;53;2;52;Wenden;002.1;;;149
+57482;Biebergstraße;1;39;6;30;Gerlingen;006.1;;;149
+57482;Biebergwiese;1;19;4;16;Gerlingen;006.1;;;149
+57482;Biggestraße;1;11;10;12;Rothemühle;013.1;;;149
+57482;Birkenweg;3;33;2;40;Hillmicke;007.1;;;149
+57482;Bischof-Wilhelm-Straße;5;31;2;32;Gerlingen;005.1;;;149
+57482;Blinder Weg;1;7;2;18;Altenhof;011.1;;;149
+57482;Blumenstraße;;;4;8;Schönau;012.1;;;149
+57482;Blütenweg;1;1;4;4;Brün;014.4;;;149
+57482;Bogenweg;7;9;2;6;Wenden;002.1;;;149
+57482;Breiter Bruch;;;2;8;Ottfingen;016.1;;;149
+57482;Breites Tor;13;27;2;50;Ottfingen;016.1;;;149
+57482;Bremerfohr;;;2;10;Altenhof;011.1;;;149
+57482;Brentanostraße;3;7;4;8;Gerlingen;006.1;;;149
+57482;Breslauer Straße;1;5;2;2;Rothemühle;013.1;;;149
+57482;Bruchfeldstraße;1;15;2;6;Schönau;012.1;;;149
+57482;Bruchstraße;1;39;6;40;Gerlingen;005.1;;;149
+57482;Brunnenstraße;1;15;2;10;Hünsborn;010.1;;;149
+57482;Brücher Weg;1;21;2;20;Altenwenden;012.1;;;149
+57482;Brückenstraße;1;3;2;6;Möllmicke;004.1;;;149
+57482;Buchenweg;3;9;4;6;Gerlingen;006.1;;;149
+57482;Burgstraße;1;1;;;Hünsborn;010.1;;;149
+57482;Büchen;1;15;2;14;Büchen;014.5;;;149
+57482;Büchener Straße;13;41;12;36;Hillmicke;007.1;;;149
+57482;Bühlstraße;1;21;2;32;Gerlingen;005.1;;;149
+57482;Christophorusstraße;7;11;2;34;Hillmicke;007.1;;;149
+57482;Crottorfer Straße;1;17;2;26;Römershagen;014.1;;;149
+57482;Dahlienweg;3;5;;;Möllmicke;004.1;;;149
+57482;Danielsfeld;1;5;2;6;Wenden;001.1;;;149
+57482;Danziger Straße;1;9;2;6;Rothemühle;013.1;;;149
+57482;Dia-Therm-Straße;3;3;;;Altenhof;011.1;;;149
+57482;Dingelstädter Straße;1;9;2;10;Wenden;002.1;;;149
+57482;Dohlenweg;1;11;;;Möllmicke;004.1;;;149
+57482;Doktorgasse;1;7;4;8;Ottfingen;015.1;;;149
+57482;Don-Bosco-Straße;1;19;10;16;Altenhof;011.1;;;149
+57482;Dornröschenweg;1;19;6;18;Altenhof;011.1;;;149
+57482;Drachenfels;1;13;2;12;Elben;006.2;;;149
+57482;Dreikönigsstraße;5;31;8;32;Hünsborn;008.1;;;149
+57482;Drosselweg;1;15;2;8;Wenden;001.1;;;149
+57482;Döingen;1;7;2;6;Döingen;014.1;;;149
+57482;Dörnschlader Weg;3;33;2;50;Altenhof;011.1;;;149
+57482;Dürerstraße;1;1;;;Rothemühle;013.1;;;149
+57482;Düringerstraße;5;17;2;14;Hünsborn;010.1;;;149
+57482;Eichendorffstraße;1;45;6;58;Gerlingen;006.1;;;149
+57482;Eichenweg;5;13;2;14;Wenden;001.1;;;149
+57482;Eichertshof;1;1;;;Eichertshof;016.1;;;149
+57482;Eichewiese;5;35;6;28;Wenden;003.1;;;149
+57482;Eichhagenstraße;1;19;2;14;Gerlingen;005.1;;;149
+57482;Elbener Straße;45;45;2;78;Gerlingen;005.1;;;149
+57482;Elbener Straße;1;43;;;Gerlingen;006.1;;;149
+57482;Elbener Straße;47;67;;;Gerlingen;006.1;;;149
+57482;Elpernweg;1;9;;;Gerlingen;005.1;;;149
+57482;Erdenfohr;1;1;;;Möllmicke;004.1;;;149
+57482;Erfurter Straße;1;19;2;6;Rothemühle;013.1;;;149
+57482;Erlenweg;1;13;2;22;Gerlingen;006.1;;;149
+57482;Erzstraße;1;9;;;Wendenerhütte;007.1;;;149
+57482;Feldweg;1;19;12;16;Altenhof;011.1;;;149
+57482;Ferienpark;1;183;8;212;Schönau;012.1;;;149
+57482;Fichtenstraße;1;29;4;22;Gerlingen;006.1;;;149
+57482;Finkenweg;3;3;2;14;Gerlingen;005.1;;;149
+57482;Fischpicke;1;1;4;4;Gerlingen;005.1;;;149
+57482;Fliederweg;1;9;2;10;Hünsborn;010.1;;;149
+57482;Fliegerhorststraße;1;27;2;34;Hünsborn;009.1;;;149
+57482;Flurweg;1;3;2;2;Altenhof;011.1;;;149
+57482;Forellenweg;3;7;;;Hillmicke;007.1;;;149
+57482;Frankenstraße;1;5;2;8;Ottfingen;016.1;;;149
+57482;Franz-Hitze-Straße;1;37;4;36;Gerlingen;006.1;;;149
+57482;Frauenfeld;1;9;2;12;Heid;013.2;;;149
+57482;Freiheitsstraße;1;7;4;16;Hünsborn;010.1;;;149
+57482;Freiherr-vom-Stein-Str.;5;9;2;14;Ottfingen;015.1;;;149
+57482;Freudenberger Straße;13;21;26;26;Rothemühle;013.1;;;149
+57482;Friedensstraße;1;21;2;40;Hünsborn;008.1;;;149
+57482;Friedhofweg;;;18;18;Schönau;012.1;;;149
+57482;Gartenfeldstraße;1;47;4;54;Wenden;002.1;;;149
+57482;Gartenstraße;1;17;2;18;Hünsborn;009.1;;;149
+57482;Geranienweg;3;3;2;16;Hünsborn;010.1;;;149
+57482;Gerlinger Weg;1;53;2;64;Hillmicke;007.1;;;149
+57482;Germanenstraße;1;5;4;6;Möllmicke;004.1;;;149
+57482;Gertmicke;3;13;2;16;Ottfingen;016.1;;;149
+57482;Geschwister-Scholl-Straße;5;41;4;32;Schönau;012.1;;;149
+57482;Giersberger Straße;3;11;2;10;Schönau;012.1;;;149
+57482;Ginsterweg;1;29;2;24;Möllmicke;004.1;;;149
+57482;Girkhausen;1;7;2;8;Girkhausen;011.1;;;149
+57482;Girkhausener Straße;1;15;2;2;Schönau;012.1;;;149
+57482;Golfweg;;;2;4;Dörnscheid;014.2;;;149
+57482;Graf-von-Stauffenberg-Str;1;13;2;16;Schönau;012.1;;;149
+57482;Grimmestraße;15;17;;;Wenden;003.1;;;149
+57482;Großmickestraße;1;35;4;36;Ottfingen;016.1;;;149
+57482;Grubengasse;;;2;4;Vahlberg;014.3;;;149
+57482;Grubenstraße;3;13;2;12;Hünsborn;008.1;;;149
+57482;Grüner Weg;1;5;4;8;Ottfingen;016.1;;;149
+57482;Grüner Winkel;3;13;6;12;Möllmicke;004.1;;;149
+57482;Grünes Tälchen;1;15;2;16;Möllmicke;004.1;;;149
+57482;Gutehoffnungsring;1;85;26;78;Vahlberg;014.3;;;149
+57482;Hallerbergstraße;9;35;2;36;Gerlingen;006.1;;;149
+57482;Hallöhweg;1;3;2;10;Wenden;002.1;;;149
+57482;Hammerstraße;1;19;12;18;Gerlingen;005.1;;;149
+57482;Hammerwerkstraße;1;1;2;6;Wendenerhütte;007.1;;;149
+57482;Hangstraße;1;7;2;6;Möllmicke;004.1;;;149
+57482;Hansaweg;5;7;2;4;Möllmicke;004.1;;;149
+57482;Hardter Weg;1;19;2;36;Wenden;001.1;;;149
+57482;Harkortweg;1;7;2;8;Rothemühle;013.1;;;149
+57482;Haselnußweg;1;5;2;4;Möllmicke;004.1;;;149
+57482;Hasenpfad;1;1;2;2;Wenden;001.1;;;149
+57482;Hauptstraße;11;29;2a;2a;Wenden;001.1;;;149
+57482;Hauptstraße;31;31;2;80;Wenden;002.1;;;149
+57482;Hauptstraße;33;81;;;Wenden;001.1;;;149
+57482;Hauptstraße;83;97;94;116;Wenden;003.1;;;149
+57482;Haus Kiefernhorst;1;1;;;Wenden;003.1;;;149
+57482;Heckenweg;1;5;2;8;Altenhof;011.1;;;149
+57482;Heerweg;1;9;2;10;Rothemühle;013.1;;;149
+57482;Heider Straße;7;13;2;16;Rothemühle;013.1;;;149
+57482;Heidestraße;9;25;2;26;Heid;013.2;;;149
+57482;Heimicke;1;5;;;Schönau;012.1;;;149
+57482;Heinrich-Lübke-Straße;5;21;14;18;Möllmicke;004.1;;;149
+57482;Hepperichstraße;1;61;2;64;Ottfingen;015.1;;;149
+57482;Herderstraße;7;21;10;18;Ottfingen;015.1;;;149
+57482;Hermannstraße;1;1;2;4;Brün;014.4;;;149
+57482;Hilgenstockstraße;3;29;4;34;Wenden;002.1;;;149
+57482;Hillmicker Straße;1;15;2;30;Gerlingen;005.1;;;149
+57482;Himmelfahrtsstraße;1;5;2;8;Altenhof;011.1;;;149
+57482;Himpernweg;1;15;2;6;Gerlingen;005.1;;;149
+57482;Hirtenstraße;1;13;4;6;Hünsborn;009.1;;;149
+57482;Hochofenstraße;1;3;2;4;Wendenerhütte;007.1;;;149
+57482;Hochstraße;1;35;4;42;Hünsborn;008.1;;;149
+57482;Hoffnung;1;3;2;4;Hoffnung;014.4;;;149
+57482;Hofstraße;1;3;2;14;Hünsborn;008.1;;;149
+57482;Hohe Bergstraße;3;3;6;8;Gerlingen;006.1;;;149
+57482;Hohen Stein Straße;1;3;2;12;Gerlingen;005.1;;;149
+57482;Hohen Vohr Straße;3;21;2;20;Elben;006.2;;;149
+57482;Hohler Weg;1;19;8;18;Ottfingen;015.1;;;149
+57482;Holunderweg;3;5;2;6;Möllmicke;004.1;;;149
+57482;Holzackerstraße;1;9;2;14;Ottfingen;016.1;;;149
+57482;Hubertusstraße;5;109;10;106;Ottfingen;015.1;;;149
+57482;Huppen;1;3;;;Huppen;014.5;;;149
+57482;Höhenweg;11;11;10;10;Möllmicke;004.1;;;149
+57482;Hünsborner Straße;3;75;22;100;Wenden;003.1;;;149
+57482;Hüttenbruchstraße;7;43;2;34;Altenhof;011.1;;;149
+57482;Hüttenstraße;;;2;6;Wendenerhütte;007.1;;;149
+57482;Im Buchwald;1;21;10;22;Hünsborn;009.1;;;149
+57482;Im Gässchen;3;3;4;6;Altenhof;011.1;;;149
+57482;Im Hain;5;5;2;8;Dörnscheid;014.2;;;149
+57482;Im Inken;1;11;2;4;Hillmicke;007.1;;;149
+57482;Im Löhhof;3;7;2;4;Ottfingen;015.1;;;149
+57482;Im Oberen Kamp;1;3;2;4;Schönau;012.1;;;149
+57482;Im Obstgarten;1;33;2;28;Wenden;002.1;;;149
+57482;Im Rüggenbruche;1;1;;;Gerlingen;005.1;;;149
+57482;Im Schulgarten;1;21;6;24;Ottfingen;016.1;;;149
+57482;Im Siepen;1;3;4;10;Elben;006.2;;;149
+57482;Im Streitfeld;1;19;2;14;Hünsborn;008.1;;;149
+57482;Im Unteren Kamp;1;3;2;6;Schönau;012.1;;;149
+57482;Im Winkel;1;3;2;6;Wenden;002.1;;;149
+57482;In den Gärten;3;3;2;6;Heid;013.2;;;149
+57482;In der Dalle;5;15;4;16;Schönau;012.1;;;149
+57482;In der Heide;7;39;4;46;Wenden;001.1;;;149
+57482;In der Königsmicke;3;9;2;6;Hünsborn;010.1;;;149
+57482;In der Nordhelle;5;43;2;44;Ottfingen;016.1;;;149
+57482;In der Sange;5;5;4;10;Wenden;003.1;;;149
+57482;In der Schlade;1;7;2;6;Hillmicke;007.1;;;149
+57482;In der Trift;5;23;2;24;Hillmicke;007.1;;;149
+57482;In der Wiemicke;1;3;;;Schönau;012.1;;;149
+57482;Industriestraße;1;1;;;Wendenerhütte;007.1;;;149
+57482;Jagdhaus;1;1;;;Schönau;012.1;;;149
+57482;Jahnstraße;5;13;14;14;Altenhof;011.1;;;149
+57482;Jakobiplatz;1;3;2;2;Römershagen;014.1;;;149
+57482;Jasminweg;1;5;2;8;Möllmicke;004.1;;;149
+57482;Johann-von-Bever-Straße;1;59;10;52;Heid;013.2;;;149
+57482;Johannesstraße;1;29;4;34;Ottfingen;016.1;;;149
+57482;Josefstraße;3;27;2;42;Hünsborn;010.1;;;149
+57482;Kaiserstraße;1;11;4;10;Gerlingen;005.1;;;149
+57482;Kampstraße;1;33;14;34;Wenden;002.1;;;149
+57482;Kapellenplatz;1;9;;;Ottfingen;016.1;;;149
+57482;Kardinal-Jaeger-Straße;21;21;2;24;Hünsborn;010.1;;;149
+57482;Karl-Arnold-Straße;1;19;2;12;Hünsborn;009.1;;;149
+57482;Kasimirs Feld;1;17;2;14;Wenden;002.1;;;149
+57482;Kaspar-Klein-Straße;1;17;6;12;Elben;006.2;;;149
+57482;Kastanienweg;1;3;4;8;Gerlingen;006.1;;;149
+57482;Katharinenweg;3;7;2;2;Ottfingen;015.1;;;149
+57482;Kettelerweg;5;25;4;26;Altenhof;011.1;;;149
+57482;Kiefernweg;5;27;2;26;Hünsborn;010.1;;;149
+57482;Kindergartenstraße;1;9;;;Hillmicke;007.1;;;149
+57482;Kirchhofstraße;9;41;8;14;Hillmicke;007.1;;;149
+57482;Kleiner Weg;3;7;4;8;Wenden;002.1;;;149
+57482;Klur's Weg;1;9;4;10;Schönau;012.1;;;149
+57482;Knoschenweg;3;5;;;Gerlingen;005.1;;;149
+57482;Koblenzer Straße;29;111;2;104;Gerlingen;005.1;;;149
+57482;Koppelweg;1;7;6;6;Hünsborn;009.1;;;149
+57482;Kortemicke;9;9;2;34;Altenhof;011.1;;;149
+57482;Kreuzbergstraße;13;19;14;18;Elben;006.2;;;149
+57482;Kreuztaler Straße;5;15;6;14;Gerlingen;005.1;;;149
+57482;Krewetstraße;1;19;;;Wenden;003.1;;;149
+57482;Krähenweg;3;37;2;36;Möllmicke;004.1;;;149
+57482;Kunibertusstraße;1;21;2;24;Hünsborn;009.1;;;149
+57482;Kölner Straße;7;25;2;10;Rothemühle;013.1;;;149
+57482;Kölner Straße;3;3;;;Rothemühle;014.3;;;149
+57482;Königsberger Straße;7;31;18;32;Rothemühle;013.1;;;149
+57482;Köttschen;1;7;2;8;Möllmicke;004.1;;;149
+57482;Lange Heide;31;31;2;40;Brün;014.4;;;149
+57482;Lehmhohlstraße;5;19;2;20;Wenden;003.1;;;149
+57482;Lerchenweg;1;23;2;14;Hillmicke;007.1;;;149
+57482;Letterhausstraße;1;9;2;4;Hünsborn;008.1;;;149
+57482;Liboristraße;3;3;;;Hünsborn;009.1;;;149
+57482;Limicker Weg;3;5;4;10;Hünsborn;009.1;;;149
+57482;Lingensiepenstraße;1;21;4;10;Gerlingen;006.1;;;149
+57482;Loddenkötterstraße;1;5;4;6;Altenhof;011.1;;;149
+57482;Ludwig-Erhard-Straße;;;6;6;Gerlingen;005.1;;;149
+57482;Luise-Hensel-Straße;5;9;2;8;Hünsborn;009.1;;;149
+57482;Löffelberg;1;1;2;6;Löffelberg;008.1;;;149
+57482;Magdalenenweg;1;27;2;26;Hünsborn;008.1;;;149
+57482;Malteserstraße;1;27;2;16;Hünsborn;009.1;;;149
+57482;Margaretenstraße;;;2;6;Möllmicke;004.1;;;149
+57482;Marienstraße;1;19;2;26;Altenhof;011.1;;;149
+57482;Matthiasstraße;3;35;2;64;Brün;014.4;;;149
+57482;Mauerstraße;3;41;2;44;Ottfingen;016.1;;;149
+57482;Meisenweg;;;4;6;Gerlingen;005.1;;;149
+57482;Mindener Straße;;;6;10;Brün;014.4;;;149
+57482;Mittelstraße;1;1;2;6;Hillmicke;007.1;;;149
+57482;Mühlenstraße;45;53;14;42;Wenden;001.1;;;149
+57482;Neue Straße;3;17;2;14;Schönau;012.1;;;149
+57482;Niederhofweg;1;15;2;16;Hünsborn;008.1;;;149
+57482;Niggemannstraße;13;13;2;10;Gerlingen;006.1;;;149
+57482;Nikolaus-Groß-Straße;1;13;2;10;Hünsborn;008.1;;;149
+57482;Nordring;;;2;2;Hünsborn;006.1;;;149
+57482;Nordring;1;59;4;52;Hünsborn;010.1;;;149
+57482;Nordstraße;1;17;2;26;Hillmicke;007.1;;;149
+57482;Obere Straße;1;5;2;6;Hillmicke;007.1;;;149
+57482;Obere Wiese;1;1;6;6;Ottfingen;015.1;;;149
+57482;Oberer Falkenweg;15;31;16;28;Wenden;001.1;;;149
+57482;Oberm Wäldchen;1;11;2;16;Altenhof;011.1;;;149
+57482;Ottfinger Straße;;;2;2;Rothemühle;013.1;;;149
+57482;Paffenschlade;1;1;4;22;Wenden;003.1;;;149
+57482;Panoramaweg;1;27;2;18;Gerlingen;006.1;;;149
+57482;Pater-Delp-Straße;1;9;2;12;Schönau;012.1;;;149
+57482;Peter-Arns-Straße;3;9;2;8;Hünsborn;009.1;;;149
+57482;Peter-Dassis-Ring;1;47;32;50;Wenden;001.1;;;149
+57482;Peter-Schlösser-Straße;1;13;4;8;Wenden;001.1;;;149
+57482;Pfarrer-August-Halbe-Weg;11;11;;;Ottfingen;015.1;;;149
+57482;Pfarrer-Beule-Straße;3;3;;;Hünsborn;010.1;;;149
+57482;Pirolweg;1;11;2;8;Wenden;001.1;;;149
+57482;Pirschweg;1;11;2;12;Dörnscheid;014.2;;;149
+57482;Platinweg;1;29;2;26;Wenden;001.1;;;149
+57482;Poststraße;55;71;12;82;Hillmicke;007.1;;;149
+57482;Prof.-Egon-Schneider-Weg;1;3;2;2;Gerlingen;005.1;;;149
+57482;Quellenstraße;1;17;2;18;Möllmicke;004.1;;;149
+57482;Querweg;1;9;6;10;Hillmicke;007.1;;;149
+57482;Raiffeisenstraße;7;23;2;40;Dörnscheid;014.2;;;149
+57482;Regina-Quast-Straße;1;25;4;18;Hünsborn;010.1;;;149
+57482;Reinerzer Straße;1;1;;;Rothemühle;013.1;;;149
+57482;Reiterweg;3;23;2;16;Hünsborn;008.1;;;149
+57482;Rheinauer Straße;17;19;;;Hünsborn;008.1;;;149
+57482;Ricksteinweg;1;41;2;34;Wenden;002.1;;;149
+57482;Ringstraße;1;5;2;20;Altenhof;011.1;;;149
+57482;Rinscheidstraße;1;31;2;12;Rothemühle;013.1;;;149
+57482;Ritter-von-Heid-Straße;3;19;2;10;Heid;013.2;;;149
+57482;Ritterstraße;1;17;2;18;Brün;014.4;;;149
+57482;Rosenstraße;1;9;4;10;Ottfingen;016.1;;;149
+57482;Rotbuchenweg;1;31;4;34;Heid;013.2;;;149
+57482;Rotdornweg;1;5;;;Rothemühle;013.1;;;149
+57482;Rundweg;5;15;2;8;Hillmicke;007.1;;;149
+57482;Römerstraße;3;29;10;26;Möllmicke;004.1;;;149
+57482;Sandstraße;19;31;18;30;Ottfingen;015.1;;;149
+57482;Sauerlandweg;;;10;10;Rothemühle;013.1;;;149
+57482;Schachtweg;1;3;8;8;Heid;013.2;;;149
+57482;Scheiderwald;1;5;2;4;Scheiderwald;006.2;;;149
+57482;Schildergasse;1;9;2;6;Altenhof;011.1;;;149
+57482;Schillerstraße;1;17;2;38;Altenhof;011.1;;;149
+57482;Schlader Weg;1;27;4;6;Schönau;012.1;;;149
+57482;Schlehdornweg;1;11;4;16;Möllmicke;004.1;;;149
+57482;Schmiedestraße;3;3;2;8;Wenden;003.1;;;149
+57482;Schubertstraße;11;65;2;60;Möllmicke;004.1;;;149
+57482;Schwalbenweg;1;23;2;20;Wenden;001.1;;;149
+57482;Schwarzbruch;1;3;2;2;Schwarzbruch;014.5;;;149
+57482;Schönauer Straße;31;31;18;20;Wenden;003.1;;;149
+57482;Schönauer Straße;7;11;;;Wenden;001.1;;;149
+57482;Schützenstraße;5;47;2;42;Hillmicke;007.1;;;149
+57482;Sebastianstraße;1;13;2;18;Hünsborn;010.1;;;149
+57482;Seilbahnstraße;;;2;4;Vahlberg;014.3;;;149
+57482;Severinusstraße;1;51;2;62;Wenden;003.1;;;149
+57482;Siedlungsweg;5;17;2;14;Altenhof;011.1;;;149
+57482;Siegener Straße;11;93;2;120;Hünsborn;008.1;;;149
+57482;Sonnenhof;1;1;;;Heid;013.2;;;149
+57482;Sonnenweg;1;11;;;Brün;014.4;;;149
+57482;Sperberweg;1;7;4;8;Wenden;001.1;;;149
+57482;Springerweg;1;11;2;14;Brün;014.4;;;149
+57482;St.-Antonius-Weg;3;3;;;Gerlingen;005.1;;;149
+57482;St.-Elisabeth-Straße;1;77;2;64;Schönau;012.1;;;149
+57482;St.-Elisabeth-Straße;79;97;80;82;Altenwenden;012.1;;;149
+57482;St.-Helenen-Straße;11;83;2;82;Elben;006.2;;;149
+57482;Stachstückstraße;1;47;2;58;Wenden;002.1;;;149
+57482;Steckebahn;15;45;4;14;Wenden;003.1;;;149
+57482;Steimelstraße;1;63;2;48;Hünsborn;010.1;;;149
+57482;Steinackerstraße;1;27;2;26;Gerlingen;006.1;;;149
+57482;Steinritsche;5;29;4;26;Altenhof;011.1;;;149
+57482;Steinweg;1;3;2;16;Altenhof;011.1;;;149
+57482;Stemmicker Weg;1;19;10;30;Wenden;003.1;;;149
+57482;Stollenweg;1;43;2;44;Hünsborn;010.1;;;149
+57482;Stuckstraße;1;1;2;6;Römershagen;014.1;;;149
+57482;Südring;3;57;2;48;Hünsborn;009.1;;;149
+57482;Talbrückenstraße;1;13;6;12;Gerlingen;005.1;;;149
+57482;Talstraße;9;39;4;50;Hünsborn;009.1;;;149
+57482;Tannenstraße;7;13;2;2;Schönau;012.1;;;149
+57482;Thieringhauser Straße;;;2;8;Elben;006.2;;;149
+57482;Thomasstraße;1;63;2;64;Ottfingen;016.1;;;149
+57482;Thunestraße;1;25;2;26;Wenden;003.1;;;149
+57482;Thuwieser Straße;1;13;6;16;Schönau;012.1;;;149
+57482;Torstraße;1;17;4;22;Hünsborn;010.1;;;149
+57482;Trömbach;1;5;2;6;Trömbach;013.2;;;149
+57482;Uferstraße;1;51;10;46;Möllmicke;004.1;;;149
+57482;Uhlandstraße;1;15;2;16;Hünsborn;010.1;;;149
+57482;Unter den Eichen;;;2;2;Hünsborn;010.1;;;149
+57482;Unter der Bahn;1;13;2;8;Wendenerhütte;007.1;;;149
+57482;Unterer Falkenweg;3;13;6;20;Wenden;001.1;;;149
+57482;Unterm Junkernberg;;;6;16;Möllmicke;004.1;;;149
+57482;Vogelsangweg;3;7;2;2;Wenden;001.1;;;149
+57482;Vogelweg;1;1;;;Römershagen;014.1;;;149
+57482;Von-Droste-Hülshoff-Str.;3;3;;;Ottfingen;016.1;;;149
+57482;Von-Galen-Straße;1;25;6;20;Ottfingen;015.1;;;149
+57482;Vorm Löh;1;15;4;16;Ottfingen;015.1;;;149
+57482;Waldschmiedestraße;3;3;2;4;Wendenerhütte;007.1;;;149
+57482;Wallfahrtsstraße;1;9;2;26;Hünsborn;010.1;;;149
+57482;Wallstraße;1;27;2;20;Hünsborn;009.1;;;149
+57482;Weideweg;1;5;4;8;Wenden;003.1;;;149
+57482;Weiherstraße;3;23;4;22;Hünsborn;009.1;;;149
+57482;Weinstraße;5;11;2;12;Ottfingen;015.1;;;149
+57482;Weißdornweg;5;7;2;8;Gerlingen;006.1;;;149
+57482;Wendebachstraße;1;9;4;8;Wenden;003.1;;;149
+57482;Wendener Straße;5;11;4;32;Hünsborn;008.1;;;149
+57482;Westerbergstraße;3;15;4;40;Wenden;003.1;;;149
+57482;Westfälische Straße;1;43;2;28;Hünsborn;009.1;;;149
+57482;Weststraße;1;7;;;Ottfingen;015.1;;;149
+57482;Wieringer Straße;1;9;2;6;Brün;014.4;;;149
+57482;Wiesengrundstraße;5;15;2;14;Gerlingen;005.1;;;149
+57482;Wiesenstraße;1;11;8;8;Hünsborn;008.1;;;149
+57482;Wildenburger Straße;;;2;24;Rothemühle;013.1;;;149
+57482;Wilhelm-Busch-Straße;1;25;2;24;Hünsborn;009.1;;;149
+57482;Wilhelm-Tell-Straße;5;47;4;50;Ottfingen;015.1;;;149
+57482;Windbuschstraße;1;3;2;2;Hünsborn;008.1;;;149
+57482;Windthorststraße;3;17;2;16;Hünsborn;008.1;;;149
+57482;Winzerweg;1;13;2;10;Altenhof;011.1;;;149
+57482;Wollensiepen;1;17;10;16;Möllmicke;004.1;;;149
+57482;Wolpernweg;1;11;2;4;Gerlingen;005.1;;;149
+57482;Wörmickestraße;1;9;;;Gerlingen;005.1;;;149
+57482;Ziegenweg;1;15;12;14;Möllmicke;004.1;;;149
+57482;Zollstraße;1;25;2;12;Römershagen;014.1;;;149
+57482;Zu den Kirchen;1;11;4;16;Rothemühle;013.1;;;149
+57482;Zum Altenberg;31;31;4;24;Elben;006.2;;;149
+57482;Zum Breckenhagen;1;5;8;8;Schönau;012.1;;;149
+57482;Zum Elberscheid;1;31;4;24;Elben;006.2;;;149
+57482;Zum Farnstück;1;1;2;2;Hillmicke;007.1;;;149
+57482;Zum Forsthaus;5;5;4;10;Wenden;003.1;;;149
+57482;Zum Goldenen Horn;1;15;2;12;Römershagen;014.1;;;149
+57482;Zum Harbel;3;15;2;6;Altenwenden;012.1;;;149
+57482;Zum Holtmicker Berge;1;5;;;Altenhof;011.1;;;149
+57482;Zum Höfchen;3;7;;;Elben;006.2;;;149
+57482;Zum Lindenplatz;1;5;6;6;Schönau;012.1;;;149
+57482;Zum Lindenseifen;1;13;10;10;Dörnscheid;014.2;;;149
+57482;Zum Nonnhof;1;7;2;2;Hillmicke;007.1;;;149
+57482;Zum Rübenkamp;1;11;2;6;Wenden;002.1;;;149
+57482;Zum Schauinsland;1;37;2;24;Schönau;012.1;;;149
+57482;Zum Schlüchtern;1;41;6;28;Schönau;012.1;;;149
+57482;Zum Schönauer Holz;1;11;2;14;Schönau;012.1;;;149
+57482;Zum Sonnenfeld;1;9;2;10;Hillmicke;007.1;;;149
+57482;Zum Sportplatz;1;3;;;Rothenborn;013.1;;;149
+57482;Zum Stollen;1;9;2;10;Altenhof;011.1;;;149
+57482;Zum Waldlehrpfad;1;7;4;18;Wenden;002.1;;;149
+57482;Zum alten Handelsweg;5;11;4;10;Rothemühle;013.1;;;149
+57482;Zum Öhlchen;1;1;;;Schönau;012.1;;;149
+57482;Zur Biggequelle;1;9;2;10;Römershagen;014.1;;;149
+57482;Zur Dipplinge;1;41;2;30;Wenden;003.1;;;149
+57482;Zur Jägereiche;1;17;4;6;Wenden;001.1;;;149
+57482;Zur Schermicke;5;29;4;44;Schönau;012.1;;;149
+57482;Zur Tiefen Wiese;3;15;6;14;Altenhof;011.1;;;149
+57482;Zur Wollwicke;3;11;4;4;Möllmicke;004.1;;;149
+57482;Über den Höfen;1;5;4;10;Elben;006.2;;;149

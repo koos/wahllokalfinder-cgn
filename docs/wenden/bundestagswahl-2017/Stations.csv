@@ -1,0 +1,23 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+001.1;Feuerwehrgerätehaus Wenden;Peter-Dassis-Ring;8;;;57482;Wenden;;N
+002.1;Rathaus, Zimmer 202;Hauptstr.;75;;;57482;Wenden;;J
+003.1;Rathaus, Zimmer 221;Hauptstraße;75;;;57482;Wenden;;J
+004.1;Dorfgemeinschaftshaus Möllmicke;Am Rehberg;1;;;57482;Wenden;;N
+005.1;Hotel Zum Landmann;Koblenzer Straße;38;;;57482;Wenden-Gerlingen;;N
+006.1;Hotel Zum Landmann;Koblenzer Straße;38;;;57482;Wenden-Gerlingen;;N
+006.2;Jugendheim Elben;St.-Helenen-Str.;19;;;57482;Wenden-Elben;;N
+007.1;Gasthof Valpertz;Rundweg;9;;;57482;Wenden-Hillmicke;;N
+008.1;Gasthof Zu den Dreikönigen;Dreikönigsstraße;11;;;57482;Wenden-Hünsborn;;N
+009.1;Gasthof Zu den Dreikönigen;Dreikönigsstraße;11;;;57482;Wenden-Hünsborn;;N
+010.1;Gasthof Zu den Dreikönigen;Dreikönigsstraße;11;;;57482;Wenden-Hünsborn;;N
+011.1;Bürgerbegegnungsstätte Altenhof;Don-Bosco-Str.;8;;;57482;Wenden-Altenhof;;J
+012.1;Janusz-Korczak-Schule;Geschw.-Scholl-Str.;34;;;57482;Wenden-Schönau;;N
+013.1;Grundschule Rothemühle;Rinscheidstr.;12;;;57482;Wenden;;J
+014.1;Pfarrheim Römershagen;Jakobiplatz;2;;;57482;Wenden-Römershagen;;N
+014.2;Tennis-Clubhaus;Raiffeisenstr;2A;;;57482;Wenden-Dörnscheid;;N
+014.4;Gasthof Halberstadt;Matthiasstr.;10;;;57482;Wenden;;J
+015.1;Grundschule Ottfingen;Von-Galen-Straße;12;;;57482;Wenden-Ottfingen;;N
+016.1;Grundschule Ottfingen;Von-Galen-Straße;12;;;57482;Wenden-Ottfingen;;N
+013.2;Dorfgemeinschaftshaus Heid;Heidestraße;12;;;57482;Wenden;;J
+014.5;Dorfgemeinschaftshaus Bebbingen;Bebbingen;4;;;57482;Wenden;;J
+014.3;Haus Elisabeth - Seniorenzentrum;Kölner Straße;3;;;57482;Wenden;;J
