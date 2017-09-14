@@ -1,0 +1,15 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+0011;Turnhalle Struthütten;Schulweg;10;;;57290;Neunkirchen;;J
+0021;Grundschule Struthütten;Schulweg;10;;;57290;Neunkirchen;;J
+0061;Grundschule Neunkirchen;Kölner Straße;221;;;57290;Neunkirchen;;J
+0091;Grundschule Kramberg;Gähneweg;3;;;57290;Neunkirchen;;J
+0101;Feuerwehr Salchendorf;Kölner Straße;333;;;57290;Neunkirchen;;J
+0111;Kopernikusschule;Am Porzhain;25;;;57290;Neunkirchen;;N
+0131;Dorfgemeinschaftshaus Zeppenfeld;Am Wallgraben;6;;;57290;Neunkirchen;;J
+0141;Dorfgemeinschaftshaus Wiederstein;Mischenbachstraße;11;;;57290;Neunkirchen;;J
+0041;Haus Toni Weber;Breitelbachstraße;20;;;57290;Neunkirchen;;J
+0081;Haus Henrichs;Hindenburgplatz;1;;;57290;Neunkirchen;;J
+0121;Feuerwehr Zeppenfeld;Am Wallgraben;1;;;57290;Neunkirchen;;J
+0051;Rathaus Neunkirchen (Raum 103);Bahnhofstraße;3;;;57290;Neunkirchen;;J
+0071;Rathaus Neunkirchen (Raum 105);Bahnhofstraße;3;;;57290;Neunkirchen;;J
+0031;DRK-Zentrum Daadenbach;Untere Daadenbach;5;;;57290;Neunkirchen;;J
