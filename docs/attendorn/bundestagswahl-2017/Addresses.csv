@@ -1,0 +1,452 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+57439;Agathastraße;3;3;4;16;Dünschede;18.1;;;149
+57439;Albert-Kemmerich-Straße;1;1;;;Attendorn;08.1;;;149
+57439;Alfred-Schnüttgen-Straße;17;29;14;22;Biekhofen;05.1;;;149
+57439;Alte Dorfstraße;1;73;2;78;Lichtringhausen;15.1;;;149
+57439;Alte Handelsstraße;1;19;2;18;Neu-Listernohl;12.1;;;149
+57439;Alte Handelsstraße;25;51;24;58;Petersburg;13.1;;;149
+57439;Alter Markt;3;3;2;6;Attendorn;02.1;;;149
+57439;Alter Schulplatz;1;5;2;6;Petersburg;13.1;;;149
+57439;Alter Weg;1;5;4;10;Albringhausen;13.1;;;149
+57439;Am Ahorn;1;19;2;18;Neu-Listernohl;12.1;;;149
+57439;Am Baukhan;1;39;14;30;Neuenhof;15.1;;;149
+57439;Am Berndebach;5;69;2;68;Neuenhof;15.1;;;149
+57439;Am Daßte;3;29;2;26;Lichtringhausen;15.1;;;149
+57439;Am Dümpel;;;4;6;Windhausen;14.1;;;149
+57439;Am Dünneckenberg;1;1;2;14;Attendorn;02.1;;;149
+57439;Am Eckenbach;27;35;;;Attendorn;01.1;;;149
+57439;Am Friedhof;1;7;;;Attendorn;03.1;;;149
+57439;Am Gerbergraben;19;19;2;12;Attendorn;02.1;;;149
+57439;Am Glockenberg;1;25;2;12;Attendorn;08.1;;;149
+57439;Am Gäßchen;7;9;2;6;Helden;19.1;;;149
+57439;Am Hahnbeul;1;33;2;14;Attendorn;06.1;;;149
+57439;Am Hasel;1;7;2;10;Holzweg;16.1;;;149
+57439;Am Hellepädchen;1;121;8;80;Attendorn;06.1;;;149
+57439;Am Hettmecker Teich;1;15;2;18;Attendorn;05.1;;;149
+57439;Am Himmelsberg;1;57;2;58;Attendorn;08.1;;;149
+57439;Am Hollenloch;5;69;6;78;Attendorn;07.1;;;149
+57439;Am Kirchplatz;1;9;2;10;Attendorn;01.1;;;149
+57439;Am Kleinen Graben;5;35;6;6;Attendorn;08.1;;;149
+57439;Am Knapp;5;21;2;24;Helden;19.1;;;149
+57439;Am Krähenberg;1;15;2;14;Petersburg;13.1;;;149
+57439;Am Mooskamp;1;9;2;10;Attendorn;02.1;;;149
+57439;Am Musebieter;1;47;4;52;Attendorn;03.1;;;149
+57439;Am Noacken;1;23;2;24;Attendorn;05.1;;;149
+57439;Am Rappelsberg;1;45;2;36;Attendorn;02.1;;;149
+57439;Am Remmenstein;1;43;4;56;Attendorn;03.1;;;149
+57439;Am Repscheid;1;15;;;Helden;19.1;;;149
+57439;Am Riedesel;1;11;4;10;Attendorn;01.1;;;149
+57439;Am Ritterlöh;1;5;2;6;Ennest;16.1;;;149
+57439;Am Seewerngraben;;;6;12;Attendorn;01.1;;;149
+57439;Am Spindelsburggraben;1;27;18;20;Attendorn;01.1;;;149
+57439;Am Stappenweg;1;11;4;8;Attendorn;03.1;;;149
+57439;Am Stege;7;11;8;16;Attendorn;05.1;;;149
+57439;Am Stürzenberg;7;13;2;14;Attendorn;08.1;;;149
+57439;Am Südhang;1;9;2;8;Neu-Listernohl;12.1;;;149
+57439;Am Sündersweg;1;7;2;14;Attendorn;02.1;;;149
+57439;Am Tannenberg;;;2;20;St. Claas;18.1;;;149
+57439;Am Wassertor;1;1;;;Attendorn;02.1;;;149
+57439;Am Waterland;1;1;;;Rauterkusen;16.1;;;149
+57439;Am Zollstock;;;6;48;Attendorn;02.1;;;149
+57439;Am Zweiling;1;11;2;20;Ennest;17.1;;;149
+57439;Amselstraße;1;9;;;Attendorn;11.1;;;149
+57439;Amselweg;1;5;2;6;Neu-Listernohl;12.1;;;149
+57439;An der Brake;;;2;10;Beukenbeul;13.1;;;149
+57439;An der Pulvermühle;7;7;4;20;Attendorn;06.1;;;149
+57439;Antoniusstraße;3;43;2;38;Windhausen;14.1;;;149
+57439;Apfelhof;1;1;2;8;Attendorn;02.1;;;149
+57439;Askay;;;44;44;Ennest;17.1;;;149
+57439;Attahügel;;;8;18;Attendorn;02.1;;;149
+57439;Attendorner Straße;1;27;2;34;Ennest;17.1;;;149
+57439;Auf dem Arnsbeul;1;35;4;34;Attendorn;02.1;;;149
+57439;Auf dem Brink;1;33;4;18;Helden;19.1;;;149
+57439;Auf dem Schilde;1;11;8;10;Attendorn;09.1;;;149
+57439;Auf dem Wolfsstein;5;9;2;16;Attendorn;03.1;;;149
+57439;Auf den Gärten;1;5;4;14;Dünschede;18.1;;;149
+57439;Auf den Kämpen;9;19;2;16;Attendorn;08.1;;;149
+57439;Auf den Peulen;3;59;4;70;Attendorn;03.1;;;149
+57439;Auf der Ennert;1;19;2;32;Ennest;16.1;;;149
+57439;Auf der Feldkirmes;3;21;4;18;Attendorn;01.1;;;149
+57439;Auf der Lake;1;9;8;12;Biekhofen;05.1;;;149
+57439;Auf der Mauer;;;4;4;Niederhelden;04.1;;;149
+57439;Auf der Rhöte;;;2;18;Dünschede;18.1;;;149
+57439;Auf der Tränke;3;15;14;14;Attendorn;01.1;;;149
+57439;Auf'm Melm;1;11;10;20;Helden;19.1;;;149
+57439;Augustinusplatz;1;11;2;10;Neu-Listernohl;12.1;;;149
+57439;Bachschwinde;3;3;16;20;Biekhofen;05.1;;;149
+57439;Bachschwinde;21;21;6;6;Attendorn;03.1;;;149
+57439;Bachschwinde;;;22;26;Attendorn;03.1;;;149
+57439;Bahnhofstraße;3;7;4;10;Attendorn;02.1;;;149
+57439;Bahnstraße;;;14;22;Kraghammer;13.1;;;149
+57439;Bausenberg;;;12;12;Merklinghausen;13.1;;;149
+57439;Bauzunftstraße;3;11;4;12;Attendorn;11.1;;;149
+57439;Benzstraße;;;14;14;Ennest;17.1;;;149
+57439;Bergkuhle;13;25;6;16;Ennest;17.1;;;149
+57439;Bergstraße;1;31;2;24;Attendorn;03.1;;;149
+57439;Berliner Straße;1;25;2;30;Neu-Listernohl;12.1;;;149
+57439;Berlinghausen;;;10;14;Berlinghausen;04.1;;;149
+57439;Bieke;1;11;2;12;Lichtringhausen;15.1;;;149
+57439;Biekegang;13;15;4;4;Ennest;17.1;;;149
+57439;Bieketurmstraße;9;9;2;2;Attendorn;01.1;;;149
+57439;Biekhofer Straße;1;21;2;20;Attendorn;05.1;;;149
+57439;Biekhofer Straße;23;53;22;60;Biekhofen;05.1;;;149
+57439;Biggeseestraße;9;9;2;4;Repe;04.1;;;149
+57439;Biggeweg;1;7;;;Ewig;12.1;;;149
+57439;Bilsteiner Weg;3;5;8;8;Mecklinghausen;04.1;;;149
+57439;Birkenfeld;1;29;4;28;Neu-Listernohl;12.1;;;149
+57439;Birkenweg;1;7;2;8;Ennest;17.1;;;149
+57439;Birkeshardt;1;29;12;16;Petersburg;13.1;;;149
+57439;Blumenweg;;;4;4;Petersburg;13.1;;;149
+57439;Bornweg;1;15;6;14;Windhausen;14.1;;;149
+57439;Breite Straße;1;13;2;26;Attendorn;01.1;;;149
+57439;Breite Techt;1;17;10;14;Attendorn;01.1;;;149
+57439;Breiter Hagen;3;41;4;40;Röllecken;10.1;;;149
+57439;Bremge/Biggesee;25;25;12;32;Bremge/Biggesee;12.1;;;149
+57439;Bremger Weg;15;95;2;114;Attendorn;06.1;;;149
+57439;Breslauer Straße;1;61;2;40;Attendorn;09.1;;;149
+57439;Briloner Straße;1;7;2;16;Attendorn;11.1;;;149
+57439;Bruchstraße;1;9;4;8;Ennest;17.1;;;149
+57439;Brunabendstraße;1;3;2;8;Attendorn;02.1;;;149
+57439;Brunnengasse;3;5;;;Attendorn;08.1;;;149
+57439;Brückenweg;3;3;8;8;Biggen;02.1;;;149
+57439;Buchhagen;;;4;12;Repe;04.1;;;149
+57439;Bäckerstraße;9;9;2;4;Attendorn;11.1;;;149
+57439;Dahlhausen;1;1;2;2;Dahlhausen;14.1;;;149
+57439;Dammweg;1;9;4;6;Neu-Listernohl;12.1;;;149
+57439;Danziger Straße;1;33;2;44;Attendorn;11.1;;;149
+57439;Daseberg;1;5;8;26;Biekhofen;05.1;;;149
+57439;Dechant-Schulte-Straße;3;9;2;18;Dünschede;18.1;;;149
+57439;Dieselstraße;;;2;2;Ennest;17.1;;;149
+57439;Donnerwenge;19;19;;;Attendorn;09.1;;;149
+57439;Dorfstraße;5;61;2;32;Helden;19.1;;;149
+57439;Dortmunder Straße;1;53;4;28;Attendorn;09.1;;;149
+57439;Drift;1;9;8;10;Niederhelden;04.1;;;149
+57439;Drinker Schlaa;1;1;2;2;Helden;19.1;;;149
+57439;Drosselweg;1;3;2;4;Neu-Listernohl;12.1;;;149
+57439;Dusenschuren;1;13;2;2;Dünschede;18.1;;;149
+57439;Dünscheder Straße;3;13;8;8;Niederhelden;04.1;;;149
+57439;Ebbe (Forsthaus);1;1;;;Ebbe (Forsthaus);15.1;;;149
+57439;Ebbelinghagen;21;37;12;30;Ebbelinghagen;15.1;;;149
+57439;Ebbeweg;7;21;2;10;Albringhausen;13.1;;;149
+57439;Eiche;5;27;6;6;Albringhausen;13.1;;;149
+57439;Eichendorffstraße;3;11;2;12;Attendorn;05.1;;;149
+57439;Else-Tump-Weg;9;9;6;10;Biekhofen;05.1;;;149
+57439;Engelbertstraße;1;33;2;46;Attendorn;01.1;;;149
+57439;Ennester Straße;1;21;4;26;Attendorn;08.1;;;149
+57439;Ennester Weg;1;23;2;2;Attendorn;08.1;;;149
+57439;Ensenhohl;;;4;6;Ennest;16.1;;;149
+57439;Enzianstraße;1;7;2;12;Attendorn;06.1;;;149
+57439;Erlenstraße;11;11;8;12;Merklinghausen;13.1;;;149
+57439;Erlenstraße;17;31;14;20;Erlen;13.1;;;149
+57439;Erlenstraße;91;99;86;90;Wamge;13.1;;;149
+57439;Ernteweg;7;23;6;20;Weschede;13.1;;;149
+57439;Eschenweg;3;5;4;4;Niederhelden;04.1;;;149
+57439;Ewiger Straße;1;5;2;10;Neu-Listernohl;12.1;;;149
+57439;Falschede;1;53;54;54;Beukenbeul;13.1;;;149
+57439;Fernholte;1;1;;;Fernholte;13.1;;;149
+57439;Fichtenhang;3;13;;;Borghausen;10.1;;;149
+57439;Fichtenweg;1;13;2;18;Ennest;17.1;;;149
+57439;Finkenstraße;1;19;2;20;Attendorn;11.1;;;149
+57439;Finkenweg;;;2;2;Neu-Listernohl;12.1;;;149
+57439;Finnentroper Straße;1;39;2;48;Attendorn;02.1;;;149
+57439;Finnentroper Straße;91;191;82;130;Biggen;02.1;;;149
+57439;Fleischhauerstraße;1;5;4;6;Attendorn;11.1;;;149
+57439;Flensburger Straße;1;13;2;12;Attendorn;11.1;;;149
+57439;Franz-Rinscheid-Straße;1;75;2;76;Neu-Listernohl;12.1;;;149
+57439;Franziskanergarten;5;9;;;Attendorn;03.1;;;149
+57439;Freithoffstraße;1;9;2;10;Attendorn;02.1;;;149
+57439;Friedensstraße;27;27;32;72;Attendorn;06.1;;;149
+57439;Fuchsring;1;19;2;20;Neu-Listernohl;12.1;;;149
+57439;Färberstraße;1;33;2;20;Attendorn;08.1;;;149
+57439;Förder Weg;1;13;6;40;Röllecken;10.1;;;149
+57439;Fürstmickestraße;1;19;2;18;Attendorn;05.1;;;149
+57439;Gartenstraße;3;5;4;4;Attendorn;01.1;;;149
+57439;Gartenweg;1;7;2;6;Ennest;17.1;;;149
+57439;Gerhard-Stern-Straße;1;5;2;14;Attendorn;03.1;;;149
+57439;Gerhart-Hauptmann-Straße;1;13;2;10;Attendorn;05.1;;;149
+57439;Goethestraße;1;9;2;10;Neu-Listernohl;12.1;;;149
+57439;Goldammerstraße;3;17;2;16;Attendorn;11.1;;;149
+57439;Grafweg;1;59;2;50;Attendorn;08.1;;;149
+57439;Grüner Weg;1;23;4;30;Attendorn;05.1;;;149
+57439;Gutsweg;31;43;14;44;Ewig;12.1;;;149
+57439;Hahnbeuler Kreuz;35;65;2;60;Attendorn;06.1;;;149
+57439;Halbfaßweg;;;8;10;Ennest;17.1;;;149
+57439;Hamerland;1;23;4;14;Röllecken;10.1;;;149
+57439;Hansastraße;7;23;2;16;Attendorn;01.1;;;149
+57439;Haselweg;1;9;2;12;Holzweg;16.1;;;149
+57439;Hebberg;11;19;12;24;Hebberg;15.1;;;149
+57439;Hebberger Straße;1;5;6;6;Neuenhof;15.1;;;149
+57439;Heggener Straße;31;51;20;48;Dünschede;18.1;;;149
+57439;Heggener Straße;3;9;;;St. Claas;18.1;;;149
+57439;Heggener Weg;3;33;2;24;Attendorn;09.1;;;149
+57439;Heidenstraße;1;47;2;32;Dünschede;18.1;;;149
+57439;Heideweg;5;5;6;20;Silbecke;18.1;;;149
+57439;Heinrich-Kaiser-Straße;1;19;2;30;Ennest;16.1;;;149
+57439;Heldener Straße;3;59;2;52;Attendorn;02.1;;;149
+57439;Helle;1;5;4;8;Windhausen;14.1;;;149
+57439;Helle Bieke;5;13;2;16;Helden;19.1;;;149
+57439;Helle Schlah;17;17;6;12;Lichtringhausen;15.1;;;149
+57439;Herforder Straße;1;21;;;Attendorn;09.1;;;149
+57439;Hermann-Forck-Straße;3;17;2;18;Attendorn;03.1;;;149
+57439;Himberg;1;3;2;10;Biekhofen;05.1;;;149
+57439;Himrichweg;3;13;4;18;Biekhofen;05.1;;;149
+57439;Hofestatt;1;15;4;14;Attendorn;02.1;;;149
+57439;Hofkühl;11;25;;;Hofkühl;04.1;;;149
+57439;Hofstraße;1;13;2;14;Ennest;16.1;;;149
+57439;Hohen Hagen;9;9;;;Hohen Hagen;12.1;;;149
+57439;Hohler Weg;1;77;2;76;Attendorn;03.1;;;149
+57439;Hollenfeld;3;11;4;4;Attendorn;07.1;;;149
+57439;Holunderweg;1;15;2;16;Ennest;16.1;;;149
+57439;Holzweger Kamp;3;3;8;8;Holzweg;16.1;;;149
+57439;Holzweger Straße;31;57;30;60;Holzweg;16.1;;;149
+57439;Holzweger Straße;1;25;4;28;Ennest;16.1;;;149
+57439;Hubertusstraße;1;33;2;24;Biekhofen;05.1;;;149
+57439;Huhlenmarkt;;;2;4;Attendorn;02.1;;;149
+57439;Hunnebrink;21;41;16;20;Neuenhof;15.1;;;149
+57439;Hunnebrink;7;15;;;Lichtringhausen;15.1;;;149
+57439;Höhenstraße;141;165;160;164;Weltringhausen;15.1;;;149
+57439;Höhenstraße;1;117;4;122;Windhausen;14.1;;;149
+57439;Hügelweg;3;9;2;2;St. Claas;18.1;;;149
+57439;Hülschotter Straße;;;2;2;Milstenau;16.1;;;149
+57439;Hülschotter Straße;3;37;6;40;Ennest;16.1;;;149
+57439;Hülschotter Straße;51;59;80;80;Milstenau;16.1;;;149
+57439;Ihnestraße;1;1;;;Nierhof;13.1;;;149
+57439;Ihnestraße;7;11;2;36;Kraghammer;13.1;;;149
+57439;Ihnestraße;;;52;56;Petersburg;13.1;;;149
+57439;Ihnestraße;71;75;;;Merklinghausen;13.1;;;149
+57439;Ihnestraße;79;109;100;110;Papiermühle;13.1;;;149
+57439;Ihnestraße;133;133;;;Listerscheid;13.1;;;149
+57439;Ihnestraße;135;135;;;Attendorn;13.1;;;149
+57439;Ihnestraße;137;163;140;164;Listerscheid;13.1;;;149
+57439;Ihnestraße;;;180;182;Nierhof;13.1;;;149                                                        
+57439;Ihnestraße;191;191;;;Albringhausen;13.1;;;149
+57439;Im Grund;5;17;;;Albringhausen;13.1;;;149
+57439;Im Hain;3;7;4;4;Windhausen;14.1;;;149
+57439;Im Hof;3;7;;;Lichtringhausen;15.1;;;149
+57439;Im Hohl;1;1;;;Attendorn;01.1;;;149
+57439;Im Kamp;1;11;6;6;Lichtringhausen;15.1;;;149
+57439;Im Kreggenborn;1;1;;;Ennest;16.1;;;149
+57439;Im Sackhof;3;11;6;6;Attendorn;02.1;;;149
+57439;Im Schade;;;2;2;Repe;04.1;;;149
+57439;Im Schwalbenohl;5;43;2;30;Attendorn;09.1;;;149
+57439;Im Siepen;5;5;2;16;Eichen;12.1;;;149
+57439;Im Sonnenhohl;1;7;2;22;Neuenhof;15.1;;;149
+57439;Im Tal;1;9;2;8;Nuttmecke;15.1;;;149
+57439;Im Tangel;1;3;;;Attendorn;02.1;;;149
+57439;Im Weingarten;15;35;14;48;Dünschede;18.1;;;149
+57439;Im Weingarten;;35;4;48;St. Claas;18.1;;;149
+57439;In der Bache;3;7;;;Mecklinghausen;04.1;;;149
+57439;In der Nette;1;1;4;4;Attendorn;02.1;;;149
+57439;In der Schlade;5;5;;;Röllecken;10.1;;;149
+57439;In der Stesse;1;1;4;18;Attendorn;01.1;;;149
+57439;In der Waldemei;1;17;2;20;Attendorn;08.1;;;149
+57439;In der Wörde;11;37;10;34;St. Claas;18.1;;;149
+57439;Jakobusstraße;3;13;4;6;Dünschede;18.1;;;149
+57439;Johann-Metz-Straße;1;7;2;6;Attendorn;02.1;;;149
+57439;Johannes-Schulte-Straße;1;17;2;16;Attendorn;03.1;;;149
+57439;Johannes-Thomä-Straße;1;19;2;18;Attendorn;03.1;;;149
+57439;Julius-Pickert-Straße;19;31;22;38;Attendorn;05.1;;;149
+57439;Jäckelchen;3;3;4;6;Jäckelchen;04.1;;;149
+57439;Kampstraße;3;71;2;66;Attendorn;03.1;;;149
+57439;Kapellenweg;1;3;;;Niederhelden;04.1;;;149
+57439;Kehlberg;5;47;4;42;Attendorn;01.1;;;149
+57439;Kerstein;1;5;2;20;Niederhelden;04.1;;;149
+57439;Keuperkusen;3;3;4;14;Keuperkusen;14.1;;;149
+57439;Kirchstraße;1;15;4;18;Dünschede;18.1;;;149
+57439;Kleine Kampstraße;1;5;2;12;Attendorn;03.1;;;149
+57439;Kleiner Markt;1;1;2;2;Attendorn;01.1;;;149
+57439;Klippe;1;15;4;14;Röllecken;10.1;;;149
+57439;Klosterplatz;1;5;2;4;Attendorn;01.1;;;149
+57439;Kluser Weg;1;17;2;12;Attendorn;02.1;;;149
+57439;Kolpingweg;1;1;;;Neu-Listernohl;12.1;;;149
+57439;Korbacher Straße;1;5;2;6;Attendorn;11.1;;;149
+57439;Krähenbergstraße;3;39;6;38;Petersburg;13.1;;;149
+57439;Kämpchen;1;1;4;16;Windhausen;14.1;;;149
+57439;Kölner Straße;1;123;6;92;Attendorn;01.1;;;149
+57439;Königsberger Straße;1;7;2;26;Attendorn;11.1;;;149
+57439;Köppelchen;1;17;2;18;Röllecken;10.1;;;149
+57439;Kösters Siepen;;;2;6;Attendorn;06.1;;;149
+57439;Lamfertweg;1;15;4;6;Ennest;17.1;;;149
+57439;Laufhahn;;;4;10;Windhausen;14.1;;;149
+57439;Lerchenstraße;1;13;2;18;Attendorn;11.1;;;149
+57439;Lindenhardt;3;3;4;4;Repe;04.1;;;149
+57439;Lindenstraße;5;9;6;12;Silbecke;18.1;;;149
+57439;Lindenweg;1;5;2;10;Ennest;17.1;;;149
+57439;Listertalstraße;;;4;30;Weuste;12.1;;;149
+57439;Listertalstraße;41;41;;;Listertalsperre;12.1;;;149
+57439;Listertalstraße;63;73;70;90;Eichen;12.1;;;149
+57439;Lübecker Straße;1;9;2;10;Attendorn;09.1;;;149
+57439;Lüneburger Straße;7;15;2;10;Attendorn;09.1;;;149
+57439;Magdeburger Straße;1;57;2;26;Attendorn;09.1;;;149
+57439;Mainzer Straße;3;51;6;80;Attendorn;07.1;;;149
+57439;Markweg;1;7;;;Rieflinghausen;04.1;;;149
+57439;Martinusstraße;1;27;2;44;Dünschede;18.1;;;149
+57439;Mattmecke;1;9;8;10;Petersburg;13.1;;;149
+57439;Mecklinghauser Straße;1;19;2;34;Helden;19.1;;;149
+57439;Meisenstraße;1;31;2;40;Attendorn;11.1;;;149
+57439;Milstenau;5;47;12;60;Milstenau;17.1;;;149
+57439;Milstenauer Straße;1;35;6;26;Ennest;17.1;;;149
+57439;Mindener Straße;1;21;4;16;Attendorn;09.1;;;149
+57439;Mohnfeld;7;27;8;16;Neu-Listernohl;12.1;;;149
+57439;Mozartstraße;3;11;6;8;Ennest;16.1;;;149
+57439;Mühlengraben;17;17;6;6;Attendorn;02.1;;;149
+57439;Mühlenschlader Straße;1;21;4;22;Ennest;17.1;;;149
+57439;Mühlenweg;1;45;4;46;Biekhofen;05.1;;;149
+57439;Mühlhardt;1;35;2;34;Attendorn;06.1;;;149
+57439;Mühlhardt;37;77;44;86;Holzweg;16.1;;;149
+57439;Münchener Straße;3;137;2;98;Attendorn;07.1;;;149
+57439;Neue Straße;3;15;4;8;Ennest;17.1;;;149
+57439;Niederste Straße;3;23;2;32;Attendorn;08.1;;;149
+57439;Nordwall;1;23;2;40;Attendorn;08.1;;;149
+57439;Notburgaplatz;1;7;2;4;Helden;19.1;;;149
+57439;Oberbremge;1;1;;;Bremge b. Ennest;16.1;;;149
+57439;Oberdorf;3;3;2;12;Bürberg;12.1;;;149
+57439;Oberer Kehlberg;5;31;4;22;Attendorn;01.1;;;149
+57439;Obergarten;;;12;22;Wörmge;12.1;;;149
+57439;Oberstraße;3;21;2;20;Listerscheid;13.1;;;149
+57439;Osemundweg;7;7;;;Attendorn;06.1;;;149
+57439;Osnabrücker Straße;3;17;;;Attendorn;09.1;;;149
+57439;Osterfeuerweg;23;23;2;20;Ennest;16.1;;;149
+57439;Osterschlah;7;29;2;20;Ennest;17.1;;;149
+57439;Ostwall;91;101;88;104;Attendorn;02.1;;;149
+57439;Pater-Kilian-Weg;;;2;22;Attendorn;01.1;;;149
+57439;Pettmecke;1;79;4;100;Beukenbeul;13.1;;;149
+57439;Pfarrweg;5;5;4;4;Neu-Listernohl;12.1;;;149
+57439;Plaßmannshof;3;31;18;32;Attendorn;06.1;;;149
+57439;Plettenberger Straße;11;27;;;Keseberg;14.1;;;149
+57439;Plettenberger Straße;61;65;52;76;Windhausen;14.1;;;149
+57439;Plettenberger Straße;111;143;130;142;Lichtringhausen;15.1;;;149
+57439;Plettenberger Straße;161;169;156;166;Neuenhof;15.1;;;149
+57439;Poststraße;1;1;2;8;Ennest;16.1;;;149
+57439;Quellenweg;5;13;8;16;Ennest;16.1;;;149
+57439;Rapsweg;3;5;2;10;Neu-Listernohl;12.1;;;149
+57439;Rauterkusen;9;11;12;26;Rauterkusen;16.1;;;149
+57439;Rautersbeul;1;1;;;Rautersbeul;05.1;;;149
+57439;Relekes Weg;3;15;2;12;Biekhofen;05.1;;;149
+57439;Rennofenweg;1;7;4;10;Attendorn;06.1;;;149
+57439;Reper Höhe;5;17;4;14;Repe;04.1;;;149
+57439;Reper Weg;1;5;2;10;Attendorn;02.1;;;149
+57439;Repetalstraße;11;27;10;20;Rieflinghausen;04.1;;;149
+57439;Repetalstraße;67;77;58;76;Repe;04.1;;;149
+57439;Repetalstraße;121;213;132;212;Helden;19.1;;;149
+57439;Repetalstraße;219;285;222;266;Niederhelden;04.1;;;149
+57439;Repetalstraße;311;329;328;330;St. Claas;18.1;;;149
+57439;Repetalstraße;331;375;334;346;Röllecken;10.1;;;149
+57439;Repetalstraße;411;437;412;412;Borghausen;10.1;;;149
+57439;Rieflinghauser Weg;1;19;2;12;Mecklinghausen;04.1;;;149
+57439;Ritterlöhstraße;3;17;16;118;Ennest;16.1;;;149
+57439;Riviusstraße;1;13;2;14;Attendorn;01.1;;;149
+57439;Roscheid;11;19;12;22;Roscheid;15.1;;;149
+57439;Rosenhof;1;3;2;4;Attendorn;03.1;;;149
+57439;Rosenweg;1;9;4;6;Ennest;17.1;;;149
+57439;Rostocker Straße;1;23;4;26;Attendorn;11.1;;;149
+57439;Rotdornweg;1;11;6;10;Ennest;16.1;;;149
+57439;Ruhland;1;1;;;Ennest;16.1;;;149
+57439;Röntgenstraße;;;8;32;Ennest;17.1;;;149
+57439;Saarbrücker Straße;13;67;2;28;Attendorn;07.1;;;149
+57439;Sassestraße;1;29;2;20;Attendorn;02.1;;;149
+57439;Schallhollenloch;3;39;6;42;Attendorn;07.1;;;149
+57439;Schemperstraße;3;27;8;20;Attendorn;08.1;;;149
+57439;Schillerstraße;1;9;2;16;Neu-Listernohl;12.1;;;149
+57439;Schladeweg;1;7;2;2;Helden;19.1;;;149
+57439;Schlegge;1;11;4;10;Windhausen;14.1;;;149
+57439;Schmiedestraße;3;45;8;46;Attendorn;11.1;;;149
+57439;Schmittenwiese;1;21;2;18;Helden;19.1;;;149
+57439;Schneiderstraße;7;9;2;8;Attendorn;11.1;;;149
+57439;Schnellenberg;1;1;;;Schnellenberg;02.1;;;149
+57439;Schnellenberger Weg;;;10;38;Attendorn;02.1;;;149
+57439;Schrödershof;1;3;;;St. Claas;18.1;;;149
+57439;Schubertstraße;1;9;2;12;Ennest;16.1;;;149
+57439;Schuhmacherstraße;1;5;4;20;Attendorn;11.1;;;149
+57439;Schulstraße;1;33;4;16;Helden;19.1;;;149
+57439;Schulweg;;;2;2;Neu-Listernohl;12.1;;;149
+57439;Schwarze Aue;3;9;2;12;Petersburg;13.1;;;149
+57439;Schwedengraben;1;11;2;12;Attendorn;02.1;;;149
+57439;Schweriner Straße;;;20;20;Attendorn;11.1;;;149
+57439;Schüldernhof;3;3;2;8;Attendorn;01.1;;;149
+57439;Schützenstraße;1;17;2;12;Neu-Listernohl;12.1;;;149
+57439;Sebastianstraße;1;17;6;28;Helden;19.1;;;149
+57439;Seenstraße;1;1;2;8;Listerscheid;13.1;;;149
+57439;Seenstraße;15;73;14;64;Wamge;13.1;;;149
+57439;Seenstraße;;;90;90;Eichen;12.1;;;149
+57439;Siemensstraße;;;10;10;Ennest;17.1;;;149
+57439;Silbecker Straße;3;9;2;2;Röllecken;10.1;;;149
+57439;Silbecker Straße;;;28;46;Silbecke;18.1;;;149
+57439;Soester Straße;1;27;2;28;Attendorn;09.1;;;149
+57439;Sommerhan;19;19;;;Beukenbeul;13.1;;;149
+57439;Sonnenhang;5;5;4;16;Lichtringhausen;15.1;;;149
+57439;Sonnenhof;1;15;2;14;Ennest;17.1;;;149
+57439;Sonnenweg;1;1;2;16;Papiermühle;13.1;;;149
+57439;Spechtstraße;1;3;2;4;Neu-Listernohl;12.1;;;149
+57439;Sportplatz;1;19;4;10;Holzweg;16.1;;;149
+57439;St.-Josef-Straße;1;1;;;Attendorn;08.1;;;149
+57439;St.-Ursula-Straße;1;23;2;32;Attendorn;01.1;;;149
+57439;Starenweg;1;3;2;2;Neu-Listernohl;12.1;;;149
+57439;Steinertstraße;15;15;2;20;Ennest;17.1;;;149
+57439;Steinkuhle;3;33;;;Wörmge;12.1;;;149
+57439;Steinstraße;5;7;2;16;Mecklinghausen;04.1;;;149
+57439;Stettiner Straße;1;37;2;58;Attendorn;09.1;;;149
+57439;Südwall;61;83;62;82;Attendorn;01.1;;;149
+57439;Talblick;1;11;2;22;Wamge;13.1;;;149
+57439;Talstraße;11;51;12;28;Mecklinghausen;04.1;;;149
+57439;Tecklinghauser Weg;5;11;20;20;Rieflinghausen;04.1;;;149
+57439;Tieenbrink;1;11;2;14;Petersburg;13.1;;;149
+57439;Torenkasten;1;5;6;6;Attendorn;01.1;;;149
+57439;Truchseßgasse;;;2;12;Attendorn;01.1;;;149
+57439;Uelhof;1;3;2;4;Uelhof;12.1;;;149
+57439;Uelhoffs Wiese;1;21;2;20;Attendorn;06.1;;;149
+57439;Unter den Eichen;1;15;2;14;Neu-Listernohl;12.1;;;149
+57439;Unterbremge;1;1;;;Bremge b. Ennest;16.1;;;149
+57439;Unterdorf;9;17;4;16;Bürberg;12.1;;;149
+57439;Unterer Weg;1;15;4;20;Windhausen;14.1;;;149
+57439;Unterm Hunnebrink;1;3;6;6;Neuenhof;15.1;;;149
+57439;Varenkopf;5;7;;;Windhausen;14.1;;;149
+57439;Vergessene Straße;3;7;4;26;Attendorn;01.1;;;149
+57439;Vogelsang;1;15;2;14;Attendorn;02.1;;;149
+57439;Voßsiepen;1;1;;;Voßsiepen;12.1;;;149
+57439;Wacholderweg;1;11;2;12;Ennest;16.1;;;149
+57439;Waldenburger Bucht;11;11;;;Attendorn;02.1;;;149
+57439;Waldenburger Weg;3;31;2;48;Attendorn;02.1;;;149
+57439;Waldweg;1;13;2;14;Neu-Listernohl;12.1;;;149
+57439;Warburger Straße;1;9;2;8;Attendorn;11.1;;;149
+57439;Wasserstraße;1;13;4;12;Attendorn;02.1;;;149
+57439;Weberstraße;1;45;2;48;Attendorn;11.1;;;149
+57439;Weidenweg;9;19;2;12;Ennest;17.1;;;149
+57439;Weißdornweg;;;4;6;Ennest;16.1;;;149
+57439;Werler Straße;3;9;4;10;Attendorn;11.1;;;149
+57439;Wescheder Weg;1;21;2;2;Papiermühle;13.1;;;149
+57439;Wesetalstraße;;;2;14;Papiermühle;13.1;;;149
+57439;Wesetalstraße;19;49;28;40;Weschede;13.1;;;149
+57439;Wesetalstraße;;;90;90;Beukenbeul;13.1;;;149
+57439;Wesmecke;11;25;4;22;Biekhofen;05.1;;;149
+57439;Westfälische Straße;1;17;4;20;Ennest;16.1;;;149
+57439;Westwall;33;43;46;62;Attendorn;01.1;;;149
+57439;Wiehtfeld;1;33;6;24;Beukenbeul;13.1;;;149
+57439;Wiesbadener Straße;1;3;4;20;Attendorn;11.1;;;149
+57439;Wiesenhaferstraße;1;17;6;14;Attendorn;06.1;;;149
+57439;Wiesenhang;5;7;;;Silbecke;18.1;;;149
+57439;Wiesenstraße;1;17;2;20;Ennest;17.1;;;149
+57439;Wiesental;3;9;8;8;Beukenbeul;13.1;;;149
+57439;Windhauser Straße;1;67;22;40;Attendorn;06.1;;;149
+57439;Wippeskuhlen;1;69;2;66;Attendorn;03.1;;;149
+57439;Wörmge;;;4;8;Wörmge;12.1;;;149
+57439;Ziegelofenweg;;;8;8;Attendorn;01.1;;;149
+57439;Zu den Gruben;3;11;4;14;Helden;19.1;;;149
+57439;Zu den Höfen;11;13;;;Keseberg;14.1;;;149
+57439;Zum Dörensborn;1;25;4;14;Repe;04.1;;;149
+57439;Zum Eben;;;2;50;Niederhelden;04.1;;;149
+57439;Zum Ehrenmal;3;9;2;14;Windhausen;14.1;;;149
+57439;Zum Gilberg;1;1;;;Helden;19.1;;;149
+57439;Zum Hofkühl;3;5;6;6;Rieflinghausen;04.1;;;149
+57439;Zum Kalkofen;;;12;16;Mecklinghausen;04.1;;;149
+57439;Zum Stenn;3;7;4;18;Dünschede;18.1;;;149
+57439;Zum Waterland;13;41;2;44;Holzweg;16.1;;;149
+57439;Zum Ziegenberg;;;22;46;Dünschede;18.1;;;149
+57439;Zum Öhlchen;1;17;2;22;Attendorn;08.1;;;149
+57439;Zur Bracht;5;5;2;8;Listerscheid;13.1;;;149
+57439;Zur Dasselkuhle;;;4;14;Dünschede;18.1;;;149
+57439;Zur Hofwiese;3;9;4;10;Ennest;16.1;;;149
+57439;Zur Leye;1;29;2;34;Dünschede;18.1;;;149
+57439;Zur Steinlegge;7;7;2;10;Lichtringhausen;15.1;;;149
+57439;Zur Vogelsrute;5;17;;;Attendorn;02.1;;;149
+57439;Zweilingsweg;1;17;2;24;Ennest;17.1;;;149
