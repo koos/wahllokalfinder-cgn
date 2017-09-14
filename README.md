@@ -58,7 +58,9 @@ It asks about the specified city and year, then extracts stations from the csv f
 
 #### Cities Importer
 `$ rails import:cities`   
-It extracts the csv file (which you select through the importer) and save selected cities that are in the file to database records.
+It extracts the csv file (which you select through the importer) and save selected cities that are in the file to database records.  
+
+Selecting multiple files is available in all importers, it should be comma separated.
 ### Validator
 
 #### City Address Zip:
