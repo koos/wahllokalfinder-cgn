@@ -1,0 +1,279 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+57271;Ahornweg;3;13;2;12;Lützel;19.1;;;148
+57271;Albert-Menn-Weg;1;17;4;18;Hilchenbach;14.1;;;148
+57271;Almenweg;1;31;22;28;Müsen;01.1;;;148
+57271;Alte Landstraße;1;61;4;78;Allenbach;10.1;;;148
+57271;Am Backes;1;7;2;18;Hilchenbach;13.1;;;148
+57271;Am Bocherich;1;15;16;16;Müsen;03.1;;;148
+57271;Am Bühl;1;29;2;30;Allenbach;09.1;;;148
+57271;Am Bühlberg;1;35;2;18;Vormwald;16.2;;;148
+57271;Am Egelsbruch;1;23;2;32;Müsen;01.1;;;148
+57271;Am Elme;1;3;2;2;Ruckersfeld;19.2;;;148
+57271;Am Galgenberg;3;7;2;12;Hilchenbach;15.1;;;148
+57271;Am Herrnberg;1;5;;;Hilchenbach;16.1;;;148
+57271;Am Hofacker;3;9;4;12;Oechelhausen;19.2;;;148
+57271;Am Höchsten;1;11;10;12;Dahlbruch;07.1;;;148
+57271;Am Kampen;1;31;2;12;Dahlbruch;06.1;;;148
+57271;Am Langenstück;3;17;2;22;Allenbach;09.1;;;148
+57271;Am Lohberg;1;13;2;14;Müsen;02.1;;;148
+57271;Am Loher Wald;1;15;2;14;Dahlbruch;04.1;;;148
+57271;Am Lützelbach;1;23;2;8;Lützel;19.1;;;148
+57271;Am Mückenberg;1;9;2;4;Allenbach;09.1;;;148
+57271;Am Neuen Schacht;41;63;40;56;Müsen;01.1;;;148
+57271;Am Oberrain;1;11;2;8;Ruckersfeld;19.2;;;148
+57271;Am Pfaffenhain;;;2;10;Lützel;19.1;;;148
+57271;Am Preist;3;9;2;12;Hilchenbach;13.1;;;148
+57271;Am Preisterbach;11;13;14;14;Hilchenbach;13.1;;;148
+57271;Am Rauhen Berg;1;29;2;28;Helberhausen;18.2;;;148
+57271;Am Rosenhof;1;3;;;Allenbach;10.1;;;148
+57271;Am Rösberg;1;7;2;12;Müsen;01.1;;;148
+57271;Am Schüttelberg;5;43;2;16;Hilchenbach;15.1;;;148
+57271;Am Sonnenhang;1;25;2;22;Dahlbruch;06.1;;;148
+57271;Am Steimel;1;23;2;24;Vormwald;15.1;;;148
+57271;Am Steinbruch;1;5;2;8;Hilchenbach;15.1;;;148
+57271;Am Wieserweg;;;2;4;Hilchenbach;15.1;;;148
+57271;Am Witschenberg;1;9;2;14;Dahlbruch;04.1;;;148
+57271;Am Wäschebach;1;31;6;10;Müsen;01.1;;;148
+57271;Am Zollposten;1;3;;;Grund;17.1;;;148
+57271;Am alten Stahlbergschacht;;;2;14;Müsen;01.1;;;148
+57271;Amselweg;1;3;2;4;Allenbach;11.1;;;148
+57271;An den Weißen Steinen;1;3;;;Lützel;19.1;;;148
+57271;An der Erzwäsche;1;7;2;10;Müsen;01.1;;;148
+57271;An der Ferndorf;1;13;2;26;Allenbach;10.1;;;148
+57271;An der Höh;1;9;2;4;Müsen;03.1;;;148
+57271;An der Lohmühle;3;13;;;Hilchenbach;16.1;;;148
+57271;An der Sang;15;77;4;72;Hilchenbach;12.1;;;148
+57271;An der Steinkuhl;1;7;2;10;Müsen;01.1;;;148
+57271;An der Stern;1;3;2;6;Lützel;19.1;;;148
+57271;An der Wilhelmsburg;1;11;2;10;Hilchenbach;15.1;;;148
+57271;Arendseer Straße;5;17;2;20;Hadem;18.1;;;148
+57271;Auf dem Einstuhl;1;33;2;38;Hilchenbach;11.1;;;148
+57271;Auf dem Falschet;1;1;2;26;Hadem;18.1;;;148
+57271;Auf dem Stulk;3;7;6;6;Hadem;18.1;;;148
+57271;Auf der Burg;1;31;2;32;Grund;17.1;;;148
+57271;Auf der Heide;1;3;2;6;Müsen;04.1;;;148
+57271;Auf der Hütte;3;45;10;18;Dahlbruch;03.1;;;148
+57271;Auf der Platte;1;11;2;16;Müsen;01.1;;;148
+57271;Auf der Stollenhalde;1;17;2;14;Müsen;02.1;;;148
+57271;Bahnhofstraße;1;15;4;20;Dahlbruch;05.1;;;148
+57271;Baume Ecke;1;7;2;6;Müsen;02.1;;;148
+57271;Beethovenstraße;1;23;2;16;Dahlbruch;07.1;;;148
+57271;Berglichterweg;1;15;2;16;Müsen;01.1;;;148
+57271;Bergstraße;1;35;2;60;Dahlbruch;04.1;;;148
+57271;Berliner Straße;3;29;4;44;Hilchenbach;14.1;;;148
+57271;Bernhard-Weiß-Platz;;;2;2;Dahlbruch;06.1;;;148
+57271;Birkenweg;3;9;2;12;Dahlbruch;04.1;;;148
+57271;Brachthäuser Straße;1;9;2;18;Hilchenbach;14.1;;;148
+57271;Breitenbacher Straße;5;5;2;4;Allenbach;09.1;;;148
+57271;Breslauer Weg;1;1;2;12;Hilchenbach;14.1;;;148
+57271;Bruchstraße;3;51;2;54;Hilchenbach;11.1;;;148
+57271;Brunnenstraße;1;23;6;22;Allenbach;10.1;;;148
+57271;Brücherwiese;1;5;;;Allenbach;10.1;;;148
+57271;Brückenstraße;1;5;4;6;Helberhausen;18.2;;;148
+57271;Buchenhain;1;9;2;38;Allenbach;09.1;;;148
+57271;Buchenweg;7;21;2;20;Lützel;19.1;;;148
+57271;Carl-Kraemer-Weg;5;17;;;Hilchenbach;13.1;;;148
+57271;Carl-Kraus-Straße;1;9;4;4;Dahlbruch;04.1;;;148
+57271;Dammstraße;1;17;2;14;Hilchenbach;16.1;;;148
+57271;Dorfstraße;1;21;4;20;Vormwald;17.2;;;148
+57271;Dr. Moning-Straße;1;33;2;38;Allenbach;09.1;;;148
+57271;Dreisbachstraße;7;17;2;32;Ruckersfeld;19.2;;;148
+57271;Dreisbachstraße;57;63;56;66;Oechelhausen;19.2;;;148
+57271;Driescher Seifen;3;3;2;10;Hadem;16.1;;;148
+57271;Drosselweg;1;7;2;6;Allenbach;11.1;;;148
+57271;Dürerstraße;1;41;12;26;Dahlbruch;08.1;;;148
+57271;Eberhard-Jung-Weg;1;1;;;Hilchenbach;12.1;;;148
+57271;Eckstraße;1;3;2;10;Müsen;02.1;;;148
+57271;Eichendorffstraße;1;11;4;4;Müsen;01.1;;;148
+57271;Eichenhof;1;1;;;Grund;17.1;;;148
+57271;Eichholz;1;7;2;8;Allenbach;10.1;;;148
+57271;Eisenstraße;1;1;2;34;Lützel;19.1;;;148
+57271;Engelsweg;1;7;2;10;Helberhausen;18.2;;;148
+57271;Erlenweg;;;2;2;Lützel;19.1;;;148
+57271;Ernst-August-Platz;1;1;2;10;Dahlbruch;06.1;;;148
+57271;Feldstraße;1;13;2;26;Allenbach;08.1;;;148
+57271;Ferndorfstraße;3;55;2;36;Hilchenbach;15.1;;;148
+57271;Ferndorfstraße;61;85;66;80;Hadem;18.1;;;148
+57271;Ferndorfstraße;151;199;152;192;Helberhausen;18.2;;;148
+57271;Ferndorfstraße;201;225;192;204;Oberndorf;18.2;;;148
+57271;Fichtenweg;1;19;2;24;Hilchenbach;16.1;;;148
+57271;Finkenweg;1;9;2;10;Allenbach;11.1;;;148
+57271;Flurstraße;1;9;8;14;Helberhausen;18.2;;;148
+57271;Friedrich-Ebert-Straße;11;11;6;28;Hilchenbach;11.1;;;148
+57271;Gartenstraße;1;33;2;26;Allenbach;08.1;;;148
+57271;Gerbergasse;1;5;2;4;Hilchenbach;13.1;;;148
+57271;Gillerbergstraße;1;31;4;22;Lützel;19.1;;;148
+57271;Ginsburgstraße;1;15;2;22;Grund;17.1;;;148
+57271;Ginsterweg;1;37;2;22;Allenbach;10.1;;;148
+57271;Glück-Auf-Straße;1;35;2;34;Müsen;02.1;;;148
+57271;Goethestraße;1;29;2;24;Dahlbruch;07.1;;;148
+57271;Grunder Straße;1;27;2;34;Allenbach;10.1;;;148
+57271;Haarhäuser Straße;1;23;8;22;Allenbach;10.1;;;148
+57271;Habenhain;7;11;2;10;Hadem;18.1;;;148
+57271;Hainstraße;1;9;2;24;Dahlbruch;06.1;;;148
+57271;Haldenweg;1;9;2;14;Müsen;01.1;;;148
+57271;Hauptstraße;125;149;132;162;Müsen;01.1;;;148
+57271;Hauptstraße;1;25;2;42;Müsen;03.1;;;148
+57271;Hauptstraße;29;123;44;130;Müsen;02.1;;;148
+57271;Heinsberger Straße;7;43;2;54;Hilchenbach;15.1;;;148
+57271;Helberhäuser Weg;1;1;2;2;Helberhausen;18.2;;;148
+57271;Hennerichs Ecke;1;3;2;4;Müsen;02.1;;;148
+57271;Hermannstraße;1;5;2;6;Müsen;01.1;;;148
+57271;Hilchenbacher Straße;1;47;14;62;Hilchenbach;12.1;;;148
+57271;Hilchenbacher Straße;;;2;10;Hilchenbach;11.1;;;148
+57271;Hillnhütter Straße;1;101;2;76;Dahlbruch;05.1;;;148
+57271;Hindenburgstraße;1;3;;;Hilchenbach;11.1;;;148
+57271;Hochstraße;3;45;2;60;Dahlbruch;06.1;;;148
+57271;Hochwaldstraße;3;3;4;4;Helberhausen;18.2;;;148
+57271;Hof Ginsberg;1;3;2;2;Grund;19.1;;;148
+57271;Hof-Stöcken-Weg;1;9;6;8;Allenbach;10.1;;;148
+57271;Hohler Weg;1;1;2;14;Lützel;19.1;;;148
+57271;Höhenweg;13;13;6;20;Lützel;19.1;;;148
+57271;Hörbachstraße;1;65;2;56;Dahlbruch;07.1;;;148
+57271;Hüttenweg;1;47;4;4;Dahlbruch;06.1;;;148
+57271;Im Acker;;;4;4;Ruckersfeld;19.2;;;148
+57271;Im Alten Bruch;1;1;2;6;Allenbach;10.1;;;148
+57271;Im Burgweiher;1;1;;;Hilchenbach;13.1;;;148
+57271;Im Henkenhof;1;25;2;22;Helberhausen;18.2;;;148
+57271;Im Holzbruch;1;3;2;4;Ruckersfeld;19.2;;;148
+57271;Im Hänchen;3;5;2;2;Grund;17.1;;;148
+57271;Im Klafeld;1;1;;;Hilchenbach;14.1;;;148
+57271;Im Kurzen Seifen;1;3;;;Dahlbruch;05.1;;;148
+57271;Im Langen Feld;1;15;6;14;Hilchenbach;13.1;;;148
+57271;Im Oberen Marktfeld;1;31;2;34;Hilchenbach;13.1;;;148
+57271;Im Rauhen Seifen;1;17;10;14;Hilchenbach;11.1;;;148
+57271;Im Stillen Winkel;1;11;2;10;Lützel;19.1;;;148
+57271;Im Unteren Marktfeld;1;21;8;30;Hilchenbach;13.1;;;148
+57271;Im Watzenseifen;3;13;2;2;Vormwald;16.2;;;148
+57271;In den Eichen;;;2;24;Lützel;19.1;;;148
+57271;In den Kämpen;1;35;2;16;Grund;17.1;;;148
+57271;In der Allenbach;1;7;2;4;Allenbach;09.1;;;148
+57271;In der Aspe;;;2;2;Dahlbruch;04.1;;;148
+57271;In der Bäche;1;9;4;8;Helberhausen;18.2;;;148
+57271;In der Dahl;1;7;2;12;Hadem;18.1;;;148
+57271;In der Delle;1;7;2;18;Vormwald;15.1;;;148
+57271;In der Delle;13;33;20;36;Vormwald;17.2;;;148
+57271;In der Erzebach;1;5;;;Hilchenbach;11.1;;;148
+57271;In der Hasselsbach;1;9;2;10;Hilchenbach;12.1;;;148
+57271;In der Herrenwiese;1;51;2;46;Hilchenbach;16.1;;;148
+57271;In der Himbeerwiese;1;25;2;24;Hilchenbach;12.1;;;148
+57271;In der Mahlbach;1;23;2;20;Dahlbruch;05.1;;;148
+57271;In der Molzekuhl;1;5;2;12;Müsen;01.1;;;148
+57271;In der Pächtwiese;1;11;2;6;Hadem;16.1;;;148
+57271;In der Rembach;1;3;2;16;Oechelhausen;19.2;;;148
+57271;In der Tränke;5;5;6;6;Grund;17.1;;;148
+57271;In der Wiere;1;17;4;14;Helberhausen;18.2;;;148
+57271;Jahnstraße;9;13;2;10;Helberhausen;18.2;;;148
+57271;Jakobstraße;1;63;2;78;Müsen;03.1;;;148
+57271;Jung-Stilling-Allee;1;11;2;20;Hilchenbach;12.1;;;148
+57271;Jung-Stilling-Straße;7;21;2;22;Grund;17.1;;;148
+57271;Kiefernweg;1;17;2;18;Hilchenbach;16.1;;;148
+57271;Kindelsbergstraße;1;17;2;18;Müsen;01.1;;;148
+57271;Kirchplatz;3;3;2;2;Hilchenbach;11.1;;;148
+57271;Kirchstraße;1;1;2;18;Müsen;02.1;;;148
+57271;Kirchweg;1;21;2;16;Hilchenbach;11.1;;;148
+57271;Konrad-Adenauer-Straße;1;11;2;10;Hilchenbach;15.1;;;148
+57271;Krackertsberg;1;13;2;12;Allenbach;08.1;;;148
+57271;Kronprinzenstraße;5;59;4;50;Lützel;19.1;;;148
+57271;Kurt-Schumacher-Straße;1;13;2;2;Hilchenbach;13.1;;;148
+57271;Königsberger Straße;1;17;2;18;Hilchenbach;14.1;;;148
+57271;Kürschnerweg;1;1;2;2;Hilchenbach;13.1;;;148
+57271;Littfelder Straße;5;5;4;4;Müsen;01.1;;;148
+57271;Lärchenweg;1;15;4;18;Hilchenbach;16.1;;;148
+57271;Löffelstraße;3;21;2;8;Helberhausen;18.2;;;148
+57271;Markt;1;11;2;14;Hilchenbach;11.1;;;148
+57271;Marktfelder Gärten;;;2;10;Hilchenbach;13.1;;;148
+57271;Martinshardtstraße;1;15;2;26;Müsen;02.1;;;148
+57271;Merdes Ecke;;;2;4;Müsen;02.1;;;148
+57271;Merklinghäuser Weg;1;3;2;2;Müsen;02.1;;;148
+57271;Mittelweg;1;9;2;10;Helberhausen;18.2;;;148
+57271;Mozartstraße;1;33;2;22;Dahlbruch;07.1;;;148
+57271;Mühlenseifen;3;17;4;22;Hilchenbach;16.1;;;148
+57271;Mühlenweg;15;27;6;20;Hilchenbach;16.1;;;148
+57271;Müsener Bruch;5;13;;;Müsen;03.1;;;148
+57271;Müsener Straße;1;37;2;44;Dahlbruch;06.1;;;148
+57271;Nassauische Straße;1;13;2;22;Hilchenbach;15.1;;;148
+57271;Nassauische Straße;;;24A;24A;Hilchenbach;15.1;;;148
+57271;Nassauische Straße;15;39;24;46;Vormwald;15.1;;;148
+57271;Neulohe;1;3;2;10;Dahlbruch;04.1;;;148
+57271;Neustraße;1;3;2;16;Müsen;02.1;;;148
+57271;Noldestraße;1;15;2;18;Dahlbruch;08.1;;;148
+57271;Nordstraße;3;7;;;Allenbach;10.1;;;148
+57271;Obere Allenbach;1;5;2;12;Allenbach;09.1;;;148
+57271;Obere Hörbach;1;35;2;16;Dahlbruch;07.1;;;148
+57271;Obere Klappeiche;1;5;4;4;Allenbach;09.1;;;148
+57271;Obere Schweisfurth;;;2;24;Dahlbruch;05.1;;;148
+57271;Oberer Eichhain;1;21;2;28;Vormwald;17.2;;;148
+57271;Oberer Kirchberg;1;13;2;10;Hilchenbach;12.1;;;148
+57271;Oberstraße;1;11;2;10;Helberhausen;18.2;;;148
+57271;Oranienstraße;25;25;24;34;Vormwald;15.1;;;148
+57271;Oranienstraße;1;23;2;22;Hilchenbach;15.1;;;148
+57271;Oststraße;1;7;2;10;Dahlbruch;04.1;;;148
+57271;Patt;1;35;2;34;Allenbach;10.1;;;148
+57271;Poststraße;3;23;2;28;Müsen;02.1;;;148
+57271;Pulvermühlenweg;3;5;2;2;Helberhausen;18.2;;;148
+57271;Rothenberger Straße;15;17;2;12;Hilchenbach;13.1;;;148
+57271;Rothenberger Straße;21;47;20;56;Hilchenbach;12.1;;;148
+57271;Ruinener Weg;;;2;4;Hilchenbach;16.1;;;148
+57271;Schillerstraße;1;15;2;16;Dahlbruch;07.1;;;148
+57271;Schleppbahn;1;23;2;22;Müsen;01.1;;;148
+57271;Schloßberg;1;1;;;Grund;17.1;;;148
+57271;Schmeddeweg;;;2;4;Allenbach;10.1;;;148
+57271;Schmidtseifen;1;21;2;26;Dahlbruch;05.1;;;148
+57271;Schreiberg;1;15;2;18;Vormwald;17.2;;;148
+57271;Schulstraße;1;7;2;6;Helberhausen;18.2;;;148
+57271;Schwabengrube;67;79;62;70;Müsen;01.1;;;148
+57271;Schützenstraße;11;59;12;72;Hilchenbach;13.1;;;148
+57271;Seifenfeld;1;7;2;16;Müsen;03.1;;;148
+57271;Seiffener Straße;1;17;2;16;Hadem;18.1;;;148
+57271;Seminarweg;1;5;2;8;Hilchenbach;12.1;;;148
+57271;Siebelnhofer Straße;1;27;2;12;Vormwald;17.2;;;148
+57271;Sieben Eichen;1;17;2;18;Allenbach;08.1;;;148
+57271;Siedlung;1;35;2;112;Hilchenbach;14.1;;;148
+57271;Siegener Straße;1;21;4;12;Allenbach;10.1;;;148
+57271;Silberger Weg;1;1;4;6;Müsen;01.1;;;148
+57271;Spandauer Straße;1;9;4;10;Müsen;01.1;;;148
+57271;St. Veitsweg;1;5;2;6;Hilchenbach;12.1;;;148
+57271;Stahlbergstraße;1;15;2;12;Müsen;01.1;;;148
+57271;Starenweg;1;11;2;12;Allenbach;11.1;;;148
+57271;Steiler Weg;1;5;2;6;Dahlbruch;06.1;;;148
+57271;Steinweg;1;5;2;4;Müsen;03.1;;;148
+57271;Sterzenbacher Straße;29;59;32;60;Vormwald;16.2;;;148
+57271;Sterzenbacher Straße;5;25;6;28;Hilchenbach;16.1;;;148
+57271;Stettiner Weg;;;2;14;Hilchenbach;14.1;;;148
+57271;Stift-Keppel-Weg;1;37;2;12;Allenbach;10.1;;;148
+57271;Stockweg;1;7;2;12;Dahlbruch;06.1;;;148
+57271;Talsperrenstraße;1;39;2;44;Allenbach;08.1;;;148
+57271;Tannenweg;1;15;2;16;Hilchenbach;16.1;;;148
+57271;Theodor-Heuss-Straße;1;31;2;32;Hilchenbach;15.1;;;148
+57271;Trift;3;3;2;6;Hilchenbach;11.1;;;148
+57271;Untere Klappeiche;3;7;2;4;Allenbach;09.1;;;148
+57271;Untere Wiesenstraße;23;83;6;32;Dahlbruch;05.1;;;148
+57271;Unterer Kirchberg;1;5;2;16;Hilchenbach;12.1;;;148
+57271;Unterm Wäldchen;3;7;6;6;Helberhausen;18.2;;;148
+57271;Unterzeche;7;21;2;12;Hilchenbach;11.1;;;148
+57271;Vor dem Eichhain;1;27;2;32;Vormwald;17.2;;;148
+57271;Vor der Aspe;1;41;2;30;Müsen;04.1;;;148
+57271;Vormwalder Straße;1;13;2A;2A;Vormwald;16.1;;;148
+57271;Vormwalder Straße;15;87;2;56;Vormwald;17.2;;;148
+57271;Waldstraße;1;53;2;56;Dahlbruch;04.1;;;148
+57271;Weiherstraße;3;27;2;26;Dahlbruch;04.1;;;148
+57271;Werbelsbrunnen;3;13;2;14;Müsen;01.1;;;148
+57271;Wiesenstraße;1;11;2;18;Dahlbruch;05.1;;;148
+57271;Wildermann;1;1;;;Müsen;01.1;;;148
+57271;Wilhelm-Münker-Straße;1;21;2;24;Hilchenbach;15.1;;;148
+57271;Wilhelmstraße;1;3;6;10;Müsen;02.1;;;148
+57271;Winterbachstraße;17;49;18;60;Dahlbruch;03.1;;;148
+57271;Winterbachstraße;1;15;2;14;Müsen;03.1;;;148
+57271;Wittgensteiner Straße;1;35;6;30;Allenbach;10.1;;;148
+57271;Wittgensteiner Straße;37;89;40;66;Allenbach;09.1;;;148
+57271;Wittgensteiner Straße;91;97;;;Allenbach;08.1;;;148
+57271;Wittgensteiner Straße;99;137;112;142;Dahlbruch;08.1;;;148
+57271;Wittgensteiner Straße;139;173;;;Dahlbruch;06.1;;;148
+57271;Zum Ewertshahn;1;11;4;6;Dahlbruch;03.1;;;148
+57271;Zum Hohlseifen;3;21;2;20;Vormwald;17.2;;;148
+57271;Zur Dörrhöhe;9;9;2;8;Hilchenbach;11.1;;;148
+57271;Zur Kreuzkapelle;1;17;2;20;Allenbach;08.1;;;148
+57271;Zur Steinwäsche;3;17;2;6;Müsen;01.1;;;148
+57271;Zur Stollenhalde;1;3;;;Müsen;02.1;;;148
+57271;Über der Schneidemühle;1;19;4;20;Hadem;18.1;;;148
