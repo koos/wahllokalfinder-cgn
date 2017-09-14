@@ -1,0 +1,342 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+57489;Agathaweg;1;5;2;4;Frenkhausen;12.1;;;149
+57489;Ahornweg;5;5;2;6;Halbhusten;07.1;;;149
+57489;Aloisiusweg;;;4;4;Wegeringhausen;11.2;;;149
+57489;Alperscheid;1;7;4;8;Alperscheid;12.1;;;149
+57489;Alperscheider Weg;1;5;2;10;Frenkhausen;12.1;;;149
+57489;Alte Dorfstraße;1;13;2;36;Germinghausen;11.1;;;149
+57489;Alte Dorfstraße;15;25;38;44;Junkernhöh;11.1;;;149
+57489;Alte Landstraße;3;33;6;24;Drolshagen;01.1;;;149
+57489;Am Apfelhof;;;4;4;Feldmannshof;08.1;;;149
+57489;Am Bahnhof;;;2;2;Eichen;06.1;;;149
+57489;Am Bauckhahn;5;17;2;2;Wegeringhausen;11.2;;;149
+57489;Am Bogen;;;2;2;Iseringhausen;07.1;;;149
+57489;Am Bremerhof;1;7;2;4;Berlinghausen;06.1;;;149
+57489;Am Bubengarten;;;2;10;Schlade;10.1;;;149
+57489;Am Buscheid;3;63;2;34;Drolshagen;02.1;;;149
+57489;Am Dorfe;1;7;2;16;Iseringhausen;07.1;;;149
+57489;Am Eckerberg;3;3;;;Husten;07.1;;;149
+57489;Am Eichenbaum;1;7;2;10;Drolshagen;04.1;;;149
+57489;Am Eickenhahn;3;23;10;18;Schreibershof;13.1;;;149
+57489;Am Flachsberg;1;21;4;4;Bleche;10.1;;;149
+57489;Am Frohnen Wenden;;;2;6;Junkernhöh;11.1;;;149
+57489;Am Garten;1;5;2;8;Lüdespert;10.1;;;149
+57489;Am Gielenstein;3;3;2;6;Drolshagen;04.1;;;149
+57489;Am Hain;;;4;6;Heimicke;13.1;;;149
+57489;Am Hang;1;15;4;4;Benolpe;08.1;;;149
+57489;Am Hebberg;3;3;2;8;Frenkhausen;12.1;;;149
+57489;Am Heile;3;15;;;Herpel;13.1;;;149
+57489;Am Heliken;1;9;2;8;Öhringhausen;12.1;;;149
+57489;Am Hepper;5;9;2;4;Husten;07.1;;;149
+57489;Am Herpelbach;;;2;2;Herpel;13.1;;;149
+57489;Am Hofgarten;1;9;2;6;Benolpe;08.1;;;149
+57489;Am Hovestadt;1;25;2;30;Wegeringhausen;11.2;;;149
+57489;Am Höhwege;3;11;2;16;Hützemert;09.1;;;149
+57489;Am Hüsterberg;;;2;16;Drolshagen;01.1;;;149
+57489;Am Hütteberg;7;9;2;10;Berlinghausen;06.1;;;149
+57489;Am Kleefeld;1;9;8;8;Lüdespert;10.1;;;149
+57489;Am Kreuzberg;;;2;6;Iseringhausen;07.1;;;149
+57489;Am Köpfchen;5;5;;;Husten;07.1;;;149
+57489;Am Langen Stück;5;5;4;4;Scheda;10.1;;;149
+57489;Am Lindenberg;5;7;2;2;Herpel;13.1;;;149
+57489;Am Lingemert;1;1;2;2;Feldmannshof;08.1;;;149
+57489;Am Lußnacken;3;13;4;26;Benolpe;08.1;;;149
+57489;Am Markhagen;;;4;8;Frenkhausen;12.1;;;149
+57489;Am Mühlenteich;1;3;;;Drolshagen;01.1;;;149
+57489;Am Nocken;1;7;2;16;Iseringhausen;07.1;;;149
+57489;Am Papenberg;1;15;2;6;Drolshagen;02.1;;;149
+57489;Am Pädchen;1;3;;;Schreibershof;13.1;;;149
+57489;Am Rummelsberg;1;1;2;4;Berlinghausen;06.1;;;149
+57489;Am Schlotstück;1;3;;;Germinghausen;11.1;;;149
+57489;Am Schmand;1;1;;;Wenkhausen;02.1;;;149
+57489;Am Sessenhahn;1;7;2;8;Wegeringhausen;11.2;;;149
+57489;Am Sonnenhang;1;15;4;16;Berlinghausen;06.1;;;149
+57489;Am Sportplatz;1;3;2;4;Hützemert;09.1;;;149
+57489;Am Spritzenhaus;1;11;2;18;Iseringhausen;07.1;;;149
+57489;Am Steinfeld;7;7;2;16;Schreibershof;13.1;;;149
+57489;Am Wall;1;17;2;12;Drolshagen;02.1;;;149
+57489;Am Weinberg;1;11;2;8;Drolshagen;08.2;;;149
+57489;Am Windhagen;3;7;4;4;Benolpe;08.1;;;149
+57489;Amselweg;1;7;2;10;Drolshagen;05.1;;;149
+57489;An der Eie;3;9;6;6;Schlade;10.1;;;149
+57489;An der Ekert;1;1;2;2;Dumicke;12.2;;;149
+57489;An der Heidnocke;3;5;2;4;Herpel;13.1;;;149
+57489;An der Heilde;3;3;2;2;Halbhusten;07.1;;;149
+57489;An der Kapelle;;;2;4;Hützemert;09.1;;;149
+57489;An der Kreuzkapelle;1;1;;;Drolshagen;02.1;;;149
+57489;An der Sange;1;1;;;Scheda;10.1;;;149
+57489;An der Schlade;5;5;2;14;Dumicke;12.2;;;149
+57489;An der Tränke;3;5;2;8;Frenkhausen;12.1;;;149
+57489;An der Weide;1;15;2;14;Scheda;10.1;;;149
+57489;Annostraße;1;17;2;18;Drolshagen;02.1;;;149
+57489;Antoniusstraße;3;19;4;8;Iseringhausen;07.1;;;149
+57489;Auf dem Beul;1;39;2;52;Drolshagen;08.2;;;149
+57489;Auf dem Graben;3;3;2;8;Drolshagen;02.1;;;149
+57489;Auf dem Rhode;3;5;4;6;Drolshagen;03.1;;;149
+57489;Auf dem Wigger;1;15;2;22;Iseringhausen;07.1;;;149
+57489;Auf der Glate;1;15;4;22;Germinghausen;11.1;;;149
+57489;Auf der Heide;13;25;2;30;Frenkhausen;12.1;;;149
+57489;Auf der Hofwiese;;;2;2;Sendschotten;11.1;;;149
+57489;Auf der Hütte;1;11;2;14;Iseringhausen;07.1;;;149
+57489;Auf'm Kalper;1;25;4;26;Hützemert;09.1;;;149
+57489;Aufm Dreisch;1;11;2;6;Hützemert;09.1;;;149
+57489;Aufm Kampe;1;3;2;2;Lüdespert;10.1;;;149
+57489;Bahnhofstraße;1;15;;;Drolshagen;04.1;;;149
+57489;Belmicker Weg;1;13;2;10;Hützemert;09.1;;;149
+57489;Benolper Straße;1;53;2;40;Drolshagen;03.1;;;149
+57489;Bergstraße;1;11;2;20;Öhringhausen;12.1;;;149
+57489;Biggeseestraße;5;63;2;34;Frenkhausen;12.1;;;149
+57489;Birkenweg;5;5;2;10;Germinghausen;11.1;;;149
+57489;Blumenweg;1;1;2;12;Wegeringhausen;11.2;;;149
+57489;Brachtpetalstraße;1;29;2;30;Iseringhausen;07.1;;;149
+57489;Brandenburger Straße;1;19;2;18;Halbhusten;07.1;;;149
+57489;Breite Wende;7;7;2;4;Herpel;13.1;;;149
+57489;Breite Wiese;1;5;2;2;Drolshagen;01.1;;;149
+57489;Breitehardt;1;3;2;4;Breitehardt;11.2;;;149
+57489;Breites Stück;5;5;;;Hützemert;09.1;;;149
+57489;Brink;1;1;2;12;Brink;13.1;;;149
+57489;Brombeerweg;3;5;2;2;Benolpe;08.1;;;149
+57489;Bruch;3;5;4;14;Bruch;13.1;;;149
+57489;Brunnenstraße;3;9;4;10;Drolshagen;02.1;;;149
+57489;Brückstraße;3;17;2;14;Drolshagen;03.1;;;149
+57489;Buchenweg;1;13;2;18;Germinghausen;11.1;;;149
+57489;Buchfinkenweg;1;3;2;10;Drolshagen;05.1;;;149
+57489;Buchhagen;1;1;2;6;Buchhagen;06.1;;;149
+57489;Buchhagener Weg;;;2;28;Fohrt;06.1;;;149
+57489;Börschstraße;3;11;4;14;Drolshagen;02.1;;;149
+57489;Bühren;1;17;4;4;Bühren;12.2;;;149
+57489;Christine-Koch-Straße;1;11;2;10;Drolshagen;04.1;;;149
+57489;Clemensstraße;;;2;2;Drolshagen;02.1;;;149
+57489;Dechant-Fischer-Straße;1;5;2;4;Drolshagen;02.1;;;149
+57489;Dirkingen;1;17;2;10;Dirkingen;01.1;;;149
+57489;Dohlenweg;1;9;2;20;Drolshagen;05.1;;;149
+57489;Dorfstraße;1;21;2;12;Sendschotten;11.1;;;149
+57489;Dreieckweg;1;19;2;8;Fohrt;06.1;;;149
+57489;Drosselweg;1;1;2;6;Drolshagen;05.1;;;149
+57489;Dumicker Straße;1;17;2;8;Dumicke;12.2;;;149
+57489;Eichendorffstraße;1;23;2;34;Drolshagen;05.1;;;149
+57489;Eichener Straße;1;1;2;4;Berlinghausen;06.1;;;149
+57489;Eichenermühle;1;3;4;8;Eichenermühle;06.1;;;149
+57489;Elsternweg;1;3;4;12;Drolshagen;05.1;;;149
+57489;Eltge;1;1;2;2;Eltge;06.1;;;149
+57489;Engelbertstraße;3;19;2;16;Drolshagen;03.1;;;149
+57489;Ennert;1;9;4;14;Drolshagen;04.1;;;149
+57489;Fahrenschotten;1;1;;;Fahrenschotten;12.2;;;149
+57489;Fasanenweg;1;5;2;2;Drolshagen;05.1;;;149
+57489;Feldstraße;1;15;2;30;Hützemert;09.1;;;149
+57489;Finkenweg;3;11;6;18;Heimicke;13.1;;;149
+57489;Finkestraße;1;15;2;8;Drolshagen;02.1;;;149
+57489;Florianstraße;;;4;6;Drolshagen;04.1;;;149
+57489;Fontanestraße;5;35;2;26;Drolshagen;08.2;;;149
+57489;Franz-Hitze-Straße;1;33;2;38;Drolshagen;03.1;;;149
+57489;Franziskusstraße;3;5;2;8;Frenkhausen;12.1;;;149
+57489;Frenkhauserhöh;1;7;6;10;Frenkhauserhöh;12.1;;;149
+57489;Gartenstraße;1;7;2;6;Drolshagen;03.1;;;149
+57489;Gelslinger Weg;1;1;10;12;Benolpe;08.1;;;149
+57489;Gerberstraße;29;51;22;40;Drolshagen;01.1;;;149
+57489;Gerberstraße;;;20A;20A;Drolshagen;01.1;;;149
+57489;Gerberstraße;3;23;4;20;Drolshagen;03.1;;;149
+57489;Gerhardusstraße;11;15;2;8;Drolshagen;01.1;;;149
+57489;Germinghauser Weg;1;13;2;14;Hützemert;09.1;;;149
+57489;Gewerbeparkstraße;1;1;;;Scheda;10.1;;;149
+57489;Ginsterweg;9;11;14;16;Hützemert;09.1;;;149
+57489;Gipperich;3;19;;;Gipperich;08.1;;;149
+57489;Goethestraße;1;17;2;14;Drolshagen;04.1;;;149
+57489;Grabweg;1;1;2;8;Drolshagen;04.1;;;149
+57489;Graf-Von-Löh-Straße;1;1;2;8;Lüdespert;10.1;;;149
+57489;Grimmestraße;1;25;2;12;Drolshagen;04.1;;;149
+57489;Gräfin-Sayn-Straße;1;9;2;18;Drolshagen;02.1;;;149
+57489;Grünenthal;1;1;;;Grünenthal;11.2;;;149
+57489;Grüner Weg;3;11;2;12;Halbhusten;07.1;;;149
+57489;Gördesweg;1;7;2;32;Drolshagen;01.1;;;149
+57489;Hagener Straße;1;47;2;50;Drolshagen;02.1;;;149
+57489;Hagener Straße;51;67;56;90;Drolshagen;04.1;;;149
+57489;Hammerteich;1;9;;;Hammerteich;10.1;;;149
+57489;Hansaweg;1;1;2;2;Drolshagen;01.1;;;149
+57489;Hatzfeldstraße;3;19;2;8;Drolshagen;04.1;;;149
+57489;Hauptmannstraße;1;19;2;18;Drolshagen;05.1;;;149
+57489;Hauptstraße;1;47;6;38;Hützemert;09.1;;;149
+57489;Heerstraße;1;15;2;26;Scheda;10.1;;;149
+57489;Heerstraße;33;57;;;Beul;10.1;;;149
+57489;Heiderhof;1;9;2;20;Heiderhof;06.1;;;149
+57489;Heidnocken;1;9;;;Junkernhöh;11.1;;;149
+57489;Heinrich-Bone-Straße;1;35;2;40;Drolshagen;03.1;;;149
+57489;Hellinghausstraße;3;23;2;20;Drolshagen;04.1;;;149
+57489;Herrnscheider Weg;1;37;14;26;Drolshagen;04.1;;;149
+57489;Hespecke;5;5;4;22;Hespecke;10.1;;;149
+57489;Holunderweg;3;11;2;2;Benolpe;08.1;;;149
+57489;Homborgstraße;1;9;2;10;Iseringhausen;07.1;;;149
+57489;Humboldtstraße;1;39;2;26;Drolshagen;05.1;;;149
+57489;Hustert;1;13;10;18;Hustert;09.1;;;149
+57489;Häckelchen;9;9;14;14;Hützemert;09.1;;;149
+57489;Höhenweg;3;13;2;14;Gelslingen;08.1;;;149
+57489;Höherhaus;7;7;2;6;Essinghausen;11.1;;;149
+57489;Hühnerseifen;1;11;2;18;Hützemert;09.1;;;149
+57489;Im Brauck;1;3;4;4;Benolpe;08.1;;;149
+57489;Im Buchhagen;1;17;4;20;Schreibershof;13.1;;;149
+57489;Im Ellseifen;3;5;2;10;Husten;07.1;;;149
+57489;Im Hahn;3;17;2;12;Scheda;10.1;;;149
+57489;Im Herrnscheid;1;3;2;14;Hützemert;09.1;;;149
+57489;Im Höfchen;;;2;14;Drolshagen;01.1;;;149
+57489;Im Kreuzseifen;1;5;2;8;Drolshagen;01.1;;;149
+57489;Im Neuen Garten;1;11;6;16;Sendschotten;11.1;;;149
+57489;Im Ohle;;;2;2;Germinghausen;11.1;;;149
+57489;Im Strautsiepen;5;11;4;10;Brachtpe;06.1;;;149
+57489;Im Tiergarten;3;11;2;10;Husten;07.1;;;149
+57489;Im Weiler;3;3;2;14;Essinghausen;11.1;;;149
+57489;Im Wiesengrund;1;3;2;16;Drolshagen;04.1;;;149
+57489;Im Wiesenkamp;1;3;2;10;Brachtpe;06.1;;;149
+57489;Im Wohld;1;9;2;8;Essinghausen;11.1;;;149
+57489;Im Wäldchen;15;15;6;6;Gelslingen;08.1;;;149
+57489;Im Öhlchen;11;11;6;40;Berlinghausen;06.1;;;149
+57489;In den Helden;17;19;2;16;Bleche;10.1;;;149
+57489;In der Bleiche;1;3;2;2;Berlinghausen;06.1;;;149
+57489;In der Fuhr;3;3;2;8;Scheda;10.1;;;149
+57489;In der Höh;7;29;4;20;Essinghausen;11.1;;;149
+57489;In der Hützenau;;;14;14;Drolshagen;04.1;;;149
+57489;In der Kuhle;5;9;2;10;Scheda;10.1;;;149
+57489;In der Lumicke;;;2;20;Bleche;10.1;;;149
+57489;In der Schlade;1;5;;;Eichen;06.1;;;149
+57489;In der Schmalemicke;1;1;6;18;Berlinghausen;06.1;;;149
+57489;In der Sengenau;3;43;2;24;Drolshagen;04.1;;;149
+57489;In der Trift;11;15;;;Drolshagen;01.1;;;149
+57489;In der Wünne;;;2;10;Drolshagen;02.1;;;149
+57489;Iseringhauser Weg;;;4;4;Halbhusten;07.1;;;149
+57489;Kalberschnacke;;;2;8;Kalberschnacke;13.1;;;149
+57489;Kampstraße;3;39;2;34;Drolshagen;03.1;;;149
+57489;Kapellenweg;3;7;2;6;Hützemert;09.1;;;149
+57489;Kastanienweg;1;11;4;12;Iseringhausen;07.1;;;149
+57489;Kirchhoffstraße;1;9;2;10;Drolshagen;04.1;;;149
+57489;Kirchplatz;1;5;4;6;Drolshagen;02.1;;;149
+57489;Kirchweg;3;17;8;16;Bleche;10.1;;;149
+57489;Klosterhof;1;7;;;Drolshagen;02.1;;;149
+57489;Kolpingstraße;1;7;2;8;Drolshagen;02.1;;;149
+57489;Kram;1;1;2;2;Kram;13.1;;;149
+57489;Krummer Weg;1;17;2;16;Hützemert;09.1;;;149
+57489;Kurkölner Straße;1;1;2;4;Drolshagen;03.1;;;149
+57489;Kurzer Weg;1;3;;;Wegeringhausen;11.2;;;149
+57489;Köbbinghausen;1;5;;;Köbbinghausen;11.1;;;149
+57489;Kölner Straße;1;7;2;6;Wegeringhausen;11.2;;;149
+57489;Kückelburg;1;11;;;Dumicke;12.2;;;149
+57489;Landstraße;1;9;2;12;Wegeringhausen;11.2;;;149
+57489;Landwehrweg;5;7;;;Gelslingen;08.1;;;149
+57489;Laurentiusweg;3;5;2;2;Schreibershof;13.1;;;149
+57489;Lessingstraße;1;41;2;20;Drolshagen;05.1;;;149
+57489;Lindenstraße;3;11;4;22;Drolshagen;03.1;;;149
+57489;Listerstraße;1;21;2;44;Schreibershof;13.1;;;149
+57489;Lohwiese;;;2;6;Bleche;10.1;;;149
+57489;Lärchenweg;5;15;2;2;Halbhusten;07.1;;;149
+57489;Lönsstraße;15;21;12;16;Drolshagen;04.1;;;149
+57489;Lönsstraße;1;9;2;10;Drolshagen;05.1;;;149
+57489;Lüttemicke;1;19;2;16;Dumicke;12.2;;;149
+57489;Lüttjenhan;7;7;2;8;Dumicke;12.2;;;149
+57489;Marktplatz;;;2;2;Drolshagen;02.1;;;149
+57489;Meisenweg;1;7;2;6;Drolshagen;05.1;;;149
+57489;Mittelweg;1;5;4;6;Eichen;06.1;;;149
+57489;Märkische Straße;;;4;6;Drolshagen;04.1;;;149
+57489;Nachtigallenweg;1;3;;;Drolshagen;05.1;;;149
+57489;Napoleonstraße;1;17;2;28;Berlinghausen;06.1;;;149
+57489;Neuenhaus;1;5;;;Neuenhaus;10.1;;;149
+57489;Norbert-Scheele-Straße;5;5;;;Drolshagen;04.1;;;149
+57489;Ober der Sengenau;1;13;2;22;Drolshagen;04.1;;;149
+57489;Oberm Brinke;1;11;2;12;Schreibershof;13.1;;;149
+57489;Oberm Garten;1;11;2;14;Bleche;10.1;;;149
+57489;Olper Straße;1;11;2;2;Wenkhausen;02.1;;;149
+57489;Otzemicker Weg;;;2;2;Husten;07.1;;;149
+57489;Pater-Kruse-Weg;3;17;2;18;Berlinghausen;06.1;;;149
+57489;Piewickweg;;;2;2;Heimicke;13.1;;;149
+57489;Postweg;;;2;2;Drolshagen;01.1;;;149
+57489;Potzenhof;1;3;;;Potzenhof;06.1;;;149
+57489;Prof.-Rüsche-Straße;1;19;2;22;Bleche;10.1;;;149
+57489;Raiffeisenstraße;;;4;4;Drolshagen;04.1;;;149
+57489;Rheinlandstraße;1;45;2;58;Benolpe;08.1;;;149
+57489;Rohlandweg;1;7;2;2;Wegeringhausen;11.2;;;149
+57489;Rosenthaler Weg;1;9;2;6;Öhringhausen;12.1;;;149
+57489;Rosenweg;3;3;2;8;Berlinghausen;06.1;;;149
+57489;Rosestraße;5;13;6;20;Drolshagen;03.1;;;149
+57489;Rother Weg;;;2;2;Halbhusten;07.1;;;149
+57489;Schillerstraße;1;17;;;Drolshagen;04.1;;;149
+57489;Schlenke;5;5;2;18;Schlenke;10.1;;;149
+57489;Schulweg;1;7;;;Hützemert;09.1;;;149
+57489;Schwalbenweg;1;13;4;12;Drolshagen;05.1;;;149
+57489;Schürholzer Straße;1;19;2;20;Schürholz;13.1;;;149
+57489;Schützenbruch;1;9;4;12;Schützenbruch;11.1;;;149
+57489;Schützenstraße;1;13;2;6;Iseringhausen;07.1;;;149
+57489;Seeblick;3;11;4;20;Schreibershof;13.1;;;149
+57489;Seestraße;3;29;8;46;Herpel;13.1;;;149
+57489;Sendschotter Weg;1;27;2;30;Drolshagen;04.1;;;149
+57489;Sengenauer Weg;;;2;10;Junkernhöh;11.1;;;149
+57489;Siebringhausen;1;9;2;4;Siebringhausen;02.1;;;149
+57489;Siemensstraße;1;1;;;Drolshagen;04.1;;;149
+57489;Simonspike;3;21;2;8;Bleche;10.1;;;149
+57489;Sonnenstraße;1;1;2;12;Frenkhausen;12.1;;;149
+57489;Spechtweg;;;2;10;Heimicke;13.1;;;149
+57489;Starenweg;1;15;2;16;Drolshagen;05.1;;;149
+57489;Stengemicke;1;9;2;14;Herpel;13.1;;;149
+57489;Stockhagen;1;3;2;6;Hützemert;09.1;;;149
+57489;Stuckenfeld;5;21;2;30;Hützemert;09.1;;;149
+57489;Stupperhof;1;3;;;Stupperhof;08.1;;;149
+57489;Südstraße;1;29;2;30;Drolshagen;01.1;;;149
+57489;Talblick;;;2;4;Hützemert;09.1;;;149
+57489;Talerweg;1;9;2;4;Drolshagen;04.1;;;149
+57489;Talstraße;1;13;10;16;Hützemert;09.1;;;149
+57489;Tannenweg;5;7;2;10;Iseringhausen;07.1;;;149
+57489;Theimicker Weg;;;4;24;Drolshagen;08.2;;;149
+57489;Tiggesweg;;;2;6;Hützemert;09.1;;;149
+57489;Unter den Fichten;3;7;2;8;Heimicke;13.1;;;149
+57489;Unter der Löwe;5;43;2;24;Hützemert;09.1;;;149
+57489;Unter der Schule;;;2;4;Wegeringhausen;11.2;;;149
+57489;Unterdorf;1;15;;;Eichen;06.1;;;149
+57489;Unterm Auwer;;;2;8;Germinghausen;11.1;;;149
+57489;Unterm Espen;3;13;;;Wenkhausen;02.1;;;149
+57489;Unterm Feuerteich;1;5;2;2;Schreibershof;13.1;;;149
+57489;Unterm Gallenlöh;1;25;6;16;Drolshagen;01.1;;;149
+57489;Unterm Hölzchen;1;9;6;6;Germinghausen;11.1;;;149
+57489;Unterm Schmierhagen;1;5;;;Wenkhausen;02.1;;;149
+57489;Unterm Stucken;1;1;4;4;Sendschotten;11.1;;;149
+57489;Unterm Timmerberg;1;5;2;8;Schreibershof;13.1;;;149
+57489;Vikar-Wächter-Weg;1;15;2;16;Bleche;10.1;;;149
+57489;Vor der Birke;5;9;8;14;Feldmannshof;08.1;;;149
+57489;Vor der Scheibe;1;9;2;6;Drolshagen;01.1;;;149
+57489;Vorm Bahnhof;5;13;4;10;Hützemert;09.1;;;149
+57489;Vorm Bruch;1;1;;;Husten;07.1;;;149
+57489;Vorm Heiensiepen;1;15;2;14;Benolpe;08.1;;;149
+57489;Vorm Hofe;1;7;2;4;Frenkhausen;12.1;;;149
+57489;Vorm Löh;7;11;2;20;Bleche;10.1;;;149
+57489;Voßhölzchen;;;8;10;Drolshagen;04.1;;;149
+57489;Waldweg;1;9;2;8;Iseringhausen;07.1;;;149
+57489;Weinfeld;1;1;4;8;Iseringhausen;07.1;;;149
+57489;Weißdornstraße;23;45;4;8;Drolshagen;04.1;;;149
+57489;Weststraße;5;29;2;26;Brachtpe;06.1;;;149
+57489;Wiesenstraße;;;6;6;Feldmannshof;08.1;;;149
+57489;Wiggerhof;3;9;4;6;Iseringhausen;07.1;;;149
+57489;Wilhelm-Busch-Weg;3;7;2;2;Drolshagen;04.1;;;149
+57489;Wintersohl;1;3;2;6;Wintersohl;12.1;;;149
+57489;Wormberg;3;17;4;6;Wormberg;08.1;;;149
+57489;Zipperlingssiepen;1;7;2;12;Drolshagen;05.1;;;149
+57489;Zum Bildstock;1;3;2;28;Schürholz;13.1;;;149
+57489;Zum Buchenwald;1;15;2;2;Feldmannshof;08.1;;;149
+57489;Zum Eckkamp;1;15;4;22;Schreibershof;13.1;;;149
+57489;Zum Höchsten;1;3;12;12;Scheda;10.1;;;149
+57489;Zum Knapp;1;19;8;16;Schürholz;13.1;;;149
+57489;Zum Laufhagen;;;4;14;Bleche;10.1;;;149
+57489;Zum Listersee;1;19;2;20;Dumicke;12.2;;;149
+57489;Zum Oberdorf;1;17;2;24;Eichen;06.1;;;149
+57489;Zum Schlagbaum;3;7;8;10;Germinghausen;11.1;;;149
+57489;Zum Springer;1;9;2;16;Schlade;10.1;;;149
+57489;Zum Wiesental;1;13;2;22;Wegeringhausen;11.2;;;149
+57489;Zur Beichel;1;9;2;4;Schreibershof;13.1;;;149
+57489;Zur Bitze;;;4;4;Dumicke;12.2;;;149
+57489;Zur Burg;3;3;2;4;Bleche;10.1;;;149
+57489;Zur Deitmicke;1;1;;;Lüdespert;10.1;;;149
+57489;Zur Eulenbuche;1;1;;;Hützemert;09.1;;;149
+57489;Zur Hofwiese;1;5;2;2;Frenkhausen;12.1;;;149
+57489;Zur Klauert;1;9;4;6;Iseringhausen;07.1;;;149
+57489;Zur Rehpicke;1;5;;;Berlinghausen;06.1;;;149
+57489;Zur Schlade;1;15;2;10;Halbhusten;07.1;;;149
+57489;Zur Silberkuhle;3;57;6;32;Husten;07.1;;;149
+57489;Zur Stuwicke;1;19;4;22;Fohrt;06.1;;;149
+57489;Zur Vogelstange;1;7;2;14;Iseringhausen;07.1;;;149
+57489;Zur Wahlert;;;2;8;Wegeringhausen;11.2;;;149
+57489;Zur alten Kapelle;1;15;2;6;Schreibershof;13.1;;;149
+57489;Zur alten Schmiede;1;17;;;Beul;10.1;;;149
