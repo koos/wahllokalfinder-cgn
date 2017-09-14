@@ -1,0 +1,353 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+57413;Adolf-Färber-Straße;3;7;4;8;Heggen;016.1;;;149
+57413;Adolph-Kolping-Straße;1;15;2;10;Heggen;016.1;;;149
+57413;Agathastraße;;;2;2;Deutmecke;012.1;;;149
+57413;Ahausen;1;1;;;Finnentrop;017.1;;;149
+57413;Ahauser Straße;1;53;4;40;Heggen;016.1;;;149
+57413;Ahornstraße;3;21;4;14;Bamenohl;007.1;;;149
+57413;Alte Lenscheider Straße;1;1;4;4;Rönkhausen;002.1;;;149
+57413;Alte Mark;1;23;2;24;Bamenohl;007.1;;;149
+57413;Alte Scheune;7;9;6;8;Bamenohl;007.1;;;149
+57413;Alte Schloßstraße;7;9;14;14;Lenhausen;003.1;;;149
+57413;Alte Serkenroder Straße;1;35;14;56;Finnentrop;004.1;;;149
+57413;Alter Hof;1;15;2;14;Bamenohl;008.1;;;149
+57413;Alter Kirchweg;1;7;6;6;Lenhausen;003.1;;;149
+57413;Alter Weg;15;43;6;38;Bamenohl;008.1;;;149
+57413;Am Anger;1;27;4;28;Fretter;012.1;;;149
+57413;Am Bruch;5;47;2;44;Fretter;013.1;;;149
+57413;Am Buchen;1;19;8;14;Bamenohl;008.1;;;149
+57413;Am Buchhagen;5;5;;;Schliprüthen;014.2;;;149
+57413;Am Daspel;5;27;2;22;Heggen;016.1;;;149
+57413;Am Diek;1;7;6;6;Schönholthausen;010.1;;;149
+57413;Am Ehrenmal;3;7;4;16;Lenhausen;003.1;;;149
+57413;Am Eichhahn;1;23;2;14;Hülschotten;015.1;;;149
+57413;Am Eisenberg;13;31;8;42;Rönkhausen;002.1;;;149
+57413;Am Eiten;1;11;2;14;Ostentrop;011.1;;;149
+57413;Am Feuerteich;1;3;2;6;Heggen;015.2;;;149
+57413;Am Finnenlöh;1;21;2;16;Heggen;015.2;;;149
+57413;Am Grensing;1;9;2;10;Heggen;015.2;;;149
+57413;Am Hain;1;15;8;10;Bamenohl;008.1;;;149
+57413;Am Halloh;5;67;2;50;Lenhausen;003.1;;;149
+57413;Am Hömberg;1;17;10;10;Finnentrop;006.1;;;149
+57413;Am Hörsten;1;9;4;4;Heggen;017.1;;;149
+57413;Am Jägerhain;1;21;2;16;Bamenohl;008.1;;;149
+57413;Am Kehlberg;1;45;6;22;Ostentrop;011.1;;;149
+57413;Am Kristfelde;3;23;6;14;Rönkhausen;001.1;;;149
+57413;Am Kämpchen;;;4;6;Schliprüthen;014.2;;;149
+57413;Am Lennedamm;9;11;;;Finnentrop;006.1;;;149
+57413;Am Loh;3;9;2;2;Weringhausen;008.2;;;149
+57413;Am Lüdenstein;1;11;2;6;Heggen;016.1;;;149
+57413;Am Markt;1;3;4;4;Finnentrop;005.1;;;149
+57413;Am Mühlacker;15;15;2;36;Rönkhausen;001.1;;;149
+57413;Am Mültenberg;1;15;2;24;Ostentrop;011.1;;;149
+57413;Am Nückel;1;23;2;32;Rönkhausen;002.1;;;149
+57413;Am Rennert;1;27;2;40;Rönkhausen;002.1;;;149
+57413;Am Rott;1;47;2;42;Bamenohl;008.1;;;149
+57413;Am Rötling;;;2;10;Bamenohl;008.1;;;149
+57413;Am Sanger Bach;19;23;14;26;Heggen;015.2;;;149
+57413;Am Schattenberg;3;7;10;20;Heggen;016.1;;;149
+57413;Am Sonnenhang;3;7;2;10;Hülschotten;015.1;;;149
+57413;Am Sportplatz;1;9;2;40;Heggen;016.1;;;149
+57413;Am Spreeberg;3;15;4;22;Fretter;013.1;;;149
+57413;Am Steinwerk;17;25;;;Heggen;017.1;;;149
+57413;Am Weingarten;3;49;6;48;Fretter;012.1;;;149
+57413;Am Wolfssiepen;1;19;4;22;Bamenohl;007.1;;;149
+57413;Amselweg;5;9;4;14;Lenhausen;003.1;;;149
+57413;Amtshausweg;;;8;14;Serkenrode;014.1;;;149
+57413;An den Eichen;1;5;;;Finnentrop;005.1;;;149
+57413;An den Klippen;1;7;;;Heggen;015.2;;;149
+57413;An der Eichert;;;2;2;Weringhausen;008.2;;;149
+57413;An der Haardt;3;15;8;8;Heggen;015.2;;;149
+57413;An der Heidschlah;5;75;28;66;Illeschlade;017.1;;;149
+57413;An der Legge;1;9;2;10;Bamenohl;007.1;;;149
+57413;An der Marienkapelle;3;15;4;6;Lenhausen;003.1;;;149
+57413;An der Piene;1;25;2;14;Lenhausen;003.1;;;149
+57413;An der Stumpe;1;7;2;4;Heggen;015.2;;;149
+57413;An der Webe;;;2;22;Deutmecke;012.1;;;149
+57413;An der Wilhelmshöhle;7;9;4;24;Heggen;017.1;;;149
+57413;Asternstraße;7;25;6;34;Heggen;016.1;;;149
+57413;Attendorner Straße;;;2;12;Finnentrop;006.1;;;149
+57413;Attendorner Straße;5;5;;;Heggen;006.1;;;149
+57413;Attendorner Straße;11;11;20;20;Altfinnentrop;006.1;;;149
+57413;Attendorner Straße;31;31;;;Heggen;017.1;;;149
+57413;Attendorner Straße;35;45;24;58;Altfinnentrop;017.1;;;149
+57413;Attendorner Straße;103;159;82;148;Heggen;017.1;;;149
+57413;Auf dem Hahne;1;37;2;16;Heggen;017.1;;;149
+57413;Auf dem Stein;1;29;14;14;Rönkhausen;001.1;;;149
+57413;Auf der Bieke;1;7;2;6;Schöndelt;013.2;;;149
+57413;Auf der Burg;5;61;2;62;Fretter;012.1;;;149
+57413;Auf der Ennest;1;17;4;10;Fretter;012.1;;;149
+57413;Auf der Habbecke;5;17;8;14;Finnentrop;006.1;;;149
+57413;Auf der Helle;1;9;2;10;Schönholthausen;010.1;;;149
+57413;Bachstraße;3;7;;;Serkenrode;014.1;;;149
+57413;Bahnhofstraße;19;31;4;4;Rönkhausen;001.1;;;149
+57413;Bamenohler Straße;105;131;106;110;Bamenohl;007.1;;;149
+57413;Bamenohler Straße;231;361;192;410;Finnentrop;006.1;;;149
+57413;Bamenohler Straße;15;103;2;102;Bamenohl;009.1;;;149
+57413;Baukenweg;3;3;4;8;Schönholthausen;010.1;;;149
+57413;Baumschulweg;1;7;6;22;Lenhausen;003.1;;;149
+57413;Bausenrode;1;5;2;4;Finnentrop;013.1;;;149
+57413;Bausenroder Weg;1;15;2;2;Fretter;012.1;;;149
+57413;Becksiepen;1;1;;;Finnentrop;014.2;;;149
+57413;Beethovenstraße;3;13;;;Finnentrop;005.1;;;149
+57413;Behringstraße;1;1;2;6;Finnentrop;005.1;;;149
+57413;Bergstraße;17;31;2;42;Heggen;017.1;;;149
+57413;Bermeckestraße;3;9;2;18;Ostentrop;011.1;;;149
+57413;Besten;1;1;;;Finnentrop;010.1;;;149
+57413;Biggestraße;;;2;2;Heggen;017.1;;;149
+57413;Birkenstraße;11;61;2;38;Weringhausen;008.2;;;149
+57413;Birkenstraße;77;85;;;Finnentrop;005.1;;;149
+57413;Bismarckstraße;5;17;8;18;Bamenohl;008.1;;;149
+57413;Blumenstraße;3;51;;;Lenhausen;003.1;;;149
+57413;Breiter Weg;5;7;6;8;Schönholthausen;010.1;;;149
+57413;Brückenweg;1;11;;;Fretter;013.1;;;149
+57413;Buchhahnstraße;3;7;2;10;Hülschotten;015.1;;;149
+57413;Christine-Koch-Straße;1;11;2;28;Bamenohl;007.1;;;149
+57413;Dahlienweg;1;11;4;14;Heggen;016.1;;;149
+57413;Dahm;1;1;2;2;Finnentrop;017.1;;;149
+57413;Daspelstraße;;;8;10;Heggen;015.2;;;149
+57413;Daspelstraße;1;11;;;Heggen;016.1;;;149
+57413;Diksmuider Straße;11;17;2;16;Finnentrop;004.1;;;149
+57413;Dorfstraße;1;29;2;28;Ostentrop;011.1;;;149
+57413;Dormkeweg;5;13;4;4;Hülschotten;015.1;;;149
+57413;Drosselweg;1;23;2;30;Lenhausen;003.1;;;149
+57413;Droste-Hülshoff-Straße;1;9;2;8;Bamenohl;007.1;;;149
+57413;Eichendorffstraße;1;15;2;14;Deutmecke;012.1;;;149
+57413;Eichenweg;3;13;8;20;Lenhausen;003.1;;;149
+57413;Eikesweg;5;7;;;Lenhausen;003.1;;;149
+57413;Einsteinstraße;;;2;18;Finnentrop;004.1;;;149
+57413;Eitenweg;9;27;6;24;Illeschlade;017.1;;;149
+57413;Elsmecke;5;7;6;6;Finnentrop;013.2;;;149
+57413;Esloher Straße;111;261;110;280;Fretter;013.1;;;149
+57413;Esloher Straße;51;91;60;96;Deutmecke;012.1;;;149
+57413;Esloher Straße;1;3;;;Frettermühle;011.1;;;149
+57413;Falbecke;1;9;2;14;Finnentrop;006.1;;;149
+57413;Falkenweg;;;2;12;Bamenohl;008.1;;;149
+57413;Fasanenweg;1;7;2;12;Bamenohl;008.1;;;149
+57413;Faulebutter;1;11;2;12;Finnentrop;010.1;;;149
+57413;Fehrenbracht;1;17;2;16;Finnentrop;014.2;;;149
+57413;Fehrenbrachter Straße;1;31;12;20;Schliprüthen;014.2;;;149
+57413;Feldstraße;3;9;4;18;Lenhausen;003.1;;;149
+57413;Finnentroper Straße;3;39;4;36;Heggen;015.2;;;149
+57413;Fliederstraße;1;25;2;34;Heggen;016.1;;;149
+57413;Freiherr-V.-Stein-Str.;1;1;2;10;Finnentrop;006.1;;;149
+57413;Freithoffstraße;;;14;40;Heggen;017.1;;;149
+57413;Fretterbachstraße;1;29;14;34;Lenhausen;003.1;;;149
+57413;Fretterstraße;9;111;2;114;Serkenrode;014.1;;;149
+57413;Friedhofstraße;1;59;2;36;Rönkhausen;002.1;;;149
+57413;Frielentrop;1;11;2;14;Finnentrop;003.1;;;149
+57413;Gartenstraße;1;7;12;12;Bamenohl;009.1;;;149
+57413;Geranienweg;1;11;4;6;Heggen;016.1;;;149
+57413;Gerhart-Hauptmann-Str.;9;33;14;42;Fretter;013.1;;;149
+57413;Giebelscheidstraße;5;155;2;146;Fretter;012.1;;;149
+57413;Gierschlade;17;31;18;30;Finnentrop;011.1;;;149
+57413;Gierschlader Straße;3;13;4;12;Frettermühle;011.1;;;149
+57413;Glinge;5;81;8;50;Rönkhausen;002.1;;;149
+57413;Glingestraße;17;125;4;128;Rönkhausen;002.1;;;149
+57413;Glockenweg;7;7;;;Fretter;013.1;;;149
+57413;Graf-V.-Plettenberg-Str.;13;23;2;24;Bamenohl;009.1;;;149
+57413;Grimmeweg;1;3;2;2;Bamenohl;007.1;;;149
+57413;Grünebachstraße;1;9;2;6;Hülschotten;015.1;;;149
+57413;Grüner Weg;1;23;2;22;Heggen;015.2;;;149
+57413;Gutenbergstraße;5;5;2;4;Finnentrop;004.1;;;149
+57413;Haardtskopf;3;31;2;20;Bamenohl;007.1;;;149
+57413;Habbecker Heide;1;7;2;12;Finnentrop;005.1;;;149
+57413;Hackelandstraße;9;11;2;8;Deutmecke;012.1;;;149
+57413;Hallenstraße;1;13;2;12;Serkenrode;014.1;;;149
+57413;Hauptstraße;3;47;2;68;Heggen;017.1;;;149
+57413;Hauptstraße;51;61;70;72;Heggen;016.1;;;149
+57413;Heidfeld;;;4;20;Finnentrop;005.1;;;149
+57413;Helbraer Straße;1;11;4;12;Finnentrop;005.1;;;149
+57413;Hellwecker Weg;;;2;10;Müllen;010.1;;;149
+57413;Hemkestraße;7;9;4;8;Serkenrode;014.1;;;149
+57413;Herbergsweg;5;5;2;4;Bamenohl;007.1;;;149
+57413;Hesenbergstraße;3;5;4;14;Serkenrode;014.1;;;149
+57413;Hochschlade;1;15;4;26;Rönkhausen;002.1;;;149
+57413;Hochstraße;1;47;8;8;Heggen;015.2;;;149
+57413;Hohensteiner Straße;3;13;2;28;Fretter;012.1;;;149
+57413;Hohle Straße;1;9;6;20;Schliprüthen;014.2;;;149
+57413;Hohler Weg;;;12;12;Lenhausen;003.1;;;149
+57413;Hollenbock;1;9;4;4;Finnentrop;015.2;;;149
+57413;Hollenbocker Straße;1;53;2;62;Heggen;016.1;;;149
+57413;Humboldtstraße;1;5;2;8;Finnentrop;004.1;;;149
+57413;Händelstraße;7;29;4;12;Finnentrop;005.1;;;149
+57413;Höhenweg;11;11;2;12;Deutmecke;012.1;;;149
+57413;Hörden Kamp;5;13;2;8;Schönholthausen;010.1;;;149
+57413;Hülschotter Straße;;;40;52;Sange;015.2;;;149
+57413;Hülschotter Straße;1;29;6;30;Heggen;015.2;;;149
+57413;Im Apfelhof;1;5;2;4;Ostentrop;011.1;;;149
+57413;Im Born;3;29;24;28;Schönholthausen;010.1;;;149
+57413;Im Bruch;1;5;2;2;Weringhausen;008.2;;;149
+57413;Im Falker;1;35;2;62;Ostentrop;011.1;;;149
+57413;Im Felde;1;9;;;Rönkhausen;001.1;;;149
+57413;Im Hahnebuchen;;;10;10;Frettermühle;011.1;;;149
+57413;Im Kamp;5;13;2;6;Bamenohl;008.1;;;149
+57413;Im Oberdorf;3;7;2;8;Schliprüthen;014.2;;;149
+57413;Im Obsthof;3;9;2;6;Schönholthausen;010.1;;;149
+57413;Im Ohl;3;9;2;18;Bamenohl;009.1;;;149
+57413;Im Schlot;1;7;8;8;Heggen;017.1;;;149
+57413;Im Siepen;3;21;2;10;Illeschlade;017.1;;;149
+57413;Im Sinkel;1;47;4;36;Heggen;016.1;;;149
+57413;Im Wiesengrund;3;11;6;8;Schönholthausen;010.1;;;149
+57413;Imbergstraße;;;2;10;Serkenrode;014.1;;;149
+57413;In der Mark;1;37;12;54;Bamenohl;007.1;;;149
+57413;In der Mark;51;77;56;78;Finnentrop;005.1;;;149
+57413;In der Schlade;3;29;2;38;Rönkhausen;002.1;;;149
+57413;Industriestraße;17;19;10;38;Finnentrop;003.1;;;149
+57413;Johannes-Biggemann-Straße;11;69;10;64;Finnentrop;004.1;;;149
+57413;Johannes-Biggemann-Straße;71;89;78;88;Bamenohl;007.1;;;149
+57413;Johannes-Scheele-Straße;11;23;2;28;Bamenohl;009.1;;;149
+57413;Josef-Anton-Henke-Straße;1;17;;;Frettermühle;011.1;;;149
+57413;Josef-Quinke-Straße;5;27;10;36;Fretter;012.1;;;149
+57413;Josef-Sternberg-Straße;1;15;2;22;Heggen;016.1;;;149
+57413;Kaisers Kamp;7;13;12;16;Serkenrode;014.1;;;149
+57413;Kalkofenstraße;13;13;;;Finnentrop;003.1;;;149
+57413;Kalkwerkstraße;1;69;4;70;Fretter;013.1;;;149
+57413;Kampstraße;3;5;6;6;Schönholthausen;010.1;;;149
+57413;Kanalweg;;;2;2;Finnentrop;006.1;;;149
+57413;Kapellenstraße;15;29;2;42;Rönkhausen;002.1;;;149
+57413;Kapellenweg;3;19;14;22;Altfinnentrop;017.1;;;149
+57413;Keplerweg;1;5;2;4;Finnentrop;004.1;;;149
+57413;Kerkesschlade;1;11;2;12;Fretter;012.1;;;149
+57413;Kerschlade;;;6;8;Hülschotten;015.1;;;149
+57413;Kiefernweg;7;29;4;26;Lenhausen;003.1;;;149
+57413;Kilianstraße;3;127;8;120;Rönkhausen;001.1;;;149
+57413;Killeschlader Weg;11;65;2;62;Bamenohl;007.1;;;149
+57413;Killeschlader Weg;71;83;68;80;Finnentrop;005.1;;;149
+57413;Kirchecke;5;13;10;14;Lenhausen;003.1;;;149
+57413;Kirchstraße;7;107;12;98;Finnentrop;006.1;;;149
+57413;Klingelborn;1;1;;;Finnentrop;010.1;;;149
+57413;Koltermecke;3;19;6;18;Schönholthausen;010.1;;;149
+57413;Koltermecker Weg;3;9;2;10;Ostentrop;011.1;;;149
+57413;Kopernikusstraße;21;21;2;20;Finnentrop;005.1;;;149
+57413;Krähenbergstraße;3;9;6;14;Weringhausen;008.2;;;149
+57413;Kuckuck;1;1;2;2;Finnentrop;014.2;;;149
+57413;Kurzer Weg;3;5;4;14;Serkenrode;014.1;;;149
+57413;Lehmbergstraße;1;59;2;50;Lenhausen;003.1;;;149
+57413;Lehmker Weg;35;35;30;34;Altfinnentrop;017.1;;;149
+57413;Lenhauser Straße;;;2;34;Müllen;010.1;;;149
+57413;Lennefeldstraße;1;33;2;24;Bamenohl;009.1;;;149
+57413;Lennestraße;3;125;48;98;Finnentrop;006.1;;;149
+57413;Lenscheider Straße;7;113;4;110;Rönkhausen;001.1;;;149
+57413;Liebigstraße;1;7;4;42;Finnentrop;004.1;;;149
+57413;Lindenweg;1;5;2;8;Rönkhausen;001.1;;;149
+57413;Lärchenweg;9;9;2;12;Weringhausen;008.2;;;149
+57413;Maihecke;3;3;2;2;Heggen;015.2;;;149
+57413;Matthiasstraße;9;63;30;68;Fretter;012.1;;;149
+57413;Max-Planck-Ring;1;73;4;18;Finnentrop;004.1;;;149
+57413;Mittelstraße;3;23;4;18;Bamenohl;009.1;;;149
+57413;Mittelweg;1;7;4;8;Ostentrop;011.1;;;149
+57413;Mißmecke;1;1;2;2;Finnentrop;011.1;;;149
+57413;Mozartstraße;1;11;;;Finnentrop;005.1;;;149
+57413;Mühlenberg;1;7;2;10;Lenhausen;003.1;;;149
+57413;Mühlenschlade;1;49;12;40;Bamenohl;009.1;;;149
+57413;Mühlenstraße;;;4;34;Lenhausen;003.1;;;149
+57413;Mühlenweg;3;31;6;18;Rönkhausen;001.1;;;149
+57413;Mühlenwinkel;11;11;2;40;Frettermühle;011.1;;;149
+57413;Nelkenstraße;1;27;16;30;Heggen;016.1;;;149
+57413;Neue Straße;1;17;4;14;Altfinnentrop;017.1;;;149
+57413;Neuer Weg;5;15;4;4;Ostentrop;011.1;;;149
+57413;Niggenweg;3;9;;;Heggen;017.1;;;149
+57413;Obere Lehmbergstraße;3;9;2;10;Lenhausen;003.1;;;149
+57413;Ostentrop;1;1;;;Finnentrop;011.1;;;149
+57413;Ostentroper Straße;1;11;;;Frettermühle;011.1;;;149
+57413;Oststraße;1;5;2;4;Schliprüthen;014.2;;;149
+57413;Papenschlade;7;19;4;30;Lenhausen;003.1;;;149
+57413;Parkweg;1;5;;;Heggen;017.1;;;149
+57413;Pastoratsweg;7;11;2;6;Fretter;012.1;;;149
+57413;Patenbergstraße;1;55;4;60;Serkenrode;014.1;;;149
+57413;Permecke;7;9;10;10;Finnentrop;013.2;;;149
+57413;Pfarrer-Dornseiffer-Str.;3;11;4;8;Fretter;012.1;;;149
+57413;Pfarrer-Hapig-Straße;5;15;2;18;Rönkhausen;001.1;;;149
+57413;Pfarrer-Schmalohr-Straße;1;7;;;Heggen;015.2;;;149
+57413;Pfarrer-Zeppenfeld-Weg;1;1;;;Bamenohl;008.1;;;149
+57413;Pollenweg;1;1;;;Heggen;017.1;;;149
+57413;Poststraße;3;25;4;40;Serkenrode;014.1;;;149
+57413;Prof.-Brögger-Straße;5;15;2;2;Fretter;013.1;;;149
+57413;Prof.-Feldmann-Straße;5;11;;;Bamenohl;009.1;;;149
+57413;Ramscheid;1;9;2;8;Finnentrop;014.1;;;149
+57413;Ramscheider Straße;1;5;;;Serkenrode;014.1;;;149
+57413;Riedmecker Straße;1;21;10;22;Deutmecke;012.1;;;149
+57413;Ringstraße;1;19;6;16;Schönholthausen;010.1;;;149
+57413;Robert-König-Straße;3;17;8;24;Serkenrode;014.1;;;149
+57413;Rosenstraße;1;11;2;12;Schönholthausen;010.1;;;149
+57413;Rundschlade;1;17;4;24;Bamenohl;007.1;;;149
+57413;Sandweg;;;4;8;Fretter;013.1;;;149
+57413;Sanger Straße;3;27;4;20;Heggen;015.2;;;149
+57413;Schladeweg;;;2;4;Deutmecke;012.1;;;149
+57413;Schliprüthen-Mühle;1;1;2;2;Finnentrop;014.2;;;149
+57413;Schubertstraße;1;15;;;Finnentrop;005.1;;;149
+57413;Schulstraße;5;11;4;8;Heggen;016.1;;;149
+57413;Schultenweg;3;5;2;8;Ostentrop;011.1;;;149
+57413;Schulweg;1;1;4;12;Finnentrop;006.1;;;149
+57413;Schumannstraße;5;19;10;20;Finnentrop;005.1;;;149
+57413;Schwartmecke;1;1;2;2;Finnentrop;011.1;;;149
+57413;Schöndelter Straße;1;17;4;10;Fretter;013.1;;;149
+57413;Schönholthauser Weg;9;27;8;28;Finnentrop;006.1;;;149
+57413;Schützenstraße;5;23;6;24;Bamenohl;009.1;;;149
+57413;Serkenroder Straße;65;93;62;94;Finnentrop;005.1;;;149
+57413;Serkenroder Straße;;;96;128;Bamenohl;007.1;;;149
+57413;Serkenroder Straße;57;59;;;Finnentrop;004.1;;;149
+57413;Settmecker Weg;1;53;2;48;Rönkhausen;001.1;;;149
+57413;Sinkelstraße;1;25;4;32;Sange;015.2;;;149
+57413;Sonneborner Straße;3;31;12;32;Hülschotten;015.1;;;149
+57413;Sonnenkamp;1;19;2;16;Weringhausen;008.2;;;149
+57413;Sonnenweg;5;7;2;10;Heggen;015.2;;;149
+57413;Spreeweg;1;27;4;20;Fretter;012.1;;;149
+57413;St.-Anna-Straße;1;37;8;38;Lenhausen;003.1;;;149
+57413;St.-Georg-Weg;1;1;;;Schliprüthen;014.2;;;149
+57413;St.-Lucia-Straße;1;23;4;24;Ostentrop;011.1;;;149
+57413;Steinhagen;3;7;2;6;Schöndelt;013.2;;;149
+57413;Steinsiepen;1;1;;;Finnentrop;014.2;;;149
+57413;Steinstraße;1;15;2;6;Heggen;016.1;;;149
+57413;Sängerloh;1;15;6;16;Finnentrop;004.1;;;149
+57413;Tannenweg;1;7;2;4;Bamenohl;008.1;;;149
+57413;Telemannstraße;1;13;;;Finnentrop;005.1;;;149
+57413;Theodor-Fontane-Straße;17;21;2;22;Finnentrop;004.1;;;149
+57413;Theodor-Storm-Straße;1;11;2;36;Finnentrop;004.1;;;149
+57413;Therecker Weg;5;19;6;24;Rönkhausen;001.1;;;149
+57413;Tiefenau;1;1;;;Finnentrop;015.1;;;149
+57413;Totenweg;1;7;;;Bamenohl;008.1;;;149
+57413;Tulpenstraße;1;9;2;12;Schönholthausen;010.1;;;149
+57413;Uferstraße;3;3;;;Bamenohl;009.1;;;149
+57413;Unter der Eintke;7;13;;;Fretter;013.1;;;149
+57413;Untere Kirchstraße;1;7;;;Finnentrop;006.1;;;149
+57413;Unterer Hammer;1;3;2;4;Lenhausen;003.1;;;149
+57413;Viermorgen;1;11;6;14;Bamenohl;007.1;;;149
+57413;Von-Heygen-Straße;1;11;8;12;Heggen;016.1;;;149
+57413;Waldstraße;1;11;2;8;Finnentrop;005.1;;;149
+57413;Weringhauser Straße;7;7;40;40;Bamenohl;008.1;;;149
+57413;Weringhauser Straße;63;95;56;92;Weringhausen;008.2;;;149
+57413;Werksweg;7;7;;;Finnentrop;006.1;;;149
+57413;Westfalenstraße;9;85;10;76;Lenhausen;003.1;;;149
+57413;Weuspert;3;13;2;14;Finnentrop;010.1;;;149
+57413;Weusperter Straße;1;53;4;40;Schönholthausen;010.1;;;149
+57413;Wiebelhausen;1;13;2;4;Finnentrop;013.2;;;149
+57413;Wiemker Weg;7;47;2;34;Bamenohl;008.1;;;149
+57413;Wietfeldstraße;1;5;4;6;Sange;015.2;;;149
+57413;Wilhelm-Busch-Straße;;;2;10;Finnentrop;005.1;;;149
+57413;Wilhelm-Münker-Straße;1;5;2;6;Heggen;016.1;;;149
+57413;Willscheidweg;11;43;4;34;Fretter;013.1;;;149
+57413;Wilmkestraße;1;53;6;60;Hülschotten;015.1;;;149
+57413;Wulverschlade;3;19;2;12;Rönkhausen;002.1;;;149
+57413;Wörden;7;7;2;6;Finnentrop;010.1;;;149
+57413;Zum Buchhagen;9;21;6;26;Schöndelt;013.2;;;149
+57413;Zum Elberskamp;25;25;;;Heggen;016.1;;;149
+57413;Zum Greffling;5;39;2;42;Schönholthausen;010.1;;;149
+57413;Zum Hagen;1;11;;;Weringhausen;008.2;;;149
+57413;Zum Mondschein;1;19;2;16;Weringhausen;008.2;;;149
+57413;Zum Otterstein;1;11;;;Deutmecke;012.1;;;149
+57413;Zum Schee;1;53;4;54;Finnentrop;005.1;;;149
+57413;Zum Schmandsack;1;25;4;28;Schönholthausen;010.1;;;149
+57413;Zum Tilo;1;27;2;26;Rönkhausen;002.1;;;149
+57413;Zur Darre;7;21;6;16;Heggen;016.1;;;149
+57413;Zur Delle;;;4;12;Bamenohl;007.1;;;149
+57413;Zur Egge;1;31;4;32;Weringhausen;008.2;;;149
+57413;Zur Fettweide;3;41;;;Bamenohl;009.1;;;149
+57413;Zur Fielbecke;1;21;2;26;Finnentrop;005.1;;;149
+57413;Zur Haardt;1;7;2;6;Bamenohl;008.1;;;149
+57413;Zur Heide;3;15;2;20;Ostentrop;011.1;;;149
+57413;Zur Hellewiese;1;21;4;10;Schönholthausen;010.1;;;149
+57413;Zur Schlerre;1;13;2;8;Schönholthausen;010.1;;;149
+57413;Zur Weskede;3;5;2;8;Ostentrop;011.1;;;149
+57413;Über der Schule;1;15;;;Schliprüthen;014.2;;;149
