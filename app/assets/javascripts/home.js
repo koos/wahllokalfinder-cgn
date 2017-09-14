@@ -78,6 +78,8 @@ $(window).bind('resize', function() {
   doResizeMap()
 });
 
+<<<<<<< HEAD
 if (typeof map === 'object'){ map.on('load', function () {doResizeMap() });
 map.on('zoom', function () { mapZoomEdge() });
 } 
+
