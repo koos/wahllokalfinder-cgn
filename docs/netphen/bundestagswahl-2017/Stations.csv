@@ -1,0 +1,29 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+011;Afholderbach Dorfgemeinschaftshaus;Erndtebrücker Straße;19;;;57250;Netphen;;J
+021;Beienbach Alte Schule;Schnellenbergstraße;3;;;57250;Netphen;;N
+031;Brauersdorf Kindergarten;Zur Talsperre;2;;;57250;Netphen;;J
+041;Deuz Alte Turnh. Hauptschule;Nauholzer Weg;5;;;57250;Netphen;;J
+051;Deuz Bahnhof Deuz;Albert-Irle-Straße;12;;;57250;Netphen;;J
+061;Dreis-Tiefenbach I Dreisbachhalle;Hüttenwiese;6;;;57250;Netphen;;J
+071;Dreis-Tiefenbach II Kindergarten Heckersb.;Heckersbergstraße;39;;;57250;Netphen;;N
+081;Dreis-Tiefenbach III Dreisbachhalle;Hüttenwiese;6;;;57250;Netphen;;J
+091;Dreis-Tiefenbach IV Dreisbachhalle;Hüttenwiese;6;;;57250;Netphen;;J
+101;Eckmannshausen Grundschule;Ulmenweg;2;;;57250;Netphen;;N
+111;Eschenbach Feuerwehrhaus;Berleburger Straße;31;;;57250;Netphen;;J
+121;Frohnhausen Dorfgemschaftshaus;Am Hömberg;27;;;57250;Netphen;;J
+131;Grissenbach Evangelische Kapelle;In der Hälsbach;2;;;57250;Netphen;;J
+141;Hainchen Dorfgemschaftshaus;Meisenweg;8;;;57250;Netphen;;J
+161;Herzhausen Bürgerhaus;Hilchenbacher Straße;60;;;57250;Netphen;;J
+171;Irmgarteichen Pfarrheim;Glockenstraße;12;;;57250;Netphen;;J
+181;Nenkersdorf Eingang Sporthalle;Sieg-Lahn-Straße;42;;;57250;Netphen;;J
+191;Netphen I Grundschule Niedernetphen;Frohnhausener Straße;1;;;57250;Netphen;;J
+201;Netphen II Georg-Heimann-Halle;Jahnstraße;9;;;57250;Netphen;;J
+211;Netphen III Heimatmuseum;Lahnstraße;47;;;57250;Netphen;;J
+221;Netphen IV Grundschule Obernetphen;Brauersdorfer Straße;33;;;57250;Netphen;;J
+251;Sohlbach Dorfgemschaftshaus;Rödchenweg;5;;;57250;Netphen;;J
+261;Unglinghausen Bürgerbegegnungsstätte;Hauptstraße;54;;;57250;Netphen;;N
+271;Walpersdorf Kath. öffentliche Bücherei St. Sebastian;St.-Sebastian-Straße;1;;;57250;Netphen;;N
+281;Werthenbach Kindergarten;Werthestraße;18;;;57250;Netphen;;J
+231;Oelgershausen Freizeitraum Backhaus;Auf der Schütze;2;;;57250;Netphen;;J
+151;Helgersdorf Begegnungshaus am Backes;Helgersdorfer Str.;8B;;;57250;Netphen;;J
+241;Salchendorf Eingang Sporthalle;Schulstraße;26;;;57250;Netphen;;J

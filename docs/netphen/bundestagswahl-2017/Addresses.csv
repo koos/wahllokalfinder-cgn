@@ -1,0 +1,519 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+57250;A.-V.-Droste-Hülshoff-Str;5;29;4;30;Dreis-Tiefenbach;081;;;148
+57250;Ackerstraße;;;2;2;Frohnhausen;121;;;148
+57250;Adam-Kreuz-Straße;1;13;2;12;Herzhausen;161;;;148
+57250;Adolf-Kolping-Weg;1;27;2;18;Netphen;211;;;148
+57250;Afferbachstraße;;;2;2;Afholderbach;011;;;148
+57250;Afferbachstraße;;;2;2;Afholderbach;011;;;148
+57250;Ahornweg;1;19;2;16;Deuz;041;;;148
+57250;Akazienweg;5;7;2;2;Deuz;041;;;148
+57250;Albert-Irle-Straße;1;7;4;8;Deuz;051;;;148
+57250;Albert-Klenner-Straße;3;15;2;10;Salchendorf;241;;;148
+57250;Alexander-Vollmer-Straße;1;7;4;8;Netphen;201;;;148
+57250;Allenbacher Straße;1;15;2;24;Eckmannshausen;101;;;148
+57250;Alte-Burg-Straße;1;23;2;24;Eschenbach;111;;;148
+57250;Alterbachstraße;5;5;;;Afholderbach;011;;;148
+57250;Altwiese;9;9;2;10;Netphen;201;;;148
+57250;Am Bahnhof;3;15;2;2;Hainchen;281;;;148
+57250;Am Berg;3;13;2;10;Unglinghausen;261;;;148
+57250;Am Bernstein;;;18;18;Netphen;211;;;148
+57250;Am Birkenrain;3;27;2;28;Eschenbach;111;;;148
+57250;Am Bornacker;1;1;;;Oelgershausen;231;;;148
+57250;Am Botschert;3;11;8;28;Werthenbach;281;;;148
+57250;Am Brünkel;3;3;6;6;Afholderbach;011;;;148
+57250;Am Burgrain;;;6;6;Dreis-Tiefenbach;061;;;148
+57250;Am Bösen Born;1;11;2;16;Netphen;221;;;148
+57250;Am Bühlskopf;1;1;;;Nenkersdorf;181;;;148
+57250;Am Eiersberg;7;27;10;34;Salchendorf;241;;;148
+57250;Am Freibad;;;2;2;Deuz;051;;;148
+57250;Am Gottstuhl;1;17;6;6;Herzhausen;161;;;148
+57250;Am Hainberg;1;1;;;Oelgershausen;231;;;148
+57250;Am Hang;5;9;8;14;Brauersdorf;031;;;148
+57250;Am Heller;5;27;2;2;Werthenbach;281;;;148
+57250;Am Hewig;7;19;2;24;Salchendorf;241;;;148
+57250;Am Hubertushain;7;13;2;8;Eckmannshausen;101;;;148
+57250;Am Hömberg;1;23;2;32;Frohnhausen;121;;;148
+57250;Am Hügel;1;7;20;20;Brauersdorf;031;;;148
+57250;Am Hüttenwald;1;9;2;14;Eckmannshausen;101;;;148
+57250;Am Kirchrain;1;5;2;4;Netphen;211;;;148
+57250;Am Knebelchen;;;2;10;Grissenbach;131;;;148
+57250;Am Leielchen;3;3;8;12;Brauersdorf;031;;;148
+57250;Am Liesch;5;23;;;Dreis-Tiefenbach;091;;;148
+57250;Am Lindenhof;1;29;2;32;Irmgarteichen;171;;;148
+57250;Am Löhchen;3;5;6;8;Werthenbach;281;;;148
+57250;Am Mühlenrain;1;5;2;6;Irmgarteichen;171;;;148
+57250;Am Rödchen;;;6;10;Sohlbach;251;;;148
+57250;Am Schieferstein;3;23;2;16;Walpersdorf;271;;;148
+57250;Am Sonnenhang;1;27;2;16;Eschenbach;111;;;148
+57250;Am Sportplatz;1;7;4;4;Hainchen;141;;;148
+57250;Am Steinacker;3;15;4;26;Grissenbach;131;;;148
+57250;Am Waldhang;1;41;2;12;Eckmannshausen;101;;;148
+57250;Am Wasser;;;6;6;Eschenbach;111;;;148
+57250;Am Wolfshain;1;13;2;14;Netphen;191;;;148
+57250;Am Wurmel;1;53;2;8;Beienbach;021;;;148
+57250;Am alten Hain;1;7;2;10;Unglinghausen;261;;;148
+57250;Amselweg;;;2;6;Irmgarteichen;171;;;148
+57250;Amtsstraße;9;13;2;10;Netphen;211;;;148
+57250;An der Dreisbach;27;41;4;42;Herzhausen;161;;;148
+57250;An der Ecke;1;11;;;Brauersdorf;031;;;148
+57250;An der Netphe;33;81;2;74;Netphen;201;;;148
+57250;An der Obernau;1;25;4;16;Netphen;221;;;148
+57250;An der Sieg;;;2;8;Netphen;211;;;148
+57250;An der Steinwiese;5;7;;;Herzhausen;161;;;148
+57250;An der Wende;;;4;4;Afholderbach;011;;;148
+57250;Andreasstraße;1;15;2;14;Eschenbach;111;;;148
+57250;Anton-Gabriel-Straße;11;15;6;16;Netphen;201;;;148
+57250;Anzerbergstraße;1;7;2;4;Salchendorf;241;;;148
+57250;Asternweg;1;7;2;12;Deuz;041;;;148
+57250;Auf dem Boden;1;33;2;52;Brauersdorf;031;;;148
+57250;Auf dem Garten;3;29;4;36;Brauersdorf;031;;;148
+57250;Auf dem Rain;;;2;6;Eckmannshausen;101;;;148
+57250;Auf dem Stück;1;15;2;18;Beienbach;021;;;148
+57250;Auf dem alten Hof;1;11;2;6;Beienbach;021;;;148
+57250;Auf den Sindern;3;5;2;18;Netphen;201;;;148
+57250;Auf den Stäten;1;15;;;Deuz;051;;;148
+57250;Auf den Weiden;;;2;2;Deuz;041;;;148
+57250;Auf der Au;3;7;6;14;Dreis-Tiefenbach;091;;;148
+57250;Auf der Blashütte;1;19;2;32;Dreis-Tiefenbach;061;;;148
+57250;Auf der Höh;;;2;6;Beienbach;021;;;148
+57250;Auf der Ley;3;5;2;4;Nenkersdorf;181;;;148
+57250;Auf der Schläfe;1;9;2;8;Dreis-Tiefenbach;081;;;148
+57250;Auf der Schütze;3;31;10;30;Oelgershausen;231;;;148
+57250;Auf der Spitze;1;15;6;16;Salchendorf;241;;;148
+57250;Auf der Struth;1;11;;;Irmgarteichen;171;;;148
+57250;Austraße;19;47;2;62;Dreis-Tiefenbach;061;;;148
+57250;Bachweg;1;3;;;Eschenbach;111;;;148
+57250;Bahnhofstraße;1;69;2;72;Netphen;211;;;148
+57250;Barbaraweg;;;2;6;Walpersdorf;271;;;148
+57250;Baumhofstraße;1;17;2;16;Helgersdorf;151;;;148
+57250;Beethovenweg;1;9;2;10;Dreis-Tiefenbach;091;;;148
+57250;Beienbacher Weg;1;25;8;16;Deuz;041;;;148
+57250;Berghofstraße;1;7;2;8;Werthenbach;281;;;148
+57250;Bergstraße;1;35;2;34;Netphen;201;;;148
+57250;Berleburger Straße;11;33;8;40;Eschenbach;111;;;148
+57250;Berliner Hof;9;9;4;12;Werthenbach;281;;;148
+57250;Berliner Straße;1;51;2;38;Deuz;041;;;148
+57250;Bickwiese;3;11;2;10;Hainchen;141;;;148
+57250;Bienenweg;3;5;2;4;Werthenbach;281;;;148
+57250;Billenbachstraße;1;27;2;28;Eschenbach;111;;;148
+57250;Birkenweg;1;29;2;28;Eckmannshausen;101;;;148
+57250;Bismarckstraße;1;35;8;30;Dreis-Tiefenbach;081;;;148
+57250;Blumenstraße;1;3;4;4;Deuz;041;;;148
+57250;Blütenweg;1;1;;;Irmgarteichen;171;;;148
+57250;Bodelschwinghstraße;1;37;2;46;Netphen;211;;;148
+57250;Bogenstraße;1;1;;;Oelgershausen;231;;;148
+57250;Bonhoefferstraße;1;13;4;12;Netphen;191;;;148
+57250;Brahmsweg;;;4;8;Dreis-Tiefenbach;091;;;148
+57250;Brandenburger Weg;;;4;10;Netphen;221;;;148
+57250;Brauersdorfer Straße;3;11;2;2;Netphen;211;;;148
+57250;Brauersdorfer Straße;15;59;4;50;Netphen;221;;;148
+57250;Breitenbachstraße;1;13;4;12;Werthenbach;281;;;148
+57250;Breitenrathstraße;3;59;4;68;Dreis-Tiefenbach;091;;;148
+57250;Breitestraße;5;41;4;34;Frohnhausen;121;;;148
+57250;Breslauer Straße;7;17;6;26;Netphen;221;;;148
+57250;Bruchstraße;1;13;2;6;Dreis-Tiefenbach;081;;;148
+57250;Brucknerweg;1;23;2;22;Dreis-Tiefenbach;091;;;148
+57250;Brunnenstraße;5;7;4;12;Werthenbach;281;;;148
+57250;Brückenstraße;;;4;4;Dreis-Tiefenbach;081;;;148
+57250;Buchenweg;5;39;2;32;Nenkersdorf;181;;;148
+57250;Burggrabenstraße;5;39;12;48;Netphen;191;;;148
+57250;Burggrabenstraße;1;3;2;8;Netphen;201;;;148
+57250;Burgstraße;5;51;4;44;Dreis-Tiefenbach;061;;;148
+57250;Börnchenweg;7;17;2;16;Helgersdorf;151;;;148
+57250;Bühler Weg;1;5;2;4;Netphen;221;;;148
+57250;Carl-Sonnenschein-Weg;3;19;4;16;Netphen;211;;;148
+57250;Carl-Weyland-Straße;1;23;4;12;Netphen;191;;;148
+57250;Cäcilienweg;3;17;2;28;Irmgarteichen;171;;;148
+57250;Dahlienweg;1;9;2;4;Netphen;201;;;148
+57250;Dammstraße;1;5;2;2;Netphen;211;;;148
+57250;Danziger Straße;1;51;4;52;Netphen;221;;;148
+57250;Dermbachstraße;;;10;16;Werthenbach;281;;;148
+57250;Deuzer Weg;3;23;2;20;Salchendorf;241;;;148
+57250;Diesterwegstraße;1;29;4;18;Netphen;221;;;148
+57250;Dillenburger Straße;1;19;2;28;Irmgarteichen;171;;;148
+57250;Dillweg;1;29;10;36;Hainchen;141;;;148
+57250;Dirlenbacher Weg;5;21;4;24;Herzhausen;161;;;148
+57250;Dorfstraße;1;19;2;18;Unglinghausen;261;;;148
+57250;Dreisbachstraße;3;33;4;30;Dreis-Tiefenbach;091;;;148
+57250;Drieschweg;1;15;6;6;Hainchen;141;;;148
+57250;Drosselweg;3;25;2;24;Dreis-Tiefenbach;071;;;148
+57250;Eckmannshausener Str.;17;19;2;18;Oelgershausen;231;;;148
+57250;Eduard-Mörike-Weg;3;3;;;Dreis-Tiefenbach;081;;;148
+57250;Efeuweg;3;5;8;8;Deuz;041;;;148
+57250;Eibenweg;9;21;2;22;Eckmannshausen;101;;;148
+57250;Eichbornweg;1;13;8;16;Werthenbach;281;;;148
+57250;Eichendorffstraße;1;13;2;14;Dreis-Tiefenbach;081;;;148
+57250;Eichenweg;1;9;2;14;Eckmannshausen;101;;;148
+57250;Eichhainstraße;1;19;;;Frohnhausen;121;;;148
+57250;Eichwaldstraße;1;15;2;14;Werthenbach;281;;;148
+57250;Elisabeth-Grube-Straße;3;11;10;10;Netphen;211;;;148
+57250;Elisabethweg;1;3;;;Helgersdorf;151;;;148
+57250;Elmertsgarten;9;27;2;2;Grissenbach;131;;;148
+57250;Erlenweg;1;23;2;2;Netphen;191;;;148
+57250;Erndtebrücker Straße;15;59;8;44;Afholderbach;011;;;148
+57250;Eschenbacher Straße;25;47;2;50;Eschenbach;111;;;148
+57250;Eschenweg;1;1;;;Deuz;041;;;148
+57250;Espenweg;1;1;2;4;Eckmannshausen;101;;;148
+57250;Falkenweg;1;19;4;18;Irmgarteichen;171;;;148
+57250;Fasanenweg;1;11;6;6;Hainchen;141;;;148
+57250;Fehlingsweg;21;59;2;48;Dreis-Tiefenbach;071;;;148
+57250;Feldstraße;3;3;6;6;Hainchen;141;;;148
+57250;Feldwasserstraße;1;33;2;32;Dreis-Tiefenbach;081;;;148
+57250;Ferndorfstraße;3;5;2;4;Herzhausen;161;;;148
+57250;Feuersbacher Straße;1;1;6;18;Deuz;051;;;148
+57250;Fichtenweg;1;9;2;22;Deuz;041;;;148
+57250;Finkenweg;1;13;2;8;Dreis-Tiefenbach;071;;;148
+57250;Fliederweg;1;3;2;10;Deuz;041;;;148
+57250;Flurstraße;1;1;4;4;Walpersdorf;271;;;148
+57250;Fontanestraße;1;9;4;8;Dreis-Tiefenbach;081;;;148
+57250;Forststraße;1;11;4;10;Hainchen;141;;;148
+57250;Frankfurter Straße;1;37;2;12;Helgersdorf;151;;;148
+57250;Franz-Hitze-Weg;3;17;2;18;Netphen;211;;;148
+57250;Friedhofstraße;1;25;8;26;Deuz;041;;;148
+57250;Frohnhausener Straße;1;41;;;Netphen;191;;;148
+57250;Fuhrweg;5;5;;;Nenkersdorf;181;;;148
+57250;Gartenstraße;23;45;20;48;Dreis-Tiefenbach;091;;;148
+57250;Gernsdorfer Straße;1;9;2;4;Helgersdorf;151;;;148
+57250;Geschwister-Scholl-Straße;1;1;8;8;Netphen;191;;;148
+57250;Gießener Straße;19;89;2;74;Hainchen;141;;;148
+57250;Gießestraße;1;25;4;24;Nenkersdorf;181;;;148
+57250;Ginsterweg;1;3;2;2;Deuz;041;;;148
+57250;Glockenstraße;1;41;16;38;Irmgarteichen;171;;;148
+57250;Glückaufstraße;1;3;4;8;Netphen;201;;;148
+57250;Goerdelerstraße;7;11;6;10;Netphen;191;;;148
+57250;Goethestraße;7;23;4;38;Dreis-Tiefenbach;081;;;148
+57250;Grabenbäume;1;81;4;74;Grissenbach;131;;;148
+57250;Grenzweg;;;2;14;Grissenbach;131;;;148
+57250;Grundstraße;3;3;2;4;Eckmannshausen;101;;;148
+57250;Grünstraße;3;13;2;6;Unglinghausen;261;;;148
+57250;Gustav-Faber-Straße;3;13;4;18;Netphen;191;;;148
+57250;Gängelweg;1;3;;;Irmgarteichen;171;;;148
+57250;Görlitzer Weg;3;17;;;Netphen;221;;;148
+57250;Gösbergstraße;1;7;4;8;Beienbach;021;;;148
+57250;Güldenweg;1;11;4;4;Netphen;221;;;148
+57250;Haardtstraße;5;33;2;40;Netphen;191;;;148
+57250;Habachstraße;1;53;2;48;Deuz;051;;;148
+57250;Haferweg;1;7;4;6;Unglinghausen;261;;;148
+57250;Hagerstraße;1;5;2;6;Eschenbach;111;;;148
+57250;Hainbuchenweg;1;11;8;16;Eckmannshausen;101;;;148
+57250;Hainstraße;;;2;2;Walpersdorf;271;;;148
+57250;Haselnußweg;;;2;2;Deuz;041;;;148
+57250;Hasenweg;1;7;2;8;Netphen;191;;;148
+57250;Hauptstraße;3;91;4;104;Unglinghausen;261;;;148
+57250;Haydnweg;1;17;2;14;Dreis-Tiefenbach;091;;;148
+57250;Heckersbergstraße;7;57;6;44;Dreis-Tiefenbach;071;;;148
+57250;Heideweg;3;13;6;6;Grissenbach;131;;;148
+57250;Heinrich-Brauns-Weg;1;7;2;4;Netphen;211;;;148
+57250;Helgersdorfer Straße;1;9;2;14;Helgersdorf;151;;;148
+57250;Hellbergstraße;1;9;2;6;Unglinghausen;261;;;148
+57250;Hellerstraße;1;7;8;20;Nenkersdorf;181;;;148
+57250;Hembach;1;23;6;8;Grissenbach;131;;;148
+57250;Herborner Straße;1;13;6;8;Deuz;051;;;148
+57250;Hermann-Löns-Straße;1;15;2;18;Dreis-Tiefenbach;081;;;148
+57250;Herrenweg;1;1;2;2;Irmgarteichen;171;;;148
+57250;Herzhausener Straße;1;9;2;6;Unglinghausen;261;;;148
+57250;Hilchenbacher Straße;1;63;2;122;Herzhausen;161;;;148
+57250;Hinter den Weiden;3;15;2;12;Eckmannshausen;101;;;148
+57250;Hinterm Liesch;21;23;2;40;Dreis-Tiefenbach;091;;;148
+57250;Hinterm Wasser;1;5;4;6;Deuz;051;;;148
+57250;Hinterstraße;1;3;;;Deuz;041;;;148
+57250;Hirschweg;3;7;2;26;Walpersdorf;271;;;148
+57250;Hochstraße;3;11;4;6;Netphen;201;;;148
+57250;Hochwiese;1;15;2;12;Netphen;201;;;148
+57250;Hof Buchen;7;13;8;12;Herzhausen;161;;;148
+57250;Hof Maustal;;;4;10;Herzhausen;161;;;148
+57250;Hofgarten;1;7;2;4;Grissenbach;131;;;148
+57250;Hofgartenstraße;5;9;4;12;Frohnhausen;121;;;148
+57250;Hofstraße;1;11;2;22;Netphen;191;;;148
+57250;Hofäckerweg;9;9;2;12;Irmgarteichen;171;;;148
+57250;Hohen Rain;3;11;4;14;Netphen;201;;;148
+57250;Hohlweg;3;9;4;8;Eckmannshausen;101;;;148
+57250;Holunderweg;;;4;6;Deuz;041;;;148
+57250;Hubertusweg;1;21;2;16;Netphen;191;;;148
+57250;Hälsber Weg;;;4;4;Grissenbach;131;;;148
+57250;Händelweg;1;7;2;12;Dreis-Tiefenbach;091;;;148
+57250;Höfenstraße;1;23;6;24;Herzhausen;161;;;148
+57250;Höhenstraße;3;11;2;24;Netphen;201;;;148
+57250;Hömbergstraße;1;21;2;40;Oelgershausen;231;;;148
+57250;Hübener Straße;3;11;8;14;Afholderbach;011;;;148
+57250;Hüllweg;1;17;4;6;Deuz;041;;;148
+57250;Hüttentaler Straße;1;13;2;10;Unglinghausen;261;;;148
+57250;Hüttenwiese;1;15;2;12;Dreis-Tiefenbach;081;;;148
+57250;Im Bruch;15;17;8;12;Dreis-Tiefenbach;081;;;148
+57250;Im Buden;13;19;4;12;Frohnhausen;121;;;148
+57250;Im Börnchen;;;2;6;Netphen;201;;;148
+57250;Im Distelfeld;3;17;2;20;Herzhausen;161;;;148
+57250;Im Dreieck;1;7;2;2;Beienbach;021;;;148
+57250;Im Eck;3;21;;;Afholderbach;011;;;148
+57250;Im Grummetshof;;;6;8;Beienbach;021;;;148
+57250;Im Grunde;9;9;;;Dreis-Tiefenbach;091;;;148
+57250;Im Heiteren Tal;3;21;2;24;Deuz;041;;;148
+57250;Im Höfchen;1;5;2;2;Oelgershausen;231;;;148
+57250;Im Hüttseifen;3;49;8;46;Dreis-Tiefenbach;061;;;148
+57250;Im Kalten Born;1;3;;;Beienbach;021;;;148
+57250;Im Kesselgarten;1;5;6;6;Beienbach;021;;;148
+57250;Im Krummfeld;1;3;2;4;Werthenbach;281;;;148
+57250;Im Köppengarten;5;15;8;10;Oelgershausen;231;;;148
+57250;Im Mühlengrund;1;5;4;6;Eckmannshausen;101;;;148
+57250;Im Nassen;1;21;2;14;Netphen;221;;;148
+57250;Im Neuen Garten;;;2;6;Sohlbach;251;;;148
+57250;Im Pfarrfeld;1;33;22;32;Irmgarteichen;171;;;148
+57250;Im Siegeck;1;3;2;4;Deuz;051;;;148
+57250;Im Steingarten;3;3;2;6;Netphen;211;;;148
+57250;Im Stift;1;5;4;4;Irmgarteichen;171;;;148
+57250;Im Storchennest;;;4;6;Dreis-Tiefenbach;081;;;148
+57250;Im Unteren Buden;1;25;2;12;Frohnhausen;121;;;148
+57250;Im Wellerseifen;7;49;2;44;Netphen;191;;;148
+57250;Im Wiesengrund;1;27;2;26;Irmgarteichen;171;;;148
+57250;Im Winkel;1;7;;;Oelgershausen;231;;;148
+57250;In den Weidenbäumen;3;21;2;28;Netphen;221;;;148
+57250;In der Brachbach;1;27;2;20;Deuz;051;;;148
+57250;In der Delle;3;11;4;22;Afholderbach;011;;;148
+57250;In der Eiche;;;6;6;Irmgarteichen;171;;;148
+57250;In der Enke;1;3;2;4;Eckmannshausen;101;;;148
+57250;In der Feldbach;1;7;2;14;Brauersdorf;031;;;148
+57250;In der Grissenbach;1;39;2;40;Grissenbach;131;;;148
+57250;In der Habach;5;15;14;20;Dreis-Tiefenbach;091;;;148
+57250;In der Hanfwiese;1;5;2;4;Eckmannshausen;101;;;148
+57250;In der Hälsbach;1;19;6;24;Grissenbach;131;;;148
+57250;In der Jungen Ecke;3;41;2;36;Netphen;221;;;148
+57250;In der Langenbach;5;15;;;Unglinghausen;261;;;148
+57250;In der Sang;3;5;2;12;Hainchen;141;;;148
+57250;In der Seelbach;1;21;4;14;Dreis-Tiefenbach;081;;;148
+57250;In der Seite;5;27;4;26;Eckmannshausen;101;;;148
+57250;In der Struth;1;23;2;26;Eckmannshausen;101;;;148
+57250;In der Trubach;1;11;2;26;Brauersdorf;031;;;148
+57250;Irle-Siedlung;1;25;2;18;Deuz;051;;;148
+57250;Irmgarteichener Weg;3;21;4;20;Irmgarteichen;171;;;148
+57250;Ivenweg;7;7;;;Dreis-Tiefenbach;061;;;148
+57250;Jagdhütte;1;1;;;Nenkersdorf;181;;;148
+57250;Jagdweg;;;4;6;Eckmannshausen;101;;;148
+57250;Jahnstraße;1;49;2;70;Netphen;201;;;148
+57250;Jasminweg;3;23;6;20;Deuz;041;;;148
+57250;Johann-Sebastian-Bach-Weg;1;7;4;14;Dreis-Tiefenbach;091;;;148
+57250;Johann-Strauß-Weg;1;5;;;Dreis-Tiefenbach;091;;;148
+57250;Johannlandstraße;1;43;6;44;Salchendorf;241;;;148
+57250;Jung-Stilling-Platz;3;15;2;14;Dreis-Tiefenbach;091;;;148
+57250;Jägerstraße;3;9;;;Herzhausen;161;;;148
+57250;Kampenstraße;1;21;4;38;Hainchen;141;;;148
+57250;Kapellenstraße;1;23;2;2;Herzhausen;161;;;148
+57250;Kastanienweg;1;1;4;4;Eschenbach;111;;;148
+57250;Katharina-Diez-Straße;15;43;10;32;Netphen;191;;;148
+57250;Katharina-Diez-Straße;5;13;6;8;Netphen;201;;;148
+57250;Kettelerstraße;15;55;2;48;Netphen;211;;;148
+57250;Kiefernweg;1;23;12;26;Deuz;041;;;148
+57250;Kierbergstraße;1;19;6;24;Unglinghausen;261;;;148
+57250;Kirchfeldweg;1;3;6;6;Nenkersdorf;181;;;148
+57250;Kirchweg;1;35;2;28;Hainchen;141;;;148
+57250;Kirschborn;1;39;2;52;Salchendorf;241;;;148
+57250;Knospenweg;3;5;;;Netphen;191;;;148
+57250;Koblenzer Straße;25;55;2;56;Irmgarteichen;171;;;148
+57250;Kornweg;5;9;2;10;Unglinghausen;261;;;148
+57250;Krachenberg;1;13;2;12;Salchendorf;241;;;148
+57250;Kreuzbergstraße;1;59;4;48;Netphen;201;;;148
+57250;Kreuztaler Straße;7;59;4;64;Dreis-Tiefenbach;081;;;148
+57250;Krokusweg;3;3;4;18;Deuz;041;;;148
+57250;Kronprinzenstraße;11;47;2;32;Netphen;191;;;148
+57250;Kronprinzenstraße;49;119;94;122;Netphen;201;;;148
+57250;Krummstück;1;3;4;6;Irmgarteichen;171;;;148
+57250;Kurze Straße;1;1;2;2;Hainchen;141;;;148
+57250;Kälberhof;7;7;;;Deuz;051;;;148
+57250;Köhlerweg;5;13;10;10;Dreis-Tiefenbach;091;;;148
+57250;Köhlerweg;;;26;28;Netphen;191;;;148
+57250;Kölner Straße;1;55;2;50;Deuz;051;;;148
+57250;Königsberger Straße;7;31;18;18;Netphen;221;;;148
+57250;Köppengarten;5;5;;;Oelgershausen;231;;;148
+57250;Lahnhof;1;1;2;4;Nenkersdorf;181;;;148
+57250;Lahnhofstraße;5;9;2;12;Werthenbach;281;;;148
+57250;Lahnstraße;7;109;4;112;Netphen;211;;;148
+57250;Leipziger Straße;1;21;2;26;Netphen;221;;;148
+57250;Lerchenweg;3;39;4;42;Dreis-Tiefenbach;071;;;148
+57250;Lessingstraße;1;17;2;20;Dreis-Tiefenbach;081;;;148
+57250;Leuschnerstraße;3;5;4;10;Netphen;191;;;148
+57250;Leywiese;1;25;2;30;Salchendorf;241;;;148
+57250;Liebigstraße;1;11;2;14;Unglinghausen;261;;;148
+57250;Lieschstraße;1;9;4;14;Dreis-Tiefenbach;091;;;148
+57250;Lindenweg;1;5;4;8;Netphen;191;;;148
+57250;Lisztweg;3;3;2;8;Dreis-Tiefenbach;091;;;148
+57250;Luisenstraße;1;15;6;12;Grissenbach;131;;;148
+57250;Lutherstalweg;3;15;6;30;Grissenbach;131;;;148
+57250;Ländchenstraße;5;35;2;32;Helgersdorf;151;;;148
+57250;Lützelau;9;9;2;6;Dreis-Tiefenbach;091;;;148
+57250;Lützeler Weg;3;3;22;26;Sohlbach;251;;;148
+57250;Marburger Straße;1;37;2;50;Deuz;041;;;148
+57250;Marienstraße;1;5;2;2;Walpersdorf;271;;;148
+57250;Marktplatz;3;3;2;2;Netphen;211;;;148
+57250;Martin-Luther-Straße;3;15;2;4;Dreis-Tiefenbach;081;;;148
+57250;Martinstraße;1;25;2;34;Walpersdorf;271;;;148
+57250;Mattenbachstraße;7;71;2;26;Werthenbach;281;;;148
+57250;Meisenweg;1;15;2;24;Hainchen;141;;;148
+57250;Mittelbach;1;9;2;14;Salchendorf;241;;;148
+57250;Mittelweg;1;7;2;8;Brauersdorf;031;;;148
+57250;Märzbecherweg;1;15;2;6;Walpersdorf;271;;;148
+57250;Müdersbergstraße;3;11;2;14;Netphen;191;;;148
+57250;Mühlenbachstraße;1;13;;;Netphen;191;;;148
+57250;Mühlenweg;1;1;2;8;Deuz;051;;;148
+57250;Nahtweg;1;33;2;58;Deuz;041;;;148
+57250;Nauholzer Weg;3;61;2;44;Deuz;041;;;148
+57250;Nelkenweg;19;19;2;2;Herzhausen;161;;;148
+57250;Nell-Breuning-Weg;1;7;4;8;Netphen;211;;;148
+57250;Netphener Weg;1;9;;;Brauersdorf;031;;;148
+57250;Neumarkt;31;31;2;22;Netphen;211;;;148
+57250;Neuwiese;;;2;10;Netphen;191;;;148
+57250;Nöckelstraße;3;3;2;4;Sohlbach;251;;;148
+57250;Obere Industriestraße;13;21;18;26;Netphen;191;;;148
+57250;Oberlinweg;3;5;2;8;Netphen;201;;;148
+57250;Obernauer Weg;;;2;8;Brauersdorf;031;;;148
+57250;Oberstraße;3;13;6;12;Frohnhausen;121;;;148
+57250;Ockersdorf;1;17;2;24;Salchendorf;241;;;148
+57250;Oelgershausener Str.;9;11;2;12;Eckmannshausen;101;;;148
+57250;Oranienstraße;3;15;4;12;Netphen;211;;;148
+57250;Orchideenweg;3;11;2;12;Deuz;041;;;148
+57250;Oststraße;5;17;2;6;Werthenbach;281;;;148
+57250;Pappelweg;;;2;22;Nenkersdorf;181;;;148
+57250;Pestalozzistraße;1;7;2;12;Deuz;041;;;148
+57250;Pfarrbergweg;1;1;2;4;Werthenbach;281;;;148
+57250;Poststraße;1;11;2;6;Hainchen;141;;;148
+57250;Querstraße;7;17;2;14;Hainchen;141;;;148
+57250;Raiffeisenweg;3;9;4;14;Netphen;221;;;148
+57250;Rehweg;1;17;2;28;Walpersdorf;271;;;148
+57250;Richard-Wagner-Weg;5;23;4;20;Dreis-Tiefenbach;091;;;148
+57250;Ringstraße;1;11;2;4;Beienbach;021;;;148
+57250;Ritterstraße;1;13;2;12;Netphen;201;;;148
+57250;Rosenstraße;1;25;2;20;Netphen;191;;;148
+57250;Rotdornweg;1;3;2;4;Irmgarteichen;171;;;148
+57250;Ruckersfelder Straße;3;19;2;20;Frohnhausen;121;;;148
+57250;Rudersdorfer Straße;3;9;2;10;Salchendorf;241;;;148
+57250;Rödchenweg;3;13;14;16;Sohlbach;251;;;148
+57250;Rösestraße;;;4;4;Walpersdorf;271;;;148
+57250;Sandhellerweg;1;7;2;8;Netphen;221;;;148
+57250;Sangstraße;;;2;2;Helgersdorf;151;;;148
+57250;Sankt-Hubertus-Str.;1;9;4;4;Walpersdorf;271;;;148
+57250;Sankt-Peters-Platz;3;7;2;18;Netphen;191;;;148
+57250;Sankt-Sebastian-Straße;1;1;6;8;Walpersdorf;271;;;148
+57250;Sattelweg;1;5;2;2;Unglinghausen;261;;;148
+57250;Schießbergstraße;1;17;;;Eschenbach;111;;;148
+57250;Schillerstraße;1;9;2;8;Netphen;201;;;148
+57250;Schimmelfederweg;1;5;2;14;Irmgarteichen;171;;;148
+57250;Schlehdornweg;1;9;8;8;Deuz;041;;;148
+57250;Schloßstraße;1;35;2;42;Hainchen;141;;;148
+57250;Schläfergarten;1;1;2;2;Dreis-Tiefenbach;081;;;148
+57250;Schmittenwiese;3;3;6;6;Grissenbach;131;;;148
+57250;Schnellenbergstraße;1;21;2;28;Beienbach;021;;;148
+57250;Schulstraße;1;55;2;50;Salchendorf;241;;;148
+57250;Schumannweg;3;11;6;16;Dreis-Tiefenbach;091;;;148
+57250;Schwalbenweg;1;19;4;18;Dreis-Tiefenbach;071;;;148
+57250;Schömelstraße;1;29;2;26;Netphen;201;;;148
+57250;Schürenstraße;5;27;28;28;Oelgershausen;231;;;148
+57250;Schützenweg;7;9;;;Deuz;051;;;148
+57250;Sehlbachstraße;3;15;10;12;Nenkersdorf;181;;;148
+57250;Seifenwiese;3;13;2;10;Irmgarteichen;171;;;148
+57250;Seitenweg;5;9;2;16;Netphen;211;;;148
+57250;Setzer Weg;13;33;2;10;Dreis-Tiefenbach;081;;;148
+57250;Sieg-Lahn-Straße;1;59;22;72;Nenkersdorf;181;;;148
+57250;Siegener Straße;1;5;4;28;Eckmannshausen;101;;;148
+57250;Siegstraße;109;205;128;200;Dreis-Tiefenbach;091;;;148
+57250;Siegstraße;11;25;2;36;Dreis-Tiefenbach;061;;;148
+57250;Siegstraße;35;103;42;106;Dreis-Tiefenbach;081;;;148
+57250;Siegtalstraße;1;163;4;96;Grissenbach;131;;;148
+57250;Simmelsbach;1;9;;;Salchendorf;241;;;148
+57250;Sohlbacher Straße;1;27;2;26;Afholderbach;011;;;148
+57250;Sohler Weg;1;3;2;4;Hainchen;141;;;148
+57250;Sohlstättenweg;5;5;;;Helgersdorf;151;;;148
+57250;Sonnenhof;1;3;;;Nenkersdorf;181;;;148
+57250;Sonnenweg;;;4;6;Netphen;211;;;148
+57250;Sperlingsweg;1;3;2;4;Dreis-Tiefenbach;071;;;148
+57250;Starenweg;1;5;2;6;Dreis-Tiefenbach;071;;;148
+57250;Stauffenbergstraße;3;29;4;38;Netphen;191;;;148
+57250;Stefanshof;1;1;;;Nenkersdorf;181;;;148
+57250;Steilweg;1;1;2;6;Irmgarteichen;171;;;148
+57250;Steinweg;1;23;4;20;Netphen;211;;;148
+57250;Sterndellweg;1;17;6;24;Grissenbach;131;;;148
+57250;Sternweg;1;9;4;10;Netphen;221;;;148
+57250;Stettiner Straße;3;13;2;20;Netphen;221;;;148
+57250;Struthweg;;;2;8;Unglinghausen;261;;;148
+57250;Stückeplätze;7;15;8;16;Hainchen;141;;;148
+57250;Südstraße;11;37;2;34;Hainchen;141;;;148
+57250;Talstraße;3;37;2;38;Netphen;211;;;148
+57250;Tannenkopfstraße;1;1;4;4;Eschenbach;111;;;148
+57250;Tannenstraße;3;11;2;10;Deuz;051;;;148
+57250;Theodor-Fliedner-Weg;1;3;4;8;Netphen;211;;;148
+57250;Theodor-Noa-Straße;1;1;;;Beienbach;021;;;148
+57250;Tiefenbacher Straße;5;11;2;28;Dreis-Tiefenbach;081;;;148
+57250;Tilsiter Straße;5;43;2;16;Netphen;221;;;148
+57250;Torrbach;3;9;4;10;Salchendorf;241;;;148
+57250;Torstraße;5;11;2;14;Dreis-Tiefenbach;081;;;148
+57250;Tulpenweg;1;1;2;8;Netphen;201;;;148
+57250;Töpferweg;5;9;2;10;Netphen;201;;;148
+57250;Uferstraße;1;13;;;Netphen;191;;;148
+57250;Uhlandstraße;3;19;2;12;Netphen;191;;;148
+57250;Ulmenweg;3;11;2;12;Eckmannshausen;101;;;148
+57250;Unglinghausener Str.;3;3;2;16;Eckmannshausen;101;;;148
+57250;Unter den Grabenbäumen;1;5;2;6;Grissenbach;131;;;148
+57250;Unter den Linden;1;35;;;Brauersdorf;031;;;148
+57250;Untere Industriestr.;27;73;6;36;Dreis-Tiefenbach;091;;;148
+57250;Unterm Dorf;;;2;8;Frohnhausen;121;;;148
+57250;Unterm Kieselstein;1;5;6;6;Dreis-Tiefenbach;061;;;148
+57250;Unterm Rain;;;2;2;Sohlbach;251;;;148
+57250;Unterm Wäldchen;3;21;6;20;Brauersdorf;031;;;148
+57250;Viehweg;1;5;4;12;Oelgershausen;231;;;148
+57250;Volnsberger Straße;1;19;;;Dreis-Tiefenbach;061;;;148
+57250;Von-Bicken-Weg;1;3;4;4;Hainchen;141;;;148
+57250;Von-Galen-Straße;1;11;4;10;Netphen;191;;;148
+57250;Von-Moltke-Straße;1;21;4;24;Netphen;191;;;148
+57250;Vor den Kreuzen;1;29;;;Werthenbach;281;;;148
+57250;Vor den Kreuzen;;8;18;;Hainchen;281;;;148
+57250;Vor der Haardt;1;13;4;14;Unglinghausen;261;;;148
+57250;Vor der Hembach;3;11;;;Grissenbach;131;;;148
+57250;Vor der Hurth;1;43;2;30;Unglinghausen;261;;;148
+57250;Vor der Noll;1;9;2;12;Salchendorf;241;;;148
+57250;Vor der Sang;;;2;2;Oelgershausen;231;;;148
+57250;Vor der Winterbach;5;19;;;Herzhausen;161;;;148
+57250;Vorm Breitenberg;25;29;;;Sohlbach;251;;;148
+57250;Vorm Buchwald;3;7;4;10;Hainchen;141;;;148
+57250;Vorm Eichhölzchen;1;5;4;6;Hainchen;141;;;148
+57250;Vorm Hügel;1;19;2;18;Unglinghausen;261;;;148
+57250;Vorm Seifchen;3;33;2;34;Oelgershausen;231;;;148
+57250;Vorm Wald;;;2;2;Eckmannshausen;101;;;148
+57250;Wachtelweg;1;17;;;Dreis-Tiefenbach;071;;;148
+57250;Waldenburger Straße;1;21;4;22;Netphen;221;;;148
+57250;Waldstraße;5;49;6;44;Deuz;051;;;148
+57250;Weidenauer Straße;5;83;30;58;Dreis-Tiefenbach;071;;;148
+57250;Weideweg;1;13;2;12;Netphen;191;;;148
+57250;Weiherstraße;3;39;6;18;Sohlbach;251;;;148
+57250;Weißdornweg;1;1;2;2;Eckmannshausen;101;;;148
+57250;Wernsbachstraße;1;37;2;40;Dreis-Tiefenbach;061;;;148
+57250;Werthestraße;3;81;8;84;Werthenbach;281;;;148
+57250;Wetzlarer Straße;7;47;18;32;Werthenbach;281;;;148
+57250;Wetzlarer Straße;;;50;54;Irmgarteichen;171;;;148
+57250;Weyertshainstraße;7;53;2;48;Dreis-Tiefenbach;091;;;148
+57250;Wichernstraße;3;39;4;18;Netphen;201;;;148
+57250;Wiedichstraße;1;51;2;40;Netphen;201;;;148
+57250;Wiedichstraße;;;64;68;Netphen;211;;;148
+57250;Wiedichstraße;67;75;;;Netphen;221;;;148
+57250;Wiesengarten;3;23;2;26;Nenkersdorf;181;;;148
+57250;Wiesenstraße;1;47;6;46;Werthenbach;281;;;148
+57250;Wilhelm-Bulk-Straße;1;9;6;10;Netphen;191;;;148
+57250;Wilhelm-Schäfer-Weg;3;7;2;4;Dreis-Tiefenbach;081;;;148
+57250;Wittgensteiner Straße;7;75;2;70;Walpersdorf;271;;;148
+57250;Wolfsbornstraße;1;25;2;18;Unglinghausen;261;;;148
+57250;Zaunstraße;1;3;2;2;Deuz;041;;;148
+57250;Zeisigweg;9;9;6;16;Dreis-Tiefenbach;071;;;148
+57250;Ziegeleistraße;5;5;4;4;Netphen;191;;;148
+57250;Zinsenbach;1;27;2;20;Dreis-Tiefenbach;061;;;148
+57250;Zu den Querplätzen;;;6;6;Hainchen;141;;;148
+57250;Zum Heidegarten;3;7;8;8;Oelgershausen;231;;;148
+57250;Zum Mannsberg;3;21;4;24;Herzhausen;161;;;148
+57250;Zum Rademächen;7;11;4;16;Oelgershausen;231;;;148
+57250;Zum Raumwäldchen;;;4;8;Netphen;191;;;148
+57250;Zum Wehr;;;2;4;Walpersdorf;271;;;148
+57250;Zur Berschebach;1;27;4;10;Unglinghausen;261;;;148
+57250;Zur Brecht;1;15;6;22;Salchendorf;241;;;148
+57250;Zur Ehreneiche;1;1;2;2;Netphen;221;;;148
+57250;Zur Ehreneiche;21;33;;;Netphen;211;;;148
+57250;Zur Kempe;5;7;2;14;Eschenbach;111;;;148
+57250;Zur Kunzenbach;13;13;;;Oelgershausen;231;;;148
+57250;Zur Schwarzen Heide;1;23;6;14;Salchendorf;241;;;148
+57250;Zur Talsperre;1;35;4;34;Brauersdorf;031;;;148
+57250;Zur Waldesstille;3;39;6;36;Unglinghausen;261;;;148
+57250;Zur alten Mühle;1;7;;;Afholderbach;011;;;148
