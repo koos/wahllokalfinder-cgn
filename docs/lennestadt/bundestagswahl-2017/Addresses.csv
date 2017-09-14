@@ -1,0 +1,561 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+57368;Ab-Hardt-Weg;3;3;4;6;Bilstein;012.1;;;149
+57368;Adam-Brill-Weg;1;1;;;Bilstein;012.1;;;149
+57368;Adlerstr.;1;11;8;12;Saalhausen;014.2;;;149
+57368;Agathastr.;7;59;4;66;Maumke;011.1;;;149
+57368;Ahornweg;1;3;;;Halberbracht;002.1;;;149
+57368;Albrecht-Dürer-Str.;1;9;2;10;Meggen;005.1;;;149
+57368;Alte Schule;9;15;12;18;Maumke;011.1;;;149
+57368;Alte Straße;;;6;6;Meggen;006.1;;;149
+57368;Altenvalberter Str.;3;13;2;14;Oberelspe;001.1;;;149
+57368;Alter Amtsweg;3;11;2;8;Maumke;011.1;;;149
+57368;Alter Garten;;;2;4;Saalhausen;015.1;;;149
+57368;Alter Kirchweg;1;5;2;2;Altenhundem;018.1;;;149
+57368;Alter Mühlengraben;9;15;;;Saalhausen;015.1;;;149
+57368;Alter Weg;1;31;2;4;Gleierbrück;015.1;;;149
+57368;Am Bahndamm;1;21;;;Meggen;006.1;;;149
+57368;Am Bauken;1;17;2;22;Maumke;011.1;;;149
+57368;Am Beul;13;27;;;Altenhundem;018.1;;;149
+57368;Am Biertappen;1;43;4;40;Altenhundem;019.1;;;149
+57368;Am Buchhagen;1;15;2;18;Grevenbrück;010.1;;;149
+57368;Am Ellenberg;1;21;2;4;Trockenbrück;008.2;;;149
+57368;Am Freibad;1;7;2;10;Bilstein;012.1;;;149
+57368;Am Garten;1;1;2;2;Kirchveischede;013.1;;;149
+57368;Am Gradeberg;1;17;2;18;Meggen;006.1;;;149
+57368;Am Griengraben;1;3;4;6;Elspe;003.1;;;149
+57368;Am Harkort;1;3;2;2;Meggen;006.1;;;149
+57368;Am Hengstenberg;1;15;2;20;Kirchveischede;013.1;;;149
+57368;Am Hirtenberg;3;5;4;6;Grevenbrück;008.1;;;149
+57368;Am Hirtenberg;7;35;8;34;Grevenbrück;009.1;;;149
+57368;Am Hofe;1;11;;;Kirchveischede;013.1;;;149
+57368;Am Kamp;1;1;2;2;Maumke;011.1;;;149
+57368;Am Kapestein;3;7;;;Halberbracht;002.1;;;149
+57368;Am Kattengericht;1;5;2;4;Kirchveischede;013.1;;;149
+57368;Am Kickenberg;1;37;2;44;Halberbracht;002.1;;;149
+57368;Am Kieswasser;;;4;32;Elspe;004.1;;;149
+57368;Am Kindergarten;9;15;2;14;Maumke;011.1;;;149
+57368;Am Kippel;1;3;2;4;Grevenbrück;010.1;;;149
+57368;Am Klatenberg;;;2;4;Altenhundem;017.1;;;149
+57368;Am Knapp;7;11;2;14;Kirchveischede;013.1;;;149
+57368;Am Krankenhaus;1;5;4;6;Elspe;008.2;;;149
+57368;Am Krähenberg;1;27;4;30;Bilstein;012.1;;;149
+57368;Am Kurpark;3;3;;;Saalhausen;015.1;;;149
+57368;Am Laiwen;3;15;4;14;Kirchveischede;013.1;;;149
+57368;Am Langscheid;1;9;2;16;Kirchveischede;013.1;;;149
+57368;Am Lüttenberg;3;21;12;26;Oedingen;020.1;;;149
+57368;Am Potterloh;1;3;2;2;Bilstein;013.1;;;149
+57368;Am Radenberg;1;55;2;54;Kirchveischede;013.1;;;149
+57368;Am Rathaus;1;5;2;2;Altenhundem;017.1;;;149
+57368;Am Remmel;1;5;2;4;Grevenbrück;010.1;;;149
+57368;Am Rosenberg;1;9;2;8;Bilstein;012.1;;;149
+57368;Am Rott;1;35;2;36;Maumke;011.1;;;149
+57368;Am Rübenkamp;1;31;2;38;Elspe;004.1;;;149
+57368;Am Rüberg;1;45;2;20;Altenhundem;019.2;;;149
+57368;Am Schacht;3;39;2;24;Halberbracht;002.1;;;149
+57368;Am Schüerken;1;7;4;8;Sporke;004.2;;;149
+57368;Am Schützenplatz;1;9;;;Meggen;006.1;;;149
+57368;Am Sonnenhang;1;11;2;14;Bonzel;010.2;;;149
+57368;Am Sportplatz;3;3;2;2;Elspe;003.1;;;149
+57368;Am Steimel;45;47;6;42;Halberbracht;002.1;;;149
+57368;Am Stollen;3;25;8;28;Halberbracht;002.1;;;149
+57368;Am Strumberg;1;1;2;2;Meggen;006.1;;;149
+57368;Am Untergraben;3;9;;;Langenei;016.1;;;149
+57368;Am Vogtshof;3;3;;;Elspe;004.1;;;149
+57368;Am Voßloch;5;11;2;10;Kirchveischede;013.1;;;149
+57368;Am Wasser;1;3;2;2;Bonzel;010.2;;;149
+57368;Am Wasserfall;1;3;2;4;Elspe;003.1;;;149
+57368;Am Weißen Kreuz;3;13;2;12;Elspe;004.1;;;149
+57368;Am Wiebernbach;1;3;;;Saalhausen;015.1;;;149
+57368;Am Wietfeld;1;7;2;6;Trockenbrück;008.2;;;149
+57368;Am Wäldchen;1;7;2;8;Grevenbrück;010.1;;;149
+57368;Am alten Graben;1;5;2;4;Altenhundem;018.1;;;149
+57368;Amselstr.;1;3;2;8;Saalhausen;015.1;;;149
+57368;An den Birken;3;11;2;26;Halberbracht;002.1;;;149
+57368;An den Gärten;11;13;4;8;Elspe;004.1;;;149
+57368;An der Bracht;1;7;;;Halberbracht;002.1;;;149
+57368;An der Egge;3;11;8;8;Oberelspe;001.1;;;149
+57368;An der Habuche;3;13;2;8;Grevenbrück;009.1;;;149
+57368;An der Hardt;1;11;4;18;Langenei;016.1;;;149
+57368;An der Hundembrücke;;;2;20;Altenhundem;019.2;;;149
+57368;An der Högge;7;7;4;4;Milchenbach;014.1;;;149
+57368;An der Kahle;1;31;2;26;Meggen;006.1;;;149
+57368;An der Karlshütte;9;13;10;14;Langenei;016.1;;;149
+57368;An der Kieselkuhle;3;17;2;20;Grevenbrück;009.1;;;149
+57368;An der Lenne;;;2;8;Meggen;006.1;;;149
+57368;An der Lith;1;11;2;8;Langenei;016.1;;;149
+57368;An der Schmiede;9;9;2;2;Altenhundem;017.1;;;149
+57368;An der Steinkuhle;19;25;2;28;Altenhundem;018.1;;;149
+57368;An der Stesse;3;5;;;Grevenbrück;009.1;;;149
+57368;An der Veischede;;;4;6;Bilstein;012.1;;;149
+57368;An der Vogelwarte;1;31;2;36;Altenhundem;017.1;;;149
+57368;Anlage;;;2;4;Altenhundem;019.1;;;149
+57368;Antoniusstr.;1;31;16;24;Burbecke;001.1;;;149
+57368;Armecke;1;3;;;Altenhundem;018.1;;;149
+57368;Auerhahnstr.;1;11;2;16;Saalhausen;014.2;;;149
+57368;Auf der Dinsel;;;2;8;Maumke;011.1;;;149
+57368;Auf der Elspe;1;5;2;6;Elspe;003.1;;;149
+57368;Auf der Ennest;3;43;4;42;Altenhundem;019.1;;;149
+57368;Auf der Humpolle;1;1;;;Elspe;003.1;;;149
+57368;Auf der Jenseite;3;23;2;26;Saalhausen;015.1;;;149
+57368;Auf der Lake;1;3;2;2;Saalhausen;015.1;;;149
+57368;Auf der Legge;3;11;2;12;Saalhausen;014.2;;;149
+57368;Auf der Mark;1;5;2;6;Langenei;016.1;;;149
+57368;Auf der Schlaa;7;7;2;12;Kickenbach;016.2;;;149
+57368;Auf der Stenn;3;15;2;4;Saalhausen;015.1;;;149
+57368;Auf'm Kamp;3;3;2;8;Oberelspe;001.1;;;149
+57368;Auf'm Ohl;3;9;2;12;Meggen;006.1;;;149
+57368;Bachstr.;1;13;4;40;Maumke;011.1;;;149
+57368;Bahnbetriebswerk;29;35;6;30;Altenhundem;019.2;;;149
+57368;Bahnhofsplatz;1;9;;;Grevenbrück;008.1;;;149
+57368;Bahnweg;1;3;2;4;Meggen;006.1;;;149
+57368;Barbarastr.;1;17;2;18;Meggen;006.1;;;149
+57368;Baro;;;2;2;Halberbracht;002.1;;;149
+57368;Barschweg;;;2;10;Maumke;011.1;;;149
+57368;Bartholomäusweg;3;3;;;Meggen;005.1;;;149
+57368;Baumschule;1;1;4;4;Bilstein;012.1;;;149
+57368;Beeselstr.;1;11;2;12;Oberelspe;001.1;;;149
+57368;Beethovenstr.;1;57;2;52;Grevenbrück;010.1;;;149
+57368;Bennerweg;1;9;2;8;Grevenbrück;009.1;;;149
+57368;Bergstraße;1;35;2;22;Langenei;016.1;;;149
+57368;Bermkestr.;1;29;2;22;Elspe;003.1;;;149
+57368;Biberweg;1;9;2;2;Maumke;011.1;;;149
+57368;Bielefelder Str.;1;75;2;74;Elspe;003.1;;;149
+57368;Bielefelder Str.;77;121;76;126;Elspe;004.1;;;149
+57368;Bilsteiner Markt;1;7;4;4;Bilstein;012.1;;;149
+57368;Bilsteiner Weg;1;17;2;20;Maumke;011.1;;;149
+57368;Birkenweg;1;9;4;8;Bilstein;012.1;;;149
+57368;Birkeystr.;1;7;2;10;Altenhundem;018.1;;;149
+57368;Bischof-Ferdinand-Weg;7;17;8;18;Bilstein;012.1;;;149
+57368;Bm-Beckmann-Platz;1;7;;;Altenhundem;017.1;;;149
+57368;Bonzeler Straße;1;31;6;24;Bonzel;010.2;;;149
+57368;Bonzelerhammer;1;9;2;6;Bonzelerhammer;010.2;;;149
+57368;Borgerholz;3;9;2;2;Sporke;004.2;;;149
+57368;Brabeckweg;1;5;;;Halberbracht;002.1;;;149
+57368;Brachter Str.;3;37;4;42;Oedingen;020.1;;;149
+57368;Bredde;1;21;2;22;Meggen;005.1;;;149
+57368;Bremerichstr.;5;31;10;40;Langenei;016.1;;;149
+57368;Bremke;1;33;4;30;Bilstein;012.1;;;149
+57368;Brenschede;1;15;2;16;Brenschede;020.1;;;149
+57368;Brenscheder Str.;5;13;12;16;Oedingen;020.1;;;149
+57368;Breslauer Str.;3;35;2;34;Altenhundem;017.1;;;149
+57368;Brucherstr.;5;11;10;18;Altenhundem;019.1;;;149
+57368;Bruchhausen;5;9;2;8;Bruchhausen;013.1;;;149
+57368;Brückenweg;1;5;;;Langenei;016.1;;;149
+57368;Buchenkamp;1;1;2;4;Bilstein;012.1;;;149
+57368;Buchenweg;29;29;28;28;Oedingen;020.1;;;149
+57368;Burbecker Str.;1;15;4;30;Oberelspe;001.1;;;149
+57368;Burghelle;7;7;2;22;Oedingen;020.1;;;149
+57368;Burgherrenweg;;;8;8;Bilstein;012.1;;;149
+57368;Burgweg;3;7;8;8;Grevenbrück;008.1;;;149
+57368;Bussardstr.;3;33;2;38;Saalhausen;014.2;;;149
+57368;Böddes;7;29;14;30;Saalhausen;014.2;;;149
+57368;Christine-Koch-Str.;1;21;2;24;Halberbracht;002.1;;;149
+57368;Christinenhütte;1;1;2;2;Maumke;011.1;;;149
+57368;Dachsweg;1;5;2;12;Maumke;011.1;;;149
+57368;Dahlienweg;7;21;2;24;Oedingen;020.1;;;149
+57368;Danziger Str.;1;7;2;4;Altenhundem;017.1;;;149
+57368;Dierkesplatz;1;1;2;2;Meggen;006.1;;;149
+57368;Dierkesstr.;1;41;2;42;Meggen;005.1;;;149
+57368;Dinselstr.;1;33;2;36;Maumke;011.1;;;149
+57368;Dorfstr.;1;59;18;50;Theten;008.2;;;149
+57368;Dr.-Arnoldi-Str.;9;65;2;56;Altenhundem;017.1;;;149
+57368;Dr.-Paul-Müller-Str.;;;2;76;Grevenbrück;010.1;;;149
+57368;Drosselstr.;3;13;4;8;Saalhausen;015.1;;;149
+57368;Drostenweg;5;9;;;Bilstein;012.1;;;149
+57368;Dörmecke;1;19;2;18;Grevenbrück;009.1;;;149
+57368;Eckenweg;;;2;16;Langenei;016.1;;;149
+57368;Edelweißweg;1;9;2;14;Oedingen;020.1;;;149
+57368;Eichelhäherstr.;1;3;2;2;Saalhausen;015.1;;;149
+57368;Eichenstr.;1;15;2;12;Maumke;011.1;;;149
+57368;Eichhornstr.;1;1;2;18;Maumke;011.1;;;149
+57368;Eichhornstr.;3;23;20;30;Maumke;005.1;;;149
+57368;Eiling;1;31;2;30;Meggen;006.1;;;149
+57368;Einsiedelei;1;3;;;Einsiedelei;013.1;;;149
+57368;Eisvogelstr.;1;13;;;Gleierbrück;015.1;;;149
+57368;Elsmecke;1;1;;;Elsmecke;020.1;;;149
+57368;Elsper Str.;3;41;22;36;Trockenbrück;008.2;;;149
+57368;Elsperhusen;1;1;2;2;Elsperhusen;001.1;;;149
+57368;Entenweg;3;3;2;4;Saalhausen;014.2;;;149
+57368;Erlenweg;1;13;2;14;Halberbracht;002.1;;;149
+57368;Ermkerweg;3;7;;;Kirchveischede;013.1;;;149
+57368;Ernestus;7;7;2;6;Ernestus;002.1;;;149
+57368;Erzweg;1;11;2;12;Maumke;011.1;;;149
+57368;Falkenstr.;1;3;2;14;Saalhausen;014.2;;;149
+57368;Farmerstr.;1;1;2;2;Trockenbrück;008.2;;;149
+57368;Farnweg;3;3;2;6;Meggen;005.1;;;149
+57368;Fasanenweg;3;3;;;Saalhausen;014.2;;;149
+57368;Faulebutter;1;47;2;48;Meggen;006.1;;;149
+57368;Feldweg;1;7;4;4;Grevenbrück;008.1;;;149
+57368;Felsenweg;3;15;2;2;Bilstein;012.1;;;149
+57368;Ferdinand-Alzer-Straße;3;13;4;16;Elspe;004.1;;;149
+57368;Fichtenstr.;1;49;2;58;Altenhundem;018.1;;;149
+57368;Fichtenzweig;3;5;4;4;Altenhundem;018.1;;;149
+57368;Finkenstr.;1;11;2;18;Saalhausen;014.2;;;149
+57368;Fliederstr.;3;41;10;36;Oedingen;020.1;;;149
+57368;Forellenweg;3;3;;;Maumke;011.1;;;149
+57368;Fredeburger Str.;1;103;50;104;Langenei;016.1;;;149
+57368;Freiheit;1;67;2;68;Bilstein;012.1;;;149
+57368;Freusbergstr.;1;15;2;14;Bilstein;013.1;;;149
+57368;Friedhofsweg;3;3;4;4;Milchenbach;014.1;;;149
+57368;Fuchsweg;1;15;6;14;Maumke;011.1;;;149
+57368;Förder Platz;;;2;8;Grevenbrück;010.1;;;149
+57368;Fürstenbergstr.;1;11;2;14;Bilstein;013.1;;;149
+57368;Gasse;1;17;2;14;Elspe;003.1;;;149
+57368;Gerberweg;1;13;4;12;Bilstein;012.1;;;149
+57368;Gerichtsweg;1;3;2;2;Grevenbrück;009.1;;;149
+57368;Gladiolenweg;5;5;2;12;Oedingen;020.1;;;149
+57368;Gleierstr.;1;3;2;10;Gleierbrück;015.1;;;149
+57368;Glockenstr.;1;27;2;22;Oberelspe;001.1;;;149
+57368;Glück-Auf-Str.;1;5;2;8;Meggen;005.1;;;149
+57368;Goldammerstr.;1;13;2;12;Saalhausen;014.2;;;149
+57368;Grabenstr.;3;5;2;4;Langenei;016.1;;;149
+57368;Graefenstein-Weg;;;2;4;Bilstein;012.1;;;149
+57368;Grafweg;3;13;2;14;Maumke;011.1;;;149
+57368;Grenzweg;;;2;4;Oberelspe;001.1;;;149
+57368;Grevenbrücker Str.;7;37;8;36;Germaniahütte;008.2;;;149
+57368;Grubenstr.;3;39;2;48;Meggen;006.1;;;149
+57368;Grundschulweg;;;2;6;Elspe;003.1;;;149
+57368;Grüne;1;41;2;32;Meggen;006.1;;;149
+57368;Gustav-Hensel-Straße;1;5;;;Altenhundem;019.1;;;149
+57368;Habbecke;1;15;4;16;Oberelspe;001.1;;;149
+57368;Habichtstr.;1;27;2;24;Saalhausen;014.2;;;149
+57368;Hachen;1;5;2;6;Hachen;003.1;;;149
+57368;Hachener Str.;1;11;2;12;Theten;008.2;;;149
+57368;Hagener Str.;29;33;54;66;Altenhundem;019.1;;;149
+57368;Halberbrachter Str.;1;17;2;18;Halberbracht;002.1;;;149
+57368;Hallenweg;;;2;2;Maumke;011.1;;;149
+57368;Hammecketal;1;15;2;4;Burbecke;001.1;;;149
+57368;Hanfgarten;1;9;2;14;Saalhausen;015.1;;;149
+57368;Hangstr.;1;43;6;24;Grevenbrück;008.1;;;149
+57368;Hans-Mieles-Weg;1;15;2;14;Grevenbrück;008.1;;;149
+57368;Hasenpfad;;;16;50;Maumke;005.1;;;149
+57368;Hasenpfad;1;45;6;8;Maumke;011.1;;;149
+57368;Hasterbergstr.;1;27;2;26;Halberbracht;002.1;;;149
+57368;Haus Feibel;;;6;6;Grevenbrück;010.1;;;149
+57368;Haus Hengstebeck;1;1;2;2;Grevenbrück;010.1;;;149
+57368;Haus Hilmecke;1;1;;;Haus Hilmecke;014.2;;;149
+57368;Haus Kracht;1;1;2;2;Grevenbrück;010.1;;;149
+57368;Haus Petmecke;1;1;2;2;Grevenbrück;010.1;;;149
+57368;Haus Schartenberg;1;1;2;2;Grevenbrück;010.1;;;149
+57368;Haus Schrichten;1;1;;;Elspe;003.1;;;149
+57368;Haus Valbert;;;2;2;Haus Valbert;020.1;;;149
+57368;Hechtweg;;;2;12;Maumke;011.1;;;149
+57368;Heckenweg;3;3;2;4;Kirchveischede;013.1;;;149
+57368;Heerweg;3;7;2;10;Grevenbrück;009.1;;;149
+57368;Heidfeldstr.;1;39;14;36;Elspe;003.1;;;149
+57368;Heimweg;1;7;2;6;Grevenbrück;010.1;;;149
+57368;Heinrich-Heine-Str.;1;17;4;22;Meggen;006.1;;;149
+57368;Helmut-Kumpf-Str.;5;59;2;42;Altenhundem;017.1;;;149
+57368;Helsmecke;1;27;2;28;Bilstein;012.1;;;149
+57368;Hembergstr.;1;5;2;4;Elspe;003.1;;;149
+57368;Hermann-Löns-Str.;1;53;2;54;Elspe;003.1;;;149
+57368;Hermelinweg;3;3;4;4;Maumke;005.1;;;149
+57368;Hermesfeld;1;11;2;10;Grevenbrück;009.1;;;149
+57368;Hesbergweg;1;7;;;Theten;008.2;;;149
+57368;Hespecke;17;19;2;22;Hespecke;004.2;;;149
+57368;Heumke;;;2;8;Maumke;011.1;;;149
+57368;Hinter der Kirche;3;23;2;20;Elspe;003.1;;;149
+57368;Hochstr.;1;63;4;60;Altenhundem;017.1;;;149
+57368;Hofacker;7;11;2;12;Sporke;004.2;;;149
+57368;Hofaue;1;23;2;22;Maumke;011.1;;;149
+57368;Hofstr.;3;3;4;8;Grevenbrück;009.1;;;149
+57368;Hohe-Bracht-Str.;5;9;6;8;Bilstein;012.1;;;149
+57368;Hoher Hagen;1;5;2;4;Grevenbrück;009.1;;;149
+57368;Hoher Hain;1;5;;;Elspe;004.1;;;149
+57368;Hohle Eiche;1;5;2;2;Halberbracht;002.1;;;149
+57368;Hohler Weg;1;25;2;4;Grevenbrück;009.1;;;149
+57368;Holunderweg;1;1;6;6;Oedingen;020.1;;;149
+57368;Hormeckestr.;1;21;2;24;Elspe;004.1;;;149
+57368;Hubertusweg;11;31;2;24;Kickenbach;016.2;;;149
+57368;Hundemaue;1;1;;;Altenhundem;019.2;;;149
+57368;Hundemstr.;25;123;116;120;Altenhundem;018.1;;;149
+57368;Hundemstr.;7;23;8;14;Altenhundem;017.1;;;149
+57368;Hunold-Rump-Str.;1;127;10;94;Oedingen;020.1;;;149
+57368;Härdlerstr.;1;17;6;24;Milchenbach;014.1;;;149
+57368;Höhenstr.;1;25;4;24;Meggen;005.1;;;149
+57368;Hügelstr.;3;7;4;4;Bonzel;010.2;;;149
+57368;Hüttenstr.;1;15;2;16;Altenhundem;018.1;;;149
+57368;Igelweg;1;3;4;4;Maumke;005.1;;;149
+57368;Im Brauck;;;4;4;Kickenbach;016.2;;;149
+57368;Im Einegge;1;7;2;4;Saalhausen;014.2;;;149
+57368;Im Gewerbegebiet;;;4;4;Elspe;004.1;;;149
+57368;Im Hof;1;7;;;Meggen;006.1;;;149
+57368;Im Hölzchen;1;33;2;34;Halberbracht;002.1;;;149
+57368;Im Kohlhof;1;7;6;10;Saalhausen;015.1;;;149
+57368;Im Lohan;1;23;2;14;Meggen;006.1;;;149
+57368;Im Planken;1;1;2;4;Grevenbrück;009.1;;;149
+57368;Im Saal;1;7;2;8;Kirchveischede;013.1;;;149
+57368;Im Tiefensiepen;1;1;;;Altenvalbert;001.1;;;149
+57368;Im Weingarten;1;3;4;12;Oedingen;020.1;;;149
+57368;Im alten Hof;1;15;4;16;Kirchveischede;013.1;;;149
+57368;Im stillen Winkel;3;3;2;2;Meggen;005.1;;;149
+57368;In den Höfen;1;9;2;12;Altenhundem;017.1;;;149
+57368;In den Peilen;1;21;2;28;Saalhausen;015.1;;;149
+57368;In der Ohlscheid;1;17;8;10;Oedingen;020.1;;;149
+57368;In der Petmecke;1;41;2;40;Grevenbrück;010.1;;;149
+57368;In der Rübecke;1;37;2;50;Altenhundem;019.2;;;149
+57368;In der Schlade;1;15;2;18;Grevenbrück;009.1;;;149
+57368;In der Sillwecke;1;23;2;24;Oedingen;020.1;;;149
+57368;Industriestr.;;;10;10;Grevenbrück;008.1;;;149
+57368;Inkenweg;1;15;4;6;Langenei;016.1;;;149
+57368;Jahnstr.;1;15;2;14;Elspe;003.1;;;149
+57368;Johannes-Dosch-Str.;1;9;6;8;Meggen;005.1;;;149
+57368;Johannesstr.;1;29;2;30;Grevenbrück;008.1;;;149
+57368;Kaiser-Otto-Str.;1;57;2;68;Elspe;003.1;;;149
+57368;Kalistraße;7;7;2;2;Maumke;011.1;;;149
+57368;Kalkwerkstr.;1;7;2;6;Theten;008.2;;;149
+57368;Kampstr.;1;49;2;50;Meggen;005.1;;;149
+57368;Kapellenstr.;3;33;2;32;Elspe;004.1;;;149
+57368;Kardinal-Schulte-Str.;1;15;2;12;Oedingen;020.1;;;149
+57368;Karl-May-Str.;1;5;2;10;Elspe;004.1;;;149
+57368;Karpfenweg;;;2;8;Maumke;011.1;;;149
+57368;Kastanienweg;5;25;2;28;Oedingen;020.1;;;149
+57368;Keilerweg;5;7;6;6;Maumke;011.1;;;149
+57368;Kickenbacher Hammer;3;7;;;Kickenbach;016.2;;;149
+57368;Kickenbachstr.;1;53;2;54;Kickenbach;016.2;;;149
+57368;Kirchanger;1;7;2;2;Halberbracht;002.1;;;149
+57368;Kirchweg;1;7;2;6;Milchenbach;014.1;;;149
+57368;Kirchwiese;15;61;14;58;Grevenbrück;008.1;;;149
+57368;Klosterweg;1;7;2;6;Altenhundem;019.2;;;149
+57368;Knappenstr.;1;11;2;12;Elspe;004.1;;;149
+57368;Knickweg;5;5;2;6;Bilstein;012.1;;;149
+57368;Kolberger Weg;;;2;4;Altenhundem;017.1;;;149
+57368;Kolpingstr.;5;43;6;46;Altenhundem;018.1;;;149
+57368;Kranichstr.;7;19;2;16;Saalhausen;015.1;;;149
+57368;Kreisstraße;1;1;2;2;Milchenbach;014.1;;;149
+57368;Kreuzbergstr.;1;5;2;6;Oberelspe;001.1;;;149
+57368;Krummer Weg;1;5;;;Grevenbrück;008.1;;;149
+57368;Kählingstraße;5;29;2;40;Milchenbach;014.1;;;149
+57368;Kölner Str.;1;33;2;28;Grevenbrück;010.1;;;149
+57368;Kölner Str.;35;89;34;88;Grevenbrück;009.1;;;149
+57368;Kölner Str.;91;119;90;118;Grevenbrück;008.1;;;149
+57368;Königsberger Str.;1;13;2;16;Altenhundem;017.1;;;149
+57368;Kösliner Weg;;;2;6;Altenhundem;017.1;;;149
+57368;Küstriner Weg;5;7;2;8;Altenhundem;017.1;;;149
+57368;Lachsweg;;;2;6;Maumke;011.1;;;149
+57368;Ladestr.;1;5;;;Grevenbrück;008.1;;;149
+57368;Langeneier Str.;3;25;2;34;Langenei;016.1;;;149
+57368;Lannermecke;5;39;2;40;Kirchveischede;013.1;;;149
+57368;Laubenweg;;;2;8;Meggen;006.1;;;149
+57368;Lehmbergstr.;1;63;2;64;Grevenbrück;009.1;;;149
+57368;Lehmbergstr.;65;89;66;86;Grevenbrück;008.1;;;149
+57368;Leie;1;3;2;4;Halberbracht;002.1;;;149
+57368;Leinewebers Kamp;3;7;2;8;Oberelspe;001.1;;;149
+57368;Lennehof;1;1;;;Saalhausen;015.1;;;149
+57368;Lennestraße;41;45;2;48;Altenhundem;017.1;;;149
+57368;Lenneweg;;;4;4;Grevenbrück;008.1;;;149
+57368;Lennewiesen;3;9;4;4;Altenhundem;017.1;;;149
+57368;Liekedeweg;;;4;4;Kirchveischede;013.1;;;149
+57368;Lilienweg;3;27;6;26;Oedingen;020.1;;;149
+57368;Lindenhof;1;1;;;Grevenbrück;010.1;;;149
+57368;Lindensiepen;;;2;4;Altenhundem;019.1;;;149
+57368;Lindenstr.;1;95;2;90;Altenhundem;018.1;;;149
+57368;Lindenzweig;3;5;6;20;Altenhundem;018.1;;;149
+57368;Lomke;1;29;4;26;Grevenbrück;009.1;;;149
+57368;Lupinenweg;;;2;14;Oedingen;020.1;;;149
+57368;Lutrop;5;5;4;4;Meggen;006.1;;;149
+57368;Lärchenstr.;1;11;2;12;Halberbracht;002.1;;;149
+57368;Maarweg;7;25;4;16;Elspe;003.1;;;149
+57368;Marderstr.;7;7;10;12;Maumke;011.1;;;149
+57368;Marderstr.;9;41;22;46;Maumke;005.1;;;149
+57368;Maria-Theresia-Str.;3;13;2;14;Kickenbach;016.2;;;149
+57368;Markhahnweg;;;2;10;Oberelspe;001.1;;;149
+57368;Marktplatz;3;5;4;6;Altenhundem;017.1;;;149
+57368;Maumker Str.;1;11;4;12;Maumke;011.1;;;149
+57368;Meggener Str.;;;2;4;Meggen;005.1;;;149
+57368;Meggener Str.;;;8;12;Meggen;005.1;;;149
+57368;Meggener Str.;;;16;16;Meggen;005.1;;;149
+57368;Meggener Str.;;;22;28;Meggen;005.1;;;149
+57368;Meggener Str.;;;32;84;Meggen;005.1;;;149
+57368;Meggener Str.;11;17;;;Meggen;005.1;;;149
+57368;Meggener Str.;25;27;;;Meggen;005.1;;;149
+57368;Meggener Str.;35;83;;;Meggen;005.1;;;149
+57368;Meggener Str.;3;9;6;6;Meggen;006.1;;;149
+57368;Meggener Str.;19;21;;;Meggen;006.1;;;149
+57368;Meggener Str.;29;33;;;Meggen;006.1;;;149
+57368;Meggener Str.;;;14;14;Meggen;006.1;;;149
+57368;Meggener Str.;;;18;20;Meggen;006.1;;;149
+57368;Meggener Str.;;;30;30;Meggen;006.1;;;149
+57368;Meisenstr.;1;33;2;34;Saalhausen;015.1;;;149
+57368;Melbecke;1;13;2;12;Melbecke;004.1;;;149
+57368;Melbecker Berg;3;23;4;20;Elspe;004.1;;;149
+57368;Melbecker Str.;1;11;2;12;Trockenbrück;008.2;;;149
+57368;Mescheder Str.;1;39;2;40;Oberelspe;001.1;;;149
+57368;Metten Hof;;;2;10;Saalhausen;015.1;;;149
+57368;Michaelstraße;;;2;10;Altenhundem;018.1;;;149
+57368;Mindener Str.;1;17;2;16;Bonzel;010.2;;;149
+57368;Minkenkuhle;3;3;2;2;Meggen;006.1;;;149
+57368;Mondscheinstr.;3;41;6;40;Sporke;004.2;;;149
+57368;Mälo;3;13;12;14;Langenei;016.1;;;149
+57368;Mühlenplatz;5;9;2;24;Meggen;006.1;;;149
+57368;Mühlenteich;;;4;8;Bilstein;013.1;;;149
+57368;Müllerstr.;1;1;2;2;Sporke;004.2;;;149
+57368;Naturparkstr.;1;33;2;32;Elspe;004.1;;;149
+57368;Nesshagen;1;5;2;2;Langenei;016.1;;;149
+57368;Neuer Waldweg;1;9;2;10;Altenhundem;018.1;;;149
+57368;Neukamp;5;5;6;10;Neukamp;004.2;;;149
+57368;Nochen;1;19;10;22;Bilstein;012.1;;;149
+57368;Nordstr.;1;3;2;6;Halberbracht;002.1;;;149
+57368;Obere Str.;1;25;;;Langenei;016.1;;;149
+57368;Oberelsper Str.;7;31;8;22;Altenvalbert;001.1;;;149
+57368;Obermelbecke;1;1;2;2;Obermelbecke;004.1;;;149
+57368;Obervalbert;1;23;4;24;Obervalbert;020.1;;;149
+57368;Oedingerberg;1;13;2;14;Oedingerberg;020.1;;;149
+57368;Oedingermühle;3;9;2;8;Oedingermühle;001.1;;;149
+57368;Oenestr.;1;21;2;18;Oberelspe;001.1;;;149
+57368;Ohlstraße;1;19;2;14;Meggen;006.1;;;149
+57368;Olper Str.;5;19;6;54;Altenhundem;019.1;;;149
+57368;Osterfeldstr.;1;15;2;12;Maumke;011.1;;;149
+57368;Oststr.;5;9;8;8;Halberbracht;002.1;;;149
+57368;Padenbergstraße;;;4;4;Kirchveischede;013.1;;;149
+57368;Paul-Schmidt-Straße;1;1;;;Saalhausen;014.2;;;149
+57368;Peter-Soemer-Str.;3;17;6;16;Elspe;003.1;;;149
+57368;Peter-Soemer-Weg;;;4;4;Elspe;003.1;;;149
+57368;Pfarrer-Brill-Weg;7;11;2;10;Elspe;003.1;;;149
+57368;Pfarrer-Plenker-Weg;5;7;2;4;Elspe;004.1;;;149
+57368;Pfarrgasse;1;19;2;16;Altenhundem;017.1;;;149
+57368;Pfefferinsel;3;5;;;Altenhundem;017.1;;;149
+57368;Piepers Weg;1;1;2;4;Altenhundem;017.1;;;149
+57368;Pirolstraße;3;3;4;6;Saalhausen;014.2;;;149
+57368;Poorte;3;11;2;8;Bilstein;012.1;;;149
+57368;Prof.-Albert-Boerger-Str.;1;31;4;38;Grevenbrück;009.1;;;149
+57368;Quellengrund;1;7;6;6;Elspe;004.1;;;149
+57368;Rechtfeld;1;5;2;4;Halberbracht;002.1;;;149
+57368;Rehnert;;;2;6;Bonzel;010.2;;;149
+57368;Rehwiese;1;5;2;6;Grevenbrück;009.1;;;149
+57368;Remmelweg;1;11;4;6;Grevenbrück;010.1;;;149
+57368;Rennefeld;15;29;6;30;Grevenbrück;009.1;;;149
+57368;Ringstr.;1;51;2;52;Meggen;005.1;;;149
+57368;Rinschlade;1;7;2;6;Saalhausen;014.2;;;149
+57368;Rinsenbergstr.;3;13;2;8;Saalhausen;014.2;;;149
+57368;Roggenkamp;;;2;8;Grevenbrück;009.1;;;149
+57368;Rosbecke;1;29;2;24;Altenhundem;019.1;;;149
+57368;Rosenweg;;;6;12;Oedingen;020.1;;;149
+57368;Rotdornweg;1;17;4;18;Oedingen;020.1;;;149
+57368;Rothenhagen;1;11;2;16;Kickenbach;016.2;;;149
+57368;Rotkehlchenstr.;3;5;4;4;Saalhausen;015.1;;;149
+57368;Rundweg;1;11;2;12;Halberbracht;002.1;;;149
+57368;Röthe;1;11;2;22;Kirchveischede;013.1;;;149
+57368;Rübergerbrücke;3;19;10;20;Altenhundem;019.2;;;149
+57368;Saalhauser Str.;9;15;2;12;Gleierbrück;015.1;;;149
+57368;Sandstr.;9;25;4;38;Altenhundem;018.1;;;149
+57368;Sauborn;1;1;2;4;Kirchveischede;013.1;;;149
+57368;Sauerlandstr.;1;9;4;8;Altenvalbert;001.1;;;149
+57368;Schmallenberger Str.;3;49;4;62;Kickenbach;016.2;;;149
+57368;Schmellenberg;1;3;2;4;Schmellenberg;013.1;;;149
+57368;Schneidershof;1;1;;;Altenhundem;017.1;;;149
+57368;Schnettmecke;1;19;4;14;Bilstein;012.1;;;149
+57368;Schniers Wiese;5;15;4;26;Meggen;005.1;;;149
+57368;Schulstr.;1;9;;;Grevenbrück;009.1;;;149
+57368;Schustergasse;1;3;2;2;Halberbracht;002.1;;;149
+57368;Schwalbenstr.;1;17;6;20;Saalhausen;014.2;;;149
+57368;Schwanenweg;1;11;2;10;Grevenbrück;009.1;;;149
+57368;Schwesternhausweg;1;5;10;10;Grevenbrück;009.1;;;149
+57368;Schönefeldstr.;1;13;2;12;Elspe;004.1;;;149
+57368;Schönscheid;1;7;2;8;Elspe;003.1;;;149
+57368;Schützenstr.;1;19;2;18;Oberelspe;001.1;;;149
+57368;Seilmecke;1;19;2;20;Elspe;003.1;;;149
+57368;Siciliastr.;1;21;2;20;Meggen;006.1;;;149
+57368;Siegener Str.;3;31;4;30;Grevenbrück;008.1;;;149
+57368;Silberbergstraße;1;9;2;6;Kickenbach;016.2;;;149
+57368;Sommerstr.;1;11;;;Meggen;006.1;;;149
+57368;Sonnenstr.;1;41;2;30;Grevenbrück;009.1;;;149
+57368;Sonnenweg;1;3;2;2;Gleierbrück;015.1;;;149
+57368;Sonnenwinkel;1;7;8;8;Grevenbrück;009.1;;;149
+57368;Speckschlade;1;7;;;Maumke;011.1;;;149
+57368;Sperberstr.;1;5;;;Saalhausen;014.2;;;149
+57368;Springacker;1;5;2;6;Saalhausen;014.2;;;149
+57368;St.-Franziskus-Str.;1;13;2;16;Elspe;004.1;;;149
+57368;St.-Jakobus-Str.;3;11;4;14;Elspe;003.1;;;149
+57368;Starenstr.;1;9;2;14;Saalhausen;015.1;;;149
+57368;Steiler Weg;3;7;2;8;Meggen;005.1;;;149
+57368;Steinstr.;1;7;4;12;Bonzel;010.2;;;149
+57368;Stellwerk;5;5;;;Altenhundem;019.2;;;149
+57368;Stettiner Straße;3;5;4;4;Altenhundem;017.1;;;149
+57368;Storchenstr.;1;7;2;16;Saalhausen;015.1;;;149
+57368;Strübecke;1;17;2;16;Meggen;005.1;;;149
+57368;Stähling;1;7;2;6;Meggen;006.1;;;149
+57368;Stöppel;1;3;2;2;Stöppel;016.1;;;149
+57368;Stöppelweg;1;11;10;10;Langenei;016.1;;;149
+57368;Störmecke;1;7;2;8;Störmecke;014.2;;;149
+57368;Südstraße;1;1;2;2;Halberbracht;002.1;;;149
+57368;Talweg;1;5;2;6;Bilstein;012.1;;;149
+57368;Tannenhof;1;1;;;Sporke;004.2;;;149
+57368;Taubenstr.;1;31;2;34;Saalhausen;015.1;;;149
+57368;Teckholzstr.;1;7;2;2;Saalhausen;014.2;;;149
+57368;Teichweg;1;11;8;12;Milchenbach;014.1;;;149
+57368;Thetener Str.;5;15;4;16;Trockenbrück;008.2;;;149
+57368;Tiefenhagen;5;21;4;18;Bonzel;010.2;;;149
+57368;Tiergarten;;;20;20;Bilstein;012.1;;;149
+57368;Timmerbruch;1;39;2;38;Altenhundem;017.1;;;149
+57368;Timmerschlade;13;37;6;38;Altenhundem;017.1;;;149
+57368;Turmstr.;1;7;2;8;Langenei;016.1;;;149
+57368;Twiene;1;41;2;30;Grevenbrück;010.1;;;149
+57368;Uferstr.;5;31;2;2;Altenhundem;019.1;;;149
+57368;Unter den Klippen;;;20;26;Altenhundem;019.1;;;149
+57368;Unterm Halfterteich;3;5;2;8;Grevenbrück;009.1;;;149
+57368;Unterm Kükelscheid;1;15;2;2;Altenhundem;019.2;;;149
+57368;Unterm Vestenberg;3;5;4;4;Maumke;011.1;;;149
+57368;Unterm Wimpel;1;11;6;14;Altenhundem;019.1;;;149
+57368;Veischedestraße;13;13;12;16;Kirchveischede;013.1;;;149
+57368;Vestenberg;1;1;;;Maumke;011.1;;;149
+57368;Vitusstr.;1;13;4;10;Elspe;004.1;;;149
+57368;Vogelsang;5;11;;;Saalhausen;014.2;;;149
+57368;Von-Gevore-Weg;;;6;6;Bilstein;012.1;;;149
+57368;Von-Stephan-Str.;1;11;4;8;Meggen;005.1;;;149
+57368;Vor der Hermecke;3;21;2;20;Meggen;006.1;;;149
+57368;Vorm Klebe;1;3;2;4;Kickenbach;016.2;;;149
+57368;Waldstr.;1;35;2;34;Oberelspe;001.1;;;149
+57368;Walzwerkstr.;3;17;2;16;Meggen;006.1;;;149
+57368;Wanderstr.;11;19;2;10;Meggen;006.1;;;149
+57368;Weidenweg;;;6;12;Halberbracht;002.1;;;149
+57368;Weiherstraße;1;11;2;8;Meggen;006.1;;;149
+57368;Weissenstein;1;5;2;6;Weissenstein;002.1;;;149
+57368;Weisteweg;1;5;2;2;Altenhundem;019.2;;;149
+57368;Werth;3;15;2;14;Bilstein;012.1;;;149
+57368;Wesmeckestr.;3;25;2;24;Grevenbrück;009.1;;;149
+57368;Westfälische Str.;1;61;2;60;Kirchveischede;013.1;;;149
+57368;Weststr.;1;5;2;4;Halberbracht;002.1;;;149
+57368;Wieselweg;1;13;12;26;Maumke;011.1;;;149
+57368;Wiesengrund;7;7;;;Kirchveischede;013.1;;;149
+57368;Wiesenkamp;1;31;16;30;Altenhundem;018.1;;;149
+57368;Wiesenstr.;1;11;2;12;Elspe;004.1;;;149
+57368;Wigeystraße;5;5;6;28;Altenhundem;017.1;;;149
+57368;Wildhang;;;4;6;Kirchveischede;013.1;;;149
+57368;Wimberg;3;17;2;16;Altenhundem;019.1;;;149
+57368;Windthorststr.;1;17;2;18;Grevenbrück;010.1;;;149
+57368;Winterberger Str.;1;51;2;48;Saalhausen;015.1;;;149
+57368;Winterberger Str.;53;83;50;102;Saalhausen;014.2;;;149
+57368;Winterstraße;1;7;4;18;Meggen;005.1;;;149
+57368;Wißbergstr.;7;33;4;20;Kirchveischede;013.1;;;149
+57368;Wolbecke;3;25;4;22;Meggen;006.1;;;149
+57368;Zaunkönigstraße;3;5;2;4;Saalhausen;014.2;;;149
+57368;Zeisigstraße;5;5;2;6;Saalhausen;014.2;;;149
+57368;Ziegeleistraße;3;7;;;Grevenbrück;008.1;;;149
+57368;Ziegenberg;1;3;;;Bilstein;012.1;;;149
+57368;Ziegenweide;1;1;;;Halberbracht;002.1;;;149
+57368;Zu den Eichen;1;1;2;2;Bonzel;010.2;;;149
+57368;Zum Bauerhagen;13;13;2;14;Altenhundem;017.1;;;149
+57368;Zum Elspebach;;;4;4;Elspe;004.1;;;149
+57368;Zum Eulensiepen;1;1;2;2;Gleierbrück;015.1;;;149
+57368;Zum Grund;1;23;2;14;Kickenbach;016.2;;;149
+57368;Zum Kellenberg;;;2;6;Kirchveischede;013.1;;;149
+57368;Zum Kirchplatz;1;7;2;2;Oberelspe;001.1;;;149
+57368;Zum Kneppen;1;15;4;12;Bonzel;010.2;;;149
+57368;Zum Limberg;15;17;14;14;Oberelspe;001.1;;;149
+57368;Zum Maar;1;5;2;24;Elspe;003.1;;;149
+57368;Zum Obsthof;1;3;2;4;Grevenbrück;010.1;;;149
+57368;Zum Saal;1;1;;;Maumke;005.1;;;149
+57368;Zum Salzhaus;1;3;2;4;Grevenbrück;010.1;;;149
+57368;Zum Sandberg;1;13;;;Grevenbrück;010.1;;;149
+57368;Zum Stadtwald;1;15;2;14;Grevenbrück;009.1;;;149
+57368;Zur Berufsschule;;;2;2;Altenhundem;018.1;;;149
+57368;Zur Brücke;3;5;6;6;Germaniahütte;008.2;;;149
+57368;Zur Christinenhütte;;;2;2;Meggen;006.1;;;149
+57368;Zur Heilquelle;1;15;2;16;Elspe;004.1;;;149
+57368;Zur Lehmkuhle;;;4;4;Langenei;016.1;;;149
+57368;Zur Lennhelle;5;13;2;10;Altenhundem;019.1;;;149
+57368;Zur Megmecke;11;11;2;2;Elspe;003.1;;;149
+57368;Zur Naturbühne;1;1;4;4;Elspe;004.1;;;149
+57368;Zur Vogelstange;5;9;4;14;Meggen;006.1;;;149
+57368;Zweigstr.;1;3;2;20;Grevenbrück;008.1;;;149

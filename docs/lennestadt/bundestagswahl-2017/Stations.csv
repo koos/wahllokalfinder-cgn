@@ -1,0 +1,26 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+005.1;Grundschule Meggen Meggen 1;Johannes-Dosch-Str.;2;;;57368;Lennestadt;;N
+003.1;"Pfarrheim 'Jakobus-Treff'" Elspe I;Grundschulweg;5;;;57368;Lennestadt;;J
+004.2;Schützenhalle Sporke Sporke;Borgerholz;10;;;57368;Lennestadt;;J
+008.1;Evangelisches Gemeindehaus Grevenbrück I;Siegener Str.;13;;;57368;Lennestadt;;N
+008.2;Bau- und Betriebshof Theten;Dorfstr.;3;;;57368;Lennestadt;;N
+009.1;Schützenhalle Grevenbrück Grevenbrück II;Kölner Straße;60;;;57368;Lennestadt;;J
+010.1;Katholisches Pfarrheim Grevenbrück III;Förder Platz;4;;;57368;Lennestadt;;N
+010.2;"Gasthof Hotel 'Haus Kramer'" Bonzel;Bonzeler Str.;7;;;57368;Lennestadt;;J
+012.1;Pfarrheim Bilstein Bilstein;Freiheit;50A;;;57368;Lennestadt;;J
+013.1;Ehemalige Schule Kirchveischede;Westfälische Str.;25;;;57368;Lennestadt;;N
+014.1;Ehemalige Schule Milchenbach;Kirchweg;5;;;57368;Lennestadt;;N
+014.2;Katholisches Pfarrheim Saalhausen I;Auf der Stenn;1;;;57368;Lennestadt;;J
+016.1;Pfarrheim Langenei Langenei;Inkenweg;4A;;;57368;Lennestadt;;J
+017.1;St.-Agatha-Grundschule Altenhundem 1;Hochstraße;16;;;57368;Lennestadt;;N
+019.1;Städtisches Gymnasium Altenhundem 3;Am Biertappen;45;;;57368;Lennestadt;;J
+019.2;"Gasthof 'Zur Forelle'" Altenhundem / Jammertal;Rübergerbrücke;14;;;57368;Lennestadt;;N
+020.1;Pfarrheim Oedingen Oedingen;Burchardus-Platz;5;;;57368;Lennestadt;;N
+004.1;"Pfarrheim 'Jakobus-Treff'" Elspe II;Grundschulweg;5;;;57368;Lennestadt;;J
+006.1;Grundschule Meggen Meggen 2;Johannes-Dosch-Str.;2;;;57368;Lennestadt;;N
+015.1;Katholisches Pfarrheim Saalhausen II;Auf der Stenn;1;;;57368;Lennestadt;;J
+018.1;St.-Agatha-Grundschule Altenhundem 2;Hochstraße;16;;;57368;Lennestadt;;N
+011.1;Ehemalige Volksschule Maumke;Agathastr.;14;;;57368;Lennestadt;;N
+002.1;Turnhalle Halberbracht Halberbracht;Christine-Koch-Str.;10;;;57368;Lennestadt;;N
+001.1;"Gasthof 'Zur Alten Schmiede'" Oberelspe;Mescheder Str.;28;;;57368;Lennestadt;;N
+016.2;"Gasthof 'Landhaus im Grund'" Kickenbach;Zum Grund;23A;;;57368;Lennestadt;;J
