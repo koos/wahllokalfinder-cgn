@@ -14,26 +14,34 @@ class RakeHelper
     STDIN.gets.chomp
   end
 
-  def self.select_csv_file(csv_type)
-    directory_to_load = ''
-    STDOUT.puts "\nWhich directory is targeted?\n\n "
-    folders_list.each_with_index do |file, i|
+  def self.select_csv_files(csv_type)
+    directories_to_load = []
+    selected_csv_files = []
+    STDOUT.puts "\nWhich directory is targeted? \n\n "
+    self.folders_list.each_with_index do |file, i|
       STDOUT.puts " #{i + 1} => #{file}"
     end
-    STDOUT.print "\nSelect a number: "
-    selected_index = STDIN.gets.chomp
-    self.terminate_rake_task unless selected_index.to_i.between?(1, folders_list.length)
-    directory_to_load = folders_list[selected_index.to_i - 1]
+    STDOUT.print "\nYou can select multiple cities (Ex: 1,2,3,4,.....): "
+    selected_indexs_string = STDIN.gets.chomp
+    selected_cities_indexes_array = selected_indexs_string.split(/,/)
+    selected_cities_indexes_array.each do |selected_index|
+      self.terminate_rake_task unless selected_index.to_i.between?(1, folders_list.length)
+      directories_to_load.push(self.folders_list[selected_index.to_i - 1])
+    end
 
     year_to_load = self.input_year
 
-    selected_csv_file = "#{directory_to_load}/bundestagswahl-#{year_to_load}/#{csv_type}.csv"
-    STDOUT.puts selected_csv_file
-    unless File.exist?(selected_csv_file)
-      self.terminate_rake_task
-    else
-      selected_csv_file
+    directories_to_load.each do |directory_to_load|
+      selected_file = "#{directory_to_load}/bundestagswahl-#{year_to_load}/#{csv_type}.csv"
+      unless File.exist?(selected_file)
+        puts "The file #{selected_file} is not existed"
+        self.terminate_rake_task
+      end
+      selected_csv_files.push(selected_file)
+      puts " - selecting: #{selected_file}"
     end
+    puts "\n"
+    selected_csv_files
   end
 
   def self.select_cities
