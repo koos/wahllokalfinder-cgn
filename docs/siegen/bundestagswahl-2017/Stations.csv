@@ -1,0 +1,79 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+0151;Nordschule 2 (Pavillon) Raum: 163;Nordstraße;30;;;57072;Siegen;;J
+0082;Jung-Stilling-Schule 1 Raum: 111;Stockweg;85;;;57076;Siegen;;J
+0071;DRK-Zentrum Siegen-Nord;Schneppenkauten;1;;;57076;Siegen;;J
+0011;Feuerwehrgerätehaus Meiswinkel;Im Gäßchen;6;;;57078;Siegen;;J
+0012;Alte Schule Langenholdinghausen;Fußfeld;12;;;57078;Siegen;;N
+0013;Birlenbacher Schule;Am Nöchel;9;;;57078;Siegen;;J
+0021;Feuerwehrgerätehaus Sohlbach-Buchen;Gutenbergstraße;98;;;57078;Siegen;;N
+0022;Albert-Schweitzer-Schule 1 Raum: 125;Amselweg;14;;;57078;Siegen;;J
+0023;Albert-Schweitzer-Schule 2 Raum: 124;Amselweg;14;;;57078;Siegen;;J
+0062;Kindertagesstätte Oase Hüttental;Gerberstraße;2;;;57078;Siegen;;J
+0032;Bürgerhaus Geisweid 1;Obere Kaiserstraße;6;;;57078;Siegen;;J
+0033;Kapellenschule Obersetzen;Löhstraße;5;;;57078;Siegen;;J
+0042;Feuerwehrgerätehaus Geisweid;Bachstraße;4;;;57078;Siegen;;J
+0043;Rathaus Geisweid;Lindenplatz;7;;;57078;Siegen;;J
+0052;Realschule Am Schießberg;Schießbergstraße;103;;;57078;Siegen;;J
+0061;Jugendtreff Geisweid;Hüttenstraße;14;;;57078;Siegen;;N
+0072;Ev. Kindertagesstätte Haardter Berg;Hans-Thoma-Weg;10;;;57076;Siegen;;J
+0081;Friedrich-Flender-Schule;Engsbachstraße;6;;;57076;Siegen;;J
+0091;Rathaus Weidenau;Weidenauer Straße;211;;;57076;Siegen;;J
+0092;Bauhof Weidenau;Stockweg;7;;;57076;Siegen;;J
+0093;Kindertreff Weidenau;Gärtnerstraße;24;;;57076;Siegen;;N
+0102;Diakonische Altenhilfe Fliednerheim;Luisenstraße;15;;;57076;Siegen;;J
+0111;Kapellenschule Trupbach;Trupbacher Straße;40;;;57072;Siegen;;N
+0112;Bürgerhaus Seelbach;Freudenberger Straße;490;;;57072;Siegen;;J
+0133;Ehem. Fischbacherbergschule 2 Raum: A 110;Gleiwitzer Straße;21;;;57072;Siegen;;J
+0122;Feuerwehrgerätehaus Achenbach;Im Samelsfeld;57;;;57072;Siegen;;N
+0123;Achenbacher Schule;Achenbacher Furt;7;;;57072;Siegen;;J
+0124;Ehem. Dreisbachschule 1 Raum: 301 Eingang Beethovenstraße;Waldesruh;39;;;57080;Siegen;;J
+0131;Berufskolleg Technik Foyer Trakt A;Fischbacherbergstraße;2;;;57072;Siegen;;J
+0121;Ehem. Fischbacherbergschule 1 Raum: A 109;Gleiwitzer Straße;21;;;57072;Siegen;;J
+0141;Obenstruthschule 1 Raum: 101;Obenstruthstraße;14;;;57072;Siegen;;N
+0142;Obenstruthschule 2 Raum: 102;Obenstruthstraße;14;;;57072;Siegen;;N
+0143;Nordschule 1 (Pavillon) Raum: 161;Norstraße;30;;;57072;Siegen;;J
+0152;Nordschule 3 (Hauptgebäude);Nordstraße;30;;;57072;Siegen;;N
+0162;Realschule Am Oberen Schloss;Burgstraße;10 bis 14;;;57072;Siegen;;J
+0171;Siegerlandhalle - Siegerlandzimmer Eingang H;Koblenzer Straße;151;;;57072;Siegen;;J
+0172;Diesterwegschule;Rosterstraße;41;;;57074;Siegen;;N
+0173;Ev. Gemeindehaus Rosterberg;Damaschkestraße;29;;;57074;Siegen;;J
+0181;Realschule Am Häusling;Dr.-Ernst-Straße;19;;;57074;Siegen;;N
+0182;Weiterbildungskolleg (ehem. Winchenbachschule);An der Sommerseite;30;;;57074;Siegen;;J
+0192;Christofferhaus Siegen;Friedrich-Wilhelm-Str.;126;;;57074;Siegen;;J
+0201;Bauhof Fludersbach;Fludersbach;56;;;57074;Siegen;;N
+0202;Pestalozzischule;Westerwaldstraße;50;;;57074;Siegen;;J
+0211;Hainer Schule 1;Marienborner Straße;151;;;57074;Siegen;;J
+0221;Bertha-von-Suttner-Gesamtschule 1 Raum: D 117;Giersbergstraße;145;;;57072;Siegen;;J
+0223;Feuerwehrgerätehaus Bürbach;Im Wiesengarten;10;;;57074;Siegen;;J
+0231;Grundschule Kaan-Marienborn;Hauptstraße;77;;;57074;Siegen;;J
+0232;Freie Christl. Schule Siegen;Augärtenstraße;15;;;57074;Siegen;;J
+0233;Bürgerhaus Volnsberg;Quellenweg;15;;;57074;Siegen;;J
+0234;Alte Schule Breitenbach;Breitenbacher Straße;377;;;57074;Siegen;;J
+0235;Alte Schule Feuersbach;Deuzer Straße;242;;;57074;Siegen;;J
+0183;AWO Fritz-Fries-Seniorenzentrum;Rosterstraße;186;;;57074;Siegen;;J
+0241;Feuerwehrgerätehaus Oberschelden;Oberschelder Straße;81;;;57080;Siegen;;J
+0242;Gosenbacher Schule 1 Raum: 105;Friedhofstraße;1;;;57080;Siegen;;J
+0252;Bürgerhaus Niederschelden;Auf der Burg;15;;;57080;Siegen;;N
+0251;Grundschule Auf dem Hubenfeld 1 Pavillon / Raum: D 106;Wehrstraße;34;;;57080;Siegen;;J
+0263;Ev. ref. Kirchengem. Christuskirche;Oberer Hengsbacher Weg;16;;;57080;Siegen;;J
+0271;Grundschule Eiserfeld;Gilbergstraße;1;;;57080;Siegen;;N
+0272;Jugendtreff Eiserfeld 1;Marktplatz;16;;;57080;Siegen;;N
+0282;DRK-Zentrum Siegen-Süd 1;Wilhelmstraße;12;;;57080;Siegen;;J
+0291;DRK-Zentrum Siegen-Süd 2;Wilhelmstraße;12;;;57080;Siegen;;J
+0293;Eiserner Schule 2 Pavillon / Raum: 162;Eiserntalstraße;520;;;57080;Siegen;;J
+0161;Städt. Gymnasium Am Löhrtor 1 Raum: 103;Oranienstraße;27;;;57072;Siegen;;J
+0132;Ehem. Hammerhütter Schule;Achenbacher Straße;38;;;57072;Siegen;;J
+0031;Geisweider Schule;Dahlienweg;2;;;57078;Siegen;;J
+0041;Bürgerhaus Geisweid 2;Obere Kaiserstraße;6;;;57078;Siegen;;J
+0051;Albert-Schweitzer-Schule 3 Raum: 126;Amselweg;14;;;57078;Siegen;;J
+0083;Jung-Stilling-Schule 2 Raum: 110;Stockweg;85;;;57076;Siegen;;J
+0101;Jung-Stilling-Schule 3 Raum: 103;Stockweg;85;;;57076;Siegen;;J
+0262;Ehem. Dreisbachschule 2 Raum: 302 Eingang Beethovenstraße;Waldesruh;39;;;57080;Siegen;;J
+0191;Städt. Gymnasium Am Löhrtor 2 Raum: 104;Oranienstraße;27;;;57072;Siegen;;J
+0212;Hainer Schule 2;Marienborner Straße;151;;;57074;Siegen;;J
+0222;Bertha-von-Suttner-Gesamtschule 2 Raum: D 118;Giersbergstraße;145;;;57072;Siegen;;J
+0243;Gosenbacher Schule 2 Raum: 106;Friedhofstraße;1;;;57080;Siegen;;N
+0261;Grundschule Auf dem Hubenfeld 2 Pavillon / Raum: D 107;Wehrstraße;34;;;57080;Siegen;;J
+0281;Jugendtreff Eiserfeld 2;Marktplatz;16;;;57080;Siegen;;N
+0292;Eiserner Schule 1 Pavillon / Raum: 160;Eiserntalstraße;520;;;57080;Siegen;;J
+0014;AWO Kindertagesstätte Langenholdingh.;Wildrosenallee;16;;;57076;Siegen;;N

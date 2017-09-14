@@ -1,0 +1,1263 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+57078;Abendröthe;1;25;2;28;Birlenbach;0013;;;148
+57072;Achenbacher Furt;1;93;24;88;Siegen;0123;;;148
+57072;Achenbacher Straße;115;231;110;202;Siegen;0123;;;148
+57072;Achenbacher Straße;15;57;8;40;Siegen;0132;;;148
+57072;Achenbacher Straße;273;371;;;Siegen;0122;;;148
+57076;Ackerstraße;3;3;2;26;Weidenau;0102;;;148
+57078;Adalbert-Stifter-Weg;13;19;;;Geisweid;0032;;;148
+57078;Adlerstraße;3;25;4;24;Geisweid;0023;;;148
+57076;Adolf-Reichwein-Str.;5;17;10;10;Weidenau;0072;;;148
+57078;Adolf-Saenger-Straße;1;39;2;32;Geisweid;0023;;;148
+57074;Adolf-Wagner-Straße;1;15;;;Siegen;0173;;;148
+57078;Adolf-Wurmbach-Str.;1;59;2;58;Geisweid;0042;;;148
+57074;Adolfstraße;5;19;8;20;Siegen;0211;;;148
+57074;Agnesenhof;1;15;2;12;Siegen;0182;;;148
+57074;Ahornweg;1;11;;;Siegen;0182;;;148
+57078;Akazienweg;1;19;2;28;Geisweid;0022;;;148
+57078;Akeleiweg;1;1;;;Geisweid;0042;;;148
+57078;Albert-Nöll-Straße;3;85;2;84;Geisweid;0051;;;148
+57074;Albert-Richartz-Str.;1;77;2;48;Siegen;0182;;;148
+57080;Albert-Schweitzer-Str.;1;11;2;12;Niederschelden;0261;;;148
+57076;Albertstraße;9;11;2;10;Weidenau;0093;;;148
+57072;Albertus-Magnus-Str.;1;17;6;18;Siegen;0151;;;148
+57078;Albichweg;5;5;4;4;Geisweid;0051;;;148
+57076;Albrecht-Dürer-Str.;;;2;18;Weidenau;0072;;;148
+57072;Alcher Straße;51;57;;;Seelbach;0112;;;148
+57080;Alfred-Delp-Straße;7;13;2;18;Niederschelden;0262;;;148
+57072;Allensteiner Straße;21;23;16;22;Siegen;0133;;;148
+57080;Alte Eisenstraße;;;2;6;Niederschelden;0262;;;148
+57072;Alte Poststraße;3;21;6;32;Siegen;0161;;;148
+57080;Alte-Dreisbach-Str.;3;55;4;34;Niederschelden;0262;;;148
+57074;Altenhof;1;45;;;Siegen;0162;;;148
+57074;Alter Wassergang;1;29;2;34;Bürbach;0223;;;148
+57078;Am Altenberg;19;53;4;14;Langenholdinghausen;0012;;;148
+57080;Am Anger;1;11;4;6;Niederschelden;0252;;;148
+57074;Am Arnold;13;41;4;36;Kaan-Marienborn;0232;;;148
+57072;Am Bahnhof;11;23;4;4;Siegen;0152;;;148
+57072;Am Bastenberg;1;41;2;20;Trupbach;0111;;;148
+57078;Am Bauhof;5;9;2;10;Geisweid;0042;;;148
+57080;Am Bienenhang;5;17;8;18;Oberschelden;0241;;;148
+57074;Am Bill;3;3;4;4;Bürbach;0223;;;148
+57080;Am Brandweiher;1;1;4;14;Eisern;0293;;;148
+57080;Am Brüderbund;15;19;2;22;Eiserfeld;0291;;;148
+57074;Am Brünkel;1;29;2;28;Kaan-Marienborn;0232;;;148
+57074;Am Buxbaum;1;27;4;20;Siegen;0182;;;148
+57072;Am Cronewaldstollen;5;9;4;12;Siegen;0122;;;148
+57080;Am Dreesch;1;5;4;4;Eiserfeld;0263;;;148
+57072;Am Ehrenmal;5;15;2;10;Seelbach;0112;;;148
+57078;Am Eibel;5;9;;;Langenholdinghausen;0012;;;148
+57076;Am Eichenhang;21;67;22;66;Weidenau;0072;;;148
+57080;Am Eichert;1;27;2;32;Niederschelden;0262;;;148
+57080;Am Eichert;39;57;36;70;Siegen;0124;;;148
+57080;Am Eichert;55A;55A;;;Siegen;0262;;;148
+57080;Am Eichholz;1;1;2;10;Eisern;0293;;;148
+57080;Am Eisernbach;;;8;10;Eiserfeld;0272;;;148
+57080;Am Eisernen Keil;1;35;2;32;Niederschelden;0243;;;148
+57074;Am Ellenberg;3;41;2;44;Kaan-Marienborn;0232;;;148
+57080;Am Felsen;7;15;10;10;Eiserfeld;0281;;;148
+57072;Am Fichtenhang;9;13;6;16;Siegen;0131;;;148
+57080;Am Findling;1;9;;;Gosenbach;0242;;;148
+57076;Am Fr.-Flender-Platz;;;4;6;Weidenau;0093;;;148
+57080;Am Freibad;5;9;4;4;Eiserfeld;0281;;;148
+57074;Am Galgenberg;9;13;2;34;Siegen;0212;;;148
+57080;Am Gensberge;1;5;2;12;Eisern;0293;;;148
+57080;Am Gewende;1;15;2;16;Oberschelden;0241;;;148
+57080;Am Ginsterhang;5;83;4;128;Siegen;0124;;;148
+57078;Am Grünen Hang;1;49;4;52;Geisweid;0062;;;148
+57080;Am Grünen Löwen;1;25;2;20;Gosenbach;0243;;;148
+57074;Am Hamerich;1;5;2;32;Siegen;0192;;;148
+57072;Am Hang;;;2;10;Siegen;0142;;;148
+57074;Am Hasengarten;5;25;4;18;Volnsberg;0233;;;148
+57078;Am Heiligen;1;5;4;4;Meiswinkel;0011;;;148
+57080;Am Hengsberg;1;41;2;28;Eiserfeld;0271;;;148
+57076;Am Hirschberg;1;29;6;30;Weidenau;0102;;;148
+57078;Am Hochwald;5;5;2;12;Sohlbach;0021;;;148
+57078;Am Hochwald;11;13;;;Buchen;0021;;;148
+57080;Am Honigsmund;1;45;4;42;Gosenbach;0243;;;148
+57080;Am Honigsmund;;;62;62;Gosenbach;0243;;;148
+57080;Am Honigsmund;47;47;46;59;Niederschelden;0243;;;148
+57080;Am Hubenwald;1;11;2;12;Niederschelden;0251;;;148
+57074;Am Hümberg;1;1;;;Volnsberg;0233;;;148
+57078;Am Hüttengraben;11;11;16;16;Geisweid;0061;;;148
+57080;Am Johannesberg;23;37;2;42;Gosenbach;0242;;;148
+57076;Am Johannesseifen;1;49;2;28;Weidenau;0101;;;148
+57074;Am Jähen Hain;5;13;2;2;Siegen;0211;;;148
+57078;Am Kindergarten;;;6;6;Geisweid;0052;;;148
+57078;Am Kirrberg;3;7;4;28;Langenholdinghausen;0012;;;148
+57078;Am Kirschenbäumchen;15;29;6;50;Birlenbach;0013;;;148
+57078;Am Klafelder Markt;1;13;4;18;Geisweid;0043;;;148
+57078;Am Kopf;1;29;2;32;Geisweid;0052;;;148
+57076;Am Kornberg;19;107;2;106;Weidenau;0082;;;148
+57080;Am Kramerhof;1;1;2;6;Eisern;0293;;;148
+57072;Am Kulmberg;1;17;10;18;Siegen;0131;;;148
+57072;Am Köppel;1;53;4;56;Seelbach;0112;;;148
+57074;Am Langen;1;47;2;56;Kaan-Marienborn;0232;;;148
+57074;Am Lausbecher;1;45;10;36;Siegen;0201;;;148
+57078;Am Lehnhof;5;37;;;Birlenbach;0013;;;148
+57074;Am Lohgraben;;;30;30;Siegen;0191;;;148
+57074;Am Lohgraben;1;65;8;10;Siegen;0161;;;148
+57074;Am Mittelberg;17;19;14;20;Kaan-Marienborn;0192;;;148
+57078;Am Mühlenberg;11;25;6;24;Langenholdinghausen;0014;;;148
+57076;Am Mühlenseifen;1;31;2;36;Weidenau;0102;;;148
+57072;Am Mühlenseifen;41;61;38;48;Siegen;0221;;;148
+57080;Am Neuen Feld;5;7;2;18;Eiserfeld;0282;;;148
+57074;Am Nochen;1;21;6;18;Kaan-Marienborn;0231;;;148
+57076;Am Nordstern;11;47;8;42;Weidenau;0071;;;148
+57078;Am Nöchel;1;7;4;12;Birlenbach;0013;;;148
+57072;Am Nörchen;;;4;6;Seelbach;0112;;;148
+57074;Am Rain;1;15;2;2;Kaan-Marienborn;0231;;;148
+57080;Am Richerfeld;;;8;10;Eiserfeld;0282;;;148
+57080;Am Rosengarten;9;9;2;4;Gosenbach;0243;;;148
+57080;Am Rosengarten;11;61;8;58;Niederschelden;0243;;;148
+57080;Am Rothenberg;3;67;8;64;Siegen;0124;;;148
+57078;Am Rückelchen;1;15;2;20;Geisweid;0022;;;148
+57078;Am Sammetshain;1;55;2;48;Geisweid;0052;;;148
+57074;Am Schieferberg;5;21;6;14;Siegen;0181;;;148
+57072;Am Schimmel;1;7;2;2;Trupbach;0111;;;148
+57080;Am Schlangenwald;1;31;2;16;Eisern;0293;;;148
+57080;Am Schlehdorn;1;1;2;10;Eiserfeld;0271;;;148
+57074;Am Schleifmühlchen;;;2;6;Siegen;0191;;;148
+57080;Am Schmiedeberg;1;19;2;28;Gosenbach;0243;;;148
+57080;Am Schmittenberg;1;3;6;10;Oberschelden;0241;;;148
+57076;Am Schneppenberg;1;11;2;16;Weidenau;0071;;;148
+57074;Am Schwarzen Barth;7;87;2;98;Siegen;0192;;;148
+57080;Am Schönen Berg;1;11;4;20;Gosenbach;0243;;;148
+57072;Am Sender;11;15;32;36;Siegen;0221;;;148
+57080;Am Siegdamm;5;5;2;8;Niederschelden;0252;;;148
+57080;Am Siegenberg;1;15;2;26;Oberschelden;0241;;;148
+57080;Am Siegenstein;3;65;2;66;Eiserfeld;0282;;;148
+57072;Am Siegsteg;5;5;4;4;Siegen;0152;;;148
+57078;Am Sohlbach;5;5;2;34;Geisweid;0042;;;148
+57078;Am Sonnenhang;1;19;2;24;Birlenbach;0013;;;148
+57080;Am Spies;1;25;2;36;Eiserfeld;0291;;;148
+57078;Am Sportplatz;1;9;2;10;Geisweid;0052;;;148
+57072;Am Stadtwald;1;49;2;48;Siegen;0131;;;148
+57080;Am Stein;3;81;2;88;Gosenbach;0242;;;148
+57078;Am Steinbruch;1;13;4;8;Geisweid;0061;;;148
+57074;Am Steinwald;13;19;;;Breitenbach;0234;;;148
+57072;Am Südhang;11;37;14;14;Siegen;0132;;;148
+57080;Am Tiefbau;3;17;10;10;Eisern;0292;;;148
+57080;Am Tredenberg;1;15;2;20;Oberschelden;0241;;;148
+57076;Am Ufer;1;13;12;24;Weidenau;0091;;;148
+57076;Am Vogelsang;1;55;2;74;Weidenau;0101;;;148
+57080;Am Weinberg;1;15;2;34;Eiserfeld;0282;;;148
+57078;Am Wiesenhang;1;7;2;8;Buchen;0021;;;148
+57080;Am Winkel;1;43;4;48;Oberschelden;0241;;;148
+57080;Am Winterberg;3;9;4;6;Oberschelden;0241;;;148
+57072;Am Witschert;15;39;8;34;Siegen;0123;;;148
+57072;Am Wurmberg;1;9;2;16;Trupbach;0111;;;148
+57078;Am Wäldchen;5;9;4;14;Geisweid;0022;;;148
+57072;Am Ziegenberg;1;19;;;Siegen;0132;;;148
+57078;Am Zäunchen;5;23;6;24;Birlenbach;0013;;;148
+57072;Am alten Friedhof;;;2;2;Siegen;0162;;;148
+57072;Am alten Stadtplatz;;;6;6;Siegen;0132;;;148
+57078;Am hohen Feld;1;15;;;Buchen;0021;;;148
+57078;Am hohen Rain;9;15;10;10;Geisweid;0031;;;148
+57078;Am hohen Rain;5;7;2;8;Geisweid;0032;;;148
+57076;Amalienstraße;;;8;14;Weidenau;0071;;;148
+57074;Amselhof;1;3;2;10;Kaan-Marienborn;0232;;;148
+57078;Amselweg;1;13;2;14;Geisweid;0051;;;148
+57078;An den Weiden;1;17;6;6;Birlenbach;0013;;;148
+57078;An den Weiden;43;61;;;Langenholdinghausen;0012;;;148
+57072;An den drei Pfosten;33;45;4;84;Siegen;0131;;;148
+57072;An der Alche;5;33;;;Siegen;0131;;;148
+57072;An der Allee;3;21;2;22;Siegen;0143;;;148
+57080;An der Dampfmühle;1;15;2;6;Niederschelden;0252;;;148
+57076;An der Höh;1;15;2;18;Weidenau;0071;;;148
+57074;An der Mocke;1;9;;;Kaan-Marienborn;0232;;;148
+57078;An der Setze;1;7;2;6;Obersetzen;0033;;;148
+57080;An der Siegtalbrücke;;;2;22;Eiserfeld;0271;;;148
+57074;An der Sommerseite;21;21;30;30;Siegen;0182;;;148
+57080;An der Steinlücke;1;35;2;40;Eiserfeld;0281;;;148
+57078;An der Talkirche;1;11;6;8;Geisweid;0043;;;148
+57072;An der Unterführung;;;8;22;Siegen;0131;;;148
+57072;An der Waldschmiede;7;7;6;10;Siegen;0123;;;148
+57076;Andreas-Schlüter-Str.;;;4;30;Weidenau;0072;;;148
+57076;Anemonenweg;1;3;2;4;Weidenau;0083;;;148
+57074;Anna-Helenen-Straße;1;11;6;8;Siegen;0211;;;148
+57074;Anton-Delius-Straße;1;69;2;62;Siegen;0182;;;148
+57080;Arbeitsschlade;3;3;6;10;Oberschelden;0241;;;148
+57072;Arndtstraße;15;21;8;14;Siegen;0141;;;148
+57072;Arnsbacher Weg;7;43;6;32;Seelbach;0112;;;148
+57074;Assbergstraße;17;17;;;Breitenbach;0234;;;148
+57080;Asselbachswald;3;3;2;10;Oberschelden;0241;;;148
+57078;Asternweg;1;15;2;10;Geisweid;0042;;;148
+57078;Auf dem Bruch;1;43;2;40;Langenholdinghausen;0012;;;148
+57080;Auf dem Groben;1;1;2;8;Eisern;0293;;;148
+57074;Auf dem Grümmel;1;19;4;22;Bürbach;0223;;;148
+57076;Auf dem Mühlengraben;3;11;8;12;Weidenau;0091;;;148
+57072;Auf dem Sand;1;11;;;Siegen;0152;;;148
+57076;Auf dem Stein;1;23;26;40;Weidenau;0081;;;148
+57074;Auf dem Tillmes;;;6;6;Breitenbach;0234;;;148
+57080;Auf den Feldern;13;13;2;14;Eisern;0293;;;148
+57076;Auf den Hütten;3;3;2;32;Weidenau;0093;;;148
+57080;Auf der Alm;1;39;2;52;Gosenbach;0242;;;148
+57072;Auf der Aue;11;21;2;16;Seelbach;0112;;;148
+57080;Auf der Burg;1;19;2;32;Niederschelden;0252;;;148
+57080;Auf der Gasse;1;53;4;58;Eiserfeld;0281;;;148
+57074;Auf der Hohenfuhr;1;39;2;46;Siegen;0192;;;148
+57072;Auf der Höh;5;47;2;42;Seelbach;0112;;;148
+57074;Auf der Kohlbraas;5;15;2;16;Kaan-Marienborn;0232;;;148
+57080;Auf der Kunst;1;25;2;28;Gosenbach;0243;;;148
+57074;Auf der Ley;15;25;2;22;Kaan-Marienborn;0232;;;148
+57074;Auf der Maibras;1;17;;;Siegen;0211;;;148
+57076;Auf der Meinhardt;1;69;4;90;Weidenau;0081;;;148
+57072;Auf der Schemscheid;29;31;22;60;Siegen;0132;;;148
+57080;Auf der Schlade;3;9;2;6;Gosenbach;0242;;;148
+57078;Auf der Schläfe;1;3;4;4;Geisweid;0042;;;148
+57074;Auf der Wege;1;5;6;16;Bürbach;0223;;;148
+57074;Auf der Wellersche;1;11;2;10;Siegen;0211;;;148
+57074;Augärtenstraße;5;17;;;Kaan-Marienborn;0232;;;148
+57076;Austraße;3;43;4;56;Weidenau;0093;;;148
+57072;Axeswende;1;9;;;Siegen;0161;;;148
+57076;Azaleenweg;1;13;2;12;Weidenau;0083;;;148
+57078;Bachstraße;1;5;4;4;Geisweid;0042;;;148
+57072;Backhausweg;;;6;24;Trupbach;0111;;;148
+57072;Badstraße;1;5;8;16;Siegen;0152;;;148
+57076;Bahnhof Weidenau;7;7;;;Weidenau;0092;;;148
+57072;Bahnhofstraße;1;27;16;24;Siegen;0152;;;148
+57078;Bahnstraße;15;19;4;22;Geisweid;0043;;;148
+57076;Balthasar-Neumann-Weg;1;5;2;12;Weidenau;0072;;;148
+57074;Banfer Weg;7;9;2;14;Siegen;0212;;;148
+57076;Barbaraweg;3;17;12;12;Weidenau;0092;;;148
+57072;Barstewende;1;1;6;6;Siegen;0162;;;148
+57076;Batterieweg;1;11;2;20;Weidenau;0102;;;148
+57076;Baumschulenweg;1;43;2;50;Weidenau;0082;;;148
+57072;Baumstraße;9;11;10;14;Siegen;0143;;;148
+57080;Beethovenstraße;1;47;2;44;Niederschelden;0262;;;148
+57076;Begonienweg;1;7;2;6;Weidenau;0083;;;148
+57072;Benzstraße;;;4;6;Siegen;0143;;;148
+57080;Bergfriederstraße;1;23;4;20;Eisern;0293;;;148
+57078;Berghofstraße;1;15;2;30;Meiswinkel;0011;;;148
+57078;Bergkiefernweg;11;11;2;12;Langenholdinghausen;0012;;;148
+57080;Bergmannsweg;3;49;6;50;Siegen;0124;;;148
+57078;Bergstraße;1;111;6;112;Geisweid;0041;;;148
+57072;Berleburger Straße;1;61;2;58;Siegen;0222;;;148
+57072;Berliner Straße;39;39;40;40;Siegen;0171;;;148
+57072;Bethausweg;;;2;2;Siegen;0171;;;148
+57072;Bickenerwende;1;5;;;Siegen;0162;;;148
+57072;Biedenkopfer Straße;1;33;2;40;Siegen;0222;;;148
+57080;Bielfeld;1;33;2;22;Eiserfeld;0272;;;148
+57078;Bilzestraße;1;27;2;4;Geisweid;0043;;;148
+57076;Binnenweg;1;33;4;50;Weidenau;0101;;;148
+57074;Birkenhof;1;1;2;2;Volnsberg;0233;;;148
+57080;Birkenweg;1;77;2;76;Eiserfeld;0282;;;148
+57078;Birlenbacher Hütte;;;4;18;Geisweid;0062;;;148
+57078;Birlenbacher Straße;1;101;2;110;Geisweid;0061;;;148
+57078;Birlenbacher Straße;131;131;;;Geisweid;0061;;;148
+57078;Birlenbacher Straße;103;129;112;216;Birlenbach;0013;;;148
+57078;Birlenbacher Straße;133;207;;;Birlenbach;0013;;;148
+57078;Birlenbacher Straße;209;237;218;246;Langenholdinghausen;0012;;;148
+57076;Bismarckstraße;1;77;2;80;Weidenau;0091;;;148
+57072;Bismarckstraße;93;97;;;Siegen;0143;;;148
+57072;Blauwunderstraße;1;13;6;10;Siegen;0142;;;148
+57074;Bleichweg;;;14;40;Siegen;0211;;;148
+57074;Blumenstraße;1;15;2;2;Siegen;0211;;;148
+57074;Blumertsfeld;1;15;4;36;Kaan-Marienborn;0231;;;148
+57072;Blücherstraße;3;67;2;68;Siegen;0141;;;148
+57078;Bodelschwinghstraße;1;19;4;20;Geisweid;0042;;;148
+57080;Bogenstraße;3;81;2;90;Niederschelden;0252;;;148
+57080;Bonhoefferstraße;1;37;8;26;Niederschelden;0262;;;148
+57080;Bonifatiusweg;1;9;2;14;Niederschelden;0262;;;148
+57078;Bornstraße;1;75;2;70;Geisweid;0061;;;148
+57076;Boschgotthardshütte;73;79;10;82;Weidenau;0091;;;148
+57078;Braasfeld;1;13;2;22;Niedersetzen;0033;;;148
+57078;Brachhain;11;55;32;48;Niedersetzen;0033;;;148
+57076;Brahmsweg;1;5;;;Weidenau;0072;;;148
+57080;Brandzecher Weg;1;37;2;32;Niederschelden;0262;;;148
+57074;Brauereistraße;3;17;2;18;Kaan-Marienborn;0231;;;148
+57074;Braunfelser Straße;13;53;2;52;Siegen;0202;;;148
+57076;Breite Straße;25;25;24;38;Weidenau;0092;;;148
+57074;Breitenbacher Straße;1;59;2;86;Kaan-Marienborn;0232;;;148
+57074;Breitenbacher Straße;347;399;362;382;Breitenbach;0234;;;148
+57078;Breitenbruch;1;3;2;4;Obersetzen;0033;;;148
+57078;Breitscheidstraße;5;31;2;40;Geisweid;0062;;;148
+57074;Bremerlingweg;13;45;2;34;Breitenbach;0234;;;148
+57078;Brentanostraße;5;27;2;28;Geisweid;0032;;;148
+57072;Breslauer Straße;21;35;16;26;Siegen;0133;;;148
+57080;Brombeerweg;;;8;12;Eiserfeld;0271;;;148
+57072;Bromberger Straße;5;31;12;26;Siegen;0123;;;148
+57078;Bruchstraße;1;29;2;30;Obersetzen;0033;;;148
+57078;Bruchwiese;1;21;14;22;Sohlbach;0021;;;148
+57076;Brucknerweg;5;15;2;14;Weidenau;0072;;;148
+57072;Brunnengasse;3;3;4;6;Siegen;0143;;;148
+57078;Brunnenweg;1;19;2;12;Birlenbach;0013;;;148
+57078;Brunnenweg;25;25;;;Birlenbach;0013;;;148
+57078;Brunnenweg;23;23;20;22;Geisweid;0052;;;148
+57076;Brückenstraße;1;25;16;24;Weidenau;0071;;;148
+57072;Brüder-Busch-Str.;1;3;;;Siegen;0152;;;148
+57076;Brüder-Grimm-Weg;1;7;2;6;Weidenau;0072;;;148
+57074;Brüderweg;193;261;192;266;Kaan-Marienborn;0231;;;148
+57074;Brüderweg;1;59;2;62;Siegen;0211;;;148
+57074;Brüderweg;63;191;72;254;Siegen;0212;;;148
+57072;Bubergstraße;1;77;6;76;Trupbach;0111;;;148
+57072;Bubergstraße;89;115;78;114;Seelbach;0112;;;148
+57078;Buchener Straße;1;5;2;42;Buchen;0021;;;148
+57078;Buchenweg;1;21;4;18;Geisweid;0022;;;148
+57072;Buchseifen;15;39;2;42;Seelbach;0112;;;148
+57078;Buchtal;1;5;;;Langenholdinghausen;0012;;;148
+57072;Burgstraße;3;21;2;28;Siegen;0162;;;148
+57080;Buschelder Weg;1;15;;;Oberschelden;0241;;;148
+57078;Buschhütter Straße;1;15;2;38;Obersetzen;0033;;;148
+57074;Buschweg;1;17;6;12;Siegen;0173;;;148
+57078;Bussardweg;5;9;2;10;Geisweid;0023;;;148
+57074;Butzbacher Straße;;;2;36;Siegen;0202;;;148
+57076;Bäckerstraße;1;13;8;8;Weidenau;0092;;;148
+57074;Büdinger Straße;5;13;2;12;Siegen;0202;;;148
+57080;Bühlstraße;1;65;10;52;Eiserfeld;0272;;;148
+57080;Bühlstraße;69;171;54;172;Niederschelden;0251;;;148
+57072;Bürbacher Weg;5;47;2;46;Siegen;0212;;;148
+57074;Bürbacher Weg;63;155;54;122;Siegen;0212;;;148
+57074;Calvinstraße;1;11;2;16;Siegen;0191;;;148
+57080;Carl-Dresler-Straße;3;45;2;28;Eiserfeld;0281;;;148
+57080;Charlottenhütte;3;41;8;40;Niederschelden;0252;;;148
+57074;Charlottenstraße;1;51;4;38;Siegen;0171;;;148
+57076;Charlottentalstraße;1;15;2;14;Weidenau;0091;;;148
+57080;Christinenweg;7;17;14;16;Eiserfeld;0282;;;148
+57074;Corvinusstraße;47;47;12;48;Siegen;0173;;;148
+57078;Dachsweg;1;17;2;18;Geisweid;0051;;;148
+57078;Dahlienweg;1;53;16;54;Geisweid;0042;;;148
+57072;Daimlerstraße;15;115;4;116;Siegen;0143;;;148
+57074;Damaschkestraße;1;31;2;34;Siegen;0173;;;148
+57074;Dammweg;5;9;;;Feuersbach;0235;;;148
+57072;Danziger Straße;1;39;28;32;Siegen;0123;;;148
+57078;Dellweg;5;11;2;22;Niedersetzen;0033;;;148
+57080;Denkmalsweg;1;35;2;32;Gosenbach;0242;;;148
+57074;Deuzer Straße;221;279;226;230;Feuersbach;0235;;;148
+57072;Diemstraße;;;2;16;Siegen;0131;;;148
+57078;Diesterwegstraße;3;11;2;6;Geisweid;0061;;;148
+57074;Dillenburger Straße;73;89;42;86;Siegen;0201;;;148
+57078;Dillnhütter Straße;1;31;2;26;Geisweid;0031;;;148
+57078;Dohlenweg;1;9;2;14;Geisweid;0023;;;148
+57078;Dompfaffweg;;;10;14;Geisweid;0051;;;148
+57072;Donnerscheidstraße;3;45;4;44;Siegen;0171;;;148
+57072;Donzenbachstraße;11;41;4;36;Siegen;0162;;;148
+57080;Dorfwiese;25;25;4;16;Oberschelden;0241;;;148
+57074;Dr.-Ernst-Straße;5;61;14;66;Siegen;0181;;;148
+57078;Dr.h.c.-Karl-Barich-Str.;;;20;20;Geisweid;0051;;;148
+57078;Dreisbacher Straße;5;41;2;52;Niedersetzen;0033;;;148
+57078;Drosselweg;1;23;2;22;Geisweid;0051;;;148
+57078;Droste-Hülshoff-Str.;1;11;2;14;Geisweid;0031;;;148
+57080;Echostraße;1;7;2;14;Eiserfeld;0281;;;148
+57072;Eckgasse;1;7;2;4;Siegen;0162;;;148
+57080;Ed.-Schneid.-Davids-Str.;11;81;16;104;Eiserfeld;0281;;;148
+57072;Edelweißweg;1;69;2;66;Seelbach;0112;;;148
+57072;Effertsufer;3;93;10;106;Siegen;0171;;;148
+57072;Ehlersstraße;1;25;4;20;Siegen;0132;;;148
+57078;Eibenweg;3;21;4;26;Geisweid;0022;;;148
+57078;Eichenallee;1;21;24;38;Geisweid;0022;;;148
+57074;Eichendorffweg;3;9;4;12;Siegen;0182;;;148
+57072;Eichenweg;1;1;4;32;Trupbach;0111;;;148
+57080;Eichertstraße;1;9;2;18;Eiserfeld;0281;;;148
+57074;Eichhörnchenweg;1;29;24;32;Volnsberg;0233;;;148
+57076;Eichlingsborn;1;9;2;10;Weidenau;0082;;;148
+57076;Einheitsstraße;13;23;22;22;Weidenau;0093;;;148
+57072;Eintrachtstraße;1;15;2;10;Siegen;0171;;;148
+57076;Eisbornstraße;1;21;4;16;Weidenau;0093;;;148
+57080;Eisenhutstraße;3;55;2;52;Eiserfeld;0271;;;148
+57074;Eisenhüttenstraße;23;29;4;4;Kaan-Marienborn;0231;;;148
+57076;Eisenstraße;3;9;2;4;Geisweid;0062;;;148
+57080;Eisenzecher Zug;15;15;;;Eiserfeld;0281;;;148
+57080;Eiserfelder Hütte;1;35;2;38;Eiserfeld;0291;;;148
+57072;Eiserfelder Straße;3;171;4;26;Siegen;0171;;;148
+57072;Eiserfelder Straße;;;32;206;Siegen;0171;;;148
+57072;Eiserfelder Straße;413;413;;;Siegen;0271;;;148
+57072;Eiserfelder Straße;443;443;;;Siegen;0272;;;148
+57080;Eiserfelder Straße;;;28A;28A;Eiserfeld;0263;;;148
+57080;Eiserfelder Straße;179;;140;200;Eiserfeld;0263;;;148
+57080;Eiserfelder Straße;;;230;232;Niederschelden;0263;;;148
+57072;Eiserfelder Straße;;;240;240;Siegen;0263;;;148
+57080;Eiserfelder Straße;261;427;280;400;Eiserfeld;0271;;;148
+57080;Eiserfelder Straße;429;467;404;474;Eiserfeld;0272;;;148
+57080;Eisernhardt;1;1;;;Eisern;0293;;;148
+57080;Eiserntalstraße;1;35;4;34;Eiserfeld;0272;;;148
+57080;Eiserntalstraße;37;109;54;126;Eiserfeld;0282;;;148
+57080;Eiserntalstraße;115;273;128;238;Eiserfeld;0291;;;148
+57080;Eiserntalstraße;327;335;328;564;Eisern;0292;;;148
+57080;Eiserntalstraße;393;393;;;Eisern;0293;;;148
+57080;Eiserntalstraße;401;403;;;Eisern;0292;;;148
+57080;Eiserntalstraße;405;405;;;Eisern;0293;;;148
+57080;Eiserntalstraße;409;561;;;Eisern;0292;;;148
+57072;Elbinger Straße;7;41;2;4;Siegen;0121;;;148
+57072;Elisabethstraße;1;15;;;Siegen;0152;;;148
+57078;Elsa-Brändström-Str.;3;7;2;10;Geisweid;0023;;;148
+57078;Elsterweg;;;2;10;Geisweid;0023;;;148
+57072;Emilienstraße;7;71;40;80;Siegen;0152;;;148
+57074;Emmaweg;3;9;2;8;Siegen;0172;;;148
+57076;Engsbachstraße;1;85;2;80;Weidenau;0081;;;148
+57072;Entenweg;;;6;12;Seelbach;0112;;;148
+57074;Enzianweg;1;9;;;Kaan-Marienborn;0232;;;148
+57072;Erich-Pachnicke-Str.;1;15;2;16;Siegen;0141;;;148
+57078;Erikaweg;1;7;4;4;Geisweid;0042;;;148
+57078;Erlenweg;5;13;2;10;Birlenbach;0013;;;148
+57074;Erndtebrücker Straße;;;6;26;Siegen;0222;;;148
+57072;Ernst-Bach-Straße;1;29;2;38;Siegen;0131;;;148
+57076;Ernst-Barlach-Weg;;;2;20;Weidenau;0072;;;148
+57076;Ernst-Menne-Weg;1;7;2;6;Weidenau;0102;;;148
+57076;Ernstweg;5;27;4;26;Weidenau;0092;;;148
+57072;Ernstweg;29;31;42;44;Siegen;0143;;;148
+57076;Erzstraße;1;27;4;46;Weidenau;0071;;;148
+57078;Eschenweg;1;15;2;30;Geisweid;0022;;;148
+57078;Eschgarten;3;19;2;20;Obersetzen;0033;;;148
+57078;Eulenweg;1;9;2;12;Geisweid;0023;;;148
+57076;Ewald-Rübsamen-Weg;1;11;2;12;Weidenau;0102;;;148
+57078;Falkenstraße;3;25;2;36;Geisweid;0023;;;148
+57072;Falkstraße;1;81;4;90;Siegen;0221;;;148
+57072;Falterweg;1;13;4;12;Trupbach;0111;;;148
+57078;Fasanenweg;;;2;6;Geisweid;0023;;;148
+57080;Feenweg;3;11;6;6;Eiserfeld;0272;;;148
+57076;Feldstraße;1;39;2;26;Weidenau;0092;;;148
+57080;Felsenbachstraße;1;9;2;28;Niederschelden;0261;;;148
+57076;Felsenweg;1;9;2;10;Weidenau;0102;;;148
+57074;Ferdinandstraße;1;25;2;24;Kaan-Marienborn;0231;;;148
+57078;Ferndorfsteg;3;3;2;2;Dillnhütten;0032;;;148
+57076;Ferndorfstraße;5;13;12;12;Weidenau;0071;;;148
+57074;Feudinger Weg;3;13;6;56;Siegen;0212;;;148
+57078;Fichtenweg;5;37;6;38;Geisweid;0051;;;148
+57080;Fichtestraße;;;4;8;Niederschelden;0252;;;148
+57078;Fingerhutweg;11;15;6;12;Geisweid;0042;;;148
+57078;Finkenweg;1;21;2;22;Geisweid;0051;;;148
+57072;Fischbacherbergstraße;9;27;4;38;Siegen;0131;;;148
+57074;Fischerweg;3;5;;;Siegen;0183;;;148
+57078;Fliederweg;1;7;2;8;Geisweid;0042;;;148
+57074;Fludersbach;5;179;2;150;Siegen;0201;;;148
+57074;Flurenwende;11;19;10;16;Siegen;0191;;;148
+57076;Flurstraße;7;7;2;14;Weidenau;0091;;;148
+57080;Flußbergstraße;1;61;4;72;Eiserfeld;0263;;;148
+57078;Fontanestraße;1;21;2;30;Geisweid;0031;;;148
+57076;Formerstraße;1;47;2;28;Weidenau;0093;;;148
+57074;Forststraße;1;35;2;36;Kaan-Marienborn;0232;;;148
+57072;Fortunastraße;1;33;2;24;Siegen;0123;;;148
+57074;Frankfurter Straße;9;103;10;170;Siegen;0191;;;148
+57074;Frankfurter Straße;261;261;;;Kaan-Marienborn;0202;;;148
+57076;Franzstraße;;;8;8;Weidenau;0071;;;148
+57080;Freiengründer Straße;5;137;8;240;Eiserfeld;0281;;;148
+57080;Freiheitsstraße;3;17;2;28;Eiserfeld;0271;;;148
+57080;Freisberger Weg;1;33;8;18;Gosenbach;0243;;;148
+57072;Freudenberger Straße;1;1;;;Siegen;0191;;;148
+57072;Freudenberger Straße;5;7;2;4;Siegen;0131;;;148
+57072;Freudenberger Straße;9;17;14;74;Siegen;0141;;;148
+57072;Freudenberger Straße;29;43;;;Trupbach;0141;;;148
+57072;Freudenberger Straße;61;79;;;Siegen;0141;;;148
+57072;Freudenberger Straße;179;399;302;376;Trupbach;0111;;;148
+57072;Freudenberger Straße;401;671;428;562;Seelbach;0112;;;148
+57074;Freystraße;13;23;4;24;Siegen;0183;;;148
+57074;Friedberger Straße;;;2;36;Siegen;0202;;;148
+57076;Friedenstraße;1;67;2;50;Weidenau;0093;;;148
+57080;Friedhofstraße;3;81;2;78;Gosenbach;0242;;;148
+57078;Friedlandstraße;1;21;10;16;Geisweid;0023;;;148
+57072;Friedrich-Ebert-Str.;1;31;2;32;Siegen;0132;;;148
+57072;Friedrich-Friesen-Str.;;;36;72;Siegen;0132;;;148
+57074;Friedrich-List-Str.;3;7;2;8;Siegen;0173;;;148
+57074;Friedrich-Wilhelm-Str.;17;263;2;240;Siegen;0192;;;148
+57078;Friedrichsplatz;1;7;2;6;Geisweid;0042;;;148
+57072;Friedrichstraße;1;135;34;134;Siegen;0152;;;148
+57078;Friesenstraße;1;19;2;18;Geisweid;0061;;;148
+57080;Fritzseifen;1;11;6;8;Oberschelden;0241;;;148
+57078;Fröbelstraße;5;9;6;8;Geisweid;0061;;;148
+57078;Fuchsienweg;1;9;2;6;Geisweid;0042;;;148
+57080;Fuchskaute;3;3;6;6;Niederschelden;0251;;;148
+57078;Fuchsweg;1;15;2;14;Geisweid;0051;;;148
+57078;Fußfeld;1;19;20;20;Langenholdinghausen;0012;;;148
+57074;Föhrenweg;1;31;2;28;Kaan-Marienborn;0232;;;148
+57072;Fölzerstraße;3;9;2;4;Siegen;0143;;;148
+57076;Försterstraße;1;19;6;18;Weidenau;0102;;;148
+57074;Fürst-Bülow-Straße;1;35;2;24;Siegen;0191;;;148
+57072;Fürst-Johann-Moritz-Str.;1;3;14;16;Siegen;0152;;;148
+57072;Fürst-Richard-Straße;7;17;4;34;Siegen;0222;;;148
+57072;Gagernstraße;3;25;16;22;Siegen;0221;;;148
+57076;Gamanderweg;1;3;2;2;Weidenau;0083;;;148
+57072;Garnisonsring;11;21;;;Siegen;0123;;;148
+57080;Gartenstraße;3;39;2;20;Eiserfeld;0272;;;148
+57080;Gartenstraße;43;109;24;96;Eiserfeld;0271;;;148
+57080;Gassengarten;3;3;2;10;Oberschelden;0241;;;148
+57078;Geibelstraße;1;3;2;12;Geisweid;0031;;;148
+57078;Geisweider Straße;;;2;4;Weidenau;0061;;;148
+57078;Geisweider Straße;9;19;10;16;Geisweid;0061;;;148
+57078;Geisweider Straße;21;97;56;104;Geisweid;0043;;;148
+57078;Geisweider Straße;105;153;112;130;Geisweid;0032;;;148
+57078;Geisweider Straße;171;187;144;192;Dillnhütten;0032;;;148
+57076;Geranienweg;1;3;4;4;Weidenau;0083;;;148
+57074;Gerbereiweg;3;7;10;10;Siegen;0191;;;148
+57078;Gerberstraße;1;23;6;26;Geisweid;0062;;;148
+57076;Gerhart-Hauptmann-Weg;1;37;4;50;Weidenau;0072;;;148
+57078;Gewerbestraße;5;5;8;26;Sohlbach;0021;;;148
+57080;Giebelwaldstraße;1;3;2;10;Oberschelden;0241;;;148
+57074;Giersbergstraße;;;210;220;Bürbach;0221;;;148
+57072;Giersbergstraße;3;69;6;74;Siegen;0151;;;148
+57072;Giersbergstraße;83;145;78;164;Siegen;0221;;;148
+57080;Giesenbachstraße;1;23;2;28;Eisern;0292;;;148
+57074;Gießener Straße;9;101;22;102;Siegen;0202;;;148
+57072;Gießereistraße;;;18;24;Siegen;0143;;;148
+57076;Gießereistraße;;;28;36;Weidenau;0092;;;148
+57080;Gilbergstraße;3;95;4;78;Eiserfeld;0271;;;148
+57078;Ginsterweg;;;2;22;Geisweid;0051;;;148
+57078;Glabacher Ecke;1;7;2;6;Niedersetzen;0033;;;148
+57076;Gladiolenweg;1;7;2;8;Weidenau;0083;;;148
+57072;Glatzer Straße;1;23;2;22;Siegen;0133;;;148
+57072;Gleiwitzer Straße;11;23;2;30;Siegen;0133;;;148
+57080;Glockengasse;5;5;2;4;Gosenbach;0243;;;148
+57074;Gläserstraße;31;57;12;60;Siegen;0172;;;148
+57074;Gläserstraße;63;135;68;136;Siegen;0173;;;148
+57074;Gläserswende;1;11;6;6;Siegen;0172;;;148
+57076;Glückaufstraße;25;35;24;54;Weidenau;0071;;;148
+57072;Gnesener Straße;1;55;;;Siegen;0123;;;148
+57072;Goerdelerstraße;1;9;2;10;Siegen;0132;;;148
+57072;Goethestraße;1;15;2;18;Siegen;0141;;;148
+57074;Goldener Spiegel;1;7;2;10;Kaan-Marienborn;0212;;;148
+57074;Goldener Spiegel;9;17;12;20;Siegen;0212;;;148
+57078;Goldregenweg;1;9;2;6;Geisweid;0051;;;148
+57080;Gorch-Fock-Straße;3;9;4;6;Niederschelden;0251;;;148
+57080;Gosenbacher Hütte;1;11;2;22;Niederschelden;0243;;;148
+57080;Gosenbacher Hütte;15;75;28;76;Gosenbach;0243;;;148
+57080;Gosenbacher Straße;1;39;2;48;Oberschelden;0241;;;148
+57078;Gottfried-Keller-Str.;1;35;2;34;Geisweid;0041;;;148
+57074;Gottwerthstraße;1;11;2;6;Siegen;0211;;;148
+57072;Grabenstraße;9;23;;;Siegen;0161;;;148
+57080;Grabettstraße;;;112;162;Eiserfeld;0263;;;148
+57080;Grabettstraße;3;89;2;108;Eiserfeld;0271;;;148
+57072;Graf-Johann-Straße;;;10;10;Siegen;0123;;;148
+57076;Graf-Luckner-Straße;1;57;4;56;Weidenau;0092;;;148
+57072;Graf-Luckner-Straße;61;99;58;74;Siegen;0221;;;148
+57072;Grafestraße;13;21;10;18;Siegen;0152;;;148
+57072;Graudenzer Straße;1;7;;;Siegen;0121;;;148
+57072;Grenzweg;;;4;10;Siegen;0122;;;148
+57074;Grimbergstraße;7;35;10;32;Kaan-Marienborn;0232;;;148
+57080;Grobenhain;1;9;2;10;Oberschelden;0241;;;148
+57076;Grobestraße;3;41;2;46;Weidenau;0102;;;148
+57072;Grobestraße;43;65;50;52;Siegen;0221;;;148
+57080;Grube Henriette;1;7;2;16;Niederschelden;0243;;;148
+57074;Grube Hohe Grethe;7;25;4;20;Siegen;0172;;;148
+57074;Grube Mocke;1;1;;;Kaan-Marienborn;0232;;;148
+57076;Grube Neue Haardt;11;11;8;8;Weidenau;0071;;;148
+57080;Grube Storch;5;5;2;6;Gosenbach;0243;;;148
+57078;Grubenwiese;1;13;2;12;Obersetzen;0033;;;148
+57080;Grummetwiese;1;1;2;6;Eisern;0293;;;148
+57072;Grünberger Straße;1;45;16;46;Siegen;0121;;;148
+57078;Grüner Weg;1;9;2;8;Buchen;0021;;;148
+57072;Gubener Straße;9;29;2;28;Siegen;0121;;;148
+57074;Gustav-Gontermann-Weg;11;35;8;30;Kaan-Marienborn;0232;;;148
+57072;Gustav-Reh-Straße;1;31;4;40;Siegen;0123;;;148
+57072;Gustav-Von-Mevissen-Str.;1;125;2;116;Siegen;0151;;;148
+57074;Gustavstraße;1;15;2;20;Kaan-Marienborn;0231;;;148
+57078;Gutenbergstraße;1;109;2;96;Sohlbach;0021;;;148
+57080;Gußweg;1;15;4;18;Eiserfeld;0291;;;148
+57076;Gärtnerstraße;1;23;2;20;Weidenau;0093;;;148
+57072;Görlitzer Platz;1;11;;;Siegen;0133;;;148
+57076;Güterweg;7;27;4;34;Weidenau;0091;;;148
+57072;Haardtchenstraße;17;19;10;20;Siegen;0142;;;148
+57076;Haardtstraße;9;47;16;44;Weidenau;0071;;;148
+57078;Habichtweg;;;4;20;Geisweid;0023;;;148
+57080;Haferrain;1;5;2;4;Eisern;0293;;;148
+57080;Haffweg;1;15;2;34;Gosenbach;0242;;;148
+57076;Hagedornweg;1;47;4;34;Weidenau;0083;;;148
+57072;Hagener Straße;3;139;4;138;Siegen;0143;;;148
+57074;Haigerer Straße;;;2;50;Siegen;0202;;;148
+57074;Hainbornstraße;1;57;2;70;Bürbach;0223;;;148
+57076;Hainbuchenweg;1;67;2;72;Weidenau;0083;;;148
+57074;Hainer Hütte;7;23;;;Siegen;0211;;;148
+57074;Hainer Weg;45;45;10;54;Siegen;0162;;;148
+57072;Hainstraße;25;77;2;70;Siegen;0161;;;148
+57080;Haldenweg;3;19;10;32;Niederschelden;0252;;;148
+57078;Halsenbachstraße;1;31;4;34;Meiswinkel;0011;;;148
+57074;Hambergstraße;1;57;8;88;Siegen;0192;;;148
+57074;Hambergstraße;61;93;;;Siegen;0182;;;148
+57072;Hammerstraße;3;11;4;10;Siegen;0171;;;148
+57076;Hammerwerk;1;1;;;Weidenau;0091;;;148
+57078;Hans-Böckler-Platz;3;9;4;12;Geisweid;0051;;;148
+57076;Hans-Holbein-Straße;1;11;;;Weidenau;0072;;;148
+57074;Hans-Kruse-Straße;5;53;2;36;Siegen;0191;;;148
+57076;Hans-Sachs-Weg;1;9;2;6;Weidenau;0072;;;148
+57076;Hans-Thoma-Weg;;;2;8;Weidenau;0072;;;148
+57072;Hardenbergstraße;1;49;6;50;Siegen;0221;;;148
+57072;Harkortstraße;3;35;4;48;Siegen;0151;;;148
+57072;Haroldstraße;11;33;4;20;Siegen;0143;;;148
+57074;Haselwiese;5;11;2;8;Breitenbach;0234;;;148
+57078;Hasenweg;1;13;2;12;Geisweid;0051;;;148
+57080;Haspelweg;1;19;;;Niederschelden;0261;;;148
+57072;Hatzfeldstraße;3;23;4;20;Siegen;0123;;;148
+57072;Haubergstraße;11;41;6;62;Siegen;0122;;;148
+57076;Hauptmarkt;13;13;14;16;Weidenau;0091;;;148
+57074;Hauptstraße;105;133;100;146;Kaan-Marienborn;0232;;;148
+57074;Hauptstraße;1;103;34;94;Kaan-Marienborn;0231;;;148
+57078;Hebbelstraße;1;23;2;32;Geisweid;0031;;;148
+57078;Heckenbergstraße;5;41;8;46;Geisweid;0062;;;148
+57080;Heckenrosenweg;1;13;10;12;Eiserfeld;0271;;;148
+57072;Heeserstraße;;;8;50;Siegen;0152;;;148
+57078;Heesstraße;1;15;6;20;Buchen;0021;;;148
+57078;Heestalstraße;1;35;4;24;Meiswinkel;0011;;;148
+57074;Heidehofweg;;;6;10;Feuersbach;0235;;;148
+57072;Heidenbergstraße;1;7;10;80;Siegen;0123;;;148
+57078;Heidenfeld;;;2;8;Birlenbach;0013;;;148
+57078;Heidlofweg;1;7;2;4;Geisweid;0042;;;148
+57080;Heinrich-Hebel-Str.;3;63;2;52;Oberschelden;0241;;;148
+57080;Heinrich-Schütz-Str.;3;61;4;22;Niederschelden;0262;;;148
+57080;Heinrichstraße;3;51;4;52;Niederschelden;0251;;;148
+57072;Heisberger Weg;3;13;2;14;Seelbach;0112;;;148
+57072;Heldenbacher Straße;1;19;2;12;Trupbach;0111;;;148
+57080;Helsbachstraße;1;99;4;96;Eiserfeld;0281;;;148
+57080;Hengsbachstraße;61;155;8;156;Eiserfeld;0263;;;148
+57074;Henkelwehr;11;17;2;10;Feuersbach;0235;;;148
+57074;Herborner Weg;;;2;18;Siegen;0201;;;148
+57072;Herderstraße;;;2;6;Siegen;0201;;;148
+57072;Herderstraße;9;35;8;32;Siegen;0141;;;148
+57076;Hermann-Böttger-Weg;1;11;2;10;Weidenau;0102;;;148
+57076;Hermann-Hesse-Weg;3;7;2;8;Weidenau;0072;;;148
+57074;Hermann-Klaas-Straße;1;63;56;68;Siegen;0183;;;148
+57078;Hermann-Löns-Straße;3;11;2;18;Geisweid;0061;;;148
+57078;Hermann-Löns-Straße;19;35;24;34;Birlenbach;0013;;;148
+57072;Hermannstraße;9;13;2;26;Siegen;0162;;;148
+57074;Hermelinweg;1;23;2;14;Bürbach;0223;;;148
+57072;Hermelsbacher Weg;7;109;2;108;Siegen;0141;;;148
+57076;Herrenfeldstraße;;;2;24;Weidenau;0071;;;148
+57072;Herrengarten;;;2;2;Siegen;0152;;;148
+57074;Hessische Straße;1;15;;;Siegen;0211;;;148
+57080;Heuperstraße;1;27;2;20;Eisern;0293;;;148
+57072;Hindenburgstraße;1;11;4;14;Siegen;0152;;;148
+57074;Hinter dem Wäldchen;1;5;2;6;Bürbach;0223;;;148
+57072;Hinter der Marienkirche;;;2;8;Siegen;0162;;;148
+57074;Hinterste Gärten;;;4;8;Volnsberg;0233;;;148
+57072;Hinterstraße;11;75;10;48;Siegen;0162;;;148
+57072;Hirschberger Straße;;;4;34;Siegen;0133;;;148
+57072;Hirtengasse;;;2;2;Siegen;0162;;;148
+57072;Hirtenkamp;1;27;8;18;Siegen;0111;;;148
+57076;Hirzwiese;1;3;4;6;Weidenau;0102;;;148
+57076;Hochstraße;1;69;2;58;Weidenau;0093;;;148
+57078;Hof Altenberg;1;1;;;Langenholdinghausen;0012;;;148
+57078;Hof Halsenbach;1;1;2;2;Langenholdinghausen;0012;;;148
+57078;Hof Heckseifen;1;1;;;Langenholdinghausen;0012;;;148
+57078;Hof Schutte;1;1;;;Sohlbach;0021;;;148
+57078;Hofacker;1;3;2;10;Obersetzen;0033;;;148
+57078;Hofbachstraße;5;81;6;94;Geisweid;0052;;;148
+57078;Hofbachstraße;167;195;;;Langenholdinghausen;0014;;;148
+57072;Hofgutstraße;1;21;2;16;Siegen;0143;;;148
+57076;Hofstraße;1;11;10;16;Weidenau;0093;;;148
+57078;Hohe Straße;1;31;4;26;Geisweid;0061;;;148
+57074;Hohgartenstraße;11;53;2;58;Bürbach;0223;;;148
+57072;Hohler Weg;5;75;10;78;Siegen;0151;;;148
+57080;Hohlsteinstraße;1;13;2;14;Niederschelden;0251;;;148
+57072;Holdinghausenweg;3;5;6;6;Siegen;0122;;;148
+57078;Holdinghauser Straße;1;57;2;58;Langenholdinghausen;0012;;;148
+57076;Holunderweg;1;27;2;32;Weidenau;0083;;;148
+57078;Holzklaustraße;7;9;2;32;Langenholdinghausen;0012;;;148
+57072;Holzseifen;7;29;2;20;Seelbach;0112;;;148
+57074;Homburger Straße;;;2;42;Siegen;0202;;;148
+57072;Hubacher Weg;1;23;4;22;Siegen;0123;;;148
+57080;Hubenfeldstraße;3;61;2;76;Niederschelden;0261;;;148
+57072;Hubertusweg;13;63;4;106;Siegen;0132;;;148
+57072;Hundgasse;9;43;6;44;Siegen;0162;;;148
+57080;Hundsbergstraße;7;111;4;118;Eiserfeld;0281;;;148
+57080;Hämmerlingstraße;3;7;4;8;Oberschelden;0241;;;148
+57074;Häuslingstraße;1;45;12;28;Siegen;0191;;;148
+57072;Häutebachweg;5;21;4;26;Siegen;0161;;;148
+57074;Höhenweg;1;47;6;30;Kaan-Marienborn;0232;;;148
+57072;Höhstraße;11;45;2;44;Siegen;0162;;;148
+57076;Hölderlinstraße;1;1;2;60;Weidenau;0072;;;148
+57080;Höllenwaldstraße;;;10;12;Niederschelden;0262;;;148
+57080;Höllenwaldstraße;103;115;102;110;Niederschelden;0261;;;148
+57080;Höllenwaldstraße;117;163;120;156;Niederschelden;0251;;;148
+57074;Hüttengrabenweg;5;15;;;Siegen;0211;;;148
+57078;Hüttenstraße;1;45;6;40;Geisweid;0061;;;148
+57078;Iderbachstraße;21;69;12;28;Langenholdinghausen;0012;;;148
+57074;Idsteiner Straße;1;35;2;36;Siegen;0201;;;148
+57072;Im Alten Hoff;1;47;2;28;Seelbach;0112;;;148
+57078;Im Altengarten;1;11;8;8;Meiswinkel;0011;;;148
+57072;Im Bastenseifen;9;15;2;16;Trupbach;0111;;;148
+57080;Im Boden;15;51;4;32;Oberschelden;0241;;;148
+57072;Im Charlottental;5;25;2;28;Siegen;0143;;;148
+57080;Im Drottental;3;43;4;38;Niederschelden;0252;;;148
+57074;Im Freienfeld;15;15;22;22;Kaan-Marienborn;0231;;;148
+57078;Im Gartenfeld;1;1;2;6;Buchen;0021;;;148
+57078;Im Gensterfeld;1;29;2;24;Sohlbach;0021;;;148
+57074;Im Gründelchen;;;8;14;Bürbach;0223;;;148
+57078;Im Gäßchen;5;15;6;6;Meiswinkel;0011;;;148
+57076;Im Hainchen;1;39;4;20;Weidenau;0101;;;148
+57072;Im Hannesmännchen;1;11;2;8;Trupbach;0111;;;148
+57080;Im Heidenbaum;1;15;2;14;Gosenbach;0242;;;148
+57074;Im Höfchen;3;11;4;18;Bürbach;0223;;;148
+57076;Im Kalten Born;1;21;10;32;Weidenau;0101;;;148
+57072;Im Langenseifen;5;61;2;52;Siegen;0122;;;148
+57074;Im Marienbörnchen;1;3;2;6;Kaan-Marienborn;0212;;;148
+57072;Im Neuenhof;1;31;2;68;Siegen;0212;;;148
+57078;Im Ruhrstgarten;1;3;2;6;Geisweid;0042;;;148
+57080;Im Runden Wieschen;11;11;10;10;Eiserfeld;0281;;;148
+57072;Im Samelsfeld;1;75;2;56;Siegen;0122;;;148
+57074;Im Schockhain;1;13;2;10;Breitenbach;0234;;;148
+57078;Im Seifen;1;13;2;18;Sohlbach;0021;;;148
+57080;Im Siedlerfeld;1;11;2;6;Oberschelden;0241;;;148
+57074;Im Steingarten;5;31;10;38;Breitenbach;0234;;;148
+57078;Im Struthwald;1;7;2;10;Buchen;0021;;;148
+57072;Im Stummefeld;1;25;22;54;Siegen;0111;;;148
+57078;Im Söntchen;1;37;;;Geisweid;0052;;;148
+57074;Im Süßen Kampen;1;19;8;28;Siegen;0212;;;148
+57076;Im Tiergarten;15;19;;;Weidenau;0091;;;148
+57074;Im Wiesengarten;;;4;12;Bürbach;0223;;;148
+57072;Im Wiesengrund;1;3;4;4;Siegen;0122;;;148
+57078;Im Wiesental;1;93;6;84;Geisweid;0042;;;148
+57072;Im Wolfseifen;1;67;4;70;Seelbach;0112;;;148
+57080;In den Hüffeln;1;13;;;Eiserfeld;0291;;;148
+57072;In der Arnsbach;;;6;10;Seelbach;0112;;;148
+57080;In der Bitze;1;15;2;22;Eisern;0292;;;148
+57078;In der Burbach;1;55;4;52;Niedersetzen;0033;;;148
+57074;In der Dell;;;2;4;Bürbach;0223;;;148
+57072;In der Engsbach;1;73;16;72;Siegen;0123;;;148
+57080;In der Enke;3;39;4;12;Eiserfeld;0272;;;148
+57080;In der Felsenbach;1;5;4;8;Niederschelden;0261;;;148
+57074;In der Feuersbach;15;19;;;Breitenbach;0234;;;148
+57074;In der Flur;3;13;10;16;Siegen;0191;;;148
+57078;In der Furth;1;13;4;4;Birlenbach;0013;;;148
+57072;In der Großenbach;1;43;2;46;Siegen;0122;;;148
+57072;In der Heinbach;;;2;2;Siegen;0131;;;148
+57074;In der Hellenbach;1;7;2;6;Kaan-Marienborn;0232;;;148
+57076;In der Herrenwiese;5;5;;;Siegen;0143;;;148
+57072;In der Hofwiese;1;17;2;14;Siegen;0143;;;148
+57080;In der Hubach;3;67;2;66;Eiserfeld;0282;;;148
+57072;In der Hüttenwiese;23;23;22;30;Siegen;0143;;;148
+57080;In der Kohlenbach;3;43;4;12;Eiserfeld;0291;;;148
+57074;In der Minnerbach;15;15;;;Siegen;0183;;;148
+57072;In der Mittelbach;1;9;2;18;Seelbach;0112;;;148
+57072;In der Parbach;5;15;4;32;Trupbach;0111;;;148
+57080;In der Peeke;1;31;2;42;Eisern;0293;;;148
+57072;In der Rabelsbach;1;9;;;Seelbach;0112;;;148
+57080;In der Seimbach;1;15;6;16;Eisern;0293;;;148
+57072;In der Sieghütte;7;9;12;12;Siegen;0143;;;148
+57074;In der Steinwiese;101;101;20;78;Kaan-Marienborn;0232;;;148
+57080;In der Tal;1;7;6;6;Eisern;0293;;;148
+57080;In der Wehbach;19;53;2;54;Eiserfeld;0291;;;148
+57072;In der Weidenbach;1;5;2;8;Siegen;0132;;;148
+57074;In der Winchenbach;1;67;2;34;Siegen;0181;;;148
+57074;In der Winchenbach;69;107;36;72;Siegen;0182;;;148
+57080;In der Wolfskaute;1;5;2;6;Niederschelden;0261;;;148
+57076;Industriestraße;;;14;14;Weidenau;0093;;;148
+57078;Irisweg;3;5;2;6;Geisweid;0042;;;148
+57076;Jahnstraße;3;51;6;54;Weidenau;0092;;;148
+57074;Jakob-Heinzerling-Str.;1;7;2;6;Siegen;0173;;;148
+57078;Jakob-Scheiner-Str.;1;13;2;14;Sohlbach;0021;;;148
+57080;Jakobstraße;1;9;2;12;Niederschelden;0252;;;148
+57080;Jakobusstraße;1;11;;;Niederschelden;0262;;;148
+57078;Jasminweg;1;1;;;Geisweid;0051;;;148
+57080;Joh.-Henr.-Graf-Str.;9;35;14;54;Eiserfeld;0281;;;148
+57074;Johann-Friedr.-Bender-Weg;15;29;10;26;Kaan-Marienborn;0232;;;148
+57078;Johann-Hus-Straße;3;11;2;10;Geisweid;0043;;;148
+57080;Johannes-Spies-Str.;1;33;4;18;Oberschelden;0241;;;148
+57072;Johanneshütte;1;67;2;18;Siegen;0132;;;148
+57080;Johannesstraße;3;27;2;26;Niederschelden;0252;;;148
+57072;Juliusstraße;;;4;16;Siegen;0152;;;148
+57076;Jung-Stilling-Straße;1;59;2;60;Weidenau;0093;;;148
+57072;Jägerstraße;25;31;32;34;Seelbach;0112;;;148
+57080;Kaiserschacht;3;23;2;26;Eiserfeld;0281;;;148
+57080;Kalmbergstraße;1;23;2;20;Eisern;0292;;;148
+57078;Kalte Seite;3;11;2;8;Birlenbach;0013;;;148
+57072;Kampenstraße;13;73;22;70;Siegen;0152;;;148
+57074;Kapellenstraße;11;23;2;24;Kaan-Marienborn;0232;;;148
+57080;Karl-Barth-Straße;3;11;;;Niederschelden;0262;;;148
+57080;Karl-Barth-Straße;;;6;6;Siegen;0262;;;148
+57080;Karl-Barth-Straße;13;19;18;30;Siegen;0124;;;148
+57080;Karl-Hartmann-Str.;11;39;16;42;Eiserfeld;0281;;;148
+57076;Karl-Saßmann-Weg;1;33;8;20;Weidenau;0102;;;148
+57074;Karlstraße;1;19;2;14;Kaan-Marienborn;0231;;;148
+57078;Kastanienweg;1;11;2;8;Geisweid;0022;;;148
+57078;Kastenweg;1;7;6;14;Obersetzen;0033;;;148
+57072;Kaute;;;6;6;Siegen;0162;;;148
+57072;Keilstraße;1;5;10;10;Siegen;0151;;;148
+57080;Keppelscher Hof;23;35;14;36;Gosenbach;0243;;;148
+57074;Kichtaler Weg;;;20;110;Kaan-Marienborn;0232;;;148
+57078;Kiefernweg;5;41;2;34;Geisweid;0051;;;148
+57080;Kirchberg;9;31;2;24;Niederschelden;0251;;;148
+57072;Kirchweg;41;105;46;98;Siegen;0171;;;148
+57078;Kirchwiese;1;17;2;14;Obersetzen;0033;;;148
+57074;Kirlestraße;3;41;26;44;Feuersbach;0235;;;148
+57072;Kleeweg;1;21;2;26;Trupbach;0111;;;148
+57072;Kleiststraße;13;45;14;32;Siegen;0141;;;148
+57072;Klopstockstraße;7;9;4;8;Siegen;0141;;;148
+57080;Knappenweg;15;59;18;18;Eisern;0292;;;148
+57080;Knesberich;23;23;4;18;Niederschelden;0252;;;148
+57080;Kniewiesenstraße;1;25;2;18;Oberschelden;0241;;;148
+57074;Knopsstraße;1;17;2;18;Siegen;0211;;;148
+57072;Koblenzer Straße;1;5;4;24;Siegen;0152;;;148
+57072;Koblenzer Straße;29;111;40;188;Siegen;0171;;;148
+57072;Kohlbettstraße;15;15;2;26;Siegen;0161;;;148
+57078;Kohlenbergstraße;;;4;22;Buchen;0021;;;148
+57074;Kohlenweg;3;19;6;20;Bürbach;0223;;;148
+57074;Kohrweg;1;27;4;150;Kaan-Marienborn;0232;;;148
+57072;Kolberger Straße;5;65;4;64;Siegen;0121;;;148
+57074;Kolbeweg;;;6;12;Siegen;0181;;;148
+57072;Kolpingstraße;31;31;30;58;Siegen;0221;;;148
+57078;Koomansstraße;9;25;2;20;Geisweid;0043;;;148
+57078;Koomansstraße;31;45;22;54;Geisweid;0041;;;148
+57072;Kornmarkt;;;2;34;Siegen;0162;;;148
+57074;Kranichweg;1;9;4;12;Kaan-Marienborn;0232;;;148
+57078;Krauseburg;1;15;2;12;Geisweid;0031;;;148
+57078;Kredenbacher Weg;1;3;2;12;Obersetzen;0033;;;148
+57080;Kreuzberg;5;19;2;28;Gosenbach;0242;;;148
+57078;Krokusweg;1;3;2;4;Geisweid;0042;;;148
+57072;Krumme Driesch;5;5;;;Siegen;0122;;;148
+57074;Krähenweg;1;7;2;10;Kaan-Marienborn;0232;;;148
+57078;Kupferstraße;3;7;4;8;Geisweid;0062;;;148
+57080;Kurze Straße;1;15;2;18;Oberschelden;0241;;;148
+57074;Käner Straße;;;12;12;Feuersbach;0235;;;148
+57076;Känerbergstraße;3;67;2;70;Weidenau;0102;;;148
+57076;Köhlerweg;1;13;2;24;Weidenau;0091;;;148
+57072;Kölner Straße;1;55;2;62;Siegen;0161;;;148
+57072;Kölner Tor;3;9;4;16;Siegen;0161;;;148
+57072;Königsberger Straße;21;39;8;42;Siegen;0133;;;148
+57078;Königstraße;1;25;2;36;Geisweid;0061;;;148
+57072;Köpfchenstraße;1;55;2;48;Siegen;0142;;;148
+57072;Körnerstraße;1;21;2;22;Siegen;0141;;;148
+57072;Kösliner Straße;3;3;6;6;Siegen;0121;;;148
+57072;Küstriner Straße;3;19;4;10;Siegen;0123;;;148
+57072;Laaspher Straße;1;55;2;60;Siegen;0222;;;148
+57074;Ladestraße Siegen-Ost;3;3;;;Kaan-Marienborn;0231;;;148
+57080;Lambareneweg;5;15;2;18;Niederschelden;0261;;;148
+57078;Lambertweg;3;17;2;18;Niedersetzen;0033;;;148
+57072;Landsberger Straße;1;19;8;20;Siegen;0123;;;148
+57078;Lange Wiese;1;3;2;2;Sohlbach;0021;;;148
+57078;Langenauer Straße;;;4;4;Sohlbach;0021;;;148
+57072;Laubaner Straße;1;9;4;14;Siegen;0133;;;148
+57072;Lauseicher Weg;3;11;4;12;Trupbach;0111;;;148
+57078;Lavendelweg;1;25;4;22;Geisweid;0042;;;148
+57080;Leibnizstraße;1;9;2;6;Niederschelden;0252;;;148
+57074;Leimbachstraße;39;227;16;260;Siegen;0181;;;148
+57074;Leimbachstraße;5;5;4;12;Siegen;0171;;;148
+57074;Leineweberstraße;1;43;10;32;Bürbach;0223;;;148
+57074;Lessingstraße;1;59;2;58;Siegen;0182;;;148
+57080;Letteweg;11;11;4;14;Oberschelden;0241;;;148
+57072;Leystraße;1;13;4;14;Siegen;0171;;;148
+57072;Libellenweg;3;13;2;14;Trupbach;0111;;;148
+57072;Liegnitzer Straße;9;47;66;104;Siegen;0133;;;148
+57072;Lilienstraße;5;45;14;38;Seelbach;0112;;;148
+57074;Limburger Straße;;;2;40;Siegen;0202;;;148
+57074;Lindenbergstraße;1;11;4;8;Kaan-Marienborn;0232;;;148
+57078;Lindenplatz;1;5;2;6;Geisweid;0043;;;148
+57080;Lindenstraße;3;149;2;140;Eiserfeld;0281;;;148
+57074;Lohhain;21;21;6;8;Volnsberg;0233;;;148
+57078;Lohscheffelweg;3;3;2;2;Niedersetzen;0033;;;148
+57076;Lohweg;5;41;2;40;Weidenau;0081;;;148
+57074;Lothar-Irle-Straße;1;41;2;100;Kaan-Marienborn;0232;;;148
+57072;Luchsweg;1;7;2;4;Seelbach;0112;;;148
+57078;Ludwig-Kenter-Straße;1;57;2;52;Geisweid;0062;;;148
+57076;Ludwigstraße;1;61;4;60;Weidenau;0071;;;148
+57076;Luisenstraße;1;35;4;40;Weidenau;0102;;;148
+57072;Lupinenweg;;;6;12;Seelbach;0112;;;148
+57080;Lurzenbacher Straße;1;61;2;56;Gosenbach;0243;;;148
+57072;Lämmergasse;1;15;16;16;Siegen;0162;;;148
+57078;Lärchenweg;1;31;2;18;Geisweid;0022;;;148
+57074;Löhcheswald;3;21;10;24;Breitenbach;0234;;;148
+57072;Löhrstraße;3;45;2;42;Siegen;0161;;;148
+57072;Löhrtor;1;15;12;12;Siegen;0191;;;148
+57078;Löhstraße;1;7;2;28;Obersetzen;0033;;;148
+57074;Lüsbergstraße;3;15;4;100;Feuersbach;0235;;;148
+57076;Lützowstraße;1;37;2;40;Weidenau;0102;;;148
+57080;Maccostraße;13;85;4;92;Niederschelden;0252;;;148
+57076;Magnolienweg;1;3;2;4;Weidenau;0083;;;148
+57080;Mahlscheid;1;37;4;22;Eiserfeld;0263;;;148
+57080;Maiweg;1;29;2;16;Gosenbach;0243;;;148
+57072;Marburger Straße;3;45;2;34;Siegen;0162;;;148
+57072;Marburger Tor;1;37;2;34;Siegen;0162;;;148
+57076;Margeritenweg;1;7;2;8;Weidenau;0083;;;148
+57074;Marienborner Straße;3;245;96;230;Siegen;0211;;;148
+57072;Marienstraße;1;3;4;4;Siegen;0152;;;148
+57072;Markt;1;55;;;Siegen;0162;;;148
+57080;Marktplatz;1;9;2;14;Eiserfeld;0281;;;148
+57078;Marktstraße;3;35;12;46;Geisweid;0043;;;148
+57078;Marktstraße;41;61;48;70;Geisweid;0041;;;148
+57080;Martin-Luther-Straße;1;67;2;78;Niederschelden;0262;;;148
+57080;Martin-Luther-Straße;;;2B;2B;Siegen;0124;;;148
+57080;Masurenweg;1;5;2;2;Gosenbach;0242;;;148
+57074;Mathiasweg;19;43;40;40;Siegen;0202;;;148
+57072;Mauerstraße;3;21;2;2;Siegen;0162;;;148
+57076;Max-Liebermann-Weg;1;5;;;Weidenau;0072;;;148
+57074;Max-Planck-Straße;1;43;2;30;Kaan-Marienborn;0231;;;148
+57074;Meilerstraße;23;81;2;76;Bürbach;0223;;;148
+57078;Meisenweg;1;7;2;8;Buchen;0021;;;148
+57074;Melanchthonstraße;1;61;2;58;Siegen;0191;;;148
+57072;Memeler Straße;1;45;28;34;Siegen;0123;;;148
+57080;Michelsbergstraße;1;25;2;18;Eisern;0292;;;148
+57080;Mittelweg;1;21;4;42;Eiserfeld;0263;;;148
+57072;Moltkestraße;3;3;6;10;Siegen;0143;;;148
+57078;Moosweg;1;5;2;6;Buchen;0021;;;148
+57080;Morgenröthe;1;35;2;20;Niederschelden;0261;;;148
+57076;Morgenstraße;1;33;10;32;Weidenau;0101;;;148
+57072;Morleystraße;15;53;;;Siegen;0152;;;148
+57080;Mozartstraße;1;51;2;44;Niederschelden;0262;;;148
+57072;Muldenweg;11;13;4;12;Siegen;0123;;;148
+57074;Mörikestraße;5;93;6;76;Siegen;0181;;;148
+57078;Mühlchenstraße;1;25;2;22;Meiswinkel;0011;;;148
+57080;Mühlenfeld;1;7;;;Niederschelden;0251;;;148
+57072;Mühlengrabenstraße;1;15;2;12;Siegen;0152;;;148
+57080;Mühlenstraße;1;25;4;32;Eiserfeld;0272;;;148
+57076;Münkershütten;1;5;2;4;Weidenau;0091;;;148
+57074;Münterweg;1;47;2;84;Siegen;0211;;;148
+57080;Nachtigallweg;3;91;4;98;Eiserfeld;0271;;;148
+57076;Narzissenweg;1;3;2;4;Weidenau;0083;;;148
+57074;Nassauische Straße;7;27;6;16;Siegen;0211;;;148
+57074;Nauheimer Straße;;;2;36;Siegen;0202;;;148
+57072;Nelkenweg;3;61;10;60;Seelbach;0112;;;148
+57072;Nerzweg;5;5;6;6;Siegen;0122;;;148
+57074;Netphener Straße;5;73;6;20;Breitenbach;0234;;;148
+57072;Neumarkt;1;11;;;Siegen;0162;;;148
+57078;Neuwiese;3;15;4;14;Dillnhütten;0032;;;148
+57072;Nordstraße;1;45;6;38;Siegen;0152;;;148
+57076;Novalisweg;1;7;2;8;Weidenau;0072;;;148
+57072;Numbachstraße;;;30;30;Siegen;0131;;;148
+57072;Numbachstraße;33;93;44;118;Siegen;0111;;;148
+57072;Numbachstraße;;;122;164;Trupbach;0111;;;148
+57078;Nußbaumweg;1;5;2;6;Geisweid;0051;;;148
+57072;Obenstruthstraße;7;45;6;34;Siegen;0142;;;148
+57074;Ober dem Feldgarten;11;13;2;10;Kaan-Marienborn;0231;;;148
+57074;Obere Dorfstraße;1;49;2;156;Bürbach;0223;;;148
+57078;Obere Kaiserstraße;;;6;6;Geisweid;0043;;;148
+57072;Obere Metzgerstraße;5;47;2;42;Siegen;0162;;;148
+57076;Obere Rolandstraße;1;9;4;10;Weidenau;0092;;;148
+57080;Oberer Hengsbacher Weg;1;87;2;102;Eiserfeld;0263;;;148
+57072;Oberes Schloß;1;1;;;Siegen;0162;;;148
+57072;Obergraben;11;31;12;20;Siegen;0161;;;148
+57074;Oberlinstraße;5;13;12;42;Siegen;0211;;;148
+57080;Oberschelder Straße;1;47;2;54;Gosenbach;0243;;;148
+57080;Oberschelder Straße;57;161;60;80;Oberschelden;0241;;;148
+57080;Obersdorfer Straße;1;11;2;14;Eisern;0293;;;148
+57076;Oberstraße;3;43;2;48;Weidenau;0081;;;148
+57074;Oechelhaeuserstraße;17;23;4;48;Siegen;0183;;;148
+57078;Olper Straße;7;65;4;54;Langenholdinghausen;0012;;;148
+57072;Oranienstraße;11;27;10;18;Siegen;0161;;;148
+57080;Ostlandstraße;1;67;6;60;Eisern;0292;;;148
+57074;Oststraße;9;45;2;40;Siegen;0211;;;148
+57078;Otto-Brenner-Platz;1;15;4;14;Geisweid;0022;;;148
+57078;Otto-Brenner-Straße;1;23;4;38;Geisweid;0022;;;148
+57080;Otto-Krasa-Weg;3;5;2;4;Gosenbach;0242;;;148
+57074;Panthöferweg;1;1;;;Siegen;0211;;;148
+57078;Pappelweg;1;11;2;10;Buchen;0021;;;148
+57072;Parkstraße;1;7;4;14;Siegen;0171;;;148
+57078;Patmosweg;19;65;28;60;Geisweid;0022;;;148
+57078;Patmosweg;15;15;;;Geisweid;0042;;;148
+57076;Paul-Bonatz-Straße;11;11;2;12;Weidenau;0072;;;148
+57074;Paul-Fickeler-Weg;1;23;18;28;Siegen;0183;;;148
+57074;Peter-Paul-Straße;1;13;10;10;Siegen;0171;;;148
+57072;Pfarrstraße;9;9;4;10;Siegen;0162;;;148
+57074;Philippshoffnung;1;17;2;16;Siegen;0172;;;148
+57078;Philippstraße;;;2;4;Geisweid;0041;;;148
+57080;Pingenweg;3;13;6;10;Gosenbach;0242;;;148
+57074;Ploenniesstraße;1;5;2;10;Siegen;0173;;;148
+57072;Porschestraße;23;23;4;4;Siegen;0143;;;148
+57072;Posener Straße;1;63;;;Siegen;0123;;;148
+57076;Poststraße;1;25;20;22;Weidenau;0091;;;148
+57078;Primelweg;5;23;2;24;Geisweid;0042;;;148
+57080;Pützhorn;1;1;;;Eiserfeld;0263;;;148
+57074;Quellenweg;;;4;18;Volnsberg;0233;;;148
+57078;Querstraße;3;7;2;4;Geisweid;0043;;;148
+57074;Rabenflugstraße;1;29;6;20;Siegen;0172;;;148
+57074;Rabenhainstraße;85;141;84;148;Volnsberg;0233;;;148
+57074;Radschläfe;1;37;20;42;Siegen;0183;;;148
+57074;Raiffeisenstraße;1;31;2;26;Kaan-Marienborn;0232;;;148
+57074;Rappenweiher;;;2;12;Kaan-Marienborn;0232;;;148
+57078;Rathausstraße;1;9;2;22;Geisweid;0043;;;148
+57074;Rathenaustraße;9;9;2;46;Siegen;0212;;;148
+57074;Rebhuhnweg;;;30;32;Breitenbach;0234;;;148
+57078;Reckhammerstraße;1;39;24;30;Geisweid;0062;;;148
+57074;Rehbachstraße;11;61;4;94;Kaan-Marienborn;0231;;;148
+57078;Rehweg;1;11;2;12;Geisweid;0051;;;148
+57080;Reinhold-Forster-Weg;5;35;18;30;Eiserfeld;0272;;;148
+57080;Rensbachstraße;1;33;2;28;Eisern;0292;;;148
+57072;Reuschstraße;11;19;2;18;Siegen;0151;;;148
+57078;Richelsbachstraße;1;3;6;8;Meiswinkel;0011;;;148
+57074;Riegelwiese;1;9;2;12;Bürbach;0223;;;148
+57078;Rijnsburger Straße;1;3;4;4;Geisweid;0043;;;148
+57076;Ringstraße;7;21;6;32;Weidenau;0102;;;148
+57080;Rinsdorfer Straße;1;63;2;64;Eisern;0292;;;148
+57074;Rinzenbergstraße;13;31;10;30;Feuersbach;0235;;;148
+57080;Ritschert;1;17;2;10;Eisern;0293;;;148
+57080;Rittergasse;1;9;2;2;Niederschelden;0252;;;148
+57078;Ritterspornweg;7;15;6;14;Geisweid;0041;;;148
+57076;Robert-Schumann-Str.;;;2;16;Weidenau;0072;;;148
+57072;Roonstraße;1;9;10;10;Siegen;0143;;;148
+57076;Rosa-Achenbach-Str.;1;29;2;20;Weidenau;0081;;;148
+57072;Rosenweg;21;37;2;44;Seelbach;0112;;;148
+57074;Rosterstraße;169;211;160;210;Siegen;0183;;;148
+57074;Rosterstraße;7;65;6;50;Siegen;0172;;;148
+57074;Rosterstraße;67;149;60;126;Siegen;0173;;;148
+57074;Rotdornweg;3;9;4;12;Volnsberg;0233;;;148
+57078;Rotenhain;1;15;2;2;Meiswinkel;0011;;;148
+57072;Rubensstraße;1;25;2;28;Siegen;0142;;;148
+57078;Rudolfstraße;1;5;2;6;Geisweid;0042;;;148
+57078;Ruhrststraße;5;79;2;82;Geisweid;0042;;;148
+57074;Rödger Straße;1;71;4;104;Kaan-Marienborn;0232;;;148
+57078;Röntgenstraße;11;21;10;20;Geisweid;0043;;;148
+57074;Rüntestraße;19;41;2;58;Bürbach;0223;;;148
+57078;Rüsterweg;5;11;2;12;Geisweid;0022;;;148
+57072;Saarbrücker Straße;3;7;2;22;Siegen;0142;;;148
+57078;Salamanderweg;1;9;2;16;Sohlbach;0021;;;148
+57074;Salzmannweg;7;33;12;30;Siegen;0183;;;148
+57076;Samuel-Frank-Straße;13;21;2;20;Weidenau;0092;;;148
+57076;Samuel-Frank-Straße;25;59;26;50;Weidenau;0102;;;148
+57074;Sanddornweg;1;5;4;6;Volnsberg;0233;;;148
+57072;Sandstraße;149;173;162;162;Siegen;0151;;;148
+57072;Sandstraße;1;129;8;138;Siegen;0152;;;148
+57074;Sassenweg;3;37;24;36;Bürbach;0223;;;148
+57080;Schachtweg;3;95;2;30;Gosenbach;0243;;;148
+57076;Schanzenweg;3;61;8;58;Weidenau;0081;;;148
+57072;Scheidweg;1;27;2;20;Trupbach;0111;;;148
+57080;Scheldebachstraße;1;25;2;40;Oberschelden;0241;;;148
+57072;Schelderberg;1;41;2;34;Seelbach;0112;;;148
+57074;Schenckstraße;17;21;4;24;Siegen;0183;;;148
+57080;Schiefer Weg;1;1;2;2;Eiserfeld;0272;;;148
+57080;Schieferbühl;1;15;6;10;Oberschelden;0241;;;148
+57078;Schießbergstraße;1;161;4;124;Geisweid;0052;;;148
+57078;Schießbergstraße;;;132;160;Birlenbach;0052;;;148
+57078;Schilfweg;3;7;4;10;Dillnhütten;0032;;;148
+57072;Schillerstraße;3;19;2;14;Siegen;0141;;;148
+57072;Schlachthausstraße;1;21;2;10;Siegen;0171;;;148
+57076;Schlehdornweg;1;63;2;74;Weidenau;0083;;;148
+57074;Schlehenweg;3;13;12;16;Kaan-Marienborn;0231;;;148
+57076;Schlesierweg;11;11;10;10;Weidenau;0071;;;148
+57072;Schlossergasse;;;2;4;Siegen;0162;;;148
+57076;Schlosserstraße;1;11;2;14;Weidenau;0093;;;148
+57074;Schloßblick;5;63;8;62;Kaan-Marienborn;0231;;;148
+57074;Schloßblick;69;79;68;78;Kaan-Marienborn;0212;;;148
+57074;Schloßblick;81;89;82;88;Siegen;0212;;;148
+57072;Schlämmchen;;;2;12;Siegen;0152;;;148
+57080;Schmelzerweg;;;2;16;Eiserfeld;0291;;;148
+57080;Schmidthainsweg;3;35;6;30;Eisern;0293;;;148
+57076;Schmiedestraße;1;9;8;12;Weidenau;0093;;;148
+57074;Schnabelstraße;1;5;4;6;Siegen;0191;;;148
+57074;Schnepfenweg;17;17;4;16;Breitenbach;0234;;;148
+57076;Schneppenkauten;1;47;2;52;Weidenau;0071;;;148
+57080;Schorsches Weg;3;25;2;10;Eiserfeld;0291;;;148
+57080;Schrenker Feld;33;65;36;64;Gosenbach;0242;;;148
+57080;Schubertstraße;1;35;2;42;Niederschelden;0262;;;148
+57080;Schulstraße;1;59;6;46;Eisern;0293;;;148
+57076;Schultestraße;1;77;2;70;Weidenau;0101;;;148
+57078;Schwalbenweg;15;41;2;44;Buchen;0021;;;148
+57078;Schwarzdornweg;1;19;2;18;Geisweid;0051;;;148
+57078;Schwarzenbachstraße;5;5;4;4;Meiswinkel;0011;;;148
+57078;Schweizer Seifen;1;7;2;6;Birlenbach;0013;;;148
+57072;Schweriner Straße;1;23;20;30;Siegen;0133;;;148
+57078;Schöntalstraße;1;15;2;12;Geisweid;0042;;;148
+57076;Schülerweg;1;19;2;22;Weidenau;0101;;;148
+57080;Schürfweg;15;17;4;14;Niederschelden;0251;;;148
+57072;Schützenstraße;3;69;2;46;Siegen;0131;;;148
+57078;Schützenwiese;13;31;14;34;Niedersetzen;0033;;;148
+57078;Sedanstraße;;;4;24;Geisweid;0042;;;148
+57072;Seelbacher Weg;1;115;2;112;Trupbach;0111;;;148
+57072;Seelbergstraße;1;41;6;38;Siegen;0122;;;148
+57074;Seilereiweg;;;6;6;Siegen;0192;;;148
+57076;Setzer Weg;1;29;2;22;Weidenau;0071;;;148
+57078;Setzetalstraße;3;21;2;14;Obersetzen;0033;;;148
+57078;Setzetalstraße;91;91;;;Niedersetzen;0033;;;148
+57076;Sichelweg;1;3;2;6;Weidenau;0081;;;148
+57072;Siegbergstraße;5;73;2;34;Siegen;0161;;;148
+57080;Siegener Straße;1;81;2;120;Gosenbach;0242;;;148
+57080;Siegensteinkamm;1;37;10;34;Eiserfeld;0282;;;148
+57072;Sieghütter Hauptweg;3;145;12;126;Siegen;0143;;;148
+57076;Siegstraße;3;181;24;110;Weidenau;0093;;;148
+57080;Siegtalstraße;105;215;102;220;Niederschelden;0252;;;148
+57080;Siegtalstraße;1;125;12;44;Eiserfeld;0272;;;148
+57072;Siegufer;;;6;28;Siegen;0143;;;148
+57074;Siemensstraße;1;37;2;54;Siegen;0212;;;148
+57074;Silberfuchs;1;25;2;44;Bürbach;0221;;;148
+57080;Sinnerbach;3;19;2;18;Eiserfeld;0271;;;148
+57076;Sodingenstraße;1;29;2;22;Weidenau;0102;;;148
+57078;Sohlbachbrücke;3;9;4;24;Geisweid;0042;;;148
+57078;Sohlbacher Straße;1;51;2;54;Geisweid;0043;;;148
+57078;Sohlbacher Straße;53;219;56;224;Geisweid;0042;;;148
+57074;Sonnenhof;1;1;;;Volnsberg;0233;;;148
+57078;Sonnenstraße;1;31;2;60;Obersetzen;0033;;;148
+57078;Sonnenwinkel;11;43;8;50;Meiswinkel;0011;;;148
+57072;Sorauer Straße;31;39;2;38;Siegen;0121;;;148
+57072;Spandauer Straße;1;31;2;58;Siegen;0191;;;148
+57078;Spechtweg;3;11;2;22;Geisweid;0023;;;148
+57078;Sperberweg;1;11;2;10;Geisweid;0023;;;148
+57074;Spiesweg;1;7;4;4;Bürbach;0223;;;148
+57072;Spritzenhausgasse;;;4;4;Siegen;0143;;;148
+57074;St.-Johann-Straße;1;5;4;14;Siegen;0191;;;148
+57072;St.-Michael-Straße;7;37;2;34;Siegen;0151;;;148
+57080;Stadtweg;1;7;2;8;Oberschelden;0241;;;148
+57078;Stahlstraße;1;9;4;6;Geisweid;0062;;;148
+57078;Starenweg;1;19;2;20;Geisweid;0051;;;148
+57072;Stargarder Straße;1;15;2;14;Siegen;0133;;;148
+57076;Steiler Weg;3;15;2;16;Weidenau;0102;;;148
+57074;Steilstraße;5;5;2;8;Kaan-Marienborn;0232;;;148
+57078;Steimelstraße;1;9;2;18;Obersetzen;0033;;;148
+57072;Steinstraße;5;73;2;70;Siegen;0151;;;148
+57072;Sternweg;1;3;6;6;Siegen;0171;;;148
+57072;Stettiner Straße;1;27;14;26;Siegen;0123;;;148
+57072;Steubenstraße;15;23;2;16;Siegen;0131;;;148
+57072;Steuberweg;7;37;16;28;Siegen;0122;;;148
+57072;Stichweg;5;5;4;12;Seelbach;0112;;;148
+57080;Stimmerweg;1;17;2;12;Eisern;0292;;;148
+57080;Stimmerwiese;11;13;4;20;Eisern;0292;;;148
+57076;Stockweg;5;121;6;114;Weidenau;0101;;;148
+57080;Stollenweg;1;7;2;6;Eiserfeld;0281;;;148
+57078;Stormstraße;11;67;4;72;Geisweid;0031;;;148
+57080;Striegelborn;1;25;2;20;Niederschelden;0252;;;148
+57074;Stöckerstraße;1;43;2;50;Siegen;0173;;;148
+57074;Stürbergstraße;5;41;8;44;Feuersbach;0235;;;148
+57078;Suttnerweg;3;3;6;20;Geisweid;0031;;;148
+57074;Südstraße;11;11;2;16;Siegen;0212;;;148
+57080;Talblick;5;35;2;24;Niederschelden;0261;;;148
+57080;Talsbachstraße;1;59;12;28;Eiserfeld;0282;;;148
+57076;Talstraße;7;111;2;116;Weidenau;0101;;;148
+57074;Tannenbergstraße;3;27;2;28;Siegen;0173;;;148
+57078;Tannenburgstraße;1;19;2;18;Geisweid;0042;;;148
+57078;Tannenwald;3;3;4;10;Niedersetzen;0033;;;148
+57078;Taubenweg;1;27;10;18;Buchen;0021;;;148
+57076;Taxusweg;1;7;2;6;Weidenau;0083;;;148
+57078;Teichweg;1;7;2;8;Buchen;0021;;;148
+57074;Theodor-Noa-Straße;11;19;4;26;Siegen;0211;;;148
+57074;Theodorstraße;1;19;2;22;Kaan-Marienborn;0231;;;148
+57072;Thurnstraße;1;35;8;32;Trupbach;0111;;;148
+57078;Thymianweg;1;5;4;12;Geisweid;0042;;;148
+57072;Thüringer Straße;5;25;4;20;Siegen;0133;;;148
+57076;Tiefenbacher Straße;3;3;2;2;Bürbach;0223;;;148
+57072;Tiergartenstraße;85;165;138;166;Siegen;0142;;;148
+57072;Tiergartenstraße;5;77;38;38;Siegen;0141;;;148
+57074;Tillmann-Siebel-Str.;1;7;2;10;Siegen;0172;;;148
+57074;Tillmann-Stolz-Str.;3;35;2;32;Siegen;0173;;;148
+57072;Tilsiter Straße;1;17;8;20;Siegen;0133;;;148
+57072;Treppenweg;;;2;6;Siegen;0151;;;148
+57080;Tretenbach;21;21;2;32;Eiserfeld;0281;;;148
+57078;Trifftweg;3;27;2;6;Geisweid;0042;;;148
+57072;Trupbacher Straße;5;209;6;186;Trupbach;0111;;;148
+57072;Tulpenweg;5;51;4;58;Seelbach;0112;;;148
+57080;Tunnelstraße;1;3;2;6;Niederschelden;0251;;;148
+57078;Turnerstraße;5;9;2;10;Geisweid;0061;;;148
+57074;Turnhallenweg;;;6;10;Bürbach;0223;;;148
+57074;Uhlandstraße;5;37;14;38;Siegen;0181;;;148
+57074;Uhlandstraße;39;65;40;70;Siegen;0182;;;148
+57078;Ulmenweg;1;23;;;Geisweid;0051;;;148
+57078;Unglinghäuser Straße;1;1;;;Obersetzen;0033;;;148
+57080;Unionsweg;1;15;2;14;Eisern;0293;;;148
+57074;Unter d. Klingelschacht;3;73;4;46;Siegen;0181;;;148
+57074;Unter dem Walde;1;13;12;12;Kaan-Marienborn;0232;;;148
+57074;Unter den Weiden;1;5;2;4;Siegen;0211;;;148
+57080;Unter der Burg;9;15;2;18;Niederschelden;0252;;;148
+57074;Unter der Eremitage;5;13;6;20;Kaan-Marienborn;0232;;;148
+57074;Unter der Ley;3;25;4;30;Kaan-Marienborn;0232;;;148
+57074;Untere Dorfstraße;1;167;2;130;Bürbach;0223;;;148
+57072;Untere Metzgerstraße;11;59;2;56;Siegen;0162;;;148
+57076;Untere Rolandstraße;3;19;4;10;Weidenau;0092;;;148
+57072;Unterhainweg;21;45;2;46;Siegen;0162;;;148
+57080;Unterm Lindchen;5;5;2;8;Oberschelden;0241;;;148
+57072;Unterm Schaffeld;3;29;14;16;Seelbach;0112;;;148
+57078;Unterm Steimel;5;45;2;56;Obersetzen;0033;;;148
+57074;Usinger Straße;;;2;14;Siegen;0202;;;148
+57078;Veilchenweg;1;11;2;10;Geisweid;0042;;;148
+57076;Veit-Stoß-Straße;1;1;2;36;Weidenau;0072;;;148
+57078;Viktoriastraße;;;2;4;Geisweid;0043;;;148
+57074;Vilbeler Weg;23;23;2;52;Siegen;0201;;;148
+57072;Vinckestraße;3;15;2;10;Siegen;0151;;;148
+57074;Virchowstraße;13;27;10;32;Siegen;0183;;;148
+57074;Volnsberger Weg;1;1;;;Siegen;0201;;;148
+57074;Volnsberger Weg;;;2;18;Kaan-Marienborn;0212;;;148
+57074;Volnsberger Weg;3;15;22;22;Siegen;0212;;;148
+57072;Von-Galen-Straße;3;5;2;10;Siegen;0151;;;148
+57074;Von-Gericke-Straße;1;7;2;12;Siegen;0173;;;148
+57074;Vor dem Steinchen;;;20;22;Volnsberg;0233;;;148
+57078;Vor den Birken;3;27;2;20;Meiswinkel;0011;;;148
+57076;Vor der Dautenbach;1;37;2;34;Weidenau;0101;;;148
+57080;Vor der Hohler;1;29;2;18;Oberschelden;0241;;;148
+57078;Vor der Ley;5;11;4;8;Dillnhütten;0032;;;148
+57078;Vor der Schule;1;11;2;10;Birlenbach;0013;;;148
+57076;Vorm Kieselstein;1;41;2;38;Weidenau;0101;;;148
+57076;W.-V.-Humboldt-Platz;3;13;2;16;Weidenau;0072;;;148
+57078;Wacholderweg;1;45;2;32;Geisweid;0022;;;148
+57078;Waidmannsweg;1;15;2;18;Buchen;0021;;;148
+57076;Waldenburger Weg;1;23;2;30;Weidenau;0071;;;148
+57080;Waldesruh;1;39;2;38;Niederschelden;0262;;;148
+57076;Waldhausstraße;1;13;2;22;Weidenau;0091;;;148
+57076;Waldrebenweg;;;16;18;Weidenau;0082;;;148
+57076;Waldrebenweg;15;37;8;14;Weidenau;0083;;;148
+57076;Waldrebenweg;;;20;24;Weidenau;0083;;;148
+57076;Waldrebenweg;;;26;30;Weidenau;0082;;;148
+57080;Waldstraße;1;125;6;128;Niederschelden;0251;;;148
+57074;Wallauer Weg;17;53;12;60;Siegen;0222;;;148
+57072;Wallauer Weg;1;11;4;4;Siegen;0222;;;148
+57074;Wallgrabenstraße;5;5;4;6;Siegen;0211;;;148
+57072;Wallhausenstraße;1;1;;;Siegen;0123;;;148
+57072;Walter-Flex-Straße;1;1;;;Siegen;0132;;;148
+57076;Walter-Gropius-Weg;;;2;6;Weidenau;0072;;;148
+57072;Walzenweg;1;63;2;34;Trupbach;0111;;;148
+57078;Wartburgstraße;7;33;14;32;Geisweid;0043;;;148
+57080;Wartestraße;1;35;4;28;Niederschelden;0251;;;148
+57078;Wasserweg;3;15;4;20;Buchen;0021;;;148
+57074;Weberstraße;7;13;2;18;Feuersbach;0235;;;148
+57080;Wehrstraße;1;27;2;32;Niederschelden;0261;;;148
+57078;Weidekamp;5;21;2;10;Langenholdinghausen;0012;;;148
+57076;Weidenauer Straße;153;265;142;266;Weidenau;0091;;;148
+57078;Weidenauer Straße;;;26;28;Weidenau;0071;;;148
+57076;Weidenauer Straße;39;145;54;120;Weidenau;0071;;;148
+57072;Weidenbruch;15;29;2;28;Seelbach;0112;;;148
+57078;Weiherdammstraße;1;5;2;6;Meiswinkel;0011;;;148
+57076;Weiherstraße;1;37;4;26;Weidenau;0102;;;148
+57080;Weiherwiese;;;6;10;Oberschelden;0241;;;148
+57074;Weilburger Straße;;;6;26;Siegen;0201;;;148
+57074;Weinligstraße;1;29;2;36;Siegen;0211;;;148
+57080;Weisgerberstraße;5;33;2;22;Eisern;0293;;;148
+57074;Weißbachweg;1;15;4;8;Siegen;0211;;;148
+57074;Weißdornweg;3;5;4;8;Volnsberg;0233;;;148
+57080;Weißer Hirsch;1;11;4;16;Gosenbach;0243;;;148
+57074;Weißtalstraße;1;7;2;8;Siegen;0211;;;148
+57072;Wellersbergstraße;9;73;6;60;Siegen;0141;;;148
+57072;Welterstraße;1;1;10;68;Siegen;0143;;;148
+57076;Welterstraße;71;87;74;92;Weidenau;0092;;;148
+57072;Welterstraße;55;55;;;Siegen;0151;;;148
+57078;Wenschtstraße;21;63;2;78;Geisweid;0051;;;148
+57074;Westerwaldstraße;47;67;50;50;Siegen;0202;;;148
+57072;Weststraße;1;11;2;24;Siegen;0131;;;148
+57074;Wetzlarer Straße;3;131;2;132;Siegen;0202;;;148
+57074;Wichernstraße;7;21;2;18;Siegen;0183;;;148
+57072;Wickersbacher Weg;1;103;2;100;Trupbach;0111;;;148
+57080;Wiedthalstr.;1;23;;;Eiserfeld;0281;;;148
+57072;Wielandstraße;17;17;2;28;Siegen;0141;;;148
+57074;Wiesbadener Straße;;;2;36;Siegen;0202;;;148
+57072;Wiesenstraße;17;95;8;82;Siegen;0171;;;148
+57080;Wildenburger Hof;1;35;2;30;Gosenbach;0242;;;148
+57072;Wildgrund;3;17;6;8;Siegen;0122;;;148
+57078;Wildrosenallee;1;15;2;10;Langenholdinghausen;0014;;;148
+57078;Wildweg;1;27;2;26;Birlenbach;0013;;;148
+57078;Wildweg;31;41;;;Langenholdinghausen;0014;;;148
+57078;Wilhelm-Busch-Straße;1;21;2;20;Geisweid;0031;;;148
+57074;Wilhelm-Münker-Str.;3;11;2;4;Siegen;0171;;;148
+57078;Wilhelm-Raabe-Straße;7;37;20;36;Geisweid;0061;;;148
+57080;Wilhelm-Siebel-Weg;;;4;16;Gosenbach;0243;;;148
+57074;Wilhelm-Steinseifer-Weg;;;6;26;Siegen;0181;;;148
+57080;Wilhelmstraße;1;41;4;28;Eiserfeld;0282;;;148
+57072;Wittgensteiner Str.;7;127;2;132;Siegen;0222;;;148
+57080;Wolfsbach;1;11;2;14;Eisern;0293;;;148
+57078;Wollsbachstraße;1;7;2;6;Obersetzen;0033;;;148
+57072;Wurmbergsfeld;1;17;2;16;Seelbach;0112;;;148
+57074;Würgendorfer Straße;1;25;;;Siegen;0202;;;148
+57072;Ypernstraße;89;163;138;210;Siegen;0133;;;148
+57072;Ypernstraße;1;3;;;Siegen;0132;;;148
+57080;Zeil;3;45;2;38;Niederschelden;0252;;;148
+57074;Zeisigweg;;;4;10;Kaan-Marienborn;0232;;;148
+57078;Zeppelinstraße;3;87;2;82;Geisweid;0062;;;148
+57080;Ziegelbrennerstraße;15;29;6;36;Niederschelden;0252;;;148
+57078;Ziegeleistraße;3;33;2;20;Geisweid;0023;;;148
+57074;Ziegelwerkstraße;17;75;36;60;Siegen;0171;;;148
+57076;Zimmerstraße;1;1;;;Weidenau;0093;;;148
+57078;Zinkstraße;1;7;6;8;Geisweid;0062;;;148
+57078;Zinnwald;3;3;2;4;Langenholdinghausen;0012;;;148
+57076;Zum Bernstein;3;29;6;32;Weidenau;0082;;;148
+57072;Zum Eiskeller;5;11;2;14;Seelbach;0112;;;148
+57078;Zum Eulenbruch;11;11;;;Langenholdinghausen;0012;;;148
+57078;Zum Kallenberg;1;9;2;12;Niedersetzen;0033;;;148
+57080;Zum Obstgarten;1;25;6;38;Eiserfeld;0272;;;148
+57080;Zum Pocheweiher;13;21;20;20;Niederschelden;0251;;;148
+57076;Zum Rabenhain;9;13;2;2;Weidenau;0082;;;148
+57078;Zum Schulwald;31;39;2;38;Buchen;0021;;;148
+57076;Zum Söhler;3;27;2;70;Weidenau;0082;;;148
+57076;Zum Wildgehege;21;41;;;Weidenau;0071;;;148
+57078;Zum Wildgehege;3;19;4;24;Geisweid;0071;;;148
+57078;Zum Wäldchen;1;5;;;Meiswinkel;0011;;;148
+57074;Zur Dicken Eiche;1;5;2;6;Bürbach;0223;;;148
+57072;Zur Freiheit;15;19;2;24;Seelbach;0112;;;148
+57080;Zur Malsch;7;23;4;16;Eiserfeld;0263;;;148
+57080;Zur Schönen Aussicht;1;23;2;16;Niederschelden;0261;;;148
+57076;Zur Zinsenbach;31;49;2;50;Weidenau;0082;;;148
+57076;Zur alten Burg;15;37;2;34;Weidenau;0082;;;148
+57080;Zwergweg;;;4;10;Eiserfeld;0282;;;148
+57074;Zwischenweg;5;9;4;24;Siegen;0211;;;148
+57074;Ählskopf;1;7;2;4;Siegen;0183;;;148
+57074;Ählstraße;1;31;4;42;Siegen;0172;;;148
+57078;Über den Höfen;9;9;4;10;Meiswinkel;0011;;;148
