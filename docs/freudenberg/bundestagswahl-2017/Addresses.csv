@@ -1,0 +1,385 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+57258;Achenbachweg;3;3;;;Oberholzklau;003.2;;;148
+57258;Ad.-Diesterw.-Str.;3;15;2;24;Niederndorf;008.1;;;148
+57258;Alte Heide;1;9;2;30;Freudenberg;010.2;;;148
+57258;Alte Kölner Straße;1;5;2;4;Büschergrund;016.1;;;148
+57258;Alte Poststraße;;;2;4;Freudenberg;014.1;;;148
+57258;Alte Poststraße;5;59;26;66;Büschergrund;016.1;;;148
+57258;Alte Straße;3;35;8;40;Oberholzklau;003.2;;;148
+57258;Alter Garten;3;5;6;10;Dirlenbach;009.2;;;148
+57258;Alter Heisbergweg;;;12;14;Heisberg;006.2;;;148
+57258;Alter Schanzenweg;1;17;18;18;Hohenhain;010.3;;;148
+57258;Am Alcher Berg;3;7;2;24;Alchen;001.1;;;148
+57258;Am Asdorfer Weiher;3;23;;;Freudenberg;011.1;;;148
+57258;Am Aspenwald;3;19;6;20;Freudenberg;013.1;;;148
+57258;Am Bach;1;13;4;8;Oberfischbach;006.1;;;148
+57258;Am Berggarten;5;25;4;24;Plittershagen;010.1;;;148
+57258;Am Bockseifer Wald;1;21;4;18;Büschergrund;017.1;;;148
+57258;Am Bottenberger Wald;15;23;2;16;Bottenberg;005.1;;;148
+57258;Am Büscher Berg;1;1;2;2;Büschergrund;017.1;;;148
+57258;Am Eicher Hang;3;43;10;54;Büschergrund;015.1;;;148
+57258;Am Elger;1;17;2;12;Niederndorf;009.1;;;148
+57258;Am Gambachsweiher;1;43;2;44;Freudenberg;014.1;;;148
+57258;Am Hainchen;3;13;2;14;Mausbach;010.2;;;148
+57258;Am Hammerrain;1;7;2;2;Niederndorf;009.1;;;148
+57258;Am Hang;5;13;10;18;Büschergrund;015.1;;;148
+57258;Am Hang;;;2;8;Freudenberg;014.1;;;148
+57258;Am Hausplatz;3;15;16;16;Freudenberg;011.1;;;148
+57258;Am Herlinger Wald;1;23;2;20;Freudenberg;011.1;;;148
+57258;Am Heusling;1;3;;;Oberfischbach;006.1;;;148
+57258;Am Hofacker;3;29;2;26;Plittershagen;010.1;;;148
+57258;Am Hohenhainsgarten;7;7;4;4;Freudenberg;013.1;;;148
+57258;Am Höhwald;35;53;;;Lindenberg;004.1;;;148
+57258;Am Höppel;1;7;2;8;Niederndorf;008.1;;;148
+57258;Am Hüls;3;7;6;6;Dirlenbach;009.2;;;148
+57258;Am Kaltland;3;5;;;Oberfischbach;007.1;;;148
+57258;Am Katzenberg;3;3;2;4;Oberfischbach;007.1;;;148
+57258;Am Kirberg;1;5;2;8;Niederndorf;009.1;;;148
+57258;Am Kochsfeld;1;13;6;14;Freudenberg;011.1;;;148
+57258;Am Landenberg;5;11;2;12;Niederheuslingen;006.3;;;148
+57258;Am Lederbach;7;37;6;38;Lindenberg;004.1;;;148
+57258;Am Ludwigshof;;;2;4;Niederndorf;009.1;;;148
+57258;Am Löh;1;39;6;38;Oberholzklau;003.2;;;148
+57258;Am Marktplatz;3;13;4;4;Freudenberg;014.1;;;148
+57258;Am Mühlenberg;5;17;4;22;Büschergrund;016.1;;;148
+57258;Am Nöchel;1;9;2;8;Alchen;002.1;;;148
+57258;Am Ortsberg;1;27;6;30;Niederndorf;008.1;;;148
+57258;Am Plittersh. Berg;19;19;4;34;Freudenberg;011.1;;;148
+57258;Am Rain;5;23;8;18;Büschergrund;017.1;;;148
+57258;Am Rimberg;3;27;4;16;Oberheuslingen;005.2;;;148
+57258;Am Roten Hain;23;23;;;Oberholzklau;003.2;;;148
+57258;Am Schieferacker;1;27;4;28;Freudenberg;014.1;;;148
+57258;Am Schlagsberg;3;27;4;30;Freudenberg;013.1;;;148
+57258;Am Schlüchter;1;11;2;6;Mausbach;010.2;;;148
+57258;Am Schulwald;1;7;2;2;Alchen;002.1;;;148
+57258;Am Silberhang;1;11;2;4;Oberfischbach;007.1;;;148
+57258;Am Silberstern;5;27;4;24;Freudenberg;011.1;;;148
+57258;Am Sturzfeld;7;7;2;12;Freudenberg;013.1;;;148
+57258;Am Stättchen;1;9;2;10;Büschergrund;016.1;;;148
+57258;Am Süsselberg;1;7;2;4;Niederndorf;009.1;;;148
+57258;Am Teich;11;15;2;8;Bühl;003.1;;;148
+57258;Am Thörchen;13;23;18;24;Bühl;003.1;;;148
+57258;Am Weidekamp;;;16;20;Büschergrund;016.1;;;148
+57258;Am Ziegenberg;1;7;2;6;Niederndorf;009.1;;;148
+57258;Amselweg;1;3;2;4;Büschergrund;015.1;;;148
+57258;An der Autobahn;7;7;;;Lindenberg;004.1;;;148
+57258;An der Fließenhardt;1;15;6;14;Freudenberg;014.1;;;148
+57258;An der Hallstatt;1;17;14;14;Plittershagen;010.1;;;148
+57258;An der Sonnenseite;1;15;;;Freudenberg;011.1;;;148
+57258;An der Stätte;;;2;4;Büschergrund;016.1;;;148
+57258;Anstoßer Straße;1;27;2;20;Büschergrund;016.1;;;148
+57258;Arnsbacher Weg;1;13;2;28;Alchen;002.1;;;148
+57258;Asdorfer Mühle;;;12;24;Dirlenbach;009.2;;;148
+57258;Asdorfer Straße;23;97;4;200;Freudenberg;011.1;;;148
+57258;Aspenweg;1;31;4;28;Freudenberg;013.1;;;148
+57258;Auf dem Drisch;3;15;4;16;Hohenhain;010.3;;;148
+57258;Auf dem Eudchen;1;29;8;40;Oberheuslingen;005.2;;;148
+57258;Auf dem Sauren;3;21;4;4;Oberheuslingen;005.2;;;148
+57258;Auf der Heide;1;19;2;18;Bühl;003.1;;;148
+57258;Auf der Hube;1;3;2;20;Niederndorf;008.1;;;148
+57258;Auf der Linde;5;5;4;10;Oberholzklau;003.2;;;148
+57258;Auf der Nörr;1;7;2;8;Alchen;001.1;;;148
+57258;Auf der Sang;1;5;2;6;Bottenberg;005.1;;;148
+57258;Auf der Wiese;3;5;4;10;Heisberg;006.2;;;148
+57258;Auf'm Berg;1;1;2;8;Alchen;001.1;;;148
+57258;Autob.Rastst.Siegerl.;1;1;;;Heisberg;006.2;;;148
+57258;Backesweg;5;5;6;18;Lindenberg;004.1;;;148
+57258;Bahnhofstraße;1;33;2;58;Freudenberg;011.1;;;148
+57258;Bahnhofstraße;41;67;66;94;Freudenberg;014.1;;;148
+57258;Baumweg;5;7;2;8;Freudenberg;011.1;;;148
+57258;Bergstraße;1;7;;;Freudenberg;011.1;;;148
+57258;Berscheweg;3;19;2;18;Oberfischbach;006.1;;;148
+57258;Birkenweg;1;5;4;8;Büschergrund;017.1;;;148
+57258;Bismarckweg;5;23;14;30;Freudenberg;014.1;;;148
+57258;Bismarckweg;1;3;2;12;Büschergrund;016.1;;;148
+57258;Blumenstraße;1;7;4;12;Plittershagen;010.1;;;148
+57258;Bockseifer Straße;1;17;6;18;Büschergrund;017.1;;;148
+57258;Bogenstraße;3;21;2;12;Freudenberg;011.1;;;148
+57258;Bornhausweg;3;17;2;16;Freudenberg;013.1;;;148
+57258;Bottenberger Straße;1;47;2;48;Bottenberg;005.1;;;148
+57258;Bottenberger Weg;;;2;8;Büschergrund;016.1;;;148
+57258;Bruchbergweg;1;11;2;12;Oberholzklau;003.2;;;148
+57258;Bruchsgarten;3;39;2;42;Alchen;002.1;;;148
+57258;Bruchshecke;3;7;6;8;Oberheuslingen;005.2;;;148
+57258;Bruchstraße;31;55;32;60;Büschergrund;017.1;;;148
+57258;Bruchstraße;1;29;4;24;Büschergrund;016.1;;;148
+57258;Buchenstraße;1;13;2;16;Büschergrund;016.1;;;148
+57258;Burgstraße;3;15;2;14;Freudenberg;012.1;;;148
+57258;Buschebornweg;5;31;2;40;Oberholzklau;003.2;;;148
+57258;Buschweg;3;9;4;8;Freudenberg;011.1;;;148
+57258;Böhlgasse;3;11;2;10;Büschergrund;017.1;;;148
+57258;Bühler Straße;1;49;10;54;Alchen;002.1;;;148
+57258;Bühler Straße;269;295;280;294;Bühl;003.1;;;148
+57258;Bühler Straße;53;89;60;94;Alchen;001.1;;;148
+57258;Büscher Bruch;5;9;10;10;Büschergrund;016.1;;;148
+57258;Büscher Straße;1;23;2;60;Büschergrund;017.1;;;148
+57258;Chr.-Stahlschm.-Str.;5;15;2;26;Freudenberg;012.1;;;148
+57258;Dachsweg;1;5;2;4;Hohenhain;010.3;;;148
+57258;Dirlenbacher Straße;125;195;110;290;Dirlenbach;009.2;;;148
+57258;Dirlenbacher Straße;11;79;2;72;Niederndorf;009.1;;;148
+57258;Drosselweg;1;5;;;Büschergrund;015.1;;;148
+57258;Dürrebruch;5;5;2;4;Oberheuslingen;005.2;;;148
+57258;Eckenweg;3;45;2;42;Alchen;001.1;;;148
+57258;Eichener Straße;3;63;2;64;Büschergrund;015.1;;;148
+57258;Eichenweg;1;17;2;14;Alchen;001.1;;;148
+57258;Eicher Feldstraße;1;19;2;24;Büschergrund;015.1;;;148
+57258;Eicher Garten;1;5;2;6;Büschergrund;015.1;;;148
+57258;Eicher Seifen;3;23;6;14;Büschergrund;015.1;;;148
+57258;Eichstattweg;9;39;2;46;Freudenberg;013.1;;;148
+57258;Eisenstraße;3;19;2;10;Büschergrund;016.1;;;148
+57258;Emmaweg;1;7;4;10;Lindenberg;004.1;;;148
+57258;Engelwerthweg;1;5;8;12;Bühl;003.1;;;148
+57258;Eschenbachstraße;11;13;2;28;Oberholzklau;003.2;;;148
+57258;Euelsbruchstraße;3;81;2;78;Freudenberg;012.1;;;148
+57258;Eva-V.-Thiele-W-St;3;13;2;10;Freudenberg;012.1;;;148
+57258;Fahrseifen;1;1;2;6;Alchen;001.1;;;148
+57258;Falkenweg;1;13;2;10;Büschergrund;015.1;;;148
+57258;Feldstraße;1;29;2;16;Niederndorf;009.1;;;148
+57258;Fichtenweg;1;3;4;4;Büschergrund;016.1;;;148
+57258;Finkenweg;1;1;2;2;Büschergrund;015.1;;;148
+57258;Fliederweg;3;7;2;4;Freudenberg;011.1;;;148
+57258;Fließenhardtstraße;61;73;22;56;Büschergrund;015.1;;;148
+57258;Fließenhardtstraße;1;51;8;20;Freudenberg;014.1;;;148
+57258;Forstweg;1;11;2;20;Freudenberg;013.1;;;148
+57258;Freih.-V.-Stein-Str.;21;43;26;40;Büschergrund;017.1;;;148
+57258;Freih.-V.-Stein-Str.;1;19;4;18;Büschergrund;016.1;;;148
+57258;Friedenshortstraße;3;45;8;48;Freudenberg;012.1;;;148
+57258;Friedhofsweg;;;2;2;Büschergrund;017.1;;;148
+57258;Fritz-Kraemer-Weg;1;3;2;6;Freudenberg;013.1;;;148
+57258;Färberstraße;3;7;14;20;Freudenberg;011.1;;;148
+57258;Fürst-Moritz-Straße;1;19;2;16;Niederndorf;008.1;;;148
+57258;Gambachsweg;1;21;2;22;Freudenberg;014.1;;;148
+57258;Gartenstraße;1;43;6;32;Freudenberg;014.1;;;148
+57258;Gerberstraße;5;11;2;16;Freudenberg;014.1;;;148
+57258;Gewerbestraße;5;5;2;2;Lindenberg;004.1;;;148
+57258;Grenzweg;;;4;18;Mausbach;010.2;;;148
+57258;Grimmschlade;1;9;4;10;Oberheuslingen;005.2;;;148
+57258;Grubengarten;9;9;4;20;Dirlenbach;009.2;;;148
+57258;Hainweg;1;7;;;Hohenhain;010.3;;;148
+57258;Hakenfeldstraße;13;25;2;24;Dirlenbach;009.2;;;148
+57258;Halmenhofstraße;1;25;2;24;Büschergrund;017.1;;;148
+57258;Hammergraben;1;13;;;Freudenberg;014.1;;;148
+57258;Hammerweg;1;43;2;54;Büschergrund;015.1;;;148
+57258;Hasenpfad;5;7;2;4;Hohenhain;010.3;;;148
+57258;Haubergsweg;1;1;;;Alchen;002.1;;;148
+57258;Heidschlade;3;31;2;30;Lindenberg;004.1;;;148
+57258;Heiligenstock;;;6;28;Freudenberg;013.1;;;148
+57258;Heisberger Straße;71;83;60;94;Heisberg;006.2;;;148
+57258;Hermann-Vomhof-Straße;1;1;2;12;Büschergrund;016.1;;;148
+57258;Heuslinger Hang;3;21;2;24;Oberheuslingen;005.2;;;148
+57258;Heuslingstraße;201;297;204;286;Niederheuslingen;006.3;;;148
+57258;Heuslingstraße;303;355;292;350;Oberheuslingen;005.2;;;148
+57258;Heuslingstraße;1;81;4;66;Oberfischbach;006.1;;;148
+57258;Heuslingstraße;461;503;470;514;Bottenberg;005.1;;;148
+57258;Hinter der Kirche;1;15;4;10;Freudenberg;012.1;;;148
+57258;Hinter der Ley;1;25;4;14;Alchen;002.1;;;148
+57258;Hinter der Nörr;3;21;6;32;Alchen;001.1;;;148
+57258;Hinterm Schloß;1;35;10;12;Freudenberg;012.1;;;148
+57258;Hochstraße;25;27;2;36;Alchen;001.1;;;148
+57258;Hof Mühlenberg;;;70;70;Niederholzklau;003.3;;;148
+57258;Hofgasse;1;7;2;10;Lindenberg;004.1;;;148
+57258;Hofwiese;5;7;2;2;Niederheuslingen;006.3;;;148
+57258;Hohe Ley;11;13;12;12;Alchen;002.1;;;148
+57258;Hohenhainer Straße;7;53;4;54;Hohenhain;010.3;;;148
+57258;Hohler Weg;1;19;2;8;Alchen;002.1;;;148
+57258;Holunderweg;3;15;2;12;Lindenberg;004.1;;;148
+57258;Hommeswiese;1;131;118;132;Büschergrund;017.1;;;148
+57258;Horweg;1;15;;;Bühl;003.1;;;148
+57258;Hundschlade;7;11;6;12;Oberheuslingen;005.2;;;148
+57258;Hundschlade;1;3;;;Niederheuslingen;006.3;;;148
+57258;Hundschlade;13;13;;;Niederheuslingen;006.3;;;148
+57258;Hätzeweg;3;13;2;18;Büschergrund;016.1;;;148
+57258;Höfchenweg;;;2;8;Oberfischbach;007.1;;;148
+57258;Im Boden;3;7;4;10;Alchen;001.1;;;148
+57258;Im Bärengarten;1;3;10;12;Lindenberg;004.1;;;148
+57258;Im Bühler Feld;5;15;2;16;Bühl;003.1;;;148
+57258;Im Elschetal;1;9;6;12;Alchen;001.1;;;148
+57258;Im Garten;1;23;2;22;Niederndorf;008.1;;;148
+57258;Im Grund;9;37;20;32;Oberheuslingen;005.2;;;148
+57258;Im Hofgarten;3;7;2;6;Heisberg;006.2;;;148
+57258;Im Hähnchen;5;13;2;6;Niederndorf;008.1;;;148
+57258;Im Klef;15;25;10;24;Lindenberg;004.1;;;148
+57258;Im Kreuzseifen;3;13;4;4;Freudenberg;011.1;;;148
+57258;Im Langen Feld;5;53;4;54;Oberholzklau;003.2;;;148
+57258;Im Mertenseifen;1;17;;;Alchen;001.1;;;148
+57258;Im Seifen;1;61;2;58;Alchen;002.1;;;148
+57258;Im Winkel;1;13;4;4;Büschergrund;017.1;;;148
+57258;In den Aspen;1;17;2;26;Freudenberg;013.1;;;148
+57258;In der Kelln;5;19;6;22;Büschergrund;017.1;;;148
+57258;In der Krumm;1;1;6;8;Büschergrund;017.1;;;148
+57258;In der Remschlade;1;1;4;4;Niederheuslingen;006.3;;;148
+57258;In der Sasselbach;3;87;2;70;Niederndorf;008.1;;;148
+57258;In der Schlade;1;9;2;14;Büschergrund;017.1;;;148
+57258;In der Thalen;1;9;2;30;Alchen;002.1;;;148
+57258;In der Vollmersbach;1;21;2;16;Niederndorf;009.1;;;148
+57258;In der Zeitenbach;1;31;4;36;Oberheuslingen;005.2;;;148
+57258;Industriestraße;17;19;114;114;Niederndorf;009.1;;;148
+57258;Johann-Moritz-Str.;1;23;6;30;Freudenberg;014.1;;;148
+57258;Johannes-Groos-Str.;1;11;6;18;Niederndorf;008.1;;;148
+57258;Johannesbergstraße;1;15;4;20;Büschergrund;017.1;;;148
+57258;Jung-Stilling-Str.;1;15;2;16;Freudenberg;012.1;;;148
+57258;Jägerweg;1;11;4;14;Dirlenbach;009.2;;;148
+57258;Kalte Höhe;1;17;4;16;Büschergrund;017.1;;;148
+57258;Kaltlandstraße;1;57;12;48;Oberfischbach;007.1;;;148
+57258;Karstein;1;3;2;2;Heisberg;006.2;;;148
+57258;Kiefernweg;;;2;4;Freudenberg;011.1;;;148
+57258;Kirbergsgarten;3;15;4;22;Niederndorf;009.1;;;148
+57258;Kirbergstraße;7;33;2;30;Niederndorf;009.1;;;148
+57258;Kirchweg;1;5;2;20;Oberfischbach;006.1;;;148
+57258;Kirschenbachweg;1;17;2;2;Mausbach;010.2;;;148
+57258;Kleine Trift;1;17;4;18;Freudenberg;012.1;;;148
+57258;Kleintirolstraße;1;93;2;82;Hohenhain;010.3;;;148
+57258;Kompweg;3;5;4;10;Bühl;003.1;;;148
+57258;Kreuztaler Straße;201;237;204;246;Oberholzklau;003.2;;;148
+57258;Kreuztaler Straße;115;169;66;172;Bühl;003.1;;;148
+57258;Krottorfer Straße;1;33;18;44;Freudenberg;012.1;;;148
+57258;Krottorfer Straße;43;155;46;142;Freudenberg;013.1;;;148
+57258;Krumme Birke;7;7;;;Büschergrund;016.1;;;148
+57258;Krähenweg;;;4;8;Büschergrund;015.1;;;148
+57258;Kuhlenbergstraße;3;19;2;24;Freudenberg;011.1;;;148
+57258;Kurzer Morgen;1;13;;;Lindenberg;004.1;;;148
+57258;Kurzer Seifen;9;11;4;20;Büschergrund;017.1;;;148
+57258;Kurzer Weg;1;3;;;Bühl;003.1;;;148
+57258;Kölner Straße;3;11;4;14;Freudenberg;014.1;;;148
+57258;Köpfchenweg;3;3;4;4;Büschergrund;017.1;;;148
+57258;Lagemannstraße;1;35;4;40;Freudenberg;012.1;;;148
+57258;Landenbergstraße;3;51;2;76;Niederheuslingen;006.3;;;148
+57258;Lindenberger Höhe;1;23;2;24;Lindenberg;004.1;;;148
+57258;Lindenberger Straße;5;103;2;80;Oberheuslingen;005.2;;;148
+57258;Lindenberger Straße;219;261;230;250;Lindenberg;004.1;;;148
+57258;Lindenstraße;5;13;2;16;Lindenberg;004.1;;;148
+57258;Lohmühle;3;7;;;Freudenberg;011.1;;;148
+57258;Lohweg;3;11;;;Niederndorf;009.1;;;148
+57258;Lärchenweg;1;5;4;6;Büschergrund;017.1;;;148
+57258;Löcherbacher Weg;1;1;10;16;Plittershagen;010.1;;;148
+57258;Löhbergstraße;1;25;4;30;Niederholzklau;003.3;;;148
+57258;Malerwinkel;1;9;2;10;Büschergrund;017.1;;;148
+57258;Marion-Dönhoff-Weg;1;7;2;8;Freudenberg;013.1;;;148
+57258;Marktstraße;3;29;2;30;Freudenberg;012.1;;;148
+57258;Mausbacher Straße;29;89;6;82;Mausbach;010.2;;;148
+57258;Meisenweg;1;5;4;4;Büschergrund;015.1;;;148
+57258;Meiswinkeler Straße;5;7;2;8;Oberholzklau;003.2;;;148
+57258;Mertenseifer Grund;3;25;2;24;Alchen;001.1;;;148
+57258;Mittelstraße;1;19;2;28;Freudenberg;012.1;;;148
+57258;Molkereistraße;;;2;14;Oberfischbach;006.1;;;148
+57258;Morer Platz;;;4;6;Freudenberg;011.1;;;148
+57258;Mühlenbergstraße;1;3;2;6;Büschergrund;016.1;;;148
+57258;Mühlenstraße;25;37;16;40;Büschergrund;015.1;;;148
+57258;Mühlenstraße;;;14A;14A;Büschergrund;015.1;;;148
+57258;Mühlenstraße;1;19;2;14;Freudenberg;014.1;;;148
+57258;Mühlenweg;1;5;;;Niederndorf;009.1;;;148
+57258;Neben der Kirche;;;2;12;Oberholzklau;003.2;;;148
+57258;Neuer Weg;1;13;4;16;Freudenberg;011.1;;;148
+57258;Niederholzkl. Str.;;;8;14;Oberholzklau;003.2;;;148
+57258;Niederholzkl.Str.;171;209;178;212;Niederholzklau;003.3;;;148
+57258;Niederndorfer Str.;1;107;20;88;Niederndorf;009.1;;;148
+57258;Nordstraße;1;41;6;46;Freudenberg;014.1;;;148
+57258;Nüssebergweg;17;17;4;24;Freudenberg;011.1;;;148
+57258;Obere Hofwiese;1;9;6;12;Heisberg;006.2;;;148
+57258;Obere Hommeswiese;;;10;10;Büschergrund;017.1;;;148
+57258;Obere Schulstraße;3;7;6;10;Freudenberg;011.1;;;148
+57258;Obere Weide;1;11;2;10;Büschergrund;017.1;;;148
+57258;Obere Zeitenbach;;;2;10;Oberheuslingen;005.2;;;148
+57258;Oberfischbacher Str.;13;73;36;86;Oberfischbach;007.1;;;148
+57258;Oberholzklauer Str.;21;59;2;94;Oberholzklau;003.2;;;148
+57258;Olper Straße;1;7;2;4;Freudenberg;014.1;;;148
+57258;Olper Straße;53;73;40;76;Büschergrund;017.1;;;148
+57258;Olper Straße;11;51;8;38;Büschergrund;016.1;;;148
+57258;Oranienstraße;3;37;4;22;Freudenberg;012.1;;;148
+57258;Osterbergstraße;3;17;2;28;Büschergrund;017.1;;;148
+57258;Oststraße;3;25;2;40;Freudenberg;014.1;;;148
+57258;Pappelweg;1;5;2;6;Büschergrund;016.1;;;148
+57258;Plittershagener Str.;91;143;94;142;Plittershagen;010.1;;;148
+57258;Poststraße;;;2;12;Freudenberg;012.1;;;148
+57258;Querstraße;13;19;6;16;Büschergrund;017.1;;;148
+57258;Rauhschlade;1;9;2;4;Lindenberg;004.1;;;148
+57258;Rehpfad;3;3;;;Hohenhain;010.3;;;148
+57258;Rimbergstraße;3;57;2;40;Oberheuslingen;005.2;;;148
+57258;Rimbergswald;3;3;;;Oberheuslingen;005.2;;;148
+57258;Rosenweg;13;31;4;30;Lindenberg;004.1;;;148
+57258;Römershagener Straße;1;27;2;28;Hohenhain;010.3;;;148
+57258;Salzweg;3;5;4;6;Büschergrund;017.1;;;148
+57258;Schelder Straße;1;51;2;68;Oberfischbach;007.1;;;148
+57258;Scheuerwiese;;;6;8;Niederholzklau;003.3;;;148
+57258;Schlagwies;1;11;;;Freudenberg;012.1;;;148
+57258;Schulstraße;3;5;2;20;Freudenberg;011.1;;;148
+57258;Schwalbenweg;5;11;2;2;Büschergrund;015.1;;;148
+57258;Schützenstraße;7;31;;;Freudenberg;011.1;;;148
+57258;Seelbacher Straße;11;103;18;44;Alchen;002.1;;;148
+57258;Seelbachsecke;7;41;12;42;Freudenberg;014.1;;;148
+57258;Seitenweg;1;7;;;Freudenberg;011.1;;;148
+57258;Siebelsaat;17;43;16;48;Lindenberg;004.1;;;148
+57258;Siegener Straße;103;337;112;340;Büschergrund;016.1;;;148
+57258;Siegener Straße;1;43;2;28;Freudenberg;014.1;;;148
+57258;Siegener Straße;407;623;418;554;Lindenberg;004.1;;;148
+57258;Silberkaute;5;5;8;8;Oberfischbach;007.1;;;148
+57258;Sommerwiese;3;5;;;Bottenberg;005.1;;;148
+57258;Sonnenfeldstraße;1;37;4;36;Niederndorf;009.1;;;148
+57258;Sonnenhang;1;19;2;30;Oberheuslingen;005.2;;;148
+57258;Starenweg;1;1;2;6;Büschergrund;016.1;;;148
+57258;Steinstücker Weg;1;9;8;16;Alchen;002.1;;;148
+57258;Stockfeldstraße;1;41;10;42;Dirlenbach;009.2;;;148
+57258;Stöckerstraße;5;5;2;2;Freudenberg;012.1;;;148
+57258;Südstraße;1;5;2;12;Büschergrund;015.1;;;148
+57258;Süße Wiese;5;11;2;4;Oberheuslingen;005.2;;;148
+57258;Tannenweg;3;13;2;6;Freudenberg;011.1;;;148
+57258;Thalenweg;1;11;2;14;Alchen;002.1;;;148
+57258;Theodor-Siebel-Weg;3;7;6;8;Freudenberg;014.1;;;148
+57258;Tillmann-Siebel-Str.;1;57;2;52;Freudenberg;013.1;;;148
+57258;Trausterbachstraße;3;5;2;10;Niederheuslingen;006.3;;;148
+57258;Triftstraße;1;21;2;36;Büschergrund;015.1;;;148
+57258;Triftstraße;25;43;38;60;Büschergrund;016.1;;;148
+57258;Trulichstraße;3;63;4;26;Freudenberg;011.1;;;148
+57258;Uebachstraße;1;85;2;96;Niederndorf;008.1;;;148
+57258;Unter der Heide;5;31;4;32;Bühl;003.1;;;148
+57258;Unter der Hube;5;19;4;20;Niederndorf;008.1;;;148
+57258;Unterm Eicher Hang;7;17;2;18;Büschergrund;015.1;;;148
+57258;Unterm Reckhahn;1;13;2;42;Plittershagen;010.1;;;148
+57258;Unterm Rohland;5;17;;;Niederheuslingen;006.3;;;148
+57258;Unterm Steinbruch;1;3;2;10;Oberheuslingen;005.2;;;148
+57258;Unterstraße;;;2;24;Freudenberg;012.1;;;148
+57258;Villa-Bubenzer-Weg;5;7;4;6;Freudenberg;011.1;;;148
+57258;Vor der Nörr;1;19;4;24;Alchen;001.1;;;148
+57258;Vorm Elger;1;7;2;14;Niederndorf;009.1;;;148
+57258;Vorm Hofe;3;11;8;10;Hohenhain;010.3;;;148
+57258;Vorm Langen Wald;5;7;14;14;Niederheuslingen;006.3;;;148
+57258;Vorm Neuen Wäldchen;1;11;2;28;Freudenberg;013.1;;;148
+57258;Vorm Wiesentor;3;23;10;14;Heisberg;006.2;;;148
+57258;Waldstraße;3;81;2;80;Oberfischbach;007.1;;;148
+57258;Waldweg;1;23;4;30;Alchen;002.1;;;148
+57258;Walpertalstraße;3;7;4;22;Oberfischbach;007.1;;;148
+57258;Wasserweg;;;4;8;Freudenberg;011.1;;;148
+57258;Weibeweg;5;9;2;12;Büschergrund;015.1;;;148
+57258;Weidegarten;3;11;2;16;Bühl;003.1;;;148
+57258;Weideweg;5;5;8;8;Heisberg;006.2;;;148
+57258;Wiesenstraße;1;29;2;38;Oberfischbach;007.1;;;148
+57258;Wiesenweg;5;13;;;Alchen;002.1;;;148
+57258;Wilhelmshöhe;23;23;;;Büschergrund;016.1;;;148
+57258;Winkelstraße;1;9;2;18;Niederndorf;008.1;;;148
+57258;Wolfshecke;1;13;10;10;Freudenberg;011.1;;;148
+57258;Wäldchenstraße;1;23;2;32;Büschergrund;016.1;;;148
+57258;Wäldchenweg;3;13;4;6;Büschergrund;016.1;;;148
+57258;Zum Backhausfeld;21;25;40;46;Oberholzklau;003.2;;;148
+57258;Zum Berge;3;13;4;14;Oberheuslingen;005.2;;;148
+57258;Zum Bohnengarten;5;23;12;24;Hohenhain;010.3;;;148
+57258;Zum Giebelwald;1;23;2;12;Niederndorf;008.1;;;148
+57258;Zum Grimmewald;;;2;6;Mausbach;010.2;;;148
+57258;Zum Kirchenwald;11;13;2;20;Bühl;003.1;;;148
+57258;Zum Kurpark;1;7;;;Freudenberg;011.1;;;148
+57258;Zum Pfarrwäldchen;3;19;6;26;Oberholzklau;003.2;;;148
+57258;Zum Rimberg;3;17;2;18;Oberheuslingen;005.2;;;148
+57258;Zum Rohland;9;11;6;10;Niederheuslingen;006.3;;;148
+57258;Zum Sonnenblick;11;27;8;14;Heisberg;006.2;;;148
+57258;Zum Sonnenweg;1;11;;;Freudenberg;012.1;;;148
+57258;Zum Steinbruch;;;2;2;Oberheuslingen;005.2;;;148
+57258;Zum Stöcker Hof;1;133;4;132;Plittershagen;010.1;;;148
+57258;Zur Alche;1;11;2;4;Alchen;001.1;;;148
+57258;Zur Gambachshöhe;1;13;4;6;Büschergrund;015.1;;;148
+57258;Zur Hammerhöhe;;;4;6;Hohenhain;010.3;;;148
+57258;Zur Heide;9;21;2;18;Oberheuslingen;005.2;;;148
+57258;Zur Häsel;3;15;2;20;Oberheuslingen;005.2;;;148
+57258;Zur Landhecke;1;15;2;26;Hohenhain;010.3;;;148
+57258;Zur Schladedell;5;11;8;10;Heisberg;006.2;;;148
+57258;Zur Weide;1;11;;;Alchen;001.1;;;148
+57258;Zur Wettelbach;;;6;6;Heisberg;006.2;;;148
+57258;Äckertstal;;;12;12;Alchen;002.1;;;148
