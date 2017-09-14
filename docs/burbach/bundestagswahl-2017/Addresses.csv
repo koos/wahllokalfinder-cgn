@@ -1,0 +1,303 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+57299;Ahornstraße;1;41;4;16;Niederdresselndorf;011.1;;;148
+57299;Albert-Schweitzer-Straße;5;15;4;4;Gilsbach;006.1;;;148
+57299;Alfred-Nobel-Straße;1;23;2;40;Würgendorf;015.1;;;148
+57299;Alte Burbach;1;21;4;8;Burbach;004.1;;;148
+57299;Alte Siedlung;1;11;6;38;Holzhausen;008.1;;;148
+57299;Alter Garten;1;5;2;6;Burbach;002.1;;;148
+57299;Alter Weiher;1;11;4;12;Holzhausen;008.1;;;148
+57299;Am Denkmal;1;17;4;22;Holzhausen;008.1;;;148
+57299;Am Eichhölzchen;3;5;2;8;Niederdresselndorf;011.1;;;148
+57299;Am Einschnitt;1;3;2;8;Würgendorf;016.1;;;148
+57299;Am Feldborn;1;23;2;26;Lützeln;009.1;;;148
+57299;Am Flüßchen;3;5;2;14;Burbach;004.1;;;148
+57299;Am Kanal;1;1;;;Lippe;002.2;;;148
+57299;Am Kirchplatz;1;9;2;12;Niederdresselndorf;011.1;;;148
+57299;Am Kirchtor;7;7;;;Holzhausen;008.1;;;148
+57299;Am Layplatz;;;2;10;Niederdresselndorf;011.1;;;148
+57299;Am Mühlengraben;1;5;2;6;Oberdresselndorf;012.1;;;148
+57299;Am Rosenbach;1;3;;;Gilsbach;006.1;;;148
+57299;Am Scheidforst;1;1;4;4;Holzhausen;008.1;;;148
+57299;Am Vogelsang;1;31;2;26;Burbach;001.1;;;148
+57299;Am Zäunchen;1;19;2;10;Holzhausen;008.1;;;148
+57299;Amselweg;1;5;2;2;Niederdresselndorf;010.1;;;148
+57299;An der Bahn;1;13;;;Wahlbach;014.1;;;148
+57299;An der Burg;1;49;2;42;Burbach;001.1;;;148
+57299;Asslers Mühle;1;1;2;2;Holzhausen;008.1;;;148
+57299;Auf dem Stück;1;1;4;6;Burbach;003.1;;;148
+57299;Auf den Höfen;;;2;2;Wahlbach;013.1;;;148
+57299;Auf der Bracht;11;11;8;8;Oberdresselndorf;012.1;;;148
+57299;Auf der Dahl;1;23;4;22;Würgendorf;015.1;;;148
+57299;Auf der Halde;1;1;6;8;Burbach;002.1;;;148
+57299;Auf der Heister;3;17;2;18;Burbach;004.1;;;148
+57299;Austraße;5;35;2;34;Wahlbach;013.1;;;148
+57299;Bachstraße;3;15;2;16;Oberdresselndorf;012.1;;;148
+57299;Bahnhofsplatz;7;7;2;14;Niederdresselndorf;011.1;;;148
+57299;Bahnhofsweg;1;3;;;Burbach;002.1;;;148
+57299;Bergstraße;3;7;4;8;Wahlbach;013.1;;;148
+57299;Berliner Straße;1;29;2;16;Holzhausen;007.1;;;148
+57299;Bertelsgrube;1;7;6;6;Oberdresselndorf;012.1;;;148
+57299;Birkenweg;1;9;2;6;Niederdresselndorf;011.1;;;148
+57299;Blau-Kreuz-Heim-Str.;1;9;8;10;Holzhausen;008.1;;;148
+57299;Blumenweg;1;11;2;8;Niederdresselndorf;010.1;;;148
+57299;Bogenstraße;3;15;4;28;Würgendorf;016.1;;;148
+57299;Bornstraße;3;21;2;24;Gilsbach;006.1;;;148
+57299;Bornstück;1;3;2;6;Würgendorf;015.1;;;148
+57299;Braache;3;7;2;8;Burbach;004.1;;;148
+57299;Breitenbachstraße;1;23;2;22;Lippe;002.2;;;148
+57299;Breslauer Straße;1;1;2;4;Holzhausen;007.1;;;148
+57299;Brunnenstraße;1;7;2;14;Niederdresselndorf;011.1;;;148
+57299;Brückenstraße;5;5;2;6;Wahlbach;013.1;;;148
+57299;Buchenborn;1;1;;;Oberdresselndorf;012.1;;;148
+57299;Buchenweg;1;9;2;8;Niederdresselndorf;011.1;;;148
+57299;Buchhellerstraße;1;3;2;34;Lippe;002.2;;;148
+57299;Buchhellertal;1;1;;;Lippe;002.2;;;148
+57299;Burgweg;1;25;2;16;Burbach;002.1;;;148
+57299;Carl-Benz-Straße;3;3;18;38;Burbach;003.1;;;148
+57299;Daadener Straße;3;45;2;40;Lippe;002.2;;;148
+57299;Dahlhofweg;1;15;2;28;Burbach;001.1;;;148
+57299;Dahlienweg;1;1;2;4;Burbach;003.1;;;148
+57299;Daimlerstraße;;;18;18;Burbach;003.1;;;148
+57299;Danziger Straße;1;3;6;6;Holzhausen;007.1;;;148
+57299;Dellweg;1;3;2;4;Wahlbach;013.1;;;148
+57299;Demmershof;5;9;6;20;Niederdresselndorf;011.1;;;148
+57299;Dengelsrain;1;11;4;12;Holzhausen;008.1;;;148
+57299;Diesterwegstraße;3;31;2;14;Wahlbach;014.1;;;148
+57299;Dillenburger Straße;1;51;2;84;Würgendorf;016.1;;;148
+57299;Dohlenweg;3;3;;;Niederdresselndorf;010.1;;;148
+57299;Dorfstraße;1;7;2;16;Würgendorf;015.1;;;148
+57299;Dr.-H.-Fleck-Allee;1;5;6;6;Würgendorf;016.1;;;148
+57299;Dresselndorfer Straße;3;33;2;16;Oberdresselndorf;012.1;;;148
+57299;Dürerstraße;1;29;4;16;Burbach;004.1;;;148
+57299;Eicher Weg;1;47;2;48;Burbach;001.1;;;148
+57299;Elsternweg;3;5;4;6;Niederdresselndorf;010.1;;;148
+57299;Erlenweg;1;17;2;10;Niederdresselndorf;011.1;;;148
+57299;Erlenweiher;1;5;2;22;Würgendorf;015.1;;;148
+57299;Ernst-Heinkel-Straße;;;14;32;Burbach;003.1;;;148
+57299;Erzweg;5;9;4;18;Burbach;001.1;;;148
+57299;Ewald-Sahm-Straße;11;11;;;Burbach;002.1;;;148
+57299;Ewaldstraße;1;5;2;4;Wahlbach;013.1;;;148
+57299;Falkenweg;3;15;2;18;Niederdresselndorf;010.1;;;148
+57299;Feldstraße;1;9;2;10;Oberdresselndorf;012.1;;;148
+57299;Finkenweg;1;15;4;8;Niederdresselndorf;010.1;;;148
+57299;Flammersbacher Straße;1;17;2;32;Holzhausen;008.1;;;148
+57299;Fliederweg;1;25;2;22;Burbach;003.1;;;148
+57299;Flughafenstraße;9;9;2;4;Lippe;002.2;;;148
+57299;Forstweg;1;13;2;14;Oberdresselndorf;012.1;;;148
+57299;Freibadweg;1;33;6;6;Burbach;004.1;;;148
+57299;Freier-Grund-Straße;3;125;2;126;Wahlbach;013.1;;;148
+57299;Friedhofsweg;1;17;2;18;Würgendorf;015.1;;;148
+57299;Färberstraße;1;23;2;16;Holzhausen;008.1;;;148
+57299;Gambach;1;25;6;6;Burbach;002.1;;;148
+57299;Gartenstraße;1;39;2;40;Würgendorf;016.1;;;148
+57299;Gassenweg;9;33;2;26;Burbach;002.1;;;148
+57299;Germeshain;9;9;2;4;Burbach;004.1;;;148
+57299;Giesenwiese;1;3;4;4;Niederdresselndorf;010.1;;;148
+57299;Gilsbacher Straße;1;11;2;8;Wahlbach;013.1;;;148
+57299;Ginnerbach;1;47;6;32;Burbach;004.1;;;148
+57299;Glück-Auf-Straße;1;11;2;8;Burbach;001.1;;;148
+57299;Goethestraße;1;33;2;44;Burbach;005.1;;;148
+57299;Graf-Luckner-Straße;1;23;2;20;Würgendorf;016.1;;;148
+57299;Große Gasse;;;2;8;Niederdresselndorf;011.1;;;148
+57299;Grubenwäldchen;;;2;2;Gilsbach;006.1;;;148
+57299;Grüner Hang;1;7;2;10;Niederdresselndorf;010.1;;;148
+57299;Gänsestück;1;27;2;26;Burbach;002.1;;;148
+57299;Gäßchen;;;4;8;Burbach;002.1;;;148
+57299;Haigerweg;3;59;2;64;Burbach;003.1;;;148
+57299;Hainshof;1;7;2;12;Lützeln;009.1;;;148
+57299;Hainstraße;1;25;2;30;Holzhausen;008.1;;;148
+57299;Hambachwaldstraße;1;19;2;14;Gilsbach;006.1;;;148
+57299;Heideweg;1;5;4;18;Niederdresselndorf;010.1;;;148
+57299;Heimhofstraße;1;33;2;22;Würgendorf;016.1;;;148
+57299;Heisterner Weg;1;19;2;18;Burbach;001.1;;;148
+57299;Heisterner Weg;21;71;20;88;Wahlbach;013.1;;;148
+57299;Hellerbach;5;7;2;8;Würgendorf;016.1;;;148
+57299;Hellernstraße;1;5;2;6;Wahlbach;013.1;;;148
+57299;Hermann-Schmidt-Straße;9;29;2;32;Würgendorf;016.1;;;148
+57299;Hermannswiese;1;7;2;2;Lützeln;009.1;;;148
+57299;Hickengrundstraße;1;77;2;104;Holzhausen;008.1;;;148
+57299;Hindenburgstraße;1;5;4;20;Oberdresselndorf;012.1;;;148
+57299;Hirtengarten;1;25;2;46;Lippe;002.2;;;148
+57299;Hochstraße;3;15;2;22;Burbach;004.1;;;148
+57299;Hof Eichen;1;1;;;Burbach;001.1;;;148
+57299;Hof Heistern;1;7;2;4;Wahlbach;013.1;;;148
+57299;Hofacker;1;19;2;28;Gilsbach;006.1;;;148
+57299;Hofgartenstraße;1;23;4;14;Lippe;002.2;;;148
+57299;Hofstraße;3;5;;;Lützeln;009.1;;;148
+57299;Hohe Fuhr;1;11;2;6;Gilsbach;006.1;;;148
+57299;Hoher Weg;1;19;2;12;Niederdresselndorf;010.1;;;148
+57299;Hohler Graben;3;3;2;2;Burbach;004.1;;;148
+57299;Hohlweg;1;21;2;22;Würgendorf;015.1;;;148
+57299;Holzhäuser Weg;1;53;2;52;Lützeln;009.1;;;148
+57299;Hoorwaldstraße;27;71;16;50;Holzhausen;007.1;;;148
+57299;Hoorwaldstraße;1;25;4;8;Holzhausen;008.1;;;148
+57299;Hoorwasen;1;7;2;14;Holzhausen;007.1;;;148
+57299;Hubertusstraße;;;2;34;Burbach;003.1;;;148
+57299;Höhfeld;1;21;4;20;Burbach;003.1;;;148
+57299;Höhgarten;1;1;;;Würgendorf;016.1;;;148
+57299;Hügelstraße;1;9;4;8;Niederdresselndorf;010.1;;;148
+57299;Im Hoorfeld;3;57;2;38;Holzhausen;007.1;;;148
+57299;Im Viereck;1;5;2;10;Würgendorf;016.1;;;148
+57299;In den Stöcken;11;29;12;44;Burbach;001.1;;;148
+57299;In den Weiden;1;25;6;6;Lützeln;009.1;;;148
+57299;In der Enke;1;7;2;12;Würgendorf;015.1;;;148
+57299;In der Kiehr;1;7;2;6;Wahlbach;013.1;;;148
+57299;In der Mauer;1;31;2;38;Burbach;001.1;;;148
+57299;In der Wiese;1;9;2;10;Holzhausen;007.1;;;148
+57299;Jung-Stilling-Straße;1;53;2;30;Wahlbach;014.1;;;148
+57299;Jägerstraße;5;41;4;28;Burbach;003.1;;;148
+57299;Kaanstraße;1;9;2;14;Niederdresselndorf;010.1;;;148
+57299;Kalkofen;1;9;4;20;Burbach;005.1;;;148
+57299;Kapellenweg;1;13;;;Holzhausen;008.1;;;148
+57299;Kellergarten;3;7;;;Niederdresselndorf;011.1;;;148
+57299;Kiefernweg;1;13;2;12;Niederdresselndorf;011.1;;;148
+57299;Killets Mühle;1;1;;;Holzhausen;008.1;;;148
+57299;Killingstraße;11;11;;;Burbach;005.1;;;148
+57299;Kirchweg;1;19;2;8;Niederdresselndorf;011.1;;;148
+57299;Klashöhe;1;15;2;4;Niederdresselndorf;010.1;;;148
+57299;Kleertsweg;1;15;4;28;Lützeln;009.1;;;148
+57299;Kleine Straße;1;5;2;28;Lützeln;009.1;;;148
+57299;Klingelrain;1;11;4;4;Holzhausen;008.1;;;148
+57299;Kolpingstraße;1;5;2;4;Wahlbach;013.1;;;148
+57299;Krambergstraße;7;15;2;14;Gilsbach;006.1;;;148
+57299;Kreuzborn;1;21;4;44;Burbach;001.1;;;148
+57299;Kreuzweg;1;1;2;6;Lippe;002.2;;;148
+57299;Krummer Weg;1;27;2;12;Würgendorf;015.1;;;148
+57299;Kurze Straße;3;3;;;Burbach;005.1;;;148
+57299;Köhlerweg;1;5;2;8;Niederdresselndorf;010.1;;;148
+57299;Köhlerweg;7;13;;;Oberdresselndorf;012.1;;;148
+57299;Königsberger Straße;1;9;2;8;Holzhausen;007.1;;;148
+57299;Köppel;1;17;2;14;Burbach;001.1;;;148
+57299;Köppelsfeld;1;19;4;8;Burbach;001.1;;;148
+57299;Lange Gewann;1;23;2;30;Holzhausen;007.1;;;148
+57299;Langenwaldstraße;3;41;6;24;Burbach;001.1;;;148
+57299;Lehrerweg;;;2;8;Niederdresselndorf;011.1;;;148
+57299;Leimekaute;5;15;;;Burbach;002.1;;;148
+57299;Lemmersberg;1;1;;;Holzhausen;008.1;;;148
+57299;Lerchenweg;3;5;2;2;Niederdresselndorf;010.1;;;148
+57299;Lessingstraße;1;37;2;6;Burbach;005.1;;;148
+57299;Liebenscheider Straße;1;39;;;Oberdresselndorf;012.1;;;148
+57299;Lindenstockstraße;1;43;2;24;Wahlbach;013.1;;;148
+57299;Linnwiese;1;5;4;6;Wahlbach;013.1;;;148
+57299;Lohainsweg;1;23;2;48;Burbach;004.1;;;148
+57299;Lohbau;1;27;6;16;Burbach;002.1;;;148
+57299;Luisenstraße;1;9;2;14;Oberdresselndorf;012.1;;;148
+57299;Lützelbach;1;7;2;12;Lützeln;009.1;;;148
+57299;Lützelner Straße;1;9;2;32;Niederdresselndorf;010.1;;;148
+57299;Martin-Luther-Straße;1;27;4;26;Wahlbach;014.1;;;148
+57299;Masurenstraße;3;13;4;22;Burbach;004.1;;;148
+57299;Mecklenburger Straße;1;3;4;8;Burbach;004.1;;;148
+57299;Meisenweg;1;3;2;2;Niederdresselndorf;010.1;;;148
+57299;Mozartstraße;3;7;6;6;Burbach;005.1;;;148
+57299;Mühlenrain;1;3;2;4;Oberdresselndorf;012.1;;;148
+57299;Mühlenweg;1;3;2;2;Würgendorf;016.1;;;148
+57299;Mühlenwäldchen;3;3;;;Burbach;002.1;;;148
+57299;Nassauische Straße;5;57;2;40;Burbach;002.1;;;148
+57299;Nelkenweg;1;1;;;Burbach;003.1;;;148
+57299;Neue Siedlung;1;21;2;14;Holzhausen;007.1;;;148
+57299;Neue Straße;1;1;2;8;Lippe;002.2;;;148
+57299;Neuländer;1;17;2;18;Holzhausen;007.1;;;148
+57299;Neumarkstraße;5;15;;;Burbach;004.1;;;148
+57299;Ober den Höfen;1;11;2;8;Burbach;003.1;;;148
+57299;Ober der Löhlenmühle;1;1;;;Holzhausen;011.1;;;148
+57299;Oberer Wasen;1;23;4;20;Würgendorf;015.1;;;148
+57299;Oberer Wolfhain;1;7;2;8;Würgendorf;016.1;;;148
+57299;Oelberghof;1;3;;;Holzhausen;008.1;;;148
+57299;Oranienstraße;1;87;2;88;Lützeln;009.1;;;148
+57299;Pfaffenwaldstraße;1;19;4;16;Gilsbach;006.1;;;148
+57299;Pommernstraße;1;37;2;26;Burbach;004.1;;;148
+57299;Poststraße;1;9;;;Lippe;002.2;;;148
+57299;Quarzitbruch;13;13;8;10;Holzhausen;008.1;;;148
+57299;Querstraße;1;3;2;6;Burbach;004.1;;;148
+57299;Querstück;1;3;2;2;Niederdresselndorf;010.1;;;148
+57299;Rabenscheider Weg;3;5;2;4;Oberdresselndorf;012.1;;;148
+57299;Rainchen;1;9;;;Burbach;002.1;;;148
+57299;Raingarten;1;5;2;6;Oberdresselndorf;012.1;;;148
+57299;Rathausweg;3;5;2;2;Burbach;001.1;;;148
+57299;Reiterzentrum;1;1;;;Burbach;003.1;;;148
+57299;Ringstraße;1;3;2;12;Lützeln;009.1;;;148
+57299;Rosenweg;1;9;2;14;Burbach;005.1;;;148
+57299;Rothsgarten;1;3;;;Niederdresselndorf;010.1;;;148
+57299;Rubensstraße;5;19;4;26;Burbach;004.1;;;148
+57299;Rundweg;1;1;4;18;Würgendorf;015.1;;;148
+57299;Römer;1;7;2;12;Burbach;002.1;;;148
+57299;Sangstraße;1;7;2;2;Würgendorf;016.1;;;148
+57299;Sayn'scher Hof;1;7;;;Burbach;002.1;;;148
+57299;Schallroth;1;29;2;46;Wahlbach;014.1;;;148
+57299;Scheidwaldstraße;;;2;2;Wahlbach;014.1;;;148
+57299;Schellberg;1;3;2;2;Gilsbach;006.1;;;148
+57299;Schieferstein;1;1;;;Oberdresselndorf;012.1;;;148
+57299;Schillerstraße;15;23;2;26;Burbach;005.1;;;148
+57299;Schmiedestraße;1;3;4;4;Oberdresselndorf;012.1;;;148
+57299;Schreinerstraße;1;11;2;6;Holzhausen;008.1;;;148
+57299;Schulstraße;3;19;2;38;Holzhausen;008.1;;;148
+57299;Schwalbenweg;1;23;2;26;Niederdresselndorf;010.1;;;148
+57299;Seitenstraße;;;4;10;Burbach;001.1;;;148
+57299;Siegenweg;1;27;2;32;Holzhausen;008.1;;;148
+57299;Siemensstraße;;;6;6;Burbach;003.1;;;148
+57299;Sonnenhang;1;7;4;28;Würgendorf;015.1;;;148
+57299;Sonnenhof;1;1;;;Holzhausen;008.1;;;148
+57299;Starenweg;;;2;2;Niederdresselndorf;010.1;;;148
+57299;Staudig;1;37;2;30;Burbach;005.1;;;148
+57299;Steiler Weg;1;1;4;4;Burbach;004.1;;;148
+57299;Steinches Weg;1;7;2;12;Wahlbach;014.1;;;148
+57299;Steinhardtstraße;7;51;2;28;Burbach;005.1;;;148
+57299;Steinpfad;1;25;2;28;Würgendorf;015.1;;;148
+57299;Steinstraße;1;15;2;14;Burbach;005.1;;;148
+57299;Stettiner Straße;1;31;2;16;Holzhausen;007.1;;;148
+57299;Stormstraße;1;9;2;6;Burbach;005.1;;;148
+57299;Stöckerstraße;1;23;2;54;Wahlbach;014.1;;;148
+57299;Südhang;1;21;4;26;Würgendorf;015.1;;;148
+57299;Talstraße;1;7;4;4;Lützeln;009.1;;;148
+57299;Tannenhügel;1;5;4;14;Holzhausen;008.1;;;148
+57299;Tannenstraße;1;15;2;22;Lützeln;009.1;;;148
+57299;Taufwinkel;1;21;10;20;Burbach;001.1;;;148
+57299;Taufwinkel;25;35;;;Wahlbach;013.1;;;148
+57299;Thüringer Straße;1;11;2;14;Burbach;004.1;;;148
+57299;Tillmannshecke;1;1;;;Holzhausen;008.1;;;148
+57299;Treibweg;1;3;2;4;Holzhausen;008.1;;;148
+57299;Triftstraße;1;43;2;68;Wahlbach;014.1;;;148
+57299;Tulpenweg;;;2;4;Burbach;003.1;;;148
+57299;Turmstraße;1;3;4;4;Würgendorf;015.1;;;148
+57299;Untere Straße;;;2;10;Lippe;002.2;;;148
+57299;Unterer Wasen;1;17;8;14;Würgendorf;015.1;;;148
+57299;Vor dem Scheid;1;21;4;46;Holzhausen;007.1;;;148
+57299;Vor dem Wald;1;25;2;32;Niederdresselndorf;010.1;;;148
+57299;Vor dem Wald;27;41;36;52;Oberdresselndorf;012.1;;;148
+57299;Vor den Haßeln;3;3;2;6;Lippe;002.2;;;148
+57299;Vor der Hub;1;19;2;22;Niederdresselndorf;010.1;;;148
+57299;Wagnerstraße;1;3;;;Burbach;005.1;;;148
+57299;Wahlbacher Straße;1;7;2;20;Gilsbach;006.1;;;148
+57299;Waldenburger Straße;3;7;2;8;Holzhausen;007.1;;;148
+57299;Waldgut Buchhellertal;1;1;;;Burbach;001.1;;;148
+57299;Waldweg;1;5;2;4;Lützeln;009.1;;;148
+57299;Wasserscheide;;;6;8;Würgendorf;016.1;;;148
+57299;Wehrstück;5;7;6;18;Burbach;001.1;;;148
+57299;Weidegang;1;5;2;6;Burbach;003.1;;;148
+57299;Weiherstraße;5;27;2;22;Wahlbach;013.1;;;148
+57299;Werksstraße;23;23;;;Würgendorf;016.1;;;148
+57299;Westerwaldstraße;3;47;8;78;Niederdresselndorf;011.1;;;148
+57299;Westerwaldstraße;49;107;82;182;Oberdresselndorf;012.1;;;148
+57299;Wetterbach;1;9;2;16;Niederdresselndorf;011.1;;;148
+57299;Wichernstraße;1;5;2;6;Wahlbach;013.1;;;148
+57299;Wiebelhäuser Straße;1;25;2;44;Gilsbach;006.1;;;148
+57299;Wiesacker;;;2;14;Würgendorf;016.1;;;148
+57299;Wiesengrund;3;21;2;32;Oberdresselndorf;012.1;;;148
+57299;Wiesenstraße;1;7;2;14;Lippe;002.2;;;148
+57299;Wildorn;1;15;6;6;Niederdresselndorf;011.1;;;148
+57299;Wilhelmstraße;5;13;12;26;Burbach;003.1;;;148
+57299;Wilnsdorfer Straße;1;65;4;70;Gilsbach;006.1;;;148
+57299;Würgendorfer Straße;1;23;4;8;Gilsbach;006.1;;;148
+57299;Zehnstück;1;19;2;24;Holzhausen;007.1;;;148
+57299;Zimmerichsfeld;5;21;2;28;Wahlbach;013.1;;;148
+57299;Zimmerplatz;3;23;10;14;Burbach;001.1;;;148
+57299;Zollstraße;1;25;2;24;Würgendorf;015.1;;;148
+57299;Zum Birkenwäldchen;3;11;6;38;Burbach;001.1;;;148
+57299;Zum Bitzegarten;5;9;2;10;Wahlbach;014.1;;;148
+57299;Zum Großen Stein;3;69;2;34;Holzhausen;007.1;;;148
+57299;Zum alten Hof;1;3;2;8;Würgendorf;015.1;;;148
+57299;Zur Bitze;;;2;8;Wahlbach;013.1;;;148
+57299;Zur Dreispitz;1;25;2;22;Niederdresselndorf;010.1;;;148
+57299;Zur Eisenkaute;27;27;22;22;Lippe;002.2;;;148
+57299;Zur Hirzgabel;1;19;2;12;Niederdresselndorf;011.1;;;148
+57299;Zur Höhe;3;39;10;30;Lützeln;009.1;;;148

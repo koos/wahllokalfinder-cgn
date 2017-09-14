@@ -1,0 +1,18 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+002.2;Dorfgem.Haus Lippe;Hofgartenstr.;2;;;57299;Burbach;;N
+006.1;Dorfgem.Haus Gilsbach;Wilnsdorfer Str.;28;;;57299;Burbach;;J
+009.1;Dorfgem.Haus Lützeln;Oranienstr.;31;;;57299;Burbach;;J
+010.1;Grundsch. Niederdresselnd.;Vor der Hub;2;;;57299;Burbach;;J
+011.1;Grundsch. Niederdresselnd.;Vor der Hub;2;;;57299;Burbach;;J
+012.1;Dorfgem.Haus Oberdresselnd.;Westerwaldstr.;104;;;57299;Burbach;;J
+013.1;Grundsch. Wahlbach, Raum 1;Brückenstr.;1;;;57299;Burbach;;J
+014.1;Grundsch. Wahlbach, Raum 2;Brückenstr.;1;;;57299;Burbach;;J
+015.1;Dorfgem.Haus Würgendorf;Alfred-Nobel-Str.;12;;;57299;Burbach;;J
+016.1;Dorfgem.Haus Würgendorf;Alfred-Nobel-Str.;12;;;57299;Burbach;;J
+001.1;Rathaus, Bürgerbüro;Eicher Weg;13;;;57299;Burbach;;J
+002.1;Bürgerhaus Burbach,gr.Saal;Marktplatz;7;;;57299;Burbach;;J
+003.1;Bürgerhaus Burbach,gr.Saal;Marktplatz;7;;;57299;Burbach;;J
+004.1;Bürgerhaus Burbach,kl.Saal;Marktplatz;7;;;57299;Burbach;;J
+005.1;Hellertalschule Burbach;Killingstr.;1;;;57299;Burbach;;J
+008.1;Turnhalle Ho.,Feuerwehrraum;Vor dem Scheid;9;;;57299;Burbach;;J
+007.1;Turnhalle Holzh,kleiner Saal;Vor dem Scheid;9;;;57299;Burbach;;J
