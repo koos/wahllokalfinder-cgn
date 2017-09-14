@@ -78,10 +78,11 @@ $(window).bind('resize', function() {
   doResizeMap()
 });
 
-map.on('load', function () {
-  doResizeMap()
-});
-
-map.on('zoom', function () {
-  mapZoomEdge()
-});
+if (typeof map === 'object'){
+  map.on('load', function () {
+    doResizeMap()
+  });
+  map.on('zoom', function () {
+    mapZoomEdge()
+  });
+}
