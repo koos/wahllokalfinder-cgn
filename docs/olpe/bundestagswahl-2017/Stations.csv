@@ -1,0 +1,24 @@
+vote_district_id;name;address_street;address_nr;address_nr_note;note;zip;full_address;district;barrier_free
+001.1;Düringerschule;Rüblinghauser Str.;13;;;57462;Olpe;;J
+012.1;Düringerschule;Rüblinghauser Str.;13;;;57462;Olpe;;J
+003.1;Kreissporthalle;Erzbergerstr.;31A;;;57462;Olpe;;J
+004.1;Weiterbildungszentrum des Kreises Olpe;Kurfürst-Heinrich-Straße;34;;;57462;Olpe;;J
+006.1;Hohen-Stein-Schule;Bergstr.;18;;;57462;Olpe;;N
+007.1;Kindergarten St. Marien;Günsestr.;10;;;57462;Olpe;;J
+009.1;Finanzamt Olpe;Am Gallenberg;20;;;57462;Olpe;;J
+010.1;Kindergarten Hatzenberg;Dresdner Str.;10A;;;57462;Olpe;;J
+011.1;Städt. Gymnasium Olpe Forum;Seminarstraße;1;;;57462;Olpe;;J
+012.2;Backhaus Saßmicke;Saßmicker Str.;1B;;;57462;Olpe;;N
+014.1;Jugendheim Rehringhausen;Pfarrer-Hammeke-Weg;3;;;57462;Olpe;;N
+015.1;Pfarrheim Altenkleusheim;Auf der Burg;5;;;57462;Olpe;;N
+016.1;Jugendheim St. Rochus;Luciaweg;3;;;57462;Olpe;;N
+016.2;Jugendheim Thieringhausen;An der Höh;2;;;57462;Olpe;;N
+017.1;Grundschule Rhode;Am Kreuzberg;3;;;57462;Olpe;;J
+018.1;Pfarraum Sondern;Franz-Hitze-Str.;2D;;;57462;Olpe;;J
+019.2;Pfarrheim St. Luzia;Oberveischeder Str.;38;;;57462;Olpe;;J
+002.1;Begegnungsstätte Altes Lyzeum;Franziskanerstraße;8;;;57462;Olpe;;J
+005.1;DRK - Haus der Begegnung;Löherweg;9;;;57462;Olpe;;J
+008.1;Sekundarschule Olpe;Quellenweg;6;;;57462;Olpe;;J
+013.1;Dorfgemeinschaftshalle Dahl;Marienweg;3;;;57462;Olpe;;N
+019.1;Jugendheim Neger;Zum Tümmelberg;3;;;57462;Olpe;;J
+015.2;Gasthof Dettmer;Neuenkleusheimer Str.;23;;;57462;Olpe;;N

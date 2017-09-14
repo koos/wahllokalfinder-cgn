@@ -1,0 +1,468 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+57462;Agathastraße;3;3;4;8;Olpe;002.1;;;149
+57462;Ahornweg;1;55;2;26;Olpe;007.1;;;149
+57462;Albert-Schweitzer-Weg;1;9;2;6;Olpe;004.1;;;149
+57462;Aloys-Drilling-Straße;1;9;2;8;Rüblinghausen;012.1;;;149
+57462;Alte Landstraße;1;47;10;36;Rhode;017.1;;;149
+57462;Altenkleusheimer Straße;1;19;4;24;Altenkleusheim;015.1;;;149
+57462;Alter Kirchweg;7;23;2;14;Thieringhausen;016.2;;;149
+57462;Am Alten Freibad;;;8;8;Lütringhausen;016.1;;;149
+57462;Am Alten Schulwald;1;15;4;28;Altenkleusheim;015.1;;;149
+57462;Am Attenberg;1;21;2;20;Olpe;006.1;;;149
+57462;Am Bahnhof;3;3;;;Olpe;002.1;;;149
+57462;Am Baukhahn;1;21;2;24;Rhode;017.1;;;149
+57462;Am Baumhof;1;1;2;2;Rehringhausen;014.1;;;149
+57462;Am Bergelchen;3;9;2;10;Saßmicke;012.2;;;149
+57462;Am Beul;1;15;2;4;Saßmicke;012.2;;;149
+57462;Am Biggeufer;5;7;;;Olpe;002.1;;;149
+57462;Am Bratzkopf;1;61;2;44;Olpe;001.1;;;149
+57462;Am Buchhagen;1;5;4;18;Dahl;013.1;;;149
+57462;Am Dorfring;1;15;2;22;Rehringhausen;014.1;;;149
+57462;Am Finkenhagen;3;17;;;Olpe;002.1;;;149
+57462;Am Gallenberg;1;13;2;30;Olpe;009.1;;;149
+57462;Am Großen Stück;3;3;;;Thieringhausen;016.2;;;149
+57462;Am Gärk;1;17;10;14;Eichhagen;018.1;;;149
+57462;Am Göterberg;1;25;4;24;Oberveischede;019.2;;;149
+57462;Am Hafen;1;1;;;Sondern;018.1;;;149
+57462;Am Hang;1;27;2;26;Olpe;001.1;;;149
+57462;Am Hummelsberg;1;9;8;18;Rhode;017.1;;;149
+57462;Am Kapellenberg;3;11;2;14;Lütringhausen;016.1;;;149
+57462;Am Kattenhagen;1;5;2;14;Olpe;009.1;;;149
+57462;Am Knapp;5;25;2;20;Oberveischede;019.2;;;149
+57462;Am Knebrige;1;11;2;4;Neuenkleusheim;015.2;;;149
+57462;Am Kornstück;1;11;2;12;Waukemicke;017.1;;;149
+57462;Am Kreuzberg;5;19;2;12;Rhode;017.1;;;149
+57462;Am Längelscheid;5;9;2;22;Oberveischede;019.2;;;149
+57462;Am Löh;;;2;6;Oberneger;019.1;;;149
+57462;Am Löhbach;3;7;;;Saßmicke;012.2;;;149
+57462;Am Markt;1;3;4;4;Olpe;002.1;;;149
+57462;Am Mühlenpfad;5;5;;;Unterneger;019.1;;;149
+57462;Am Mühlenteich;1;15;6;8;Olpe;006.1;;;149
+57462;Am Oberen Stötchen;5;15;4;30;Olpe;003.1;;;149
+57462;Am Obsthof;1;3;2;6;Thieringhausen;016.2;;;149
+57462;Am Ochsenhagen;1;11;2;4;Rehringhausen;014.1;;;149
+57462;Am Poschefeuer;31;37;50;60;Olpe;001.1;;;149
+57462;Am Rennenberg;1;25;2;22;Oberveischede;019.2;;;149
+57462;Am Reygelskamp;11;57;2;54;Rhode;017.1;;;149
+57462;Am Rhoder Stein;1;25;2;18;Rhode;017.1;;;149
+57462;Am Rüenberg;1;1;;;Unterneger;019.1;;;149
+57462;Am Schilde;1;9;34;34;Rüblinghausen;012.1;;;149
+57462;Am Siepen;;;4;14;Lütringhausen;016.1;;;149
+57462;Am Sonderner Kopf;3;3;;;Sondern;018.1;;;149
+57462;Am Sonnenhang;7;7;2;8;Olpe;011.1;;;149
+57462;Am Sprint;1;9;2;10;Griesemert;017.1;;;149
+57462;Am Stachelauer Berg;1;11;;;Stachelau;014.1;;;149
+57462;Am Stötchen;3;17;8;8;Olpe;003.1;;;149
+57462;Am Vogelsang;1;1;2;2;Stade;018.1;;;149
+57462;Am Windhagen;3;9;2;10;Saßmicke;012.2;;;149
+57462;Am Winterschott;;;2;12;Stachelau;014.1;;;149
+57462;An den Eichen;1;7;2;6;Olpe;001.1;;;149
+57462;An den Fichten;1;7;2;2;Eichhagen;018.1;;;149
+57462;An den Hässeln;3;3;4;4;Oberveischede;019.2;;;149
+57462;An den Klippen;5;23;4;30;Olpe;002.1;;;149
+57462;An den Stöcken;;;2;2;Oberneger;019.1;;;149
+57462;An den Weiden;3;11;4;16;Saßmicke;012.2;;;149
+57462;An der Baumschule;1;29;2;20;Rhode;017.1;;;149
+57462;An der Broke;3;9;6;18;Lütringhausen;016.1;;;149
+57462;An der Eichhardt;1;59;4;64;Olpe;007.1;;;149
+57462;An der Höh;1;5;4;8;Thieringhausen;016.2;;;149
+57462;An der Hütte;1;3;;;Oberveischede;019.2;;;149
+57462;An der Nußhecke;1;11;2;8;Neuenkleusheim;015.2;;;149
+57462;An der Pettmecke;1;3;;;Eichhagen;018.1;;;149
+57462;An der Schingerskuhle;1;11;2;16;Olpe;001.1;;;149
+57462;An der Vogelrute;1;27;10;22;Rhode;017.1;;;149
+57462;Ankerweg;1;7;2;8;Sondern;018.1;;;149
+57462;Anne-Frank-Weg;1;11;4;8;Olpe;010.1;;;149
+57462;Apollmicke;1;3;;;Apollmicke;019.2;;;149
+57462;Apolloniaweg;1;3;2;4;Waukemicke;017.1;;;149
+57462;Apolloniaweg;;;14;14;Waukemicke;017.1;;;149
+57462;Apolloniaweg;;;6;8;Griesemert;017.1;;;149
+57462;Attendorner Straße;9;13;10;10;Oberveischede;019.2;;;149
+57462;Auf dem Daum;13;27;28;44;Altenkleusheim;015.1;;;149
+57462;Auf dem Eben;1;19;;;Rhode;017.1;;;149
+57462;Auf dem Gallenberg;1;17;2;6;Olpe;009.1;;;149
+57462;Auf dem Kamp;1;7;2;12;Rhode;017.1;;;149
+57462;Auf der Burg;7;13;2;34;Altenkleusheim;015.1;;;149
+57462;Auf der Ennert;3;35;2;42;Thieringhausen;016.2;;;149
+57462;Auf der Fohrt;1;7;2;2;Olpe;009.1;;;149
+57462;Auf der Griesemert;1;35;20;20;Griesemert;017.1;;;149
+57462;Auf der Kirmes;1;7;4;4;Rhode;017.1;;;149
+57462;Auf der Leie;3;13;2;22;Altenkleusheim;015.1;;;149
+57462;Auf der Mauer;3;7;4;8;Olpe;002.1;;;149
+57462;Auf der Wohrt;1;9;4;16;Thieringhausen;016.2;;;149
+57462;Auf'm Born;1;5;2;8;Unterneger;019.1;;;149
+57462;Auf'm Brauk;3;7;2;14;Lütringhausen;016.1;;;149
+57462;Auf'm Zänker;3;5;;;Neuenkleusheim;015.2;;;149
+57462;Auguste-Liese-Straße;1;29;2;34;Olpe;002.1;;;149
+57462;Bachweg;1;7;;;Dahl;013.1;;;149
+57462;Bahnhofstraße;3;11;2;16;Olpe;002.1;;;149
+57462;Barbaraweg;1;7;4;6;Lütringhausen;016.1;;;149
+57462;Beismicke;9;9;2;6;Neuenkleusheim;015.2;;;149
+57462;Bergstraße;23;47;6;68;Olpe;006.1;;;149
+57462;Bibicke;1;3;;;Friedrichsthal;013.1;;;149
+57462;Biggestraße;13;43;16;82;Olpe;001.1;;;149
+57462;Biggestraße;45;85;84;120;Rüblinghausen;012.1;;;149
+57462;Bilsteiner Straße;11;11;2;16;Olpe;009.1;;;149
+57462;Birkenweg;3;19;2;24;Olpe;007.1;;;149
+57462;Bodelschwinghstraße;11;43;2;40;Olpe;004.1;;;149
+57462;Brabeckstraße;1;41;2;30;Olpe;008.1;;;149
+57462;Bramicke;3;21;2;12;Neuenkleusheim;015.2;;;149
+57462;Breikelchen;;;4;16;Sondern;018.1;;;149
+57462;Bremer Stück;1;1;2;2;Altenkleusheim;015.1;;;149
+57462;Breslauer Straße;3;23;6;36;Olpe;010.1;;;149
+57462;Bruch;1;1;;;Bruch;015.1;;;149
+57462;Bruchstraße;13;63;18;110;Olpe;003.1;;;149
+57462;Bruchstraße;11;11;2;16;Olpe;005.1;;;149
+57462;Brumicker Weg;1;33;4;24;Altenkleusheim;015.1;;;149
+57462;Buchenweg;1;35;2;40;Olpe;007.1;;;149
+57462;Caspar-Klein-Weg;1;11;2;8;Rhode;017.1;;;149
+57462;Christophorusweg;1;9;12;12;Günsen;016.2;;;149
+57462;Clemens-Brentano-Straße;3;15;2;22;Olpe;011.1;;;149
+57462;Dahler Straße;1;11;4;18;Friedrichsthal;013.1;;;149
+57462;Dahler Straße;;;18A;18A;Dahl;013.1;;;149
+57462;Dahler Straße;13;71;20;72;Dahl;013.1;;;149
+57462;Danziger Straße;1;3;;;Olpe;011.1;;;149
+57462;Dohlenweg;1;5;2;2;Olpe;001.1;;;149
+57462;Don-Bosco-Weg;1;5;;;Olpe;006.1;;;149
+57462;Dorfstraße;7;23;12;18;Lütringhausen;016.1;;;149
+57462;Dornröschenweg;1;3;2;2;Olpe;011.1;;;149
+57462;Dresdener Straße;1;31;2;48;Olpe;010.1;;;149
+57462;Drosselweg;1;7;2;6;Olpe;001.1;;;149
+57462;Droste-Hülshoff-Straße;1;35;2;28;Olpe;003.1;;;149
+57462;Dumicker Weg;7;21;4;20;Eichhagen;018.1;;;149
+57462;Dörensiepen;1;11;;;Waukemicke;017.1;;;149
+57462;Düringerstraße;1;43;2;56;Olpe;001.1;;;149
+57462;Düringerstraße;45;89;58;84;Rüblinghausen;012.1;;;149
+57462;Ebbeblick;1;57;2;30;Olpe;001.1;;;149
+57462;Edith-Stein-Weg;1;17;2;12;Olpe;010.1;;;149
+57462;Eichendorffstraße;1;31;2;34;Olpe;003.1;;;149
+57462;Eichhagener Straße;1;31;4;20;Eichhagen;018.1;;;149
+57462;Eichhörnchenweg;11;25;2;28;Rhode;017.1;;;149
+57462;Emil-von-Behring-Weg;1;7;2;16;Olpe;004.1;;;149
+57462;Engelhardtstraße;3;39;2;34;Olpe;008.1;;;149
+57462;Erzbergerstraße;3;23;2;14;Olpe;004.1;;;149
+57462;Erzbergerstraße;25;33;24;28;Olpe;003.1;;;149
+57462;Eschenweg;1;23;2;22;Olpe;007.1;;;149
+57462;Eupener Straße;3;9;6;8;Olpe;002.1;;;149
+57462;Fahlenscheid;3;3;2;2;Fahlenscheid;019.2;;;149
+57462;Falkenweg;23;27;12;42;Olpe;001.1;;;149
+57462;Falkenweg;1;11;2;10;Rüblinghausen;012.1;;;149
+57462;Fasanenweg;3;9;2;12;Rüblinghausen;012.1;;;149
+57462;Feldweg;5;5;2;4;Rüblinghausen;012.1;;;149
+57462;Felmicke;37;51;30;48;Olpe;009.1;;;149
+57462;Felmicke;1;33;6;28;Olpe;002.1;;;149
+57462;Finkenstraße;1;15;;;Olpe;002.1;;;149
+57462;Fliederweg;1;5;2;10;Sondern;018.1;;;149
+57462;Frankenhagen;1;19;2;24;Rhode;017.1;;;149
+57462;Frankfurter Straße;3;17;2;18;Olpe;002.1;;;149
+57462;Franz-Heuel-Straße;3;9;2;12;Neuenkleusheim;015.2;;;149
+57462;Franz-Hitze-Straße;1;9;2;18;Sondern;018.1;;;149
+57462;Franz-Menke-Straße;1;21;2;12;Olpe;009.1;;;149
+57462;Franziskanerstraße;5;13;4;18;Olpe;002.1;;;149
+57462;Franzosenweg;1;3;2;52;Oberveischede;019.2;;;149
+57462;Freusbergweg;1;31;;;Olpe;009.1;;;149
+57462;Friedensweg;3;5;2;26;Dahl;013.1;;;149
+57462;Friedhofsweg;1;27;2;26;Neuenkleusheim;015.2;;;149
+57462;Friedrich-von-Spee-Straße;1;7;2;14;Olpe;004.1;;;149
+57462;Friedrichstraße;1;67;4;86;Olpe;006.1;;;149
+57462;Fritz-Reuter-Straße;9;39;12;24;Olpe;003.1;;;149
+57462;Fuhlenhof;1;1;2;2;Mittelneger;019.1;;;149
+57462;Gartenfelderstraße;1;37;2;30;Olpe;011.1;;;149
+57462;Gartenstraße;1;13;2;4;Olpe;009.1;;;149
+57462;Gate;1;9;2;22;Rüblinghausen;012.1;;;149
+57462;Gelbschlade;1;13;;;Saßmicke;012.2;;;149
+57462;Georgiusweg;1;3;;;Neuenkleusheim;015.2;;;149
+57462;Gerberweg;;;2;2;Olpe;005.1;;;149
+57462;Gerlinger Weg;1;15;4;16;Dahl;013.1;;;149
+57462;Gerstenhagen;1;13;4;4;Griesemert;017.1;;;149
+57462;Geschwister-Scholl-Weg;3;3;2;10;Olpe;009.1;;;149
+57462;Ginsterweg;1;13;2;2;Olpe;007.1;;;149
+57462;Goerdelerweg;1;13;2;18;Olpe;010.1;;;149
+57462;Goethestraße;1;19;4;18;Olpe;005.1;;;149
+57462;Goldsiepen;1;9;2;20;Rhode;017.1;;;149
+57462;Griesemerter Weg;1;7;2;4;Lütringhausen;016.1;;;149
+57462;Grimmestraße;1;33;2;56;Olpe;004.1;;;149
+57462;Grube Rhonard;1;1;2;2;Grube Rhonard;015.2;;;149
+57462;Grubenstraße;29;29;18;40;Olpe;008.1;;;149
+57462;Grubenstraße;5;7;2;16;Olpe;007.1;;;149
+57462;Grüntalweg;1;9;2;10;Friedrichsthal;013.1;;;149
+57462;Görresstraße;1;13;4;14;Olpe;011.1;;;149
+57462;Günsen;1;1;2;2;Günsen;016.2;;;149
+57462;Günser Schlade;1;7;6;14;Rhonard;016.2;;;149
+57462;Günsestraße;7;59;8;66;Olpe;006.1;;;149
+57462;Habichtsweg;13;19;10;20;Olpe;001.1;;;149
+57462;Habichtsweg;1;11;4;8;Rüblinghausen;012.1;;;149
+57462;Hainbuchenweg;3;17;2;14;Dahl;013.1;;;149
+57462;Hakemickestraße;7;39;10;40;Olpe;008.1;;;149
+57462;Haldenweg;1;3;2;2;Olpe;008.1;;;149
+57462;Hammerweg;1;7;2;4;Eichhagen;018.1;;;149
+57462;Hanemicke;3;3;;;Hanemicke;018.1;;;149
+57462;Hanemicker Weg;1;1;2;12;Sondern;018.1;;;149
+57462;Hardtweg;1;21;2;30;Olpe;011.1;;;149
+57462;Haselweg;1;1;;;Olpe;007.1;;;149
+57462;Hasenpfad;1;7;2;4;Olpe;003.1;;;149
+57462;Hatzenbergstraße;7;81;16;78;Olpe;010.1;;;149
+57462;Hatzenbergstraße;;;8;12;Olpe;009.1;;;149
+57462;Hauptmanns Garten;1;15;2;18;Rhode;017.1;;;149
+57462;Heberweg;1;13;2;18;Rhode;017.1;;;149
+57462;Heideweg;1;37;6;38;Rhode;017.1;;;149
+57462;Heimicker Weg;1;1;;;Olpe;001.1;;;149
+57462;Heinrich-Kreutz-Straße;3;5;2;8;Olpe;011.1;;;149
+57462;Hesselberg;7;9;2;20;Neuenkleusheim;015.2;;;149
+57462;Heuseifen;1;1;2;6;Saßmicke;012.2;;;149
+57462;Hitzendumicke;1;5;2;4;Hitzendumicke;018.1;;;149
+57462;Hochstraße;1;31;2;44;Olpe;011.1;;;149
+57462;Hof Siele;1;1;2;2;Hof Siele;017.1;;;149
+57462;Hohe Rhonard;1;19;2;12;Olpe;008.1;;;149
+57462;Hohe Straße;1;53;2;26;Friedrichsthal;013.1;;;149
+57462;Hohe Straße;63;75;28;50;Dahl;013.1;;;149
+57462;Hoher Stein;1;19;2;18;Olpe;006.1;;;149
+57462;Hohle Trift;1;1;4;12;Thieringhausen;016.2;;;149
+57462;Holunderweg;1;7;4;4;Olpe;007.1;;;149
+57462;Howald;1;1;;;Howald;019.1;;;149
+57462;Hubertusweg;3;13;2;20;Olpe;004.1;;;149
+57462;Hudeweg;;;2;6;Altenkleusheim;015.1;;;149
+57462;Hundsrüggen;1;15;2;6;Rhode;017.1;;;149
+57462;Höhweg;1;17;10;16;Griesemert;017.1;;;149
+57462;Hüppcherhammer;1;1;2;2;Hüppcherhammer;002.1;;;149
+57462;Hüttenweg;;;2;6;Neuenkleusheim;015.2;;;149
+57462;Im Dohm;;;12;16;Olpe;008.1;;;149
+57462;Im Eck;1;19;2;16;Oberveischede;019.2;;;149
+57462;Im Großen Garten;1;35;2;32;Saßmicke;012.2;;;149
+57462;Im Gähn;1;7;4;6;Dahl;013.1;;;149
+57462;Im Hohl;1;19;2;20;Hohl;017.1;;;149
+57462;Im Hühnerfeld;5;25;6;14;Dahl;013.1;;;149
+57462;Im Lenzwieschen;;;4;14;Dahl;013.1;;;149
+57462;Im Osterseifen;1;1;2;4;Olpe;009.1;;;149
+57462;Im Spree;1;11;2;10;Dahl;013.1;;;149
+57462;Im Weierhohl;21;27;2;18;Olpe;005.1;;;149
+57462;Im Winkel;;;4;4;Dahl;013.1;;;149
+57462;Imbergstraße;15;53;16;42;Olpe;011.1;;;149
+57462;Imbergstraße;3;9;2;14;Olpe;002.1;;;149
+57462;Imme Inken;1;1;2;2;Neuenkleusheim;015.2;;;149
+57462;In den Steiken;1;3;;;Unterneger;019.1;;;149
+57462;In der Ahe;;;2;10;Rehringhausen;014.1;;;149
+57462;In der Delle;15;31;2;10;Olpe;011.1;;;149
+57462;In der Steinkuhle;1;7;2;8;Olpe;005.1;;;149
+57462;In der Stubicke;3;9;2;10;Olpe;003.1;;;149
+57462;In der Trift;35;35;14;18;Olpe;003.1;;;149
+57462;In der Trift;55;55;;;Rüblinghausen;012.1;;;149
+57462;In der Wasche;1;3;;;Olpe;002.1;;;149
+57462;In der Wüste;1;19;2;72;Olpe;002.1;;;149
+57462;Isfried-Ohm-Straße;1;31;2;32;Rehringhausen;014.1;;;149
+57462;Jahnstraße;1;33;;;Olpe;006.1;;;149
+57462;Jenaer Straße;1;5;2;10;Olpe;010.1;;;149
+57462;Johann-Bergmann-Weg;;;2;12;Olpe;010.1;;;149
+57462;Johann-Georg-Manskopf-Str;1;9;2;10;Olpe;011.1;;;149
+57462;Johann-Trinn-Straße;1;17;4;12;Neuenkleusheim;015.2;;;149
+57462;Johannes-Hatzfeld-Straße;1;35;2;40;Olpe;004.1;;;149
+57462;Johannesweg;1;9;2;10;Olpe;004.1;;;149
+57462;Josef-Schmelzer-Weg;1;3;2;6;Olpe;004.1;;;149
+57462;Josefstraße;1;37;10;38;Olpe;005.1;;;149
+57462;Jungfernhöh;1;3;2;10;Griesemert;017.1;;;149
+57462;Kampstraße;17;37;18;40;Olpe;005.1;;;149
+57462;Kardinal-von-Galen-Straße;1;13;4;36;Olpe;005.1;;;149
+57462;Katharinenweg;3;13;2;12;Lütringhausen;016.1;;;149
+57462;Keeschladeweg;1;5;2;2;Olpe;011.1;;;149
+57462;Kessenhammer;3;7;4;8;Kessenhammer;019.1;;;149
+57462;Kessenhammer Weg;3;3;2;2;Stade;018.1;;;149
+57462;Kettelerweg;1;13;2;16;Olpe;005.1;;;149
+57462;Kiefernweg;3;17;10;26;Olpe;007.1;;;149
+57462;Kiemche;3;25;8;34;Friedrichsthal;013.1;;;149
+57462;Kimicker Straße;1;13;2;18;Olpe;004.1;;;149
+57462;Kirchgasse;1;1;;;Olpe;002.1;;;149
+57462;Kleusheimer Steinmicke;1;15;2;20;Neuenkleusheim;015.2;;;149
+57462;Knappenweg;1;13;2;24;Olpe;008.1;;;149
+57462;Koblenzer Straße;1;15;;;Friedrichsthal;013.1;;;149
+57462;Kolpingstraße;1;41;4;46;Olpe;005.1;;;149
+57462;Kolpingstraße;45;45;48;60;Olpe;006.1;;;149
+57462;Kortemickestraße;1;35;6;56;Olpe;009.1;;;149
+57462;Kruberger Weg;1;23;2;12;Stachelau;014.1;;;149
+57462;Krähenwinkel;1;3;2;14;Olpe;001.1;;;149
+57462;Kupferweg;1;5;2;6;Olpe;008.1;;;149
+57462;Kurfürst-Heinrich-Straße;1;47;4;36;Olpe;005.1;;;149
+57462;Kurkölner Platz;1;1;;;Olpe;005.1;;;149
+57462;Kurze Buche;1;5;2;2;Thieringhausen;016.2;;;149
+57462;Köhlerweg;1;9;2;8;Stachelau;014.1;;;149
+57462;Kölner Straße;1;17;2;2;Olpe;002.1;;;149
+57462;Königsberger Straße;1;29;2;24;Olpe;001.1;;;149
+57462;Leipziger Straße;1;29;2;24;Olpe;010.1;;;149
+57462;Leonardusstraße;1;5;2;14;Olpe;001.1;;;149
+57462;Lerchenweg;1;7;2;8;Olpe;001.1;;;149
+57462;Lichtmecke;1;9;;;Stachelau;014.1;;;149
+57462;Lindenhardt;1;25;2;36;Olpe;009.1;;;149
+57462;Lindenstraße;1;35;2;42;Olpe;007.1;;;149
+57462;Linkermicke;1;25;2;8;Neuenkleusheim;015.2;;;149
+57462;Luciaweg;5;5;4;14;Lütringhausen;016.1;;;149
+57462;Luise-Hensel-Weg;3;13;2;4;Olpe;009.1;;;149
+57462;Löherweg;1;13;2;4;Olpe;005.1;;;149
+57462;Lübkeweg;1;21;2;28;Altenkleusheim;015.1;;;149
+57462;Lütringhauser Weg;19;19;2;34;Olpe;008.1;;;149
+57462;Manfred-Schöne-Straße;1;69;2;44;Olpe;004.1;;;149
+57462;Maria-Theresia-Straße;7;33;2;42;Olpe;003.1;;;149
+57462;Marienweg;9;9;4;12;Friedrichsthal;013.1;;;149
+57462;Marienweg;7;7;;;Dahl;013.1;;;149
+57462;Marienweg;11;11;;;Dahl;013.1;;;149
+57462;Martin-Luther-Straße;1;25;4;22;Olpe;011.1;;;149
+57462;Martinstraße;3;29;4;32;Olpe;005.1;;;149
+57462;Martinstraße;33;53;40;44;Olpe;009.1;;;149
+57462;Martinstraße;55;79;64;88;Olpe;007.1;;;149
+57462;Matthäusstraße;1;15;2;6;Rüblinghausen;012.1;;;149
+57462;Meilerweg;1;7;2;6;Stachelau;014.1;;;149
+57462;Meisenweg;3;5;2;8;Olpe;001.1;;;149
+57462;Mesterfeld;3;39;2;42;Oberveischede;019.2;;;149
+57462;Michaelweg;3;3;2;6;Lütringhausen;016.1;;;149
+57462;Möllendick;1;1;;;Möllendick;017.1;;;149
+57462;Mühlenstraße;1;5;;;Olpe;002.1;;;149
+57462;Napoleonweg;;;2;8;Oberveischede;019.2;;;149
+57462;Negergate;1;11;4;6;Unterneger;019.1;;;149
+57462;Negertalstraße;1;31;2;20;Unterneger;019.1;;;149
+57462;Negertalstraße;51;57;50;52;Mittelneger;019.1;;;149
+57462;Negertalstraße;59;67;60;60;Oberneger;019.1;;;149
+57462;Neuenkleusheimer Straße;1;41;2;38;Neuenkleusheim;015.2;;;149
+57462;Neuenwald;1;3;2;4;Neuenwald;019.2;;;149
+57462;Norbert-Scheele-Straße;1;35;2;26;Olpe;004.1;;;149
+57462;Obere Biggestraße;;;2;14;Olpe;001.1;;;149
+57462;Oberveischeder Straße;1;35;4;50;Oberveischede;019.2;;;149
+57462;Olper Hütte;13;13;2;4;Olpe;008.1;;;149
+57462;Olper Weg;3;9;4;12;Lütringhausen;016.1;;;149
+57462;Op me Planken;1;3;6;18;Thieringhausen;016.2;;;149
+57462;Otto-Müller-Straße;1;33;2;16;Olpe;011.1;;;149
+57462;Pannenklöpperstraße;1;7;2;8;Olpe;009.1;;;149
+57462;Papenschlade;1;13;2;18;Olpe;004.1;;;149
+57462;Paracelsusstraße;3;21;14;20;Olpe;004.1;;;149
+57462;Pastorsfeld;1;27;2;30;Rhode;017.1;;;149
+57462;Pater-Dahlenkamp-Weg;;;2;6;Rüblinghausen;012.1;;;149
+57462;Pater-Deimel-Straße;1;9;2;10;Olpe;009.1;;;149
+57462;Pater-Nies-Weg;1;1;4;8;Rehringhausen;014.1;;;149
+57462;Pater-Zöller-Weg;1;3;2;6;Altenkleusheim;015.1;;;149
+57462;Paul-Gerhardt-Weg;1;1;;;Olpe;011.1;;;149
+57462;Peter-Huperz-Straße;1;13;2;2;Olpe;004.1;;;149
+57462;Pfarrer-Cordes-Weg;3;9;2;18;Rhode;017.1;;;149
+57462;Pfarrer-Ermert-Weg;1;1;2;14;Olpe;009.1;;;149
+57462;Pfarrer-Grebe-Weg;5;5;;;Thieringhausen;016.2;;;149
+57462;Pfarrer-Hammeke-Weg;7;21;6;16;Rehringhausen;014.1;;;149
+57462;Poscheweg;1;7;2;6;Olpe;004.1;;;149
+57462;Postweg;1;3;4;6;Lütringhausen;016.1;;;149
+57462;Quellenweg;1;25;2;4;Olpe;008.1;;;149
+57462;Quellenweg;27;41;20;20;Lütringhausen;016.1;;;149
+57462;Raiffeisenstraße;31;31;12;12;Saßmicke;012.2;;;149
+57462;Rehringhauser Straße;7;25;2;54;Stachelau;014.1;;;149
+57462;Rhoder Hauptstraße;13;57;20;36;Rhode;017.1;;;149
+57462;Rhoder Weg;1;55;4;60;Olpe;011.1;;;149
+57462;Rhonardstraße;1;9;2;4;Rhonard;016.2;;;149
+57462;Robert-Koch-Straße;11;21;2;20;Olpe;004.1;;;149
+57462;Rochusstraße;1;29;2;24;Olpe;009.1;;;149
+57462;Ronnewinkel;1;3;;;Ronnewinkel;002.1;;;149
+57462;Rosenthal;1;5;4;6;Rosenthal;002.1;;;149
+57462;Rosenweg;1;13;14;14;Sondern;018.1;;;149
+57462;Rotdornweg;1;21;2;20;Olpe;007.1;;;149
+57462;Römerhof;1;1;2;4;Neuenkleusheim;015.2;;;149
+57462;Römerstraße;15;15;2;20;Olpe;011.1;;;149
+57462;Röntgenstraße;19;23;4;28;Olpe;004.1;;;149
+57462;Rötger-Hundt-Weg;;;2;8;Olpe;010.1;;;149
+57462;Rüblinghauser Drift;7;15;2;30;Rüblinghausen;012.1;;;149
+57462;Rüblinghauser Straße;1;17;2;24;Olpe;001.1;;;149
+57462;Rüblinghauser Straße;19;37;26;52;Rüblinghausen;012.1;;;149
+57462;Sandstraße;1;23;2;6;Olpe;009.1;;;149
+57462;Sauerbruchweg;5;17;2;18;Olpe;004.1;;;149
+57462;Saßmicker Hammer;;;32;32;Saßmicke;012.2;;;149
+57462;Saßmicker Straße;1;25;2;28;Saßmicke;012.2;;;149
+57462;Schetmicke;3;29;4;12;Rüblinghausen;012.1;;;149
+57462;Schillerweg;1;13;4;14;Olpe;005.1;;;149
+57462;Schlade;1;15;2;22;Rüblinghausen;012.1;;;149
+57462;Schlader Stieg;3;7;2;4;Stachelau;014.1;;;149
+57462;Schmiedeweg;1;13;;;Eichhagen;018.1;;;149
+57462;Schmittenberg;1;23;;;Neuenkleusheim;015.2;;;149
+57462;Schneppenohler Weg;3;3;2;14;Eichhagen;018.1;;;149
+57462;Schulstraße;1;25;6;46;Lütringhausen;016.1;;;149
+57462;Schöne Aussicht;1;55;2;54;Olpe;007.1;;;149
+57462;Schützenstraße;9;29;4;34;Olpe;011.1;;;149
+57462;Sebastiansweg;1;17;2;12;Olpe;011.1;;;149
+57462;Seminarstraße;7;43;2;50;Olpe;011.1;;;149
+57462;Siedenstein;1;3;2;6;Siedenstein;017.1;;;149
+57462;Siege Weiste;;;2;6;Friedrichsthal;013.1;;;149
+57462;Siegener Straße;105;123;108;138;Altenkleusheim;015.1;;;149
+57462;Siegener Straße;1;43;2;12;Lütringhausen;016.1;;;149
+57462;Sieler Weg;1;5;4;8;Lütringhausen;016.1;;;149
+57462;Siepenhohl;1;7;4;12;Rüblinghausen;012.1;;;149
+57462;Silberweg;1;9;2;8;Lütringhausen;016.1;;;149
+57462;Sonderner Straße;3;23;2;30;Sondern;018.1;;;149
+57462;Sperberweg;1;23;2;20;Olpe;001.1;;;149
+57462;Stachelauer Hütte;1;25;18;18;Stachelau;014.1;;;149
+57462;Stachelauer Weg;3;17;8;20;Olpe;008.1;;;149
+57462;Stader Straße;11;11;;;Stade;018.1;;;149
+57462;Stauffenbergring;1;53;2;30;Olpe;010.1;;;149
+57462;Steigerweg;1;19;2;6;Olpe;008.1;;;149
+57462;Steinrücke;1;15;;;Unterneger;019.1;;;149
+57462;Stettiner Straße;1;11;2;14;Olpe;010.1;;;149
+57462;Stollenweg;1;25;2;26;Olpe;008.1;;;149
+57462;Strandweg;1;1;;;Sondern;018.1;;;149
+57462;Südhang;1;5;2;8;Sondern;018.1;;;149
+57462;Talblick;1;1;2;6;Thieringhausen;016.2;;;149
+57462;Tannenbergstraße;3;25;2;30;Olpe;001.1;;;149
+57462;Tecklinghausen;1;5;2;6;Tecklinghausen;019.2;;;149
+57462;Theodor-Mietens-Weg;1;3;2;2;Olpe;010.1;;;149
+57462;Thieringhauser Straße;1;41;2;56;Thieringhausen;016.2;;;149
+57462;Tulpenweg;5;5;4;6;Sondern;018.1;;;149
+57462;Uhlandweg;1;7;2;2;Olpe;003.1;;;149
+57462;Ulmenweg;1;5;2;2;Olpe;007.1;;;149
+57462;Unter der Grotte;3;21;8;18;Altenkleusheim;015.1;;;149
+57462;Unter der Linde;3;9;2;6;Thieringhausen;016.2;;;149
+57462;Untere Stubicke;3;7;6;6;Olpe;003.1;;;149
+57462;Unterer Hardtweg;7;39;2;2;Olpe;002.1;;;149
+57462;Unterm Elmen;;;2;18;Saßmicke;012.2;;;149
+57462;Unterm Friedhof;;;2;16;Rehringhausen;014.1;;;149
+57462;Unterm Kreuz;1;9;2;14;Lütringhausen;016.1;;;149
+57462;Unterm Tempel;;;2;12;Rehringhausen;014.1;;;149
+57462;Virchowstraße;1;9;2;10;Olpe;004.1;;;149
+57462;Vom Hölchen;;;2;8;Sondern;018.1;;;149
+57462;Vom Mühlhagen;1;7;2;10;Sondern;018.1;;;149
+57462;Vor den Brüchen;1;11;2;12;Neuenkleusheim;015.2;;;149
+57462;Vor der Hustert;1;7;2;10;Altenkleusheim;015.1;;;149
+57462;Vorm Wald;1;27;2;8;Altenkleusheim;015.1;;;149
+57462;Waldweg;5;9;2;8;Lütringhausen;016.1;;;149
+57462;Weberstraße;3;19;2;16;Stachelau;014.1;;;149
+57462;Weimarer Straße;5;11;2;16;Olpe;010.1;;;149
+57462;Weite Schlüppe;11;13;2;14;Olpe;002.1;;;149
+57462;Westfälische Straße;1;63;2;64;Olpe;002.1;;;149
+57462;Westfälische Straße;85;95;66;116;Olpe;009.1;;;149
+57462;Wiesenweg;3;9;;;Eichhagen;018.1;;;149
+57462;Wilhelmstraße;3;3;4;4;Olpe;005.1;;;149
+57462;Winterbergstraße;9;61;2;64;Olpe;002.1;;;149
+57462;Wittenberger Straße;1;9;2;8;Olpe;010.1;;;149
+57462;Wäldchen;;;2;12;Rüblinghausen;012.1;;;149
+57462;Wüstenpforte;1;1;;;Olpe;002.1;;;149
+57462;Zenoweg;25;27;4;28;Dahl;013.1;;;149
+57462;Ziegeleistraße;31;31;42;42;Olpe;009.1;;;149
+57462;Zinnoberweg;1;9;2;12;Lütringhausen;016.1;;;149
+57462;Zu Hildringhausen;3;23;2;8;Olpe;009.1;;;149
+57462;Zum Alten Felde;3;3;8;10;Rhonard;016.2;;;149
+57462;Zum Alten Heck;;;2;10;Altenkleusheim;015.1;;;149
+57462;Zum Elberscheid;1;13;6;12;Thieringhausen;016.2;;;149
+57462;Zum Himmlischen Seifen;1;25;2;16;Olpe;006.1;;;149
+57462;Zum Honigsack;3;37;2;28;Dahl;013.1;;;149
+57462;Zum Hövelchen;1;17;6;6;Stachelau;014.1;;;149
+57462;Zum Lehmenohl;1;15;8;16;Unterneger;019.1;;;149
+57462;Zum Lindenborn;1;5;2;2;Rüblinghausen;012.1;;;149
+57462;Zum Mittelfeld;9;21;4;24;Saßmicke;012.2;;;149
+57462;Zum Scheiderwald;1;1;2;10;Altenkleusheim;015.1;;;149
+57462;Zum Stein;1;31;6;30;Rüblinghausen;012.1;;;149
+57462;Zum Tierseifen;3;29;2;36;Lütringhausen;016.1;;;149
+57462;Zum Tümmelberg;3;13;8;16;Unterneger;019.1;;;149
+57462;Zum Vordamm;1;15;2;8;Eichhagen;018.1;;;149
+57462;Zur Brake;1;7;2;4;Rüblinghausen;012.1;;;149
+57462;Zur Bäckerschule;1;27;2;38;Olpe;011.1;;;149
+57462;Zur Dahler Hardt;1;15;2;18;Dahl;013.1;;;149
+57462;Zur Hainquelle;5;17;2;10;Dahl;013.1;;;149
+57462;Zur Jahnhütte;1;15;4;6;Günsen;016.2;;;149
+57462;Zur Jugendherberge;1;1;;;Stade;018.1;;;149
+57462;Zur Killmecke;1;31;2;2;Rehringhausen;014.1;;;149
+57462;Zur Mühle;;;2;14;Neuenkleusheim;015.2;;;149
+57462;Zur Ponywiese;3;9;4;8;Olpe;004.1;;;149
+57462;Zur Schlenke;1;1;2;6;Altenkleusheim;015.1;;;149
+57462;Zur Schnetemicke;1;21;10;28;Rhode;017.1;;;149
+57462;Zur Stockert;5;21;2;18;Thieringhausen;016.2;;;149
+57462;Zur Wolfsschlade;3;23;2;16;Saßmicke;012.2;;;149
+57462;Überm See;3;5;2;4;Sondern;018.1;;;149
+57462;Üggelmicke;7;13;2;26;Dahl;013.1;;;149
