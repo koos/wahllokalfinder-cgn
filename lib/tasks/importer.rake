@@ -22,8 +22,10 @@ namespace :import do
     addresses_csv = RakeHelper::select_csv_file('Addresses')
     addresses = SmarterCSV.process(addresses_csv, col_sep: ";")
     addresses.each do |address|
-      address[:street] = address[:street].gsub('straße', 'str')
-      address[:street] = address[:street].gsub('Straße', 'Str')
+      unless address[:street].nil?
+        address[:street] = address[:street].gsub('straße', 'str')
+        address[:street] = address[:street].gsub('Straße', 'Str')
+      end
       ad = Address.create address
       puts "Imported: #{ad.id}: #{ad.street}"
     end
