@@ -1,0 +1,250 @@
+zip;street;number_odd_from;number_odd_to;number_even_from;number_even_to;district_name;vote_district_id;landtag_election_district_id;local_election_district_id;bundestag_election_district_id
+57399;Ahe;;;2;2;Ahe;0102;;;149
+57399;Albaumer Straße;5;41;2;64;Würdinghausen;0031;;;149
+57399;Alpenhaus;1;1;;;Alpenhaus;0131;;;149
+57399;Alte Königsstraße;1;17;4;20;Welschen Ennest;0072;;;149
+57399;Alte Landstraße;1;35;8;8;Herrntrop;0051;;;149
+57399;Alte Straße;3;3;2;12;Oberhundem;0121;;;149
+57399;Alter Hundemweg;1;1;4;10;Kirchhundem;0051;;;149
+57399;Alter Kirchweg;1;1;;;Kirchhundem;0041;;;149
+57399;Alter Königsberg;5;11;4;14;Würdinghausen;0031;;;149
+57399;Am Ahebach;1;3;;;Brachthausen;0101;;;149
+57399;Am Alten Garten;5;9;2;14;Welschen Ennest;0081;;;149
+57399;Am Alten Hammer;1;7;2;24;Kirchhundem;0051;;;149
+57399;Am Bahnhof;1;1;2;2;Welschen Ennest;0072;;;149
+57399;Am Buchhagen;1;37;2;24;Würdinghausen;0031;;;149
+57399;Am Eggenkopf;7;15;8;34;Rinsecke;0133;;;149
+57399;Am Ehrenmal;;;4;10;Würdinghausen;0031;;;149
+57399;Am Emberg;1;19;2;20;Kirchhundem;0051;;;149
+57399;Am Galgenberg;5;19;6;22;Flape;0041;;;149
+57399;Am Glanzenberg;1;1;;;Silberg;0111;;;149
+57399;Am Hamberg;1;49;;;Heinsberg;0011;;;149
+57399;Am Heid;1;31;8;18;Welschen Ennest;0081;;;149
+57399;Am Heken;5;7;2;20;Oberhundem;0121;;;149
+57399;Am Hesternberg;1;19;2;20;Oberhundem;0121;;;149
+57399;Am Hohenlohe;3;3;;;Hofolpe;0061;;;149
+57399;Am Höchsten;3;21;2;20;Brachthausen;0101;;;149
+57399;Am Kreuzberg;1;11;8;10;Rahrbach;0091;;;149
+57399;Am Krummen Baume;;;2;2;Kruberg;0091;;;149
+57399;Am Krähenberg;1;9;2;8;Kirchhundem;0051;;;149
+57399;Am Kuhlenberg;;;2;40;Varste;0112;;;149
+57399;Am Königsberg;15;15;2;26;Würdinghausen;0031;;;149
+57399;Am Löh;1;7;2;8;Rahrbach;0091;;;149
+57399;Am Marienbach;3;21;6;24;Marmecke;0132;;;149
+57399;Am Olpebach;1;11;2;10;Benolpe;0071;;;149
+57399;Am Rinseberg;3;15;2;28;Rinsecke;0133;;;149
+57399;Am Scharfen Ohr;1;5;4;10;Kirchhundem;0051;;;149
+57399;Am Schieferstollen;1;21;2;12;Kirchhundem;0041;;;149
+57399;Am Schothen;;;2;14;Benolpe;0071;;;149
+57399;Am Steine;9;35;2;12;Würdinghausen;0031;;;149
+57399;Am Teich;1;7;2;2;Brachthausen;0101;;;149
+57399;Am Vogelsang;1;19;2;20;Rahrbach;0091;;;149
+57399;Am Wimberg;1;13;2;6;Brachthausen;0101;;;149
+57399;Am Wolfshorn;5;51;4;40;Welschen Ennest;0072;;;149
+57399;An der Hardt;1;61;8;20;Oberhundem;0121;;;149
+57399;An der Hauptschule;1;17;2;12;Kirchhundem;0041;;;149
+57399;An der Kirche;1;11;4;10;Heinsberg;0011;;;149
+57399;An der Legge;1;3;2;18;Kirchhundem;0051;;;149
+57399;Antoniusstraße;1;13;2;24;Hofolpe;0061;;;149
+57399;Arnoldihof;1;1;2;2;Arnoldihof;0091;;;149
+57399;Auf dem Kamp;1;11;2;14;Heinsberg;0011;;;149
+57399;Auf den Birken;1;3;;;Varste;0112;;;149
+57399;Auf der Wiesche;3;3;4;4;Kruberg;0091;;;149
+57399;Auf'm Bruch;3;17;2;18;Benolpe;0071;;;149
+57399;Bahnhofsweg;1;3;4;14;Kirchhundem;0051;;;149
+57399;Bahnweg;1;3;2;2;Benolpe;0071;;;149
+57399;Baumschulenweg;9;9;;;Rinsecke;0133;;;149
+57399;Berghof;1;3;2;4;Berghof;0041;;;149
+57399;Bergstraße;3;35;2;72;Heinsberg;0011;;;149
+57399;Bettinghof;1;3;2;2;Bettinghof;0051;;;149
+57399;Birkenweg;1;29;4;38;Welschen Ennest;0072;;;149
+57399;Brachthauser Weg;1;5;2;30;Albaum;0021;;;149
+57399;Brachtweg;1;23;2;62;Albaum;0021;;;149
+57399;Breitenbruch;1;1;;;Breitenbruch;0112;;;149
+57399;Bruchstraße;1;41;2;36;Rahrbach;0091;;;149
+57399;Bruchweg;1;7;4;18;Albaum;0021;;;149
+57399;Bundesstraße;1;17;4;28;Benolpe;0071;;;149
+57399;Burgweg;1;23;2;32;Albaum;0021;;;149
+57399;Böminghausen;1;7;2;12;Böminghausen;0021;;;149
+57399;Böminghauser Weg;3;9;4;6;Albaum;0021;;;149
+57399;Dorfstraße;1;25;8;32;Flape;0041;;;149
+57399;Dornbachweg;1;1;;;Varste;0112;;;149
+57399;Duismicke;3;5;2;6;Welschen Ennest;0081;;;149
+57399;Dümpelweg;1;19;4;10;Brachthausen;0101;;;149
+57399;Eichacker;3;5;2;2;Hofolpe;0061;;;149
+57399;Eichenweg;1;17;4;10;Würdinghausen;0031;;;149
+57399;Eichholzstraße;1;1;2;26;Heinsberg;0011;;;149
+57399;Einsiedeleiweg;1;31;2;24;Welschen Ennest;0081;;;149
+57399;Emlinghausen;1;9;6;14;Emlinghausen;0102;;;149
+57399;Engelbertstein;3;9;8;28;Marmecke;0132;;;149
+57399;Ennestweg;3;19;2;26;Benolpe;0071;;;149
+57399;Erlhof;1;11;2;12;Erlhof;0131;;;149
+57399;Feriendorf;1;37;8;44;Oberhundem;0121;;;149
+57399;Finkenweg;1;5;2;40;Welschen Ennest;0081;;;149
+57399;Flaper Schulweg;3;77;6;66;Kirchhundem;0041;;;149
+57399;Flaper Straße;1;47;2;38;Kirchhundem;0051;;;149
+57399;Frankfurter Straße;1;35;4;42;Welschen Ennest;0081;;;149
+57399;Gartenstraße;7;31;2;26;Welschen Ennest;0072;;;149
+57399;Gartenweg;1;9;2;10;Silberg;0111;;;149
+57399;Goldbergstraße;11;15;2;12;Silberg;0111;;;149
+57399;Graffenstraße;1;13;2;14;Oberhundem;0121;;;149
+57399;Grubenweg;7;11;2;14;Oberhundem;0121;;;149
+57399;Gübecke;1;17;2;20;Kirchhundem;0051;;;149
+57399;Hagener Straße;1;41;2;18;Welschen Ennest;0072;;;149
+57399;Hardtweg;1;1;2;4;Benolpe;0071;;;149
+57399;Hauptstraße;1;49;2;46;Oberhundem;0121;;;149
+57399;Haus Bruch;1;1;;;Haus Bruch;0131;;;149
+57399;Heidering;1;25;2;40;Benolpe;0071;;;149
+57399;Heidschott;3;9;4;8;Heidschott;0112;;;149
+57399;Heinsberger Straße;5;67;6;58;Albaum;0021;;;149
+57399;Heitmicke;1;11;2;16;Kirchhundem;0051;;;149
+57399;Herrntroper Straße;3;77;8;88;Herrntrop;0051;;;149
+57399;Hilchenbacher Straße;1;41;2;36;Brachthausen;0101;;;149
+57399;Hochstraße;1;31;2;36;Rahrbach;0091;;;149
+57399;Hofolper Straße;21;25;2;50;Hofolpe;0061;;;149
+57399;Hogge;1;19;2;36;Hofolpe;0061;;;149
+57399;Hohlweg;15;25;8;10;Silberg;0111;;;149
+57399;Hubertusstraße;1;15;2;18;Welschen Ennest;0081;;;149
+57399;Hundemstraße;1;63;4;72;Kirchhundem;0051;;;149
+57399;Höltken;3;5;8;22;Marmecke;0132;;;149
+57399;Im Alten Feld;39;61;30;60;Kirchhundem;0051;;;149
+57399;Im Alten Feld;3;37;4;28;Kirchhundem;0041;;;149
+57399;Im Baumgarten;5;27;2;30;Welschen Ennest;0081;;;149
+57399;Im Baumhof;1;3;2;2;Oberhundem;0121;;;149
+57399;Im Bruch;1;21;2;18;Flape;0041;;;149
+57399;Im Dutzwinkel;9;15;2;34;Kruberg;0091;;;149
+57399;Im Eck;1;17;4;22;Kruberg;0091;;;149
+57399;Im Gründchen;1;45;2;22;Würdinghausen;0031;;;149
+57399;Im Hof;;;4;16;Marmecke;0132;;;149
+57399;Im Inken;1;3;2;18;Benolpe;0071;;;149
+57399;Im Kleff;1;3;2;6;Albaum;0021;;;149
+57399;Im Knickhahn;9;9;2;16;Albaum;0021;;;149
+57399;Im Sohlen;3;63;2;46;Rinsecke;0133;;;149
+57399;In den Gärten;1;7;2;6;Brachthausen;0101;;;149
+57399;In der Gade;1;15;2;4;Rahrbach;0091;;;149
+57399;In der Grüne;1;5;2;6;Albaum;0021;;;149
+57399;In der Hude;3;5;2;12;Heinsberg;0011;;;149
+57399;In der Hundem;1;23;2;26;Würdinghausen;0031;;;149
+57399;In der Krubert;1;5;2;6;Rahrbach;0091;;;149
+57399;In der Rahrbach;1;21;4;28;Rahrbach;0091;;;149
+57399;In der Schlah;1;51;6;42;Marmecke;0132;;;149
+57399;In der Trift;1;41;2;32;Rahrbach;0091;;;149
+57399;In der Welsmicke;;;8;8;Welschen Ennest;0081;;;149
+57399;In der Wiese;1;17;;;Welschen Ennest;0081;;;149
+57399;Inkenweg;3;19;2;10;Oberhundem;0121;;;149
+57399;Jakobusweg;11;57;4;72;Varste;0112;;;149
+57399;Johann-Heinr.-Limper-Weg;;;10;22;Welschen Ennest;0081;;;149
+57399;Johannesweg;7;11;2;6;Welschen Ennest;0081;;;149
+57399;Josef-Gockeln-Straße;5;13;6;12;Rahrbach;0091;;;149
+57399;Josef-Schmelzer-Straße;1;5;2;4;Oberhundem;0121;;;149
+57399;Kalberweg;1;13;6;10;Oberhundem;0121;;;149
+57399;Kampstraße;1;65;16;60;Hofolpe;0061;;;149
+57399;Kapellenweg;1;7;2;20;Albaum;0021;;;149
+57399;Kettelerweg;1;27;2;24;Welschen Ennest;0081;;;149
+57399;Kirchstraße;3;3;2;2;Welschen Ennest;0081;;;149
+57399;Kleine Straße;5;5;4;10;Marmecke;0132;;;149
+57399;Kohlhagen;3;3;2;2;Kohlhagen;0102;;;149
+57399;Kohlhagenweg;1;7;;;Brachthausen;0101;;;149
+57399;Kreuzbergstraße;1;59;2;84;Kirchhundem;0041;;;149
+57399;Kreuzweg;1;17;4;20;Oberhundem;0121;;;149
+57399;Kruberger Straße;3;27;4;28;Kruberg;0091;;;149
+57399;Kuhlenberg;3;23;4;6;Kuhlenberg;0112;;;149
+57399;Kölner Straße;3;45;2;46;Welschen Ennest;0081;;;149
+57399;Königsbergstraße;3;15;4;24;Würdinghausen;0031;;;149
+57399;Langes Stück;1;11;2;12;Albaum;0021;;;149
+57399;Leggenweg;1;11;2;14;Albaum;0021;;;149
+57399;Lehmkuhle;1;55;2;58;Kirchhundem;0041;;;149
+57399;Lerchenweg;1;5;2;10;Welschen Ennest;0081;;;149
+57399;Limkerweg;1;31;2;22;Welschen Ennest;0072;;;149
+57399;Lindenstraße;1;15;2;16;Hofolpe;0061;;;149
+57399;Lümkerweg;1;17;2;10;Heinsberg;0011;;;149
+57399;Marienweg;1;11;2;8;Welschen Ennest;0081;;;149
+57399;Mark;1;1;2;2;Mark;0112;;;149
+57399;Mittlerer Königsberg;1;7;6;6;Würdinghausen;0031;;;149
+57399;Mühlenstraße;15;31;8;48;Albaum;0021;;;149
+57399;Mühlenweg;1;15;2;12;Silberg;0111;;;149
+57399;Müsener Straße;1;25;2;22;Silberg;0111;;;149
+57399;Neue Wiese;;;4;4;Würdinghausen;0031;;;149
+57399;Neues Dorf;1;9;;;Oberhundem;0121;;;149
+57399;Nußbaumweg;1;19;4;18;Welschen Ennest;0072;;;149
+57399;Obere Kampstraße;3;39;2;36;Hofolpe;0061;;;149
+57399;Oberer Eichhagen;1;7;2;12;Würdinghausen;0031;;;149
+57399;Oberer Königsberg;3;5;2;18;Würdinghausen;0031;;;149
+57399;Oberhundemer Straße;1;53;2;34;Heinsberg;0011;;;149
+57399;Oberndorfer Straße;1;7;2;12;Heinsberg;0011;;;149
+57399;Olper Straße;7;45;4;32;Rahrbach;0091;;;149
+57399;Pfarrer-Sauerwald-Straße;5;13;2;10;Welschen Ennest;0081;;;149
+57399;Pfarrstraße;1;25;2;16;Rahrbach;0091;;;149
+57399;Pfeifershof;1;35;2;22;Heinsberg;0011;;;149
+57399;Prozessionsweg;3;3;;;Kirchhundem;0041;;;149
+57399;Quermke;1;1;2;2;Welschen Ennest;0072;;;149
+57399;Rahrbacher Höhe;1;3;2;2;Rahrbacher Höhe;0091;;;149
+57399;Rhein-Weser-Turm;1;1;2;2;Rhein-Weser-Turm;0121;;;149
+57399;Rinsecker Straße;3;43;2;100;Rinsecke;0133;;;149
+57399;Rodeweg;9;15;2;6;Benolpe;0071;;;149
+57399;Rotdornweg;3;5;;;Welschen Ennest;0072;;;149
+57399;Rüspe;3;7;2;16;Rüspe;0121;;;149
+57399;Rüsper Straße;1;9;2;38;Oberhundem;0121;;;149
+57399;Saalweg;3;53;2;36;Hofolpe;0061;;;149
+57399;Schanzenweg;3;27;2;20;Oberhundem;0121;;;149
+57399;Schartenbergweg;1;13;2;22;Brachthausen;0101;;;149
+57399;Schlerreweg;1;7;2;16;Brachthausen;0101;;;149
+57399;Schlossblick;3;5;2;2;Oberhundem;0121;;;149
+57399;Schmiedeweg;3;5;4;4;Würdinghausen;0031;;;149
+57399;Schniersweg;;;2;22;Oberhundem;0121;;;149
+57399;Schoppenohr;1;7;2;6;Brachthausen;0101;;;149
+57399;Schulstraße;1;1;6;22;Welschen Ennest;0081;;;149
+57399;Schulweg;3;21;4;8;Flape;0041;;;149
+57399;Schwartmecke;1;51;2;46;Schwartmecke;0131;;;149
+57399;Schützenstraße;1;3;4;12;Albaum;0021;;;149
+57399;Schützenweg;3;17;10;10;Welschen Ennest;0081;;;149
+57399;Selbecke;9;97;2;72;Selbecke;0131;;;149
+57399;Selbecker Weg;1;7;2;8;Würdinghausen;0031;;;149
+57399;Siegener Straße;9;61;8;56;Kirchhundem;0051;;;149
+57399;Silberger Straße;1;43;2;44;Silberg;0111;;;149
+57399;Sonnenstraße;3;13;4;30;Hofolpe;0061;;;149
+57399;Steiler Weg;1;3;2;2;Welschen Ennest;0072;;;149
+57399;Stelborn;1;17;2;12;Stelborn;0131;;;149
+57399;Talstraße;3;73;2;104;Heinsberg;0011;;;149
+57399;Tannenweg;;;2;4;Würdinghausen;0031;;;149
+57399;Triftweg;1;5;2;6;Benolpe;0071;;;149
+57399;Tötenweg;;;2;2;Kirchhundem;0051;;;149
+57399;Unter den Eichen;1;5;;;Würdinghausen;0031;;;149
+57399;Untere Hundem;1;11;4;12;Würdinghausen;0031;;;149
+57399;Unterer Eichhagen;1;15;2;10;Würdinghausen;0031;;;149
+57399;Unterer Königsberg;3;9;6;12;Würdinghausen;0031;;;149
+57399;Varster Straße;5;37;6;54;Varste;0112;;;149
+57399;Vasbach;1;1;4;12;Kirchhundem;0051;;;149
+57399;Vor dem Huchte;1;9;2;24;Kirchhundem;0051;;;149
+57399;Vor den Eichen;3;15;2;10;Welschen Ennest;0081;;;149
+57399;Vor der Höh;1;27;4;26;Heinsberg;0011;;;149
+57399;Wiesenweg;5;5;2;22;Würdinghausen;0031;;;149
+57399;Wilhelm-Münker-Weg;1;1;2;2;Oberhundem;0121;;;149
+57399;Wilhelmshöh;1;7;6;6;Hofolpe;0061;;;149
+57399;Wirme;1;69;4;52;Wirme;0102;;;149
+57399;Würdinghauser Straße;1;51;8;90;Würdinghausen;0031;;;149
+57399;Zu den Schellerwiesen;1;37;4;32;Kirchhundem;0051;;;149
+57399;Zu den Vierlinden;1;13;6;18;Flape;0041;;;149
+57399;Zum Brauke;;;8;12;Herrntrop;0051;;;149
+57399;Zum Eichholz;1;5;2;6;Brachthausen;0101;;;149
+57399;Zum Ellenborn;3;15;6;34;Brachthausen;0101;;;149
+57399;Zum Grenzstein;3;19;2;16;Welschen Ennest;0081;;;149
+57399;Zum Kampe;1;9;;;Kruberg;0091;;;149
+57399;Zum Ochsenstein;1;7;4;4;Kirchhundem;0041;;;149
+57399;Zum Rüsperwald;3;65;4;64;Marmecke;0132;;;149
+57399;Zum Stüvelhagen;7;9;4;6;Albaum;0021;;;149
+57399;Zur Grube;3;3;;;Kruberg;0091;;;149
+57399;Zur Hardt;3;43;2;16;Rahrbach;0091;;;149
+57399;Zur Kophelle;9;9;2;18;Varste;0112;;;149
+57399;Zur Kreuzbergkapelle;3;23;4;12;Kirchhundem;0041;;;149
+57399;Zur Lampfert;1;13;6;6;Marmecke;0132;;;149
+57399;Zur Lärche;1;5;;;Marmecke;0132;;;149
+57399;Zur Nothelle;1;19;2;34;Benolpe;0071;;;149
+57399;Zur Rimmert;1;15;2;2;Benolpe;0071;;;149
+57399;Zur Silbecke;1;11;4;18;Silberg;0111;;;149
+57399;Zur Vogelstange;3;5;;;Heinsberg;0011;;;149
+57399;Zur Voßbrake;;;6;6;Kruberg;0091;;;149
+57399;Zur Weinspitze;1;39;16;30;Silberg;0111;;;149
+57399;Zur Windfahrt;1;13;4;28;Marmecke;0132;;;149
+57399;Zur Wolfhardt;1;15;2;24;Welschen Ennest;0072;;;149
+57399;Über den Sohlen;5;13;2;8;Rinsecke;0133;;;149
