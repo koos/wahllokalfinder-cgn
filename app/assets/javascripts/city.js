@@ -62,7 +62,9 @@ $(function() {
       event.preventDefault();
       number = parseInt($('form input#number').val());
       if (isNaN(number)) {
+        console.log('number= ' + number)
         return $.get('/search/' + '?c=' + $('form input#city').val() + '&q=' + $('form input#number').val(), function(data) {
+          console.log('data= ' + data)
           if (data && data.vote_district_id !== void 0) {
             return showStation(data.vote_district_id);
           } else {
