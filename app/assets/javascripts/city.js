@@ -64,7 +64,9 @@ $(function() {
       if (isNaN(number)) {
         console.log('number= ' + number)
         return $.get('/search/' + '?c=' + $('form input#city').val() + '&q=' + $('form input#number').val(), function(data) {
+          console.log($('form input#number').val())
           console.log('data= ' + data)
+          console.log({data})
           if (data && data.vote_district_id !== void 0) {
             return showStation(data.vote_district_id);
           } else {
