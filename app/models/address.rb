@@ -8,7 +8,7 @@ class Address < ActiveRecord::Base
       .gsub(/strasse/i, 'str')
       .gsub(/[[:digit:]]{5}/, '') # removing PLZ
     nr = search_string.match(/(\d+\w?)/).to_a.try(:first).to_i
-    p "________________"
+    p "Starts ________________"
     p search_string
     if nr != 0 && search_string[(search_string.index(nr.to_s).to_i - 1)] != " "
       search_string.insert((search_string.index(nr.to_s)), " ")
@@ -23,7 +23,8 @@ class Address < ActiveRecord::Base
       .gsub(/[[:digit:]]{1,6}[[:alpha:]]/,'')
     scope =  Address.where(zip: city.zip).search_by_street(street_string)
     p street_string
-    p "________________"
+    p "Housing Type #{city.city_housing_type}"
+    p "Ends ________________"
     return [] if scope.count == 0
 
     case city.city_housing_type
