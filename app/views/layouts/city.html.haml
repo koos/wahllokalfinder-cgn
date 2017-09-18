@@ -1,0 +1,14 @@
+!!!
+%html
+  %head
+    = render '/shared/city_og'
+    = render '/shared/city_meta'
+    %title
+      = "Finde dein Wahllokal in #{@city.name}| Wahllokalfinder"
+    = stylesheet_link_tag    "application", media: "all"
+    = javascript_include_tag "application"
+    = csrf_meta_tags
+    %link{:href => "http://fonts.googleapis.com/css?family=Oswald|Lekton", :media => "screen", :rel => "stylesheet", :type => "text/css"}/
+    %link{:href => "//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css", :rel => "stylesheet"}/
+  %body
+    = yield

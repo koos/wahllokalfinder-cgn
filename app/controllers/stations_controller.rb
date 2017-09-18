@@ -7,13 +7,18 @@ class StationsController < ApplicationController
 
   def city
     @city = City.find_by_slug(params[:city_slug])
-    redirect_to root_path if @city.nil?
-    @without_wheelchair_stations = Rails.cache.fetch("#{@city.slug}_without_wheelchair_stations", expires_in: 5.hours) {
+    redirect_to root_path and return if @city.nil?
+
+    stations_count = Station.count
+    puts "________ #{Station.where('latitude IS NOT NULL').where(zip: @city.zip).where(barrier_free: false).count} are without_wheelchair_stations"
+    puts "_______ #{Station.where('latitude IS NOT NULL').where(zip: @city.zip).where(barrier_free: true).count} are with_wheelchair_stations"
+    @without_wheelchair_stations = Rails.cache.fetch("#{@city.slug}_without_wheelchair_stations_#{stations_count}", expires_in: 5.hours) {
       Station.where('latitude IS NOT NULL').where(zip: @city.zip).where(barrier_free: false)
     }
-    @with_wheelchair_stations = Rails.cache.fetch("#{@city.slug}_with_wheelchair_stations", expires_in: 5.hours) {
+    @with_wheelchair_stations = Rails.cache.fetch("#{@city.slug}_with_wheelchair_stations_#{stations_count}", expires_in: 5.hours) {
        Station.where('latitude IS NOT NULL').where(zip: @city.zip).where(barrier_free: true)
     }
+
   end
 
   def search
