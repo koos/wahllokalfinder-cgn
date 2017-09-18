@@ -25,8 +25,7 @@
     = link_to '#' do
       = image_tag asset_path('logo.png')
 .share-block
-  %p TEILEN
-  = social_share_button_tag
+  = render '/shared/social_share'
 #footer
   = render '/layouts/footer'
 

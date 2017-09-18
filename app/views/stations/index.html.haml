@@ -11,8 +11,7 @@
 #footer
   = render '/layouts/footer'
 .share-block
-  %p TEILEN
-  = social_share_button_tag
+  = render '/shared/social_share'
 #map{data: { wheelchair_stations:{} ,without_wheelchair_stations:{}  } }
 %script
   var geojson = {
