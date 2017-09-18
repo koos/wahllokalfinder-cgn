@@ -20,7 +20,7 @@ module Wahllokalfinder
     # config.i18n.load_path += Dir[Rails.root.join('my', 'locales', '*.{rb,yml}').to_s]
     # config.i18n.default_locale = :de
     config.middleware.use(Rack::Tracker) do
-        handler :google_analytics, { tracker: 'UA-51232292-1' }
+        handler :google_analytics, { tracker: 'UA-86981764-2' }
     end
   end
 end
