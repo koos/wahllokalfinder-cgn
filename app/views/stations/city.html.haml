@@ -6,6 +6,8 @@
   #search.box
     %h2
       WAHLBEZIRKSNUMMER / ADRESSE
+    %p
+
     #search-form
       = form_tag '#' do
         = text_field_tag :number, params[:number], placeholder: 'Eifelstr 10'
@@ -26,6 +28,7 @@
       = image_tag asset_path('logo.png')
 .share-block
   = render '/shared/social_share'
+
 #footer
   = render '/layouts/footer'
 

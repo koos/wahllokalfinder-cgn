@@ -108,9 +108,8 @@ $(function() {
   };
   moveBoxes = function() {
     var newPos;
-    newPos = $('.headline').position().top + $('headline').height();
     $('#search-wrapper').animate({
-      top: newPos
+      bottom: 0
     });
     return $('#search-wrapper .box').animate({
       'margin-left': 30,
