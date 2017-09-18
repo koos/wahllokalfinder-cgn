@@ -54,7 +54,13 @@ function handleLabelHidden(link) {
 }
 
 function doResizeMap(){
-  // console.log($(window).width(),$(window).height())
+  if ($(window).width(),$(window).height() <= 568){
+    if (typeof map === 'object'){ map.on('load', function () {doResizeMap() });
+      map.setZoom(4)
+      map.panTo(new L.LatLng(50, 10));
+    }
+
+  }
 }
 
 function mapZoomEdge(){
@@ -77,6 +83,10 @@ function mapZoomEdge(){
 $(window).bind('resize', function() {
   doResizeMap()
 });
+$(window).bind('load', function() {
+  doResizeMap()
+});
+
 
 if (typeof map === 'object'){ map.on('load', function () {doResizeMap() });
 map.on('zoom', function () { mapZoomEdge() });
