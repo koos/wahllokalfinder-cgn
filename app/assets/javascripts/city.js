@@ -67,7 +67,7 @@ $(function() {
             return showStation(data.vote_district_id);
           } else {
             ga('send', 'event', 'search', 'error', $('form input#number').val());
-            return notFound("Bitte geben sie Straße Hausnummer.");
+            return notFound("Bitte geben Sie Ihre Straße und Hausnummer ein.");
           }
         });
       } else {
