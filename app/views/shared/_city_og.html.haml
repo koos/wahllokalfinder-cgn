@@ -5,5 +5,6 @@
 %meta{property: "og:type", content: "Website"}
 %meta{property: "og:locale", content: "de_DE"}
 
-%meta{property: "og:title", content: "Finde dein Wahllokal zur Bundestagswahl | Wahllokalfinder"}
-%meta{property: "og:description", content: "Hier findest du eine Übersicht aller Wahllokale: Wähle deine Stadt aus, gib deine Adresse ein und finde dein Wahllokal in wenigen Sekunden."}
+%meta{property: "og:title", content: "#{@city.name} Wahllokalfinder| Finde dein richtiges Wahllokal in #{@city.name}"}
+%meta{property: "og:description", content: "Hier findest du eine Übersicht aller Wahllokale in #{@city.name}: gib deine Adresse ein und finde dein Wahllokal in wenigen Sekunden."}
+%meta{property: "og:url", content: "http://www.wahllokale.online/#{@city.slug}"}
