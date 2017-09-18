@@ -26,8 +26,8 @@ gem 'geocoder'
 gem 'smarter_csv'
 gem 'rack-tracker'
 
-# Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
-# gem 'jbuilder'
+gem 'social-share-button'
+
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.

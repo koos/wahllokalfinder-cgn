@@ -4,12 +4,15 @@
 
 #boxes-wrapper
   #cities-list.cities-list-box
-    %h3 
+    %h3
     - @cities.each do |city|
       = link_to "#{city.name}", city_path(city.slug), {class: 'city-llink', data: {slug: city.slug}}
 
 #footer
   = render '/layouts/footer'
+.share-block
+  %p TEILEN
+  = social_share_button_tag
 #map{data: { wheelchair_stations:{} ,without_wheelchair_stations:{}  } }
 %script
   var geojson = {

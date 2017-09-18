@@ -4,3 +4,4 @@
 //= require leaflet
 //= require home
 //= require city
+//= require social-share-button

@@ -1,7 +1,7 @@
 .headline
-  %h2#city
-    = link_to "Wahllokalfinder #{@city.name}", root_path
-
+  #city
+    %h2
+      = link_to "Wahllokalfinder #{@city.name}", root_path
 #search-wrapper
   #search.box
     %h2
@@ -24,7 +24,9 @@
   #logo.box
     = link_to '#' do
       = image_tag asset_path('logo.png')
-
+.share-block
+  %p TEILEN
+  = social_share_button_tag
 #footer
   = render '/layouts/footer'
 
