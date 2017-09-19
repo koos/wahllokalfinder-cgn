@@ -19,6 +19,7 @@ class Address < ActiveRecord::Base
       .gsub(/[!@#$%^&*(=)<_>+-,.;]/, '')
       .gsub(city.name,'').gsub(city.slug,'')
       .gsub(/[[:digit:]]{1,6}[[:alpha:]]/,'')
+      .gsub(/[[:space:]][[:alpha:]]$/,'') # remove the last letter when typed somthing like `Körnerstraße 2a` it becoms `Körnerstraße a`
     scope =  Address.where(zip: city.zip).search_by_street(street_string)
     return [] if scope.count == 0
 
