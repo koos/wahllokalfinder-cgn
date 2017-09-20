@@ -10,7 +10,7 @@
 
     #search-form
       = form_tag '#' do
-        = text_field_tag :number, params[:number], placeholder: 'Eifelstr 10'
+        = text_field_tag :number, params[:number], placeholder: 'Eifelstr 10', autofocus: true
         = hidden_field_tag :city, params[:city_slug]
         = hidden_field_tag :image_marker1, image_path('marker1.png')
         = hidden_field_tag :image_marker2, image_path('marker2.png')
