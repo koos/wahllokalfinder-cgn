@@ -54,7 +54,7 @@ function handleLabelHidden(link) {
 }
 
 function doResizeMap(){
-  if ($(window).width(),$(window).height() <= 568){
+  if ($(window).width(),$(window).height() <= 760){
     if (typeof map === 'object'){ map.on('load', function () {doResizeMap() });
       map.setZoom(4)
       map.panTo(new L.LatLng(50, 10));
