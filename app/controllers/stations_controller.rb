@@ -1,5 +1,6 @@
 class StationsController < ApplicationController
   before_action :cities, only: [:city, :index]
+  after_action :allow_iframe
   layout 'city', only: [:city]
   def index
     @cities = City.all.order(:name)
