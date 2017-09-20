@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+many_faced_god:
+  street: Braavos Market
+  number_odd_from: 1
+  number_odd_to: 19
+  number_even_from: 2
+  number_even_to: 20
+  district_name: Many Faced God
+  zip: 99909
+  vote_district_id: 9
+  local_election_district_id:
+  landtag_election_district_id:
+  bundestag_election_district_id: 92
+  number_from:
+  number_to:
+  number_variety:

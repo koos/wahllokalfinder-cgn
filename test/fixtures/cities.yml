@@ -2,9 +2,9 @@
 braavos:
   name: 'Braavos'
   slug: 'braavos'
-  zip: [ 9909 ]
+  zip: [ 99909 ]
 
 qarth:
   name: 'Qarth'
   slug: 'qarth'
-  zip: [ 3067 ]
+  zip: [ 30627 ]
