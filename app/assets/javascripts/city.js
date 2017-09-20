@@ -15,7 +15,7 @@ $(function() {
     wheelchair_stations = $("#map").data("wheelchairStations");
     non_wheel_chair_stations = $("#map").data("withoutWheelchairStations");
     map = L.map("map");
-    L.tileLayer('http://{s}.tiles.mapbox.com/v3/yoyostile.j66f39do/{z}/{x}/{y}.png', {
+    L.tileLayer('https://{s}.tiles.mapbox.com/v3/yoyostile.j66f39do/{z}/{x}/{y}.png', {
       attribution: "<a href='https://www.mapbox.com/about/maps/' target='_blank'>Maps &copy; Mapbox &copy; OpenStreetMap</a>",
       maxZoom: 16,
       detectRetina: true
