@@ -28,22 +28,24 @@ $(function() {
         icon: wheel_chair,
         station_id: result.number
       });
+      phone = result.phone !== null ? result.phone : 'Unbekannt'
       pop = L.popup({
         'className': 'box'
-      }).setContent("<img src=" + $('#image_rollstuhl').val() + " style='margin-left:10px;float:right'> <h3>Wahllokalnummer: " + result.number + "</h3> Gebäude: " + result.name + " <br> Adresse: " + result.street + " <br> Telefon: " + result.phone);
+      }).setContent("<img src=" + $('#image_rollstuhl').val() + " style='margin-left:10px;float:right'> <h3>Wahllokalnummer: " + result.number + "</h3> Gebäude: " + result.name + " <br> Adresse: " + result.street + " <br> Telefon: " + phone);
       marker.bindPopup(pop);
       points.push(result.geo);
       markers.push(marker);
     }
     for (j = 0, len1 = non_wheel_chair_stations.length; j < len1; j++) {
       result = non_wheel_chair_stations[j];
+      phone = result.phone !== null ? result.phone : 'Unbekannt'
       marker = L.marker(result.geo, {
         icon: normal,
         station_id: result.number
       });
       pop = L.popup({
         'className': 'box'
-      }).setContent("<h3>Wahllokalnummer: " + result.number + "</h3> Gebäude: " + result.name + " <br> Adresse: " + result.street + " <br> Telefon: " + result.phone);
+      }).setContent("<h3>Wahllokalnummer: " + result.number + "</h3> Gebäude: " + result.name + " <br> Adresse: " + result.street + " <br> Telefon: " + phone);
       marker.bindPopup(pop);
       points.push(result.geo);
       markers.push(marker);
