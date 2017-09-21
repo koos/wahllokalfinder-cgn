@@ -34,11 +34,11 @@ class Address < ActiveRecord::Base
 
   def self.sanitaize_search_string(search_string)
     search_string
-      .gsub(/straße/i, 'str')
-      .gsub(/strasse/i, 'str')
-      .gsub(/[[:digit:]]{5}/, '')
-      .gsub(/\s{2,}/, ' ') # removing multiple spaces
-      .strip ## remove whitespace from start and end
+    .gsub(/straße/i, 'str')
+    .gsub(/strasse/i, 'str')
+    .gsub(/[[:digit:]]{5}/, '')
+    .gsub(/\s{2,}/, ' ') # removing multiple spaces
+    .strip ## remove whitespace from start and end
   end
 
   def self.sanitaize_street_string(search_string, city)
@@ -46,10 +46,9 @@ class Address < ActiveRecord::Base
       .gsub(/[!@#$%^&*(=)<_>+-,.;]/, '')
       .gsub(city.name,'').gsub(city.slug,'')
       .gsub(/[[:digit:]]{1,6}[[:alpha:]]/,'')
-      .gsub(/[[:space:]][[:alpha:]]$/,'') # remove the last letter when typed somthing like `Körnerstraße 2a`
       .gsub(/[ ^][a-z]{1},/,'') # remove the last letter after that a comma
-      .gsub(/[[:space:]][[:alpha:]]$/,'') # remove the last letter when typed somthing like `Körnerstraße 2a`
       .strip ## remove whitespace from start and end
+      .gsub(/[[:space:]][[:alpha:]]$/,'') # remove the last letter when typed somthing like `Körnerstraße 2a`
   end
 
   private

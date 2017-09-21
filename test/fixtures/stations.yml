@@ -1,9 +1,7 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
-
 house_of_black_and_white:
   vote_district_id: 9
   name: House of Black and White
-  address: Braavos faceless men temple
+  address: Braavos Faceless Men Temple
   barrier_free: true
   district: Many Faced God
   zip: 99909
@@ -13,3 +11,31 @@ house_of_black_and_white:
   local_election_district_id: 1
   landtag_election_district_id: 1
   bundestag_election_district_id: 1
+
+balerion_hall:
+  vote_district_id: 16
+  name: Balerion Hall
+  address: Balerion Monument
+  barrier_free: true
+  district: Balerion Hall
+  zip: 30627
+  koor_x: 60.7
+  koor_y: 72.6
+  vote_district: Qarth
+  local_election_district_id: 1
+  landtag_election_district_id: 2
+  bundestag_election_district_id: 3
+
+qartheen_market:
+  vote_district_id: 17
+  name: Qartheen Market
+  address: Qartheen Market Square
+  barrier_free: true
+  district: Qartheen Market
+  zip: 30627
+  koor_x: 62.7
+  koor_y: 76.2
+  vote_district: Qarth
+  local_election_district_id: 1
+  landtag_election_district_id: 2
+  bundestag_election_district_id: 3

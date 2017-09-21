@@ -1,7 +1,5 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
-
 many_faced_god:
-  street: Braavos Market
+  street: Sellagoro Shield str # all Str or Straße turns to str, check addresses importer task.
   number_odd_from: 1
   number_odd_to: 19
   number_even_from: 2
@@ -12,6 +10,54 @@ many_faced_god:
   local_election_district_id:
   landtag_election_district_id:
   bundestag_election_district_id: 92
+  number_from:
+  number_to:
+  number_variety:
+
+kings_museum:
+  street: Dragons str
+  number_odd_from: 1
+  number_odd_to: 3
+  number_even_from: 2
+  number_even_to: 2
+  district_name: Many Faced God
+  zip: 99909
+  vote_district_id: 9
+  local_election_district_id:
+  landtag_election_district_id:
+  bundestag_election_district_id: 92
+  number_from:
+  number_to:
+  number_variety:
+
+balerion_hall:
+  street: Dragons str
+  number_odd_from: 1
+  number_odd_to: 5
+  number_even_from: 2
+  number_even_to: 4
+  district_name: Balerion Hall
+  zip: 30627
+  vote_district_id: 16
+  local_election_district_id:
+  landtag_election_district_id:
+  bundestag_election_district_id: 8
+  number_from:
+  number_to:
+  number_variety:
+
+qartheens_market:
+  street: Qartheen Market str
+  number_odd_from: 1
+  number_odd_to: 9
+  number_even_from: 2
+  number_even_to: 8
+  district_name: Qartheen Market
+  zip: 30627
+  vote_district_id: 17
+  local_election_district_id:
+  landtag_election_district_id:
+  bundestag_election_district_id: 7
   number_from:
   number_to:
   number_variety:

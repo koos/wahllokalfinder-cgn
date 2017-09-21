@@ -3,8 +3,14 @@ braavos:
   name: 'Braavos'
   slug: 'braavos'
   zip: [ 99909 ]
+  coordinates: 9.99, 99.9
+  state: Free Cities
+  city_housing_type: odd_even
 
 qarth:
   name: 'Qarth'
   slug: 'qarth'
   zip: [ 30627 ]
+  coordinates: 9.99, 99.9
+  state: Jade Gates
+  city_housing_type: odd_even
