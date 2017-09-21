@@ -11,6 +11,8 @@ class AddressTest < ActiveSupport::TestCase
     assert_equal Address.sanitaize_search_string('Körnerstraße 2a'), 'Körnerstr 2a'
     assert_equal Address.sanitaize_search_string('An der Bottmühle 5, 50678 Köln'), 'An der Bottmühle 5, Köln'
     assert_equal Address.sanitaize_search_string('An der Bottmühle 5 50678'), 'An der Bottmühle 5'
+    assert_equal Address.sanitaize_search_string('  An der     Bottmühle    5, 50678    Köln    '), 'An der Bottmühle 5, Köln'
+    assert_equal Address.sanitaize_search_string('An der Bottmühle 5, 50678 Köln'), 'An der Bottmühle 5, Köln'
   end
 
   test "Sanitaize Street String" do
@@ -21,8 +23,7 @@ class AddressTest < ActiveSupport::TestCase
     assert_equal Address.sanitaize_street_string('An der Bottmühle 5, 99999 Qarth', qarth), 'An der Bottmühle'
     assert_equal Address.sanitaize_street_string('Körnerstr ,.12.3, ,.1,23.,.13.1, ', qarth), 'Körnerstr'
     assert_equal Address.sanitaize_street_string('An der Bottmühle 5 99999', qarth), 'An der Bottmühle'
-    assert_equal Address.sanitaize_search_string('  An der     Bottmühle    5, 50678    Köln    '), 'An der Bottmühle 5, Köln'
-    assert_equal Address.sanitaize_search_string('An der Bottmühle 5, 50678 Köln'), 'An der Bottmühle 5, Köln'
+
   end
 
   test "Search City" do
@@ -34,14 +35,14 @@ class AddressTest < ActiveSupport::TestCase
     assert_equal address1.count, 1
     assert_equal Station.find_by_vote_district_id(address1.first.vote_district_id).district, 'Many Faced God'
 
-    address2 = Address.search_city('Sellagoro Shield Straße 20', braavos)
+    address2 = Address.search_city('Sellagoro Shield Straße. 20', braavos)
     assert_equal address2.count, 1
     assert_equal Station.find_by_vote_district_id(address2.first.vote_district_id).name, 'House of Black and White'
 
     address3 = Address.search_city('Sellagoro Shield Straße 21', braavos)
     assert_equal address3.count, 0
 
-    address4 = Address.search_city(' dragons str 2a, 99999 Braavos 22 __ 12 22 ,,, +++ ', braavos)
+    address4 = Address.search_city(' dragons str .2a, 99999 Braavos 22 __ 12 22 ,,, +++ ', braavos)
     assert_equal address4.count, 1
     assert_equal Station.find_by_vote_district_id(address4.first.vote_district_id).name, 'House of Black and White'
 
@@ -62,6 +63,10 @@ class AddressTest < ActiveSupport::TestCase
     address8 = Address.search_city('   dragons      strasse    #.,.,.,@#!# 2    ,     30627  99999  Qarth ', qarth)
     assert_equal address8.count, 1
     assert_equal Station.find_by_vote_district_id(address8.first.vote_district_id).address, 'Balerion Monument'
+
+    address9 = Address.search_city('   dragons      strasse.2', qarth)
+    assert_equal address9.count, 1
+    assert_equal Station.find_by_vote_district_id(address9.first.vote_district_id).address, 'Balerion Monument'
 
   end
 
